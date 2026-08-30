@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Interactive dashboard summarising Kenanga Investment Bank daily research reports, 24-28 August 2026. Every figure verified against the source PDF.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%8A%3C/text%3E%3C/svg%3E">
+<title>Kenanga Signal Board</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+  :root{
+    color-scheme: light;
+    --paper:#F7F4EE;
+    --paper-raised:#FFFFFF;
+    --paper-sunken:#EFEAE1;
+    --ink:#221C18;
+    --ink-muted:#6E6459;
+    --ink-faint:#9C9186;
+    --border:#E2DACC;
+    --border-strong:#CFC3B0;
+    --accent:#7A2331;
+    --accent-ink:#FFFFFF;
+    --accent-soft:#F2DEE0;
+    --accent-soft-ink:#5C1621;
+    --good:#0ca30c;
+    --good-soft:#DEF3DD;
+    --warning:#a86a00;
+    --warning-soft:#FBEBCE;
+    --critical:#d03b3b;
+    --critical-soft:#FBE2E1;
+    --neutral-chip:#EFEAE1;
+    --neutral-chip-ink:#6E6459;
+    --focus:#2A5CB0;
+    --pending:#B79A6B;
+    --pending-soft:#F3EAD8;
+    --shadow: 0 1px 2px rgba(34,28,24,0.06), 0 8px 24px -12px rgba(34,28,24,0.18);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      color-scheme: dark;
+      --paper:#1A1613; --paper-raised:#231F1A; --paper-sunken:#282320;
+      --ink:#F1EAE2; --ink-muted:#B4A99C; --ink-faint:#8A8074;
+      --border:#38312A; --border-strong:#4A4137;
+      --accent:#DE8D98; --accent-ink:#2A1114; --accent-soft:#3A2226; --accent-soft-ink:#F0C7CC;
+      --good:#3FCB55; --good-soft:#1C3320;
+      --warning:#E4B34E; --warning-soft:#3A2E14;
+      --critical:#F17B72; --critical-soft:#3A1F1D;
+      --neutral-chip:#332C25; --neutral-chip-ink:#B4A99C;
+      --focus:#7AA6F2;
+      --pending:#D8B87C; --pending-soft:#3A311F;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+    }
+  }
+  :root[data-theme="dark"]{
+    color-scheme: dark;
+    --paper:#1A1613; --paper-raised:#231F1A; --paper-sunken:#282320;
+    --ink:#F1EAE2; --ink-muted:#B4A99C; --ink-faint:#8A8074;
+    --border:#38312A; --border-strong:#4A4137;
+    --accent:#DE8D98; --accent-ink:#2A1114; --accent-soft:#3A2226; --accent-soft-ink:#F0C7CC;
+    --good:#3FCB55; --good-soft:#1C3320;
+    --warning:#E4B34E; --warning-soft:#3A2E14;
+    --critical:#F17B72; --critical-soft:#3A1F1D;
+    --neutral-chip:#332C25; --neutral-chip-ink:#B4A99C;
+    --focus:#7AA6F2;
+    --pending:#D8B87C; --pending-soft:#3A311F;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+  }
+
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:"IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;font-size:14px;line-height:1.5;}
+  h1,h2,h3{font-family:"Newsreader", Georgia, serif;font-weight:600;text-wrap:balance;margin:0;}
+  .mono,.num{font-family:"IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;font-variant-numeric:tabular-nums;}
+  a{color:inherit;}
+  button{font-family:inherit;font-size:inherit;color:inherit;}
+  .wrap{max-width:1400px;margin:0 auto;padding:0 24px 96px;}
+  .split{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);gap:20px;align-items:start;}
+  @media (max-width:1100px){ .split{grid-template-columns:minmax(0,1fr);} }
+  .split > .card{margin-top:22px;}
+
+  .banner{background:var(--accent-soft);color:var(--accent-soft-ink);border-bottom:1px solid var(--border);font-size:12.5px;}
+  .banner-inner{max-width:1400px;margin:0 auto;padding:9px 24px;display:flex;gap:10px;align-items:baseline;}
+  .banner strong{font-weight:600;}
+
+  header.top{padding:32px 0 20px;display:flex;flex-direction:column;gap:18px;}
+  .brand{display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap;}
+  .brand h1{font-size:27px;letter-spacing:-0.01em;}
+  .brand .source-tag{font-size:11.5px;color:var(--ink-faint);text-transform:uppercase;letter-spacing:.06em;}
+
+  .controls{display:flex;flex-wrap:wrap;gap:16px;align-items:flex-end;background:var(--paper-raised);border:1px solid var(--border);border-radius:10px;padding:12px 14px;box-shadow:var(--shadow);}
+  .controls label{font-size:11.5px;color:var(--ink-faint);text-transform:uppercase;letter-spacing:.05em;display:block;margin-bottom:4px;}
+  .field{display:flex;flex-direction:column;}
+  select{font-family:"IBM Plex Sans",sans-serif;font-size:13.5px;padding:7px 30px 7px 11px;border-radius:7px;border:1px solid var(--border-strong);
+    background:var(--paper) url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="10" height="6"><path d="M0 0l5 6 5-6z" fill="%236E6459"/></svg>') no-repeat right 11px center;
+    color:var(--ink);appearance:none;min-width:170px;}
+  select:focus-visible, button:focus-visible, .row:focus-visible{outline:2px solid var(--focus);outline-offset:2px;}
+  .seg{display:flex;border:1px solid var(--border-strong);border-radius:7px;overflow:hidden;height:34px;}
+  .seg button{padding:0 14px;background:var(--paper-raised);border:0;cursor:pointer;border-right:1px solid var(--border-strong);font-size:13.5px;}
+  .seg button:last-child{border-right:0;}
+  .seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);}
+
+  section.card{background:var(--paper-raised);border:1px solid var(--border);border-radius:12px;box-shadow:var(--shadow);margin-top:22px;overflow:hidden;}
+  .card-head{padding:20px 22px 14px;display:flex;justify-content:space-between;align-items:flex-end;gap:12px;flex-wrap:wrap;border-bottom:1px solid var(--border);}
+  .card-head .eyebrow{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-faint);margin-bottom:4px;}
+  .card-head h2{font-size:19px;}
+  .card-head .hint{font-size:12px;color:var(--ink-faint);max-width:34ch;text-align:right;}
+  .card-head .hint-wide{max-width:100%;text-align:left;flex-basis:100%;margin-top:4px;}
+  .card-body{padding:18px 22px 22px;}
+
+  .chips{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:14px;}
+  .chip{border:1px solid var(--border-strong);background:var(--paper-sunken);border-radius:999px;padding:5px 12px;font-size:12.5px;cursor:pointer;color:var(--ink-muted);}
+  .chip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent);}
+
+  .empty-state{border:1px dashed var(--border-strong);border-radius:10px;padding:22px;color:var(--ink-muted);font-size:13px;background:var(--paper-sunken);}
+  .empty-state b{color:var(--ink);}
+  .pending-list{list-style:none;margin:12px 0 0;padding:0;display:flex;flex-wrap:wrap;gap:6px;}
+  .pending-list li{font-family:"IBM Plex Mono";font-size:12px;background:var(--pending-soft);color:var(--pending);border-radius:5px;padding:3px 8px;}
+
+  .signal{border:1px solid var(--border);border-radius:10px;padding:13px 15px;margin-bottom:9px;cursor:pointer;background:var(--paper-raised);}
+  .signal:hover{border-color:var(--border-strong);}
+  .signal[aria-expanded="true"]{border-color:var(--accent);}
+  .signal-top{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+  .ticker{font-family:"IBM Plex Mono";font-weight:600;font-size:13.5px;}
+  .tag{font-size:10.5px;text-transform:uppercase;letter-spacing:.04em;padding:2px 6px;border-radius:4px;background:var(--neutral-chip);color:var(--neutral-chip-ink);}
+  .badge{font-size:11px;padding:2px 8px;border-radius:999px;font-weight:500;}
+  .badge.rating-changed{background:var(--accent-soft);color:var(--accent-soft-ink);}
+  .badge.tp-changed{background:var(--warning-soft);color:var(--warning);}
+  .badge.unchanged{background:var(--neutral-chip);color:var(--neutral-chip-ink);}
+  .signal-move{margin-left:auto;text-align:right;font-family:"IBM Plex Mono";font-size:12.5px;}
+  .arrow-up{color:var(--good);} .arrow-down{color:var(--critical);}
+  .rating-pill{display:inline-block;margin-left:8px;font-size:11px;font-weight:600;padding:1px 7px;border-radius:5px;}
+  .rating-pill.OP{background:var(--good-soft);color:var(--good);}
+  .rating-pill.MP{background:var(--neutral-chip);color:var(--neutral-chip-ink);}
+  .rating-pill.UP{background:var(--critical-soft);color:var(--critical);}
+  .signal-catalyst{margin-top:6px;color:var(--ink-muted);font-size:13px;max-width:70ch;}
+  .flag-note{margin-top:7px;font-size:11.5px;color:var(--warning);display:flex;gap:5px;align-items:flex-start;}
+  .cite{margin-top:8px;font-size:11px;color:var(--ink-faint);}
+  .cite a{text-decoration:underline;}
+
+  .why-panel{margin-top:10px;padding-top:10px;border-top:1px dashed var(--border-strong);font-size:13px;}
+  .why-panel .label{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink-faint);margin-bottom:4px;}
+  .why-panel blockquote{margin:0 0 8px;padding-left:10px;border-left:2px solid var(--border-strong);color:var(--ink);font-style:italic;}
+
+  table{width:100%;border-collapse:collapse;font-size:13px;}
+  th{text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--ink-faint);font-weight:500;padding:0 10px 8px;border-bottom:1px solid var(--border);}
+  td{padding:10px 10px;border-bottom:1px solid var(--border);}
+  tbody tr{cursor:pointer;}
+  tbody tr:hover{background:var(--paper-sunken);}
+  tbody tr[aria-expanded="true"]{background:var(--accent-soft);}
+  tbody tr.is-pending{cursor:default;color:var(--ink-faint);}
+  tbody tr.is-pending:hover{background:transparent;}
+  .lean{font-size:11px;font-weight:600;padding:2px 9px;border-radius:999px;display:inline-block;}
+  .lean.Positive{background:var(--good-soft);color:var(--good);}
+  .lean.Neutral{background:var(--neutral-chip);color:var(--neutral-chip-ink);}
+  .lean.Cautious{background:var(--warning-soft);color:var(--warning);}
+  .lean.Pending{background:var(--pending-soft);color:var(--pending);}
+  .cc-figs{display:block;margin-top:4px;font-family:"IBM Plex Mono";font-size:11.5px;color:var(--ink-muted);}
+  .cc-caveat{display:block;margin-top:3px;font-size:11px;color:var(--ink-faint);font-style:italic;}
+  .diverge-mark{color:var(--accent,#b45309);font-weight:600;}
+  /* Verification strip — accuracy you can see. Fed by checks/report.json at build time. */
+  .verify-strip{display:flex;flex-wrap:wrap;align-items:center;gap:10px 18px;
+    margin:0 0 14px;padding:10px 14px;border-radius:9px;
+    background:var(--paper-raised);border:1px solid var(--border);
+    font-size:12px;color:var(--ink-muted);}
+  .verify-strip .vs-verdict{display:inline-flex;align-items:center;gap:6px;
+    font-weight:600;letter-spacing:.02em;text-transform:uppercase;font-size:11px;}
+  .verify-strip .vs-pass{color:var(--good);}
+  .verify-strip .vs-blocked{color:var(--critical);}
+  .verify-strip .vs-sep{width:1px;align-self:stretch;background:var(--border);}
+  .verify-strip b{color:var(--ink);font-variant-numeric:tabular-nums;}
+  .verify-strip .vs-warn{color:var(--warning);}
+  .analyst-box{margin-top:6px;padding:11px 13px;border-radius:8px;background:var(--paper-raised);border:1px solid var(--border);}
+  .analyst-head{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:13px;}
+  .analyst-date{font-size:11px;color:var(--ink-faint);}
+  .analyst-note{font-size:12.5px;color:var(--ink-muted);margin-top:6px;line-height:1.6;}
+  .hcol{text-align:center;white-space:nowrap;}
+  .hdash{color:var(--ink-faint);}
+  .hpill{display:inline-block;font-size:10.5px;font-weight:600;padding:1px 6px;border-radius:4px;}
+  .hpill.pos{background:var(--good-soft);color:var(--good);}
+  .hpill.men{background:var(--neutral-chip);color:var(--ink-muted);}
+  .house-list{list-style:none;margin:6px 0 0;padding:0;}
+  .house-list li{padding:7px 0;border-bottom:1px dotted var(--border);}
+  .house-note{font-size:12px;color:var(--ink-muted);margin-top:3px;line-height:1.55;}
+  .lean.NoneStated{background:var(--neutral-chip);color:var(--ink-faint);font-weight:400;}
+  .table-wrap{overflow-x:auto;}
+  .na{color:var(--ink-faint);}
+
+  /* ---- Section 1: Kenanga Today digest ---- */
+  .digest{border:1px solid var(--border);border-radius:10px;padding:16px 18px;background:var(--paper-raised);}
+  .digest.compact{margin-bottom:12px;}
+  .digest-head{display:flex;flex-wrap:wrap;gap:18px;align-items:flex-end;justify-content:space-between;
+    padding-bottom:14px;border-bottom:1px solid var(--border);}
+  .klci-l{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-faint);margin-bottom:3px;}
+  .klci-v{font-family:"IBM Plex Mono";font-size:24px;font-weight:600;font-variant-numeric:tabular-nums;}
+  .klci-v .up{color:var(--good);font-size:14px;font-weight:500;}
+  .klci-v .down{color:var(--critical);font-size:14px;font-weight:500;}
+  .flows{display:flex;gap:20px;flex-wrap:wrap;}
+  .flow-l{font-size:10.5px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink-faint);}
+  .flow-v{font-family:"IBM Plex Mono";font-size:14px;font-weight:600;font-variant-numeric:tabular-nums;}
+  .flow-v.pos{color:var(--good);} .flow-v.neg{color:var(--critical);}
+  .flow-p{font-size:10.5px;color:var(--ink-faint);}
+  .digest-sec{margin-top:14px;}
+  .digest-lab{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-faint);margin-bottom:6px;}
+  .ideas{font-size:13px;color:var(--ink);background:var(--paper-sunken);border-radius:7px;padding:9px 12px;line-height:1.65;}
+  .digest-cols{display:grid;grid-template-columns:1fr;gap:0;}
+  @media (max-width:700px){ .digest-cols{grid-template-columns:1fr;gap:0;} }
+  .digest-sec ul{margin:0;padding-left:18px;font-size:12.5px;color:var(--ink-muted);line-height:1.6;}
+  .digest-sec li{margin-bottom:4px;}
+  #s1-table td{vertical-align:top;}
+  .s1-title-cell{font-weight:500;color:var(--ink);min-width:15ch;width:34%;}
+  .s1-covers{color:var(--ink-muted);font-size:12px;line-height:1.55;width:48%;}
+  .s1-body{margin-top:12px;padding:11px 13px;border-radius:8px;background:var(--paper-raised);
+    border:1px solid var(--border);font-size:12.5px;color:var(--ink);line-height:1.6;}
+  .news-list{list-style:none;margin:0;padding:0;}
+  .news-list li{padding:9px 0;border-bottom:1px dotted var(--border);}
+  .news-list li:last-child{border-bottom:0;}
+  .news-h{font-size:12.5px;color:var(--ink);font-weight:500;line-height:1.5;}
+  .news-w{font-size:12px;color:var(--ink-muted);margin-top:4px;line-height:1.55;}
+  .news-note{font-size:10.5px;color:var(--ink-faint);margin-top:8px;font-style:italic;}
+  .week-summary{font-size:13px;color:var(--ink);background:var(--paper-sunken);border:1px solid var(--border);
+    border-radius:9px;padding:12px 14px;margin-bottom:14px;line-height:1.6;}
+  .sig-parts{margin:6px 0 0;padding-left:0;list-style:none;}
+  .sig-parts li{display:flex;gap:9px;align-items:baseline;padding:3px 0;border-bottom:1px dotted var(--border);}
+  .sig-w{font-family:"IBM Plex Mono";font-size:11.5px;font-weight:600;min-width:44px;text-align:right;}
+  .sig-w.pos{color:var(--good);} .sig-w.neg{color:var(--critical);} .sig-w.zero{color:var(--ink-faint);}
+  .sig-total{display:flex;gap:9px;align-items:baseline;padding-top:7px;font-weight:600;}
+  .conv-q{margin:0 0 8px;padding-left:11px;border-left:3px solid var(--good);color:var(--ink);font-style:italic;line-height:1.6;}
+  .conv-note{font-size:12px;color:var(--ink-muted);line-height:1.55;}
+
+  .why-signal{margin-top:12px;padding:11px 13px;border-radius:8px;background:var(--paper-raised);
+    border:1px solid var(--border);font-size:12.5px;color:var(--ink-muted);line-height:1.6;}
+  .why-signal b{color:var(--ink);}
+  .signal-derivation{margin-top:12px;padding:11px 13px;border-radius:8px;background:var(--paper-raised);border:1px solid var(--border);font-size:12.5px;color:var(--ink-muted);}
+  .signal-derivation .label{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink-faint);margin-bottom:5px;}
+  .marginal-tag{text-transform:none;letter-spacing:0;background:var(--warning-soft);color:var(--warning);padding:1px 6px;border-radius:4px;font-size:10.5px;}
+  .up-strong{color:var(--good);font-weight:600;}
+  .up-mild{color:var(--ink-muted);}
+  .up-neg{color:var(--critical);font-weight:600;}
+
+  .detail-panel{margin-top:14px;border:1px solid var(--border);border-radius:10px;padding:16px 18px;background:var(--paper-sunken);}
+  .detail-panel h3{font-size:15px;margin-bottom:2px;}
+  .detail-panel .close{float:right;background:none;border:0;cursor:pointer;color:var(--ink-faint);font-size:13px;}
+  .detail-sub{font-size:11.5px;color:var(--ink-faint);text-transform:uppercase;letter-spacing:.04em;margin:14px 0 6px;}
+  .detail-panel ol{margin:0;padding-left:19px;}
+  .detail-panel li{margin-bottom:5px;}
+  .ai-tag{font-size:10px;text-transform:uppercase;letter-spacing:.05em;background:var(--paper-raised);border:1px solid var(--border-strong);padding:1px 7px;border-radius:5px;color:var(--ink-faint);margin-left:7px;}
+  .verified-tag{font-size:10px;text-transform:uppercase;letter-spacing:.05em;background:var(--good-soft);color:var(--good);padding:1px 7px;border-radius:5px;margin-left:7px;}
+  .rule-box{font-size:12.5px;color:var(--ink-muted);background:var(--paper-sunken);border:1px dashed var(--border-strong);border-radius:8px;padding:10px 13px;margin-bottom:16px;}
+  .rule-box b{color:var(--ink);}
+
+  .legend{display:flex;gap:16px;flex-wrap:wrap;margin-bottom:14px;font-size:12.5px;color:var(--ink-muted);}
+  .legend .sw{display:inline-block;width:9px;height:9px;border-radius:2px;margin-right:6px;vertical-align:middle;}
+  .chart-svg{width:100%;height:auto;overflow:visible;}
+  .bar-seg{cursor:pointer;transition:opacity .15s;}
+  .bar-seg:hover{opacity:.75;}
+  .bar-seg.is-empty{cursor:default;}
+  .axis-label{font-size:11px;fill:var(--ink-faint);font-family:"IBM Plex Mono",monospace;}
+  .date-label{font-size:11.5px;fill:var(--ink-muted);font-family:"IBM Plex Sans",sans-serif;}
+  .date-label.selected{fill:var(--ink);font-weight:600;}
+  .chart-wrap{position:relative;}
+  .chart-readout{margin-top:14px;border:1px solid var(--border);border-radius:10px;padding:14px 16px;background:var(--paper-sunken);font-size:13px;}
+  .chart-readout .label{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink-faint);margin-bottom:6px;}
+  .chart-readout ul{margin:8px 0 0;padding-left:18px;}
+
+  footer{margin-top:34px;padding-top:18px;border-top:1px solid var(--border);font-size:11.5px;color:var(--ink-faint);}
+  footer p{margin:0 0 6px;}
+</style>
+</head>
+<body>
+<div class="banner">
+  <div class="banner-inner">
+    <span>&#9888;</span>
+    <span><strong>24&ndash;28 Aug 2026 &middot; four trading days.</strong> All 60 Kenanga reports verified against their own PDFs and cited on every row. Two signal columns on the same strict rule &mdash; <b>Positive</b> only where a house declares conviction in its own words. Six reports carry it for Kenanga; eight rows carry it from other houses via The Edge. Eight rows carry a data-quality flag (&#9873;); sourcing notes are at the foot of the page.</span>
+  </div>
+</div>
+
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <h1>Kenanga Signal Board</h1>
+      <span class="source-tag">Daily Research Reports &middot; Kenanga Investment Bank</span>
+    </div>
+    <div class="controls">
+      <div class="field">
+        <label for="period-seg">View</label>
+        <div class="seg" id="period-seg" role="group" aria-label="View period">
+          <button type="button" aria-pressed="true" data-period="day">Day</button>
+          <button type="button" aria-pressed="false" data-period="week">Week</button>
+        </div>
+      </div>
+      <div class="field" id="day-field">
+        <label for="date-select">Report date</label>
+        <select id="date-select"></select>
+      </div>
+      <div class="field" id="week-field" style="display:none;">
+        <label for="week-select">Week commencing (Mon)</label>
+        <select id="week-select"></select>
+      </div>
+    </div>
+  </header>
+
+  <div id="verify-strip" class="verify-strip" role="status"></div>
+
+  <div class="split">
+  <section class="card" id="section1">
+    <div class="card-head">
+      <div>
+        <div class="eyebrow">Section 1 &middot; From the Kenanga Today daily digest</div>
+        <h2 id="s1-title">Kenanga Today</h2>
+      </div>
+      <div class="field">
+        <label for="s1-select">Digest section</label>
+        <select id="s1-select"></select>
+      </div>
+    </div>
+    <div class="card-body">
+      <div class="table-wrap"><table id="s1-table"><thead></thead><tbody></tbody></table></div>
+      <div id="s1-detail"></div>
+    </div>
+  </section>
+
+  <section class="card" id="section2">
+    <div class="card-head">
+      <div>
+        <div class="eyebrow">Section 2 &middot; By report type</div>
+        <h2 id="s2-title">Company Updates</h2>
+      </div>
+      <div class="field">
+        <label for="type-select">Report type</label>
+        <select id="type-select"></select>
+      </div>
+    </div>
+    <div class="card-body">
+      <div class="chips" id="s2-filters" role="group" aria-label="Filter by recommended lean"></div>
+      <div class="table-wrap"><table id="s2-table"><thead></thead><tbody></tbody></table></div>
+      <div id="s2-detail"></div>
+    </div>
+  </section>
+  </div>
+
+
+
+  <footer id="footer-note"></footer>
+</div>
+
+<script>
+(function(){
+  "use strict";
+  var TYPES = ["Results Note","Company Updates","Sector Updates","Market Strategy","Economic Viewpoint"];
+  var K = "https://www.kenanga.com.my";
+
+  // ---------------------------------------------------------------
+  // NOTE SIGNAL — computed, never hand-assigned.
+  // A deterministic ladder over three facts read off each report:
+  // the rating action, the target-price action, and the result vs
+  // the house forecast. First match wins. Hand-typing this field is
+  // what previously let two mechanically-identical rows (MISC and
+  // MBMR) end up with opposite labels, so it is derived instead.
+  // ---------------------------------------------------------------
+  // ---------------------------------------------------------------
+  // NOTE SIGNAL — stated conviction only.
+  // A row reads Positive if, and only if, the report itself declares
+  // conviction in its own words (naming the stock a Top Pick, a sector
+  // pick, or the most attractive among peers). Everything else reads
+  // "None stated". Nothing is inferred from ratings, target-price
+  // moves or results.
+  // ---------------------------------------------------------------
+  function computeSignal(r){
+    if(!r.verified || r.macro) return null;
+    if(r.conviction) return {label:"Positive", quote:r.conviction};
+    return {label:"None stated", quote:null};
+  }
+  var RANK = {UP:0, MP:1, OP:2};
+  var RATING_FULL = {OP:"Outperform", MP:"Market Perform", UP:"Underperform"};
+
+  function rep(o){
+    var base = Object.assign({verified:true, flag:null, result:null, conviction:null,
+      prevRating:o.rating, prevTp:o.tp}, o);
+    base.signal = computeSignal(base);
+    base.lean = base.signal ? base.signal.label : null;
+    return base;
+  }
+  function pending(ticker,type){
+    return {verified:false, ticker:ticker, type:type};
+  }
+
+  // ---------------------------------------------------------------
+  // DATASET
+  // 28 Aug 2026 entries marked verified:true were fetched directly
+  // from Kenanga's own report PDFs (URLs in `src`) on the date this
+  // build was made; figures/quotes are taken from those documents.
+  // Everything marked verified:false is a REAL ticker from that
+  // day's "Kenanga Today" digest index, but this build has not yet
+  // pulled that individual report's numbers — no figures are shown
+  // for it, by design.
+  // ---------------------------------------------------------------
+
+
+  // ---------------------------------------------------------------
+  // KENANGA TODAY — the daily compiled digest for each date.
+  // Index levels, fund flows, the day's line-up and the news and
+  // macro items are read directly from that day's PDF.
+  // "why" lines are this dashboard's own analysis, labelled as such.
+  // ---------------------------------------------------------------
+  // ---------------------------------------------------------------
+  // DATA — injected at build time from data/*.json by scripts/build.js.
+  // Never hand-edit here; edit the JSON and rebuild. See rules/signals.md.
+  // ---------------------------------------------------------------
+  var DAILY = __DAILY__;
+  var RAW   = __DATA__;
+  var CHECKS = __CHECKS__;
+  var DATA = {};
+  Object.keys(RAW).forEach(function(d){
+    DATA[d] = RAW[d].map(function(r){ return rep(r); });
+  });
+
+  var DATES = Object.keys(DATA).sort();
+
+  function weekMonday(dateStr){
+    var d = new Date(dateStr+"T00:00:00");
+    var day = d.getDay(); // 0 Sun .. 6 Sat
+    var diff = (day===0?-6:1-day);
+    d.setDate(d.getDate()+diff);
+    return d.toISOString().slice(0,10);
+  }
+  var WEEKS = []; // list of {monday, dates:[...]}
+  DATES.forEach(function(d){
+    var m = weekMonday(d);
+    var w = WEEKS.find(function(x){return x.monday===m;});
+    if(!w){ w={monday:m, dates:[]}; WEEKS.push(w); }
+    w.dates.push(d);
+  });
+  WEEKS.sort(function(a,b){ return a.monday<b.monday?-1:1; });
+  WEEKS.forEach(function(w){ w.dates.sort(); });
+
+  var state = { period:"day", date: DATES[DATES.length-1], week: WEEKS[WEEKS.length-1].monday,
+    s1sec:"Corporate News", s1open:null, s2type:null, s2lean:"all", s2open:null, chartOpen:null };
+
+  function fmtDate(d, withYear){
+    var dt = new Date(d+"T00:00:00");
+    var s = dt.toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"2-digit"});
+    return withYear===false ? s.replace(/ \d\d$/,"") : s;
+  }
+  function money(v){ return v==null ? "—" : "RM"+v.toFixed(2); }
+  // Automatic cross-source consistency check: Kenanga's share price (as at the
+  // report date) vs KLSE 52-week range (as at the market-data fetch). A price
+  // outside its own 52-week band means the two sources disagree — surfaced
+  // rather than silently displayed.
+  function rangeAnomaly(r){
+    if(r.price==null) return null;
+    if(r.high52!=null && r.price>r.high52)
+      return "Share price RM"+r.price.toFixed(2)+" (Kenanga, as at report date) sits ABOVE the 52-week high of RM"+r.high52.toFixed(2)+" (KLSE market data, fetched later). The two sources have different as-of dates, so this is a timing mismatch between sources rather than a wrong figure in either — but treat the 52-week band as stale relative to the price.";
+    if(r.low52!=null && r.price<r.low52)
+      return "Share price RM"+r.price.toFixed(2)+" (Kenanga, as at report date) sits BELOW the 52-week low of RM"+r.low52.toFixed(2)+" (KLSE market data, fetched later). Either the stock has since fallen to a new low, or the two sources' as-of dates differ — worth checking before relying on the range.";
+    return null;
+  }
+
+  // ---------- date / week selects ----------
+  var dateSelect=document.getElementById("date-select");
+  DATES.forEach(function(d){
+    var o=document.createElement("option"); o.value=d; o.textContent=fmtDate(d);
+    dateSelect.appendChild(o);
+  });
+  dateSelect.value = state.date;
+  dateSelect.addEventListener("change",function(){ state.date=dateSelect.value; state.s2open=null; state.chartOpen=null; render(); });
+
+  var weekSelect=document.getElementById("week-select");
+  WEEKS.forEach(function(w){
+    var o=document.createElement("option"); o.value=w.monday;
+    o.textContent="Week of "+fmtDate(w.monday)+" ("+w.dates.length+" day"+(w.dates.length>1?"s":"")+" in sample)";
+    weekSelect.appendChild(o);
+  });
+  weekSelect.value = state.week;
+  weekSelect.addEventListener("change",function(){ state.week=weekSelect.value; state.s2open=null; state.chartOpen=null; render(); });
+
+  document.querySelectorAll("#period-seg button").forEach(function(b){
+    b.addEventListener("click",function(){
+      document.querySelectorAll("#period-seg button").forEach(function(x){x.setAttribute("aria-pressed","false");});
+      b.setAttribute("aria-pressed","true");
+      state.period=b.dataset.period;
+      document.getElementById("day-field").style.display = state.period==="day" ? "" : "none";
+      document.getElementById("week-field").style.display = state.period==="week" ? "" : "none";
+      render();
+    });
+  });
+
+  function activeDates(){
+    if(state.period==="day") return [state.date];
+    var w = WEEKS.find(function(x){return x.monday===state.week;});
+    return w ? w.dates : [];
+  }
+  function reportsFor(dates){
+    var out=[];
+    dates.forEach(function(d){ DATA[d].forEach(function(x){ var copy=Object.assign({},x,{_date:d}); out.push(copy); }); });
+    return out;
+  }
+  function periodLabel(){
+    if(state.period==="day") return fmtDate(state.date);
+    return "week of "+fmtDate(state.week);
+  }
+
+  // ---------- Section 1 ----------
+  var TOP_N = 5;
+  var _f=document.getElementById("s1-filters"); if(_f) _f.remove();
+
+  function changeKind(r){
+    if(!r.verified) return "pending";
+    if(r.rating!==r.prevRating) return "rating";
+    if(r.tp!=null && r.prevTp!=null && r.tp!==r.prevTp) return "tp";
+    return "unchanged";
+  }
+  function typeAbbr(t){
+    return {"Results Note":"RN","Company Updates":"CU","Sector Updates":"SU","Market Strategy":"MS","Economic Viewpoint":"EV"}[t]||t;
+  }
+
+  var S1_SECTIONS = ["Corporate News","Macro & Thematic Backdrop"];
+
+  // Rows for the selected digest section. Ideas of the Day reuses the day's
+  // actual reports; Corporate News and Macro come from the digest itself.
+  function s1Rows(dates){
+    var out=[];
+    dates.forEach(function(d){
+      var k=DAILY[d]; if(!k) return;
+      if(state.s1sec==="Corporate News"){
+        (k.news||[]).forEach(function(n){
+          out.push({d:d, kind:"news", title:n.h, tag:"Corporate news", covers:n.body,
+                    summary:n.takeaways, src:k.src});
+        });
+      } else {
+        (k.macro||[]).forEach(function(m){
+          out.push({d:d, kind:"macro", title:m.h, tag:m.region||"Macro", covers:m.body,
+                    summary:m.takeaways, src:k.src});
+        });
+      }
+    });
+    return out;
+  }
+
+  function renderSection1(){
+    var dates=activeDates();
+    document.getElementById("s1-title").textContent =
+      (state.period==="day"?"Kenanga Today":"Kenanga Today — the week")+" — "+periodLabel();
+
+    var sel=document.getElementById("s1-select");
+    if(sel.options.length!==S1_SECTIONS.length){
+      sel.innerHTML="";
+      S1_SECTIONS.forEach(function(t){
+        var o=document.createElement("option"); o.value=t; o.textContent=t; sel.appendChild(o);
+      });
+    }
+    sel.value=state.s1sec;
+
+    var rows=s1Rows(dates);
+    var thead=document.querySelector("#s1-table thead");
+    var tbody=document.querySelector("#s1-table tbody");
+    thead.innerHTML = state.period==="day"
+      ? "<tr><th>Headline</th><th>Category</th><th>What Kenanga reported</th></tr>"
+      : "<tr><th>Date</th><th>Headline</th><th>Category</th><th>What Kenanga reported</th></tr>";
+    tbody.innerHTML="";
+    var openKey=state.s1open;
+    rows.forEach(function(r,i){
+      var key="s1_"+i;
+      var tr=document.createElement("tr");
+      if(openKey!==null && openKey!==key) tr.style.display="none";
+      tr.setAttribute("aria-expanded", openKey===key?"true":"false");
+      var cells = (state.period==="day"?"":"<td class='mono' style='white-space:nowrap;'>"+fmtDate(r.d,false)+"</td>")+
+        "<td class='s1-title-cell'>"+r.title+"</td>"+
+        "<td><span class='tag'>"+r.tag+"</span></td>"+
+        "<td class='s1-covers'>"+(r.covers||"")+"</td>";
+      tr.innerHTML=cells;
+      tr.addEventListener("click",function(){
+        state.s1open = state.s1open===key? null : key;
+        renderSection1();
+        if(state.s1open) renderS1Detail(r);
+        else document.getElementById("s1-detail").innerHTML="";
+      });
+      tbody.appendChild(tr);
+    });
+    if(openKey===null) document.getElementById("s1-detail").innerHTML="";
+  }
+
+  function renderS1Detail(r){
+    var d=document.getElementById("s1-detail");
+    var srcUrl = r.kind==="report" ? r.src : (K+"/wp-content/uploads/2026/08/"+r.src);
+    d.innerHTML =
+      '<div class="detail-panel">'+
+        '<button class="close" type="button">&larr; Back to list</button>'+
+        '<h3>'+r.title+' <span class="verified-tag">Verified</span><span class="ai-tag">AI-written summary</span></h3>'+
+        '<div style="font-size:12.5px;color:var(--ink-muted);">'+r.tag+' &middot; '+fmtDate(r.d)+'</div>'+
+        (r.covers? '<div class="s1-body">'+r.covers+'</div>':'')+
+        '<div class="detail-sub">Executive summary &mdash; 5 key takeaways for a CEO/investor</div>'+
+        '<ol>'+(r.summary||[]).map(function(x){return "<li>"+x+"</li>";}).join("")+'</ol>'+
+        '<div class="cite">Takeaways are AI-written; every fact in them is drawn from the Kenanga source below.<br>Source: <a href="'+srcUrl+'" target="_blank" rel="noopener">'+(r.kind==="report"? r.src : r.src)+'</a></div>'+
+      '</div>';
+    d.querySelector(".close").addEventListener("click",function(){
+      state.s1open=null; renderSection1(); d.innerHTML="";
+    });
+  }
+
+  // ---------- Section 2 ----------
+  var typeSelect=document.getElementById("type-select");
+  var s2FilterWrap=document.getElementById("s2-filters");
+  var leanFilters=[["all","All"],["Positive","Stated conviction"],["None stated","None stated"]];
+  leanFilters.forEach(function(f){
+    var b=document.createElement("button");
+    b.className="chip"; b.type="button"; b.textContent=f[1];
+    b.setAttribute("aria-pressed", f[0]===state.s2lean?"true":"false");
+    b.addEventListener("click",function(){
+      state.s2lean=f[0];
+      state.s2open=null;
+      Array.from(s2FilterWrap.children).forEach(function(c){c.setAttribute("aria-pressed","false");});
+      b.setAttribute("aria-pressed","true");
+      renderSection2Table();
+      renderDetail(null);
+    });
+    s2FilterWrap.appendChild(b);
+  });
+
+  var RULES = {
+    "Result Note":"<b>Positive</b>: rating upgraded, or reiterated with a raised TP and above-forecast profit. <b>Cautious</b>: rating or TP cut, or a miss versus forecast. <b>Neutral</b>: in-line result, rating and TP unchanged. This is a mechanical rule applied to the numbers — read the row's detail panel for cases where the underlying commentary is more (or less) constructive than the label implies.",
+    "Company Update":"<b>Positive</b>: rating upgraded, or explicitly bullish language (a reiterated conviction call, 'Top Pick', raised TP) alongside a maintained rating. <b>Cautious</b>: TP cut, or a material risk flagged as the note's main message, even if the rating holds. <b>Neutral</b>: purely informational update &mdash; no estimate change and no conviction statement either way. Note that bullish language outranks 'nothing changed': a reiterated Top Pick is Positive, not Neutral.",
+    "Sector Update":"<b>Positive</b>: sector outlook or demand assumption raised. <b>Cautious</b>: sector outlook trimmed. <b>Neutral</b>: outlook reiterated.",
+    "Market Strategy":"<b>Positive</b>: index target raised. <b>Cautious</b>: index target trimmed. <b>Neutral</b>: index target reiterated.",
+    "Economic Viewpoint":"Macro notes are not stock calls, so this classification does not apply."
+  };
+
+  function renderTypeOptions(){
+    var reports = reportsFor(activeDates());
+    var present = TYPES.filter(function(t){ return reports.some(function(r){return r.type===t;}); });
+    typeSelect.innerHTML="";
+    present.forEach(function(t){
+      var o=document.createElement("option"); o.value=t; o.textContent=t;
+      typeSelect.appendChild(o);
+    });
+    if(!present.includes(state.s2type)){ state.s2type = present[0] || null; }
+    typeSelect.value = state.s2type || "";
+  }
+  document.getElementById("s1-select").addEventListener("change",function(){
+    state.s1sec=this.value; state.s1open=null; renderSection1();
+  });
+  typeSelect.addEventListener("change",function(){ state.s2type=typeSelect.value; state.s2open=null; renderSection2(); });
+
+  function renderSection2(){
+    renderTypeOptions();
+    document.getElementById("s2-title").textContent = (state.s2type||"—")+" — "+periodLabel();
+    renderSection2Table();
+  }
+
+  // ---------------------------------------------------------------
+  // ANALYST SIGNAL — non-Kenanga houses and The Edge.
+  // Same rule as the Kenanga Signal: Positive if, and only if, a
+  // credible non-Kenanga source states conviction in its own words
+  // (naming the stock a top pick or preferred pick). Everything else
+  // reads "None stated". Nothing is inferred from ratings or tone.
+  // Sources are named and dated on every populated row, because a
+  // standing sector pick may predate the report it sits beside.
+  // ---------------------------------------------------------------
+
+  // Renders a source list for named-house calls. Every call on this page
+  // is attributed to a named house and dated; nothing is aggregated.
+  function citeList(cs){
+    if(!cs || !cs.length) return "";
+    return '<span class="cc-figs">Source'+(cs.length>1?'s':'')+': '+
+      cs.map(function(c){ return '<a href="'+c[1]+'" target="_blank" rel="noopener">'+c[0]+'</a>'; }).join(' &middot; ')+'</span>';
+  }
+  function analystCell(r){
+    var a=r.analyst;
+    if(a && a.v==="positive")
+      return "<td><span class='lean Positive' title='"+(a.house||"").replace(/"/g,"&quot;")+"'>Positive</span>"+"</td>";
+    if(a) return "<td><span class='lean NoneStated' title='Coverage found, no conviction stated'>None stated</span>"+"</td>";
+    return "<td><span class='lean NoneStated'>None stated</span></td>";
+  }
+
+  // A row is "diverged" when a named non-Kenanga house rates the stock in the
+  // opposite direction to Kenanga. Set from the verified call on the row
+  // (analyst.opp), not inferred from ratings or prices.
+  function isDiverged(r){ return !!(r.verified && r.analyst && r.analyst.opp); }
+
+  var STOCK_TYPES = ["Results Note","Company Updates"];
+
+  function renderSection2Table(){
+    var all = reportsFor(activeDates()).filter(function(r){ return r.type===state.s2type; });
+    var isStock = STOCK_TYPES.indexOf(state.s2type)!==-1;
+    var rows = all;
+    // "Stated conviction" catches a row if EITHER signal is Positive.
+    if(state.s2lean==="Positive"){
+      rows = rows.filter(function(r){
+        return r.verified && (r.lean==="Positive" || (r.analyst && r.analyst.v==="positive"));
+      });
+    } else if(state.s2lean==="None stated"){
+      rows = rows.filter(function(r){
+        return r.verified && r.lean!=="Positive" && !(r.analyst && r.analyst.v==="positive");
+      });
+    }
+    var thead=document.querySelector("#s2-table thead");
+    var tbody=document.querySelector("#s2-table tbody");
+    thead.innerHTML = isStock
+      ? "<tr><th>Ticker</th><th>Price</th><th>Target price</th><th>52W high&#8224;</th><th>52W low&#8224;</th><th>Div yield&#8224;</th><th>Rating</th><th>Kenanga Signal</th><th>Analyst Signal</th></tr>"
+      : "<tr><th>Report</th><th>Type</th><th>What it covers</th><th>Status</th></tr>";
+    tbody.innerHTML="";
+    var openKey = state.s2open;
+    rows.forEach(function(r,i){
+      var key=r.ticker+i;
+      var tr=document.createElement("tr");
+      if(openKey!==null && openKey!==key) tr.style.display="none";
+      tr.setAttribute("aria-expanded", openKey===key?"true":"false");
+      if(!isStock){
+        tr.className = r.verified?"":"is-pending";
+        tr.innerHTML =
+          "<td class='mono'>"+r.ticker+"</td>"+
+          "<td>"+r.type+"</td>"+
+          "<td>"+(r.verified? r.catalyst : "<span class='na'>Listed in Kenanga's index for this date; the individual report has not been opened by this build.</span>")+"</td>"+
+          "<td>"+(r.verified?"<span class='lean Neutral'>Verified</span>":"<span class='lean Pending'>Not yet verified</span>")+"</td>";
+        if(r.verified){
+          tr.addEventListener("click",function(){
+            state.s2open = state.s2open===key? null : key;
+            renderSection2Table(); renderDetail(r);
+          });
+        }
+        tbody.appendChild(tr); return;
+      }
+      if(!r.verified){
+        tr.className="is-pending";
+        tr.innerHTML =
+          "<td class='mono'>"+r.ticker+"</td>"+
+          "<td class='na'>&mdash;</td><td class='na'>&mdash;</td><td class='na'>&mdash;</td><td class='na'>&mdash;</td><td class='na'>&mdash;</td><td class='na'>&mdash;</td>"+
+          "<td><span class='lean Pending'>Not yet verified</span></td><td class='na'>&mdash;</td>";
+        tbody.appendChild(tr); return;
+      }
+      tr.innerHTML =
+        "<td class='mono'>"+r.ticker+((r.flag||rangeAnomaly(r))?" <span title='Data quality note &mdash; see detail panel' style='color:var(--warning);'>&#9873;</span>":"")+
+          (isDiverged(r)?" <span class='diverge-mark' title='A named house rates this the opposite way to Kenanga &mdash; see detail panel'>&#8646;</span>":"")+"</td>"+
+        "<td class='num'>"+money(r.price)+"</td>"+
+        "<td class='num'>"+money(r.tp)+"</td>"+
+        "<td class='num'>"+money(r.high52)+"</td>"+
+        "<td class='num'>"+money(r.low52)+"</td>"+
+        "<td class='num'>"+(r.divYield==null?"&mdash;":r.divYield.toFixed(2)+"%")+"</td>"+
+        "<td>"+r.rating+"</td>"+
+        "<td>"+(r.lean==="Positive"?"<span class='lean Positive'>Positive</span>":"<span class='lean NoneStated'>None stated</span>")+"</td>"+analystCell(r);
+      tr.addEventListener("click",function(){
+        state.s2open = state.s2open===key? null : key;
+        renderSection2Table(); renderDetail(r);
+      });
+      tbody.appendChild(tr);
+    });
+
+    var fnEl=document.getElementById("s2-footnote"); if(fnEl) fnEl.remove();
+    var nPend = all.filter(function(r){return !r.verified;}).length;
+    var fn=document.createElement("p");
+    fn.id="s2-footnote";
+    fn.style.cssText="margin-top:10px;font-size:11.5px;color:var(--ink-faint);";
+    var bits=[];
+    if(isStock) bits.push("&#8224; 52-week range and dividend yield come from KLSE market data (stockanalysis.com), not from Kenanga, and are live at the time of fetch. A dash means that market data has not been pulled for this row; the Kenanga figures beside it are still fully verified.");
+    if(nPend) bits.push("<b>"+nPend+"</b> report"+(nPend===1?" is":"s are")+" listed but not yet verified &mdash; shown as rows with no figures rather than hidden, so the day's full published line-up is always visible.");
+    fn.innerHTML=bits.join(" ");
+    document.querySelector("#section2 .table-wrap").insertAdjacentElement("afterend", fn);
+    if(openKey===null) document.getElementById("s2-detail").innerHTML="";
+  }
+
+  // Plain-English rendering of the signal derivation, used inside the
+  // executive summary so the reasoning travels with the takeaways.
+  function signalProse(r){
+    if(!r.signal) return "";
+    var bits = r.signal.parts.map(function(p){
+      return p.t.replace(/<[^>]+>/g,"") + " (" + (p.v>0?"+":"") + p.v + ")";
+    });
+    var verdict = r.lean==="Positive" ? "a net positive read — Kenanga is recommending this stock and the note leans in its favour"
+      : r.lean==="Cautious" ? "a net cautious read — the balance of Kenanga's stance and this note's actions points against the stock"
+      : "a balanced read — the positives and negatives in Kenanga's stance and this note offset each other";
+    return bits.join("; ") + ". Net score " + (r.signal.score>0?"+":"") + r.signal.score + ", which is " + verdict + ".";
+  }
+
+  function renderDetail(r){
+    var d=document.getElementById("s2-detail");
+    if(state.s2open===null){ d.innerHTML=""; return; }
+    var meta = r.macro
+      ? r.type+' &middot; '+fmtDate(r._date)+' &middot; Macro research &mdash; no rating or target price'
+      : r.type+' &middot; '+fmtDate(r._date)+' &middot; Rating '+r.rating+' &middot; TP '+money(r.tp)+' &middot; Kenanga Signal: '+r.lean;
+    var derivation = (r.macro || !r.signal) ? '' :
+      (r.signal.label==="Positive"
+        ? '<div class="signal-derivation"><div class="label">Kenanga Signal &mdash; stated conviction, in Kenanga\'s own words</div>'+
+            '<blockquote class="conv-q">'+r.signal.quote+'</blockquote>'+
+            '<div class="conv-note">The Kenanga Signal reads <b>Positive</b> because the report declares conviction in the sentence above. Nothing is inferred from the rating, the target price or the result.</div>'+'</div>'
+        : '<div class="signal-derivation"><div class="label">Kenanga Signal &mdash; stated conviction</div>'+
+            '<div class="conv-note">This report contains no conviction statement &mdash; Kenanga does not name it a Top Pick, a sector pick, or the most attractive among peers. The Kenanga Signal therefore reads <b>None stated</b>. That is not a negative view: the rating and target price alongside carry Kenanga\'s actual stance.</div>'+'</div>');
+    d.innerHTML =
+      '<div class="detail-panel">'+
+        '<button class="close" type="button">&larr; Back to table</button>'+
+        '<h3>'+r.name+(r.macro?'':' ('+r.ticker+')')+' <span class="verified-tag">Verified</span><span class="ai-tag">AI-written summary</span></h3>'+
+        '<div style="font-size:12.5px;color:var(--ink-muted);">'+meta+'</div>'+
+        derivation+
+        (r.flag? '<div class="flag-note" style="margin-top:10px;">&#9873; <span>'+r.flag+'</span></div>' : '')+
+        (rangeAnomaly(r)? '<div class="flag-note" style="margin-top:10px;">&#9873; <span><b>Auto-detected cross-source inconsistency.</b> '+rangeAnomaly(r)+'</span></div>' : '')+
+        '<div class="detail-sub">Executive summary &mdash; 5 key takeaways for a CEO/investor</div>'+
+        '<ol>'+r.summary.map(function(x){return "<li>"+x+"</li>";}).join("")+
+          (r.conviction? '<li><b>Stated conviction, in Kenanga\'s own words:</b> '+r.conviction+' This sentence is the sole basis for the Positive Kenanga Signal on this row.</li>' : '')+
+          (r.crossCheck? '<li><b>What other houses say.</b> '+r.crossCheck.note+
+            citeList(r.crossCheck.cites)+'</li>' : '')+
+        '</ol>'+
+        ((r.analyst && !r.crossCheck)? '<div class="detail-sub">Analyst Signal &mdash; non-Kenanga coverage</div>'+
+          '<div class="analyst-box">'+
+            '<div class="analyst-head"><b>'+r.analyst.house+'</b> <span class="lean '+(r.analyst.v==="positive"?"Positive":"NoneStated")+'">'+
+              (r.analyst.v==="positive"?"Positive":"None stated")+'</span> <span class="analyst-date">'+r.analyst.date+'</span></div>'+
+            '<div class="analyst-note">'+r.analyst.note+'</div>'+
+            (r.analyst.cites? '<div class="cite" style="margin-top:6px;">'+citeList(r.analyst.cites)+'</div>':'')+
+            (r.analyst.src? '<div class="cite" style="margin-top:6px;">Source: <a href="'+r.analyst.src+'" target="_blank" rel="noopener">'+r.analyst.srcName+'</a></div>':'')+
+          '</div>' : '')+
+        '<div class="cite">These takeaways are AI-written, but every fact in them is drawn from the Kenanga report below &mdash; nothing here is invented.'+((r.crossCheck||r.analyst)? ' Non-Kenanga calls are the exception and are sourced separately, named and dated above.':'')+'<br>Source: <a href="'+r.src+'" target="_blank" rel="noopener">'+r.src+'</a>'+
+        (r.mktSrc? '<br>52W range / dividend yield: <a href="'+r.mktSrc+'" target="_blank" rel="noopener">'+r.mktSrc+'</a> (KLSE market data, not from Kenanga)':'')+'</div>'+
+      '</div>';
+    d.querySelector(".close").addEventListener("click",function(){ state.s2open=null; renderSection2Table(); d.innerHTML=""; });
+  }
+
+  var RATING_COLOR = { OP:"var(--good)", MP:"var(--ink-faint)", UP:"var(--critical)" };
+  var RATING_LABEL = { OP:"Outperform", MP:"Market Perform", UP:"Underperform" };
+
+
+
+
+
+  // ---------------------------------------------------------------
+  // VERIFICATION STRIP
+  // CHECKS is written by scripts/build.js from checks/report.json.
+  // It reports the machine checks that ran before this build was
+  // allowed to publish — see checks/verify.js and rules/signals.md.
+  // ---------------------------------------------------------------
+  function renderVerifyStrip(){
+    var el=document.getElementById("verify-strip"); if(!el) return;
+    if(typeof CHECKS==="undefined" || !CHECKS){ el.style.display="none"; return; }
+    var d=state.date, pd=(CHECKS.perDate||{})[d];
+    var ok=CHECKS.verdict==="PASS";
+    var when="";
+    if(CHECKS.generatedAt){
+      var t=new Date(CHECKS.generatedAt);
+      when=t.toLocaleString("en-GB",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit",timeZone:"Asia/Kuala_Lumpur"})+" MYT";
+    }
+    var bits=[];
+    bits.push('<span class="vs-verdict '+(ok?"vs-pass":"vs-blocked")+'">'+
+      (ok?"&#10003; Verified":"&#10007; Blocked")+'</span>');
+    bits.push('<span class="vs-sep"></span>');
+    bits.push('<b>'+CHECKS.checksRun+'</b> automated checks passed');
+    if(pd){
+      bits.push('<span class="vs-sep"></span>');
+      bits.push('<b>'+pd.verified+'</b> of <b>'+pd.rows+'</b> reports verified against source for '+fmtDate(d));
+      if(pd.warnings) bits.push('<span class="vs-warn">&#9873; '+pd.warnings+' data-quality flag'+(pd.warnings===1?"":"s")+'</span>');
+    }
+    if(when){ bits.push('<span class="vs-sep"></span>'); bits.push('Last checked '+when); }
+    el.innerHTML=bits.join(" ");
+  }
+
+  function render(){
+    dateSelect.value = state.date;
+    renderVerifyStrip();
+    weekSelect.value = state.week;
+    renderSection1();
+    renderSection2();
+  }
+
+  document.getElementById("footer-note").innerHTML =
+    "<h3 style='font-size:14px;margin-bottom:8px;'>Sources</h3>"+
+    "<p><b>Section 1</b> is taken from the <em>Kenanga Today</em> daily digest for each date &mdash; index close, fund flows, the day's line-up, corporate news and macro items. Each day links to its own PDF. Headlines and body text are Kenanga's; the five takeaways under each row are this dashboard's analysis, drawn only from that Kenanga text.</p>"+
+    "<p><b>Section 2</b> lists every report in that day's published bundle, taken from the bundle contents rather than the digest's &ldquo;Ideas of the Day&rdquo; line, which enumerates only stock ideas and omits macro publications. <b>All 60 reports across the four dates have been opened and verified individually</b> &mdash; every rating, target price, share price and quoted line comes from the report itself, cited on the row. 24 Aug 10/10 &middot; 26 Aug 4/4 &middot; 27 Aug 21/21 &middot; 28 Aug 25/25.</p>"+
+    "<p>52-week ranges and dividend yields come from KLSE market data (stockanalysis.com), not from Kenanga, and are live as at fetch rather than as at the report date. A dash means that market data was not pulled for the row; the Kenanga figures beside it are still verified. Executive summaries are AI-written and labelled, but every claim traces to a quoted line in the cited report. Research content is Kenanga's copyright, paraphrased here and never reproduced in full. In production the dashboard refreshes nightly at 00:00; this build does not auto-refresh.</p>"+
+
+    "<h3 style='font-size:14px;margin:16px 0 8px;'>How the Kenanga Signal works</h3>"+
+    "<p>A row reads <b>Positive</b> if, and only if, the report declares conviction in Kenanga's own words &mdash; naming the stock a Top Pick, one of its sector picks, or the most attractive among peers. The exact sentence is quoted on the row and repeated in that row's executive summary, so the basis for the signal is always visible and checkable against the source.</p>"+
+    "<p>Every other row reads <b>None stated</b>. That is a statement about the report, not a view on the stock: it means Kenanga did not use conviction language in that note. Nothing is inferred from the rating, the target price, the result against forecast, or the tone of the commentary. Read the <b>Rating</b> column for Kenanga's actual stance on a stock; the Kenanga Signal only tells you where Kenanga went further and said so explicitly.</p>"+
+
+    "<h3 style='font-size:14px;margin:16px 0 8px;'>How the Analyst Signal works</h3>"+
+    "<p>Same rule as the Kenanga Signal, applied to everyone else. A row reads <b>Positive</b> if, and only if, a named non-Kenanga research house states conviction in its own words &mdash; calling the stock a top pick, one of its picks, or its preferred name. Nothing is inferred from a rating, a target price, an upgrade or a favourable tone: a house can rate a stock BUY with 30&#37; implied upside and the row still reads None stated, because it did not say the stock was its pick.</p>"+
+    "<p><b>The signal reads the house's most recent publicly retrievable statement, not its best-ever one.</b></p>"+
+
+    "<h3 style='font-size:14px;margin:16px 0 8px;'>Which houses were searched</h3>"+
+    "<p>CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank Research, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang &mdash; <b>nine houses</b>. Publicly retrievable calls were found for <b>five</b> (CIMB Securities, RHB, Maybank IB, AmInvestment, Hong Leong IB).</p>"+
+
+    "<h3 style='font-size:14px;margin:16px 0 8px;'>Data-quality flags (&#9873;)</h3>"+
+    "<p>Raised by this dashboard, not by Kenanga.</p>"+
+    "<p><b>KAREX</b> and <b>LFG</b> (28 Aug) &mdash; the note prints the change arrow but not the previous rating, so the prior rating shown is inferred from the one-notch convention and labelled as inferred on the row. <b>TAANN</b> (28 Aug) &mdash; Kenanga's headline calls the half &ldquo;In Line&rdquo; while the body shows core profit at 42% of the full-year forecast, slightly behind pace; the note's own verdict is followed here and the divergence flagged. <b>HSPLANT</b> (27 Aug) &mdash; the note gives no explicit met/beat/missed verdict, so the in-line classification is this dashboard's inference from 47% of the house full-year forecast at the half-year mark; against consensus at 41% it would read as a shortfall. <b>MBMR</b> (28 Aug) &mdash; Kenanga's own filename reads <code>260808</code> though the report sits in the 28 August bundle and is dated 28 August, a typo in the source file name rather than in this dashboard. <b>SAMAIDEN</b> (27 Aug), <b>SIME</b> and <b>PADINI</b> (28 Aug) &mdash; flagged automatically because the Kenanga share price falls outside the KLSE 52-week range; this check runs on every row and fires whenever the two sources disagree, since the price is as at the report date and the range as at the market-data fetch.</p>"+
+    "<p><b>BIMB</b> (27 Aug) &mdash; named among that day's Result Notes in the Kenanga Today digest, but absent from the published bundle and returning 404 under every filename convention. Excluded from the count on the basis of the bundle contents, which are the authoritative record of what was actually published.</p>"+
+    "<p>Several Kenanga filenames reverse their field order (<code>SCGBHD-260827-RN-2QFY26</code>) or omit the usual <code>-Kenanga</code> suffix (ARMADA, TAANN). Reports under those patterns returned 404 against the standard convention and were recovered only by reading the bundle listing directly.</p>";
+  render();
+})();
+</script>
+</body>
+</html>

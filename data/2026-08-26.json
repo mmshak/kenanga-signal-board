@@ -1,0 +1,347 @@
+{
+ "date": "2026-08-26",
+ "schema": 1,
+ "daily": {
+  "klci": 1736.3,
+  "chg": -0.15,
+  "pct": -0.01,
+  "inst": 6.4,
+  "instPct": 40.1,
+  "retail": 74.8,
+  "retailPct": 31.3,
+  "foreign": -81.1,
+  "foreignPct": 28.6,
+  "ideas": "Results Note: KLK, PETDAG, SIMEPROP, SUNCON",
+  "news": [
+   {
+    "h": "Zetrix AI's 2Q profit up 35.0% on AI and blockchain contributions, declares 0.25 sen dividend",
+    "body": "Zetrix AI Bhd reported a 35.0% increase in second-quarter net profit, driven by contributions from its artificial intelligence platforms, Web3 application services, and sales of Zetrix blockchain nodes and tokens. Net profit for the three months ended 30 June 2026 was RM269.3m against RM199.1m a year earlier. Revenue grew 38.6% year-on-year to RM426.7m from RM307.9m. The company declared a first interim single-tier dividend of 0.25 sen per share.",
+    "takeaways": [
+     "A quarterly net profit of RM269.3m is substantial in absolute terms, not a speculative small-cap result.",
+     "Revenue growing faster than profit (38.6% against 35.0%) implies slight margin compression despite scale.",
+     "Earnings partly derive from sales of blockchain nodes and tokens, which is a less repeatable revenue source than platform services.",
+     "Declaring a dividend while growing signals the earnings are cash-backed, a useful check on Malaysia's AI-linked listings.",
+     "For a CEO the question is durability: distinguishing recurring AI platform revenue from one-off token and node sales is the key analytical task."
+    ]
+   },
+   {
+    "h": "Guan Chong 2Q earnings jump five times to new record",
+    "body": "Guan Chong Bhd reported a fivefold jump in second quarter earnings to a new record thanks to a sharp decline in costs that outpaced the fall in selling prices of cocoa products. Net profit for the three months ended 30 June 2026 was RM253.0m against RM48.2m a year earlier. Lower borrowings also cut finance costs even as revenue plunged 54.0% year-on-year to RM1.8b. Kenanga notes Middle East uncertainties could weigh on demand and broader consumer sentiment, while the onset of a very strong El Nino poses renewed supply risk.",
+    "takeaways": [
+     "Revenue fell 54% while profit rose fivefold — this is entirely a margin event, driven by input costs falling faster than selling prices.",
+     "Margin expansion of that magnitude is inherently temporary: it reflects the lag between cocoa input costs and product pricing resetting.",
+     "Kenanga itself flags two forward risks in the same note — Middle East demand effects and El Nino supply risk.",
+     "Lower borrowings cutting finance costs is the one durable improvement in the result.",
+     "A record set on a 54% revenue decline should be read as a cyclical peak rather than a new earnings base."
+    ]
+   },
+   {
+    "h": "Eastern & Oriental's 1Q net profit up 28.0%, revenue hits eight-year high",
+    "body": "Eastern & Oriental Bhd reported earnings rising nearly 28.0% as revenue jumped to an eight-year high on higher project progress billings. Net profit for the three months ended 30 June 2026 was RM58.1m against RM45.4m. Revenue jumped 53.4% year-on-year to RM281.5m, thanks to recently launched projects in Penang and Selangor. For its hospitality segment, E&O expects positive momentum to continue, supported by sustained regional travel demand.",
+    "takeaways": [
+     "An eight-year revenue high is a strong signal for Malaysian property, driven by progress billings on recently launched projects.",
+     "Revenue growing 53.4% against profit growth of 28.0% indicates margin dilution, common when newer lower-margin projects dominate the mix.",
+     "This supports Kenanga holding both SIMEPROP and SPSETIA at Outperform on well-below-book valuations.",
+     "It contrasts with LSH Capital's 43% profit fall the following day, where a completing project reduced recognition — the same mechanism running in reverse.",
+     "The hospitality commentary on sustained regional travel demand corroborates the 21 million tourist arrivals figure in the same day's macro section."
+    ]
+   },
+   {
+    "h": "Elridge Energy 2Q profit doubles on higher revenue, better product margins",
+    "body": "Elridge Energy Holdings Bhd, a biomass fuel producer, saw net profit double in the second quarter on higher revenue and biomass fuel product margins. Net profit for the three months ended 30 June 2026 rose to RM22.2m, its highest quarterly earnings since listing in August 2024, from RM12.4m a year earlier. Revenue rose 26.5% to RM131.7m from RM104.1m on higher palm kernel shell revenue which offset a decline in wood pellet sales volume. Gross margin improved to 29.5% from 20.5%.",
+    "takeaways": [
+     "Both revenue and margin improved together, with gross margin expanding nine percentage points to 29.5% — the higher quality combination.",
+     "Growth came from palm kernel shell offsetting weaker wood pellet volumes, so the mix shifted rather than demand broadly rising.",
+     "Palm kernel shell is a palm oil by-product, linking this to the same plantation strength behind Kenanga's GENP upgrade and TSH target raise.",
+     "A record quarter since its 2024 listing indicates the business is still scaling rather than at steady state.",
+     "It adds to the renewable energy theme Kenanga is constructive on across SLVEST, SAMAIDEN and PEKAT."
+    ]
+   },
+   {
+    "h": "Prolintas Infra maintains 3.18 sen interim distribution, 2Q earnings up 13.0%",
+    "body": "Prolintas Infra Business Trust reported a 13.4% year-on-year increase in second-quarter net profit thanks to a sharp decline in income tax expense, while toll collections rose on higher traffic volumes. Net profit for the three months ended 30 June 2026 climbed to RM8.7m from RM7.6m, even as revenue slipped 0.6% to RM80.3m. Income tax expense fell 65.9% to RM2.8m from RM8.3m. Highway operations revenue eased to RM80.2m, mainly due to a RM2.5m provision for potential revenue sharing.",
+    "takeaways": [
+     "The profit increase is almost entirely tax-driven: income tax expense fell 65.9%, while revenue actually declined 0.6%.",
+     "That makes this a low-quality earnings improvement — the operating business did not grow.",
+     "A RM2.5m provision for potential revenue sharing reduced highway revenue, an item worth monitoring for recurrence.",
+     "The maintained 3.18 sen distribution is the genuinely useful signal: infrastructure cash flows are stable enough to sustain payouts.",
+     "For income-focused positioning, stable toll distributions are a defensive comparator against the high-yield equities in this coverage."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Six countries want EU talks in September on taxing windfall profits of oil companies",
+    "region": "Europe",
+    "body": "Six European Union countries want the 27-nation EU to discuss in September a mechanism to tax windfall profits of oil companies triggered by Iran's blockade of the Strait of Hormuz.",
+    "takeaways": [
+     "Confirms the Strait of Hormuz blockade is severe enough to generate windfall profits worth taxing.",
+     "That same blockade is why Kenanga raised MISC's target price on elevated petroleum tanker rates.",
+     "Windfall taxes, if adopted, would reduce the incentive for oil majors to sustain elevated pricing.",
+     "No direct Malaysian exposure, but it signals the energy price spike is politically contested and therefore potentially temporary.",
+     "For anyone positioned in the tanker rate theme, political intervention is a risk distinct from supply and demand."
+    ]
+   },
+   {
+    "h": "Tabung Haji governance crucial, with wider implications for domestic market",
+    "region": "Malaysia",
+    "body": "The strengthening of the governance of Lembaga Tabung Haji is important from an economic perspective, taking into account the role and scale of the institution which manages the trust of more than 9.8 million depositors and holds a significant position as an institutional investor in the domestic economy.",
+    "takeaways": [
+     "Tabung Haji is a major domestic institutional investor, so its governance affects Bursa liquidity and demand.",
+     "With 9.8 million depositors, its allocation decisions move meaningful capital in local equities.",
+     "Local institutions were net buyers on three of the four sessions in this period, so domestic institutional support is currently offsetting foreign selling.",
+     "Governance reform at a large local fund could change that allocation behaviour in either direction.",
+     "Relevant as market-structure context rather than as a signal on any individual stock."
+    ]
+   },
+   {
+    "h": "Home Ownership Campaign and EV infrastructure among Budget 2027 proposals",
+    "region": "Malaysia",
+    "body": "Improvements to the governance of strata building management, the reintroduction of the Home Ownership Campaign, and the provision of electric vehicle charging infrastructure are among initiatives proposed to the Housing and Local Government Ministry for consideration in Budget 2027.",
+    "takeaways": [
+     "Reintroducing the Home Ownership Campaign would directly stimulate residential demand, benefiting SIMEPROP, SPSETIA and PARAMON.",
+     "Previous iterations of the campaign used stamp duty exemptions, which materially lifted transaction volumes.",
+     "EV charging infrastructure is relevant to the automotive names, though MBMR and TCHONG are more exposed to combustion vehicles.",
+     "These are stakeholder proposals rather than policy, so treat as an option on Budget 2027 rather than a commitment.",
+     "For developers, the timing matters: a campaign announcement typically pulls forward sales into the incentive window."
+    ]
+   },
+   {
+    "h": "Over 21 million international tourists visited Malaysia in 1H2026",
+    "region": "Malaysia",
+    "body": "Malaysia recorded more than 21 million international visitor arrivals in the first half of 2026, an increase of 2.5% despite geopolitical tensions in West Asia that led to the cancellation of 4,111 scheduled flights to the country.",
+    "takeaways": [
+     "Growth of 2.5% despite 4,111 flight cancellations shows underlying tourism demand is resilient.",
+     "The cancellations quantify the Middle East conflict's direct cost to Malaysian tourism.",
+     "This corroborates Eastern & Oriental's commentary on sustained regional travel demand supporting its hospitality segment.",
+     "It is a mild positive for AEON, whose property management division depends on mall footfall.",
+     "Recovery in flight capacity would be the upside trigger, since the demand appears to be capacity-constrained rather than weak."
+    ]
+   },
+   {
+    "h": "MAHA 2026 puts value creation at heart of food security",
+    "region": "Malaysia",
+    "body": "The Malaysia Agriculture, Horticulture and Agrotourism Exhibition aims to move Malaysian farmers and agrofood entrepreneurs further up the value chain by placing greater emphasis on downstream processing, modern technology and access to international markets.",
+    "takeaways": [
+     "Policy emphasis on downstream processing rather than raw commodity output is the notable direction.",
+     "Moving up the value chain is the same strategy KLK pursues in downstream palm, where Kenanga notes capex is now slowing.",
+     "Food security policy tends to support domestic agricultural producers, relevant to QL Resources.",
+     "This is directional policy signalling with no immediate earnings impact.",
+     "Worth watching for Budget 2027 measures that convert the intent into incentives."
+    ]
+   },
+   {
+    "h": "Tight-budget consumers drive Philippine firms to shift gears",
+    "region": "Asia Pacific",
+    "body": "From switching ingredients to staggering price increases, Philippine companies are rethinking strategies to cover rising costs without losing customers squeezed by inflation and a weak peso.",
+    "takeaways": [
+     "Regional consumer weakness is not confined to Malaysia — the same squeeze is visible in the Philippines.",
+     "Reformulating products and staggering price rises are the classic responses when pricing power is limited.",
+     "This reinforces the read behind Kenanga's PADINI downgrade on soft discretionary spending.",
+     "It also contextualises the Philippine central bank raising rates to 5.00% two days later, tightening into a squeezed consumer.",
+     "For regionally exposed Malaysian consumer names, the implication is that cost pass-through is getting harder across ASEAN."
+    ]
+   },
+   {
+    "h": "Singapore core inflation at 2.0% year-on-year in July, lower than expected",
+    "region": "Asia Pacific",
+    "body": "Singapore's key consumer price gauge rose 2.0% in July from a year earlier. The core inflation rate, which excludes private road transport and accommodation costs, was lower than the median forecast of 2.2% in a Reuters poll.",
+    "takeaways": [
+     "A downside inflation surprise in Singapore, in contrast to sticky inflation in the US and Europe.",
+     "It supports the view that Asian inflation is better contained than developed-market inflation.",
+     "That is consistent with Kenanga forecasting Malaysia's OPR flat at 2.75% through 2Q27.",
+     "Contained regional inflation reduces the pressure on Bank Negara to follow the Fed, BOJ and ECB.",
+     "For Malaysian banks, a stable policy rate means margins hinge on deposit competition rather than policy moves."
+    ]
+   },
+   {
+    "h": "Canada July wholesale trade most likely down 0.6%",
+    "region": "Americas",
+    "body": "Canadian wholesale trade most likely fell 0.6% in July from June, largely driven by lower sales in the agricultural supplies and mineral, ore and precious metal industry groups within the miscellaneous subsector.",
+    "takeaways": [
+     "A minor North American datapoint with no direct Malaysian read-across.",
+     "Weakness concentrated in agricultural supplies and minerals points to soft commodity-linked activity.",
+     "Softer global commodity demand is a mild negative for PMETAL's aluminium volumes.",
+     "It sits alongside the Canada-US tariff retaliation reported on 24 August, both signalling North American trade friction.",
+     "Included for completeness; not a basis for any positioning decision."
+    ]
+   },
+   {
+    "h": "UK productivity showing sustained improvement, economists say",
+    "region": "Europe",
+    "body": "Britain's economic productivity is starting to show signs of sustained improvement, potentially marking the end of a prolonged slump that began around the 2008 financial crisis and appeared to worsen after the COVID-19 pandemic.",
+    "takeaways": [
+     "Structural rather than cyclical news, and positive for the UK's medium-term growth capacity.",
+     "Improving productivity allows growth without proportionate inflation, easing pressure on the Bank of England.",
+     "No direct Malaysian exposure in this coverage universe.",
+     "It contrasts with the UK auto output decline reported two days later, so the improvement is not uniform across sectors.",
+     "Contextual only — relevant to global growth assumptions rather than to any position."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260826-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": null,
+   "result": "beat",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 21.2,
+   "ticker": "PETDAG",
+   "name": "Petronas Dagangan Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 21.6,
+   "price": 20,
+   "divYield": 5.87,
+   "high52": 23.8,
+   "low52": 17.12,
+   "mktSrc": "https://stockanalysis.com/quote/klse/PETDAG/",
+   "catalyst": "1HFY26 core earnings above both Kenanga's and street expectations on stronger-than-expected commercial margins; TP raised 1.9% to RM21.60.",
+   "quote": "PETDAG's 1HFY26 core earnings were above our and streets expectations due to stronger-than-expected commercial margins.",
+   "summary": [
+    "A beat against both the house and consensus, driven by margin rather than volume — commercial margins came in stronger than modelled.",
+    "Margin-led beats are generally higher quality than volume-led ones, since they are less dependent on demand holding up.",
+    "The target price rise of only 1.9% against a beat suggests Kenanga treats the margin strength as partly cyclical.",
+    "Rating held at Outperform, so the beat reinforced an existing constructive stance rather than changing it.",
+    "The commercial division is the swing factor to watch — retail fuel volumes are steadier, so margin is where the variance sits."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/PETDAG-260826-2Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "miss",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 25.2,
+   "analyst": {
+    "v": null,
+    "house": "Hong Leong IB, CIMB Securities",
+    "date": "26 Aug 2026",
+    "opp": true,
+    "note": "<b>Context this note does not carry:</b> on 24 Aug KLK took a <b>RM1.62b non-cash impairment</b> on its Synthomer stake &mdash; carrying value RM1.811b against a market value of RM190.1m &mdash; pushing 3QFY26 to a <b>RM1.34b attributable net loss</b> from RM346.6m profit a year earlier. Stripping it out, PAT was RM444.8m, up 28&#37; YoY. Kenanga&rsquo;s &quot;weaker-than-expected&quot; refers to <em>core</em> net profit, which excludes the impairment, so the two figures are not in conflict &mdash; but a reader of this row alone would not know the company posted a heavy headline loss. Two houses moved on 26 Aug: <b>Hong Leong Investment Bank downgraded to Hold</b> at <b>RM22.72</b> on &quot;less attractive valuations following the stock&rsquo;s recent share price run-up&quot;, while <b>CIMB Securities kept Buy</b> at <b>RM24.32</b>, arguing &quot;We see FY27 as a potential earnings reset year, as the Synthomer write-down substantially reduces the risk of further sizeable impairments&quot;. Both sit below Kenanga&rsquo;s RM25.80. This row reads <b>None stated</b> because neither house used pick language.",
+    "cites": [
+     [
+      "New Straits Times, 26 Aug 2026 &mdash; &lsquo;KLK gets mixed calls as analysts weigh earnings recovery against valuation&rsquo;",
+      "https://www.nst.com.my/business/corporate/2026/08/1518919/klk-gets-mixed-calls-analysts-weigh-earnings-recovery-against"
+     ],
+     [
+      "The Star, 24 Aug 2026 &mdash; &lsquo;KLK hit by RM1.6bil impairment, swings into 3Q26 loss&rsquo;",
+      "https://www.thestar.com.my/business/business-news/2026/08/24/klk-hit-by-rm16bil-impairment-swings-into-3q26-loss"
+     ]
+    ]
+   },
+   "ticker": "KLK",
+   "name": "Kuala Lumpur Kepong Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 25.8,
+   "price": 21.92,
+   "divYield": 2.86,
+   "high52": 23.18,
+   "low52": 18.6,
+   "mktSrc": "https://stockanalysis.com/quote/klse/KLK/",
+   "catalyst": "9MFY26 core net profit came to only 60% of Kenanga's and 67% of consensus full-year estimates — weaker than expected; TP nonetheless raised 2.4% to RM25.80.",
+   "quote": "KLK reported weaker-than-expected 9MFY26 core net profit (CNP) which came to only 60% of Kenanga, and 67% of consensus, full-year estimate.",
+   "summary": [
+    "An unusual pairing: a clear earnings miss at nine months, yet the target price was raised 2.4%.",
+    "At 60% of the full-year forecast with three quarters gone, a straight-line pace would require roughly 75% — the shortfall is material.",
+    "The TP rise despite the miss implies a valuation or base-year change is outweighing the earnings disappointment in Kenanga's model.",
+    "That divergence is worth scrutinising: the earnings signal and the valuation signal are pointing in opposite directions.",
+    "Rating held at Outperform, so Kenanga is looking through the weak nine months to the longer-term plantation cycle."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/KLK-260826-3Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 9.7,
+   "ticker": "SUNCON",
+   "name": "Sunway Construction Group Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 9.7,
+   "price": 8.08,
+   "analyst": {
+    "v": "positive",
+    "house": "RHB Investment Bank",
+    "date": "5 Jan 2026",
+    "note": "RHB names Sunway Construction a top pick in construction with a target price of <b>RM7.32</b>, alongside Gamuda and Kerjaya Prospek, on an overweight sector call describing 2026 as &quot;a year of execution which trickles down to earnings delivery for most contractors&quot;. <b>Read the date &mdash; this is the oldest call on the board.</b> Early January predates both the RM1.04b data centre contract on 24 Aug and Kenanga&rsquo;s raise to RM9.70, so RHB&rsquo;s RM7.32 is stale rather than a live disagreement, and the pick should be read as a standing sector preference, not a current price view.",
+    "cites": [
+     [
+      "The Edge Malaysia, 5 Jan 2026 &mdash; &lsquo;Malaysia&rsquo;s construction sector set to gain in 2026 as projects translate into earnings &mdash; RHB&rsquo;",
+      "https://theedgemalaysia.com/node/788007"
+     ]
+    ]
+   },
+   "divYield": 5.52,
+   "high52": 8.4,
+   "low52": 5.32,
+   "mktSrc": "https://stockanalysis.com/quote/klse/SUNCON/",
+   "catalyst": "1HFY26 core profit +24% YoY to RM218.6m, matching expectations at 52% of Kenanga's full-year estimate.",
+   "quote": "SUNCON delivered another strong set of 1HFY26 results, with core profit rising 24% YoY to RM218.6m, matching expectations.",
+   "summary": [
+    "A 24% profit increase that still lands exactly in line — Kenanga had already modelled this growth rate.",
+    "At 52% of the full-year forecast at the halfway mark, the year is tracking marginally ahead of a straight-line pace.",
+    "This follows the RM1.04b data centre contract win reported just two days earlier on 24 August, so order book and earnings are both moving favourably.",
+    "The target price of RM9.70 is unchanged from the level set at that 24 August contract win, which had already lifted it from RM8.40.",
+    "Kenanga's word 'another' signals a run of consistent delivery rather than a one-off strong quarter."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/SUNCON-260826-2Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "inline",
+   "conviction": "\"SIMEPROP is one of our Top Pick for the sector.\"",
+   "prevRating": "OP",
+   "prevTp": 2,
+   "analyst": {
+    "v": null,
+    "house": "RHB, Hong Leong IB, Maybank IB",
+    "date": "Jun&ndash;Jul 2026",
+    "note": "See the executive summary above for the named calls.",
+    "cites": []
+   },
+   "ticker": "SIMEPROP",
+   "name": "Sime Darby Property Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 2,
+   "price": 1.32,
+   "crossCheck": {
+    "note": "Three other houses cover it, all rated Buy, and none uses pick language &mdash; so the conviction here is Kenanga&rsquo;s alone. <b>RHB</b> Buy, target <b>RM2.15</b> and <b>Hong Leong Investment Bank</b> Buy, target <b>RM2.10</b> (both 10 Jun 2026, on the RM1.25b shariah-compliant data-centre and industrial fund; HLIB put at least RM62m of annual attributable net profit on it from 2H27). <b>Maybank Investment Bank</b> upgraded to Buy on 16 Jul 2026 at <b>RM1.51</b>, saying it upgrades &quot;given the recent weakness in its share price, with the total return now exceeding 10%&quot;. Note the spread: RM1.51 to RM2.15 around Kenanga&rsquo;s RM2.00 &mdash; the street agrees on direction and disagrees sharply on value, and Maybank&rsquo;s target sits about 25% below Kenanga&rsquo;s.",
+    "cites": [
+     [
+      "The Edge Malaysia, 10 Jun 2026 &mdash; Sime Darby Property venture fund",
+      "https://theedgemalaysia.com/node/806460"
+     ],
+     [
+      "The Edge Malaysia, 16 Jul 2026 &mdash; Maybank IB upgrades Sime Darby Property",
+      "https://theedgemalaysia.com/node/810945"
+     ]
+    ]
+   },
+   "divYield": 2.38,
+   "high52": 1.61,
+   "low52": 1.2,
+   "mktSrc": "https://stockanalysis.com/quote/klse/SIMEPROP/",
+   "catalyst": "1HFY26 sales of RM1.8b on track against a RM4b full-year target, with core net profit meeting expectations at 45% of both house and consensus forecasts.",
+   "quote": "SIMEPROP's 1HFY26 sales of RM1.8b is on track to meet its FY26 sales target of RM4b while the core net profit met expectation at 45% each of our and consensus full-year forecasts.",
+   "summary": [
+    "Two separate measures both tracking to plan: sales at RM1.8b against a RM4b target, and profit at 45% of full-year forecasts.",
+    "For a property developer, sales are the leading indicator and profit the lagging one, so having both on track is a genuinely clean read.",
+    "Kenanga and consensus land at exactly the same 45% figure, meaning there is no dispersion of view on this name.",
+    "Neither rating nor target price moved, consistent with a result that confirmed rather than changed the outlook.",
+    "At RM1.32 against a RM2.00 target the implied upside is wide, typical of Malaysian developers trading well below book."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/SIMEPROP-260826-2Q26-RN-Kenanga.pdf"
+  }
+ ]
+}

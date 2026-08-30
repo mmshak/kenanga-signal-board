@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="How to read the Kenanga Signal Board: what the two signal columns mean, what they do not mean, and the limits of the data.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%98%3C/text%3E%3C/svg%3E">
+<title>Signal Board User Guide</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+</head>
+<body>
+<style>
+  /* Palette inherited verbatim from the Signal Board so the guide reads as its sibling. */
+  :root{
+    color-scheme: light;
+    --paper:#F7F4EE; --paper-raised:#FFFFFF; --paper-sunken:#EFEAE1;
+    --ink:#221C18; --ink-muted:#6E6459; --ink-faint:#9C9186;
+    --border:#E2DACC; --border-strong:#CFC3B0;
+    --accent:#7A2331; --accent-ink:#FFFFFF; --accent-soft:#F2DEE0; --accent-soft-ink:#5C1621;
+    --good:#0ca30c; --good-soft:#DEF3DD;
+    --warning:#a86a00; --warning-soft:#FBEBCE;
+    --critical:#d03b3b; --critical-soft:#FBE2E1;
+    --focus:#2A5CB0;
+    --shadow: 0 1px 2px rgba(34,28,24,.06), 0 8px 24px -12px rgba(34,28,24,.18);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      color-scheme: dark;
+      --paper:#17130F; --paper-raised:#201A15; --paper-sunken:#120F0C;
+      --ink:#F2EBE1; --ink-muted:#B3A695; --ink-faint:#867A6C;
+      --border:#332A22; --border-strong:#4A3D31;
+      --accent:#E4879A; --accent-ink:#25060E; --accent-soft:#3B1A22; --accent-soft-ink:#F5C9D2;
+      --good:#5DD65D; --good-soft:#16311A;
+      --warning:#E8AF52; --warning-soft:#3A2A0E;
+      --critical:#F2807F; --critical-soft:#3B1A1A;
+      --focus:#7FA8F0;
+      --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px -12px rgba(0,0,0,.7);
+    }
+  }
+  :root[data-theme="dark"]{
+    color-scheme: dark;
+    --paper:#17130F; --paper-raised:#201A15; --paper-sunken:#120F0C;
+    --ink:#F2EBE1; --ink-muted:#B3A695; --ink-faint:#867A6C;
+    --border:#332A22; --border-strong:#4A3D31;
+    --accent:#E4879A; --accent-ink:#25060E; --accent-soft:#3B1A22; --accent-soft-ink:#F5C9D2;
+    --good:#5DD65D; --good-soft:#16311A;
+    --warning:#E8AF52; --warning-soft:#3A2A0E;
+    --critical:#F2807F; --critical-soft:#3B1A1A;
+    --focus:#7FA8F0;
+    --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px -12px rgba(0,0,0,.7);
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    background:var(--paper); color:var(--ink);
+    font-family:"IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+    font-size:15px; line-height:1.65;
+    margin:0; padding:40px 24px 72px;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:760px; margin:0 auto; display:flex; flex-direction:column; gap:34px;}
+
+  /* ---- masthead ---- */
+  .masthead{border-bottom:2px solid var(--ink); padding-bottom:18px;
+    display:flex; flex-direction:column; gap:8px;}
+  .eyebrow{font-size:11px; letter-spacing:.13em; text-transform:uppercase;
+    color:var(--accent); font-weight:600;}
+  h1{font-family:"Newsreader", Georgia, serif; font-weight:600;
+    font-size:clamp(30px,5vw,42px); line-height:1.1; margin:0; text-wrap:balance;
+    letter-spacing:-.015em;}
+  .standfirst{font-size:16px; color:var(--ink-muted); max-width:60ch; margin:0;}
+
+  h2{font-family:"Newsreader", Georgia, serif; font-weight:600;
+    font-size:23px; line-height:1.25; margin:0 0 4px; text-wrap:balance;}
+  h3{font-size:13px; letter-spacing:.06em; text-transform:uppercase;
+    color:var(--ink-muted); font-weight:600; margin:0 0 8px;}
+  section{display:flex; flex-direction:column; gap:14px;}
+  p{margin:0; max-width:66ch;}
+  a{color:var(--accent); text-underline-offset:2px;}
+  a:focus-visible, .step:focus-visible{outline:2px solid var(--focus); outline-offset:3px; border-radius:3px;}
+
+  /* ---- numbered walkthrough: a real sequence, so numbers earn their place ---- */
+  ol.steps{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:2px;
+    counter-reset:s;}
+  ol.steps li{counter-increment:s; display:grid; grid-template-columns:30px minmax(0,1fr); gap:14px;
+    padding:11px 0; border-bottom:1px solid var(--border); align-items:start;}
+  ol.steps li:last-child{border-bottom:0;}
+  ol.steps li::before{content:counter(s); font-family:"IBM Plex Mono",monospace;
+    font-size:12px; font-weight:600; color:var(--accent);
+    padding-top:2px; font-variant-numeric:tabular-nums;}
+
+  /* ---- signal definition cards ---- */
+  .signals{display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:16px;}
+  .sig{background:var(--paper-raised); border:1px solid var(--border);
+    border-radius:10px; padding:18px 20px; box-shadow:var(--shadow);
+    display:flex; flex-direction:column; gap:9px;}
+  .sig h4{margin:0; font-size:16px; font-weight:600;}
+  .sig p{font-size:14px; color:var(--ink-muted);}
+  .chip{display:inline-flex; align-items:center; gap:5px; align-self:flex-start;
+    font-family:"IBM Plex Mono",monospace; font-size:11px; font-weight:600;
+    letter-spacing:.03em; padding:3px 9px; border-radius:20px;}
+  .chip.pos{background:var(--good-soft); color:var(--good);}
+  .chip.none{background:var(--paper-sunken); color:var(--ink-muted);}
+
+  /* ---- the hero warning: the single biggest misreading risk on the board ---- */
+  .warn{background:var(--accent-soft); border:1px solid var(--accent);
+    border-left-width:4px; border-radius:8px; padding:20px 22px;
+    display:flex; flex-direction:column; gap:9px;}
+  .warn h2{color:var(--accent-soft-ink); font-size:21px;}
+  .warn p{color:var(--accent-soft-ink); max-width:62ch;}
+  .warn strong{font-weight:600;}
+
+  /* ---- tables ---- */
+  .tw{overflow-x:auto; border:1px solid var(--border); border-radius:9px;
+    background:var(--paper-raised);}
+  table{width:100%; border-collapse:collapse; font-size:14px; min-width:440px;}
+  th,td{text-align:left; padding:10px 14px; border-bottom:1px solid var(--border);
+    vertical-align:top;}
+  th{font-size:11px; letter-spacing:.06em; text-transform:uppercase;
+    color:var(--ink-muted); font-weight:600; background:var(--paper-sunken);
+    white-space:nowrap;}
+  tr:last-child td{border-bottom:0;}
+  td.mark{font-family:"IBM Plex Mono",monospace; font-size:15px; white-space:nowrap;
+    color:var(--accent); font-weight:600;}
+  td b{font-weight:600;}
+
+  .mono{font-family:"IBM Plex Mono",monospace; font-size:13px;}
+  .muted{color:var(--ink-muted);}
+
+  /* ---- limits list ---- */
+  ul.limits{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:12px;}
+  ul.limits li{padding-left:16px; border-left:2px solid var(--border-strong); font-size:14.5px;}
+  ul.limits b{font-weight:600;}
+
+  .foot{border-top:1px solid var(--border); padding-top:16px;
+    font-size:12.5px; color:var(--ink-faint); display:flex; flex-direction:column; gap:8px;}
+</style>
+
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="eyebrow">User guide</div>
+    <h1>Kenanga Signal Board</h1>
+    <p class="standfirst">A daily digest of Kenanga Investment Bank research, with every figure
+      checked against the source report. This page explains how to read it &#8212; and, more importantly,
+      how not to misread it.</p>
+  </header>
+
+  <section>
+    <h2>Reading a row in thirty seconds</h2>
+    <ol class="steps">
+      <li><div><b>Pick a date</b> from the dropdown at the top. Each date is one trading day's published bundle.</div></li>
+      <li><div><b>Check the verification strip</b> underneath. It tells you how many reports were verified against their source PDFs, and how many carry a data-quality flag.</div></li>
+      <li><div><b>Section 1</b> is the market backdrop from that morning's <i>Kenanga Today</i> digest &#8212; index close, fund flows, corporate news, macro.</div></li>
+      <li><div><b>Section 2</b> is every report Kenanga published that day. Filter by report type using the dropdown.</div></li>
+      <li><div><b>Click any row</b> to open the detail panel: rating, target price, five takeaways, the quoted line the summary rests on, and a link to the original PDF.</div></li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>The two signal columns</h2>
+    <p>Both columns answer one narrow question: <b>did an analyst declare conviction in their own
+      words?</b> Not "is this a good stock" &#8212; that is what the Rating and Target price columns are for.</p>
+
+    <div class="signals">
+      <div class="sig">
+        <h4>Kenanga Signal</h4>
+        <span class="chip pos">POSITIVE</span>
+        <p>Kenanga called the stock a <b>Top Pick</b>, one of its <b>sector picks</b>, or the
+          <b>most attractive among peers</b>. The exact sentence is quoted on the row so you can
+          check it yourself.</p>
+      </div>
+      <div class="sig">
+        <h4>Analyst Signal</h4>
+        <span class="chip pos">POSITIVE</span>
+        <p>The same test applied to <b>a named non-Kenanga house</b> &#8212; CIMB Securities, RHB,
+          AmInvestment and others, as reported by The Edge Malaysia. Every call names the house
+          and carries its date.</p>
+      </div>
+    </div>
+
+    <p class="muted">Nothing is inferred. A house can rate a stock BUY with 30% implied upside and
+      the row still reads None stated, because it never said the stock was its pick.</p>
+  </section>
+
+  <div class="warn">
+    <h2>&#8220;None stated&#8221; is not a negative view</h2>
+    <p>This is the one thing worth getting right. <strong>None stated is a fact about the report,
+      not a judgement on the stock.</strong> It means the analyst did not use pick language in
+      that note &#8212; nothing more.</p>
+    <p>Plenty of Outperform-rated stocks with rising targets read None stated. <strong>For the
+      house's actual stance, read the Rating and Target price columns.</strong> The signal columns
+      only tell you where someone went further and said so explicitly.</p>
+  </div>
+
+  <section>
+    <h2>Marks you'll see on a row</h2>
+    <div class="tw">
+      <table>
+        <thead>
+          <tr><th>Mark</th><th>Meaning</th><th>What to do</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="mark">&#9873;</td>
+            <td><b>Data-quality flag.</b> Something in this row needed judgement &#8212; a figure inferred
+              rather than printed, a share price outside its 52-week range, a misdated source file.</td>
+            <td>Open the row. The flag explains itself in full.</td>
+          </tr>
+          <tr>
+            <td class="mark">&#8646;</td>
+            <td><b>House divergence.</b> A named house rates this stock the opposite way to Kenanga.</td>
+            <td>Read it. Disagreement between two houses that both did the work is where the
+              decision actually sits.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="muted">Use the <b>Stated conviction</b> filter to see only rows where either signal
+      is Positive.</p>
+  </section>
+
+  <section>
+    <h2>What this board is not</h2>
+    <ul class="limits">
+      <li><div><b>Not investment advice.</b> Ratings and target prices are Kenanga's. The five takeaways
+        under each row are AI-written interpretation, labelled as such, with every claim traceable
+        to a quoted line in the cited report.</div></li>
+      <li><div><b>Not full analyst coverage.</b> Malaysian broker research is client-only. The Analyst
+        Signal draws on what The Edge Malaysia and the press report publicly &#8212; nine houses searched,
+        publicly retrievable calls found for five. <b>&#8220;None stated&#8221; means no conviction found in
+        accessible sources, never that no house holds a view.</b></div></li>
+      <li><div><b>Not always same-day.</b> Most Analyst Signal calls are standing sector picks published
+        weeks or months before the Kenanga report beside them. Each row's summary says how old the
+        call is.</div></li>
+      <li><div><b>Not a consensus average.</b> Anonymous aggregates were deliberately removed. Where no
+        second house covers a stock, the board says so rather than filling the gap &#8212; Kenanga states
+        it has sole coverage of TGUAN and BPPLAS, for instance.</div></li>
+      <li><div><b>Market data is not Kenanga's.</b> 52-week ranges and dividend yields come from KLSE
+        market data and are live as at fetch, not as at the report date. That timing gap is what
+        raises most &#9873; flags.</div></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>How it stays current</h2>
+    <p>The board updates automatically <b>Tuesday to Saturday at midnight Malaysia time</b>, each
+      run adding the previous trading day. Kenanga publishes in the morning, so a Tuesday midnight
+      run collects Monday's reports.</p>
+    <p>Before anything publishes, ten automated checks run against the new data &#8212; schema, source
+      URLs, duplicates, cross-date reconciliation, and a check that every quoted conviction sentence
+      is a genuine quotation. <b>If any blocking check fails, nothing publishes and the previous
+      day's board stays live.</b> The verification strip on each date shows what passed.</p>
+    <p class="muted">A missing day means Kenanga published no bundle, or a check failed. It never
+      means a day was invented to fill the gap.</p>
+  </section>
+
+  <footer class="foot">
+    <div>Research content is Kenanga Investment Bank's copyright, paraphrased and cited here, never
+      reproduced in full. Every row links to the original PDF.</div>
+    <div>Internal research tool. Not investment advice, and not for redistribution.</div>
+  </footer>
+
+</div>
+
+</body>
+</html>

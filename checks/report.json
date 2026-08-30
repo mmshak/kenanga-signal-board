@@ -1,0 +1,88 @@
+{
+ "generatedAt": "2026-08-30T22:42:37.864Z",
+ "dates": [
+  "2026-08-24",
+  "2026-08-26",
+  "2026-08-27",
+  "2026-08-28"
+ ],
+ "rows": 60,
+ "verified": 60,
+ "checksRun": [
+  "C01-parse",
+  "C02-schema",
+  "C03-source",
+  "C04-conviction",
+  "C05-analyst",
+  "C06-dupe",
+  "C07-crossdate",
+  "C08-range",
+  "C09-flag",
+  "C10-src"
+ ],
+ "pdfLivenessChecked": null,
+ "blocking": [],
+ "warnings": [
+  {
+   "id": "C08-range",
+   "date": "2026-08-27",
+   "row": "HSPLANT",
+   "msg": "share price RM2.54 is ABOVE the 52-week high RM2.41 (cross-source timing)"
+  },
+  {
+   "id": "C08-range",
+   "date": "2026-08-27",
+   "row": "SAMAIDEN",
+   "msg": "share price RM1.7 is ABOVE the 52-week high RM1.62 (cross-source timing)"
+  },
+  {
+   "id": "C08-range",
+   "date": "2026-08-28",
+   "row": "SIME",
+   "msg": "share price RM2.51 is ABOVE the 52-week high RM2.47 (cross-source timing)"
+  },
+  {
+   "id": "C08-range",
+   "date": "2026-08-28",
+   "row": "PADINI",
+   "msg": "share price RM1.34 is BELOW the 52-week low RM1.39 (cross-source timing)"
+  },
+  {
+   "id": "C08-range",
+   "date": "2026-08-28",
+   "row": "TAANN",
+   "msg": "share price RM6.05 is ABOVE the 52-week high RM5.8 (cross-source timing)"
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-08-27",
+   "row": "HSPLANT",
+   "msg": "This note states no explicit met/beat/missed verdict. The result is classified here as in line because 47% of Kenanga's own full-year forecast at the half-year mark is close to a straight-line pace; against consensus, at 41%, it would read as a shortfall. The classification is this dashboard's inference, not Kenanga's stated wording. It does not change the Kenanga Signal, which does not depend on it."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-08-28",
+   "row": "KAREX",
+   "msg": "The report confirms this is an upgrade and states the TP rise as +11%, but doesn't print the previous rating letter or exact prior TP in the extract pulled for this build — shown here as Market Perform to Outperform and RM0.53 (both inferred: the rating from the standard one-notch-upgrade convention, the TP by dividing RM0.59 by 1.11) rather than as printed figures. Worth confirming against the full PDF."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-08-28",
+   "row": "LFG",
+   "msg": "The extract pulled for this build confirms a rating downgrade and states the prior TP (RM1.91) explicitly, but does not print the specific prior rating letter — shown here as Outperform to Market Perform based on the report's consistently bullish framing of the long-term thesis elsewhere in the note, not a printed figure. Worth confirming against the full PDF."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-08-28",
+   "row": "MBMR",
+   "msg": "Kenanga's own filename for this report is dated 260808 (8 Aug) while the report was published in the 28 Aug 2026 bundle — a typo in the source file name, not an error in this dashboard. The report content is dated 28 Aug."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-08-28",
+   "row": "TAANN",
+   "msg": "Kenanga's own headline calls the half 'Good 1H, In Line', while the body notes core profit at 42% of the house forecast and 41% of consensus — slightly behind a 50% straight-line pace. The classification here follows Kenanga's stated 'In Line' verdict rather than the percentage, but the two readings differ and the note is worth opening directly."
+  }
+ ],
+ "verdict": "PASS"
+}

@@ -1,0 +1,888 @@
+{
+ "date": "2026-08-27",
+ "schema": 1,
+ "daily": {
+  "klci": 1748.5,
+  "chg": 12.21,
+  "pct": 0.7,
+  "inst": 108.3,
+  "instPct": 41.6,
+  "retail": -202.7,
+  "retailPct": 27.7,
+  "foreign": 94.4,
+  "foreignPct": 30.7,
+  "ideas": "Results Note: ABMB, BPPLAS, HSPLANT, IJM, KIMLUN, MEDIA, OPPSTAR, PARAMON, PBBANK, PETGAS, PPB, QL, SAMAIDEN, SCGBHD, SWIFT, SUPERMX, TCHONG, TGUAN; Company Update: D&O, KEYFIELD, KLK",
+  "news": [
+   {
+    "h": "MN Holdings' FY26 net profits near-double on data centre power infrastructure boom",
+    "body": "Main Market-listed infrastructure utilities specialist MN Holdings Bhd capped off financial year 2026 with stellar results, driven by exponential growth in its substation engineering unit amid Malaysia's rapid data centre expansion. For the full year ended 30 June 2026, net profit jumped 93% to RM92.1m from RM47.8m in FY25, annual revenue rose 61% to RM869.2m, and profit before tax expanded 90% to RM130.3m.",
+    "takeaways": [
+     "The clearest evidence in this period that data centre demand is converting into realised profit, not just order-book announcements.",
+     "Profit growth of 93% outpacing revenue growth of 61% means margins expanded materially — substation work is being priced well, not bought cheaply.",
+     "This validates the same demand Kenanga cites for TENAGA, whose Genco division profit leapt 239% on data-centre-driven electricity demand.",
+     "It also supports SCGBHD and CHEEDING, both exposed to grid and transmission spending, and SUNCON's RM1.04b data centre contract.",
+     "For a CEO the signal is that the bottleneck is electrical infrastructure rather than construction, so value is accruing to specialists rather than general contractors."
+    ]
+   },
+   {
+    "h": "CBH Engineering bags RM60.0m data centre contract",
+    "body": "CBH Engineering Holding Bhd has accepted a work order for the design, supply, installation and commissioning of a Consumer Substation (Phase 2) and medium voltage installation and commissioning works for a data centre in Johor, worth RM59.6m. The completion date is 19 September 2027, covering electrical infrastructure design, supply, installation, testing and commissioning including high voltage substation and medium voltage works.",
+    "takeaways": [
+     "A second data centre power award in the same session, from a different contractor to MN Holdings — the pipeline is broad rather than concentrated.",
+     "The Johor location ties directly to the Johor-Singapore Special Economic Zone investment flow Kenanga reported on 24 August.",
+     "Phase 2 wording implies a follow-on award, which usually signals satisfactory Phase 1 delivery and a higher probability of further phases.",
+     "A completion date of September 2027 means revenue recognition spans two financial years rather than landing in one.",
+     "The consistent theme across both awards is substations and medium-voltage works — the specific chokepoint in connecting data centres to the grid."
+    ]
+   },
+   {
+    "h": "LSH Capital Q3 earnings fall 43.0% to RM15.0m on lower property revenue",
+    "body": "Lim Seong Hai Capital Bhd's net profit fell 42.6% in the third quarter ended 30 June 2026, weighed down by lower revenue recognition from its property development segment. Net profit declined to RM15.0m from RM26.1m, while revenue fell 7.5% to RM112.7m, with property development revenue decreasing to RM40.5m from RM49.2m due to lower recognition from the LSH Segar project nearing completion.",
+    "takeaways": [
+     "The cause is recognition timing rather than lost demand — the LSH Segar project is nearing completion, so less revenue is booked.",
+     "Profit falling 42.6% on a revenue decline of only 7.5% shows how operationally geared property developers are to recognition schedules.",
+     "This cuts against the stronger property signals from Eastern & Oriental and SIMEPROP in the same week.",
+     "The lesson for reading Malaysian developers is that quarterly earnings track construction progress, not sales — PARAMON's miss the same day was launch-driven for the same structural reason.",
+     "The relevant question for a CEO is replenishment: whether new launches are timed to replace LSH Segar as it completes."
+    ]
+   },
+   {
+    "h": "PMW International secures additional RM19.3m TNB contract",
+    "body": "PMW International Bhd's subsidiary PMW Concrete Industries received an optional value contract worth RM19.3m from Tenaga Nasional Bhd for the additional supply and delivery of spun concrete poles for TNB's distribution network. This optional contract, equivalent to 30% of the initial RM64.4m contract value, brings the revised total to RM83.7m.",
+    "takeaways": [
+     "TNB exercising a 30% option rather than tendering afresh indicates distribution network spending is running ahead of the original plan.",
+     "Spun concrete poles are distribution-level rather than transmission-level infrastructure, so this reflects last-mile grid expansion.",
+     "That corroborates TENAGA's own reported 13.7% industrial electricity demand growth — the network is being extended to serve it.",
+     "It is a mildly positive read for CHEEDING, though Kenanga trimmed CHEEDING's target on competitive intensity in exactly this kind of tendering.",
+     "Option exercises are the cheapest form of order book growth, requiring no new bidding cost or margin concession."
+    ]
+   },
+   {
+    "h": "CC International to acquire tax client base for RM1.6m",
+    "body": "CC International Bhd is acquiring the entire tax client base of Seremban-based Lew Pow Onn & Co for an initial RM1.6m as it expands its professional services business. Its wholly owned subsidiary Cheng & Co Taxation Sdn Bhd will take over as tax agent for the clients, with pricing based on estimated net annual tax fees expected between 1 August 2026 and 31 July 2027.",
+    "takeaways": [
+     "A very small transaction at RM1.6m, included by Kenanga for completeness rather than market significance.",
+     "The structure is notable: pricing based on estimated forward annual fees rather than historical earnings, which shifts retention risk to the buyer.",
+     "Client-base acquisitions in professional services depend entirely on relationships transferring, which is rarely guaranteed.",
+     "There is no read-across to any name in this dashboard's covered universe.",
+     "Included here only because it appeared in Kenanga's own corporate news selection for the day."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "IMF chief urges govts to tackle rising fiscal risks",
+    "region": "Global",
+    "body": "International Monetary Fund Managing Director Kristalina Georgieva urged governments to address growing fiscal challenges and central bankers to stay committed to lowering inflation as the global economy faces mounting pressures.",
+    "takeaways": [
+     "A general warning rather than a Malaysia-specific one, but it frames the fiscal constraint behind Budget 2027.",
+     "The dual message — fiscal restraint plus continued disinflation — implies less policy support for growth globally.",
+     "For Malaysia it reinforces the subsidy rationalisation direction visible in the diesel and fuel price items this period.",
+     "Fiscal tightening tends to weigh on the construction and infrastructure names that depend on public spending.",
+     "Set against that, Malaysia's data centre and industrial investment is privately funded, insulating names like SUNCON and SCGBHD from public budget pressure."
+    ]
+   },
+   {
+    "h": "BOJ chief Ueda to skip Jackson Hole, shifts market focus to G20",
+    "region": "Asia Pacific",
+    "body": "Bank of Japan board member Naoki Tamura will attend the US Federal Reserve's annual gathering in Jackson Hole on behalf of Governor Kazuo Ueda, the central bank said.",
+    "takeaways": [
+     "Procedural in itself, but it removes an expected venue for BOJ policy signalling and shifts attention to the G20.",
+     "It sits alongside the more substantive expectation that the BOJ raises rates to 1.25% in September.",
+     "A rising yen raises input costs for Malaysian importers of Japanese components, relevant to MBMR and TCHONG.",
+     "MBMR explicitly credited a stronger MYR against JPY for lower operating costs, so that benefit would reverse.",
+     "The signal for a CEO is to hedge JPY exposure ahead of September rather than after."
+    ]
+   },
+   {
+    "h": "US said to eye China overcapacity tariffs of 7.5% before Xi visits",
+    "region": "Global",
+    "body": "The US is set to impose a 7.5% tariff on Chinese goods over allegations of excess manufacturing capacity before a planned summit between Presidents Xi Jinping and Donald Trump next month.",
+    "takeaways": [
+     "Tariffs imposed immediately before a summit are usually negotiating leverage rather than a settled position.",
+     "At 7.5% the rate is moderate, suggesting calibrated pressure rather than an attempt to halt trade.",
+     "Trade diversion from Chinese manufacturing has historically benefited Malaysian electronics assemblers such as INARI and NATGATE.",
+     "The offsetting risk is that Chinese overcapacity redirects into Southeast Asian markets, pressuring domestic manufacturers on price.",
+     "Kenanga separately flags Chinese logistics firms' aggressive pricing as a competitive threat, which is the same dynamic in a different sector."
+    ]
+   },
+   {
+    "h": "Unsubsidised fuel prices to rise five sen per litre from Aug 27",
+    "region": "Malaysia",
+    "body": "Retail prices for unsubsidised fuels will rise by five sen per litre for the week starting 27 August due to high global crude oil prices stemming from geopolitical volatility.",
+    "takeaways": [
+     "A direct, immediate cost increase for any business running transport or logistics.",
+     "It lands the same week Kenanga reports SWIFT raising container haulage rates by 5-10%, showing the cost pass-through in action.",
+     "For consumers it adds to the cost-of-living pressure Kenanga cites behind PADINI's downgrade on soft discretionary spending.",
+     "The link back to geopolitical volatility ties fuel prices to the same Middle East conflict driving this period's commodity moves.",
+     "Fuel retailers face margin risk rather than benefit — Petron's near-zero gross margin the following day illustrates the point."
+    ]
+   },
+   {
+    "h": "China banks use overnight rate for bonds as PBOC reform widens",
+    "region": "Asia Pacific",
+    "body": "Chinese lenders have started pricing bonds off the nation's overnight funding cost, an indication that it is increasingly the benchmark for the financial system.",
+    "takeaways": [
+     "A structural reform of Chinese monetary plumbing rather than a market-moving event.",
+     "Moving to an overnight benchmark generally improves policy transmission, making PBOC actions more effective.",
+     "More effective Chinese stimulus transmission would eventually support commodity demand, relevant to PMETAL.",
+     "There is no near-term implication for any Malaysian name in this coverage.",
+     "Worth tracking as context for how quickly future Chinese easing feeds through to regional demand."
+    ]
+   },
+   {
+    "h": "BOJ to speed up its tightening campaign, raise key rate to 1.25% in September",
+    "region": "Asia Pacific",
+    "body": "The Bank of Japan will move more swiftly than previously expected and raise interest rates again in September, a majority of economists said in a Reuters poll, with the terminal rate also likely to be higher.",
+    "takeaways": [
+     "This is the substantive version of the BOJ story: a specific rate, 1.25%, and a specific month, September.",
+     "A higher terminal rate matters more than the next move, implying a sustained rather than one-off yen support.",
+     "Kenanga's own Ringgit Weekly names BOJ tightening as a headwind to the ringgit's carry appeal.",
+     "Despite that, Kenanga still forecasts the ringgit strengthening to 3.95 by 4Q26, judging dollar weakness the larger force.",
+     "For importers of Japanese inputs the planning assumption should be a firmer yen from September onward."
+    ]
+   },
+   {
+    "h": "US inflation remains sticky in July; second-quarter GDP growth unrevised at 1.5%",
+    "region": "Americas",
+    "body": "Annual US inflation unexpectedly held steady in July, well above the Federal Reserve's 2% target for the 65th straight month, and the pause in the decline from a recent war-induced peak is likely to intensify the central bank's debate over whether interest rates should be lifted or held steady.",
+    "takeaways": [
+     "Sixty-five consecutive months above target is the striking figure — this is entrenched rather than transitory inflation.",
+     "The description of a war-induced peak ties US inflation back to the same Middle East conflict running through this period.",
+     "Growth unrevised at 1.5% alongside sticky inflation is a stagflationary mix that offers the Fed no easy path.",
+     "It keeps US rates higher for longer, sustaining the pressure on emerging market capital flows.",
+     "That macro backdrop is consistent with foreign investors being net sellers of Malaysian equities across most sessions this period."
+    ]
+   },
+   {
+    "h": "Fed seen a bit more likely to hike after inflation data",
+    "region": "Americas",
+    "body": "The case for a Federal Reserve interest-rate hike gained a little steam after a government report showed inflation in July was a touch stronger than economists had expected.",
+    "takeaways": [
+     "Market pricing shifting toward a hike rather than a cut is a meaningful change in direction, not just degree.",
+     "A US hike would widen the gap against Malaysia's OPR, which Kenanga forecasts flat at 2.75% through 2Q27.",
+     "Wider rate differentials typically pressure the ringgit, working against Kenanga's own strengthening forecast.",
+     "For Malaysian banks a stable domestic OPR means net interest margins are driven by deposit competition rather than policy — the pressure PBBANK named.",
+     "The practical planning assumption is no relief in global funding costs into 2027."
+    ]
+   },
+   {
+    "h": "Interest rates must rise further on inflation risks, ECB's Schnabel says",
+    "region": "Europe",
+    "body": "European Central Bank board member Isabel Schnabel said interest rates must rise further as the conflict in the Middle East drags on and the strong euro zone economy poses upside risks to inflation.",
+    "takeaways": [
+     "An explicit hawkish statement from an ECB board member, more concrete than meeting minutes.",
+     "It attributes the pressure to both the Middle East conflict and eurozone strength — external and domestic causes together.",
+     "With the Fed, BOJ and ECB all tightening, Malaysia's flat rate path is increasingly the exception.",
+     "Sustained global tightening tends to compress emerging market valuations regardless of local fundamentals.",
+     "This is background rather than actionable, but it frames why foreign flows into Bursa have been negative through most of this period."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260827-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "This note states no explicit met/beat/missed verdict. The result is classified here as in line because 47% of Kenanga's own full-year forecast at the half-year mark is close to a straight-line pace; against consensus, at 41%, it would read as a shortfall. The classification is this dashboard's inference, not Kenanga's stated wording. It does not change the Kenanga Signal, which does not depend on it.",
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "MP",
+   "prevTp": 2,
+   "ticker": "HSPLANT",
+   "name": "Hap Seng Plantations Holdings Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 3,
+   "price": 2.54,
+   "divYield": 3.23,
+   "high52": 2.41,
+   "low52": 1.84,
+   "mktSrc": "https://stockanalysis.com/quote/klse/HSPLANT/",
+   "catalyst": "1HFY26 core net profit +12% YoY at 47% of Kenanga's full-year estimate; upgraded to Outperform with TP raised 50% to RM3.00.",
+   "quote": "HSPLANT's 1HFY26 core net profit (CNP) grew 12% YoY, amounting to 47% of Kenanga, but just 41% of consensus, full-year estimate.",
+   "summary": [
+    "The largest target-price raise in the entire verified dataset: +50%, from RM2.00 to RM3.00, alongside a full rating upgrade.",
+    "What makes it striking is that the result itself was unremarkable — 47% of the full-year forecast at the halfway mark is close to on-plan.",
+    "So the re-rating is being driven by the outlook and valuation rather than by this half's earnings, which is a stronger statement of changed view.",
+    "Consensus sat at 41% against Kenanga's 47%, meaning the street was materially more pessimistic going in.",
+    "A 50% TP move on an in-line result is the kind of call worth reading the full note on before acting — the conviction is in the forward assumptions."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/HSPLANT-260827-2Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "beat",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 1.7,
+   "ticker": "SAMAIDEN",
+   "name": "Samaiden Group Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 2.5,
+   "price": 1.7,
+   "divYield": 0.92,
+   "high52": 1.62,
+   "low52": 0.895,
+   "mktSrc": "https://stockanalysis.com/quote/klse/SAMAIDEN/",
+   "catalyst": "FY26 core net profit RM36m exceeded expectations at 117% of Kenanga's full-year forecast; TP raised 47% to RM2.50.",
+   "quote": "SAMAIDEN's FY26 results exceeded expectations, with CNP of RM36m accounting for 117% of our full-year forecast and 111% of consensus estimate.",
+   "summary": [
+    "A genuine and large beat: full-year profit came in at 117% of Kenanga's own forecast and 111% of consensus.",
+    "The 47% target-price raise is proportionate to the beat, unlike several other names this period where TP moves were token.",
+    "Beating both house and street by double digits means the whole market underestimated this renewable energy contractor.",
+    "The share price of RM1.70 exactly equals the previous target price, so the old target had already been fully reached before this raise.",
+    "Rating held at Outperform — the stance did not need changing because it was already positive; only the numbers moved."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/SAMAIDEN-260827-4Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "UP",
+   "prevTp": 0.32,
+   "ticker": "SWIFT",
+   "name": "Swift Haulage Berhad",
+   "type": "Results Note",
+   "rating": "UP",
+   "tp": 0.35,
+   "price": 0.39,
+   "divYield": 4.21,
+   "high52": 0.475,
+   "low52": 0.32,
+   "mktSrc": "https://stockanalysis.com/quote/klse/SWIFT/",
+   "catalyst": "1HFY26 met expectations with core net profit +7% on higher haulage rates and stronger freight forwarding margins, offsetting a warehousing segment that fell into losses; TP raised 9.4% to RM0.35.",
+   "quote": "SWIFT's 1HFY26 results met expectations. Its core net profit rose 7% driven by higher container haulage rate, reduction of lower-margin land transportation routes, and a surge in freight forwarding profit margin which more than offset weaker warehousing segment which also turned into losses in 2Q.",
+   "summary": [
+    "This note is the direct precursor to the 28 August upgrade — it leaves SWIFT at Underperform with a RM0.35 target, exactly the prior values the next day's note cites.",
+    "The warehousing segment turning to losses in 2Q is the weakness that the following day's note argues will reverse from 2HFY26.",
+    "Three positives offset that one negative: higher haulage rates, pruning of low-margin land transport routes, and a surge in freight forwarding margins.",
+    "The 9.4% target-price raise while still rated Underperform shows Kenanga improving its numbers before it was willing to improve its stance.",
+    "Reading this note alongside 28 August shows the full arc of a rating change forming over two consecutive sessions."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/SWIFT-260827-2Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "beat",
+   "conviction": null,
+   "prevRating": "UP",
+   "prevTp": 0.36,
+   "ticker": "TCHONG",
+   "name": "Tan Chong Motor Holdings Berhad",
+   "type": "Results Note",
+   "rating": "UP",
+   "tp": 0.39,
+   "price": 0.48,
+   "divYield": null,
+   "high52": 0.97,
+   "low52": 0.46,
+   "mktSrc": "https://stockanalysis.com/quote/klse/TCHONG/",
+   "catalyst": "1HFY26 core net loss narrowed 39% to RM53.7m, beating expectations on favourable forex and a better margin mix from the new Nissan Serena C28; TP raised 8.3% to RM0.39.",
+   "quote": "TCHONG beat expectations as it recorded narrower 1HFY26 core net loss of RM53.7m (-39%) on favourable forex and better margin mix with the new launch of all-new Nissan Serena C28 model in March 2026.",
+   "summary": [
+    "A beat that is still a loss: the company remains loss-making, but the loss narrowed 39% and came in well ahead of forecast.",
+    "Two drivers, one durable and one not — the new Serena C28 launch improves mix structurally, while favourable forex can reverse.",
+    "Kenanga keeps the Underperform rating despite the beat, so the improvement is not yet enough to change the stance on a loss-making carmaker.",
+    "The share price of RM0.48 sits well above the RM0.39 target, meaning Kenanga sees roughly 19% downside from here.",
+    "This is one of only two Underperform-rated names in the verified set, alongside POS on 17 August."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/TCHONG-260827-2Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "beat",
+   "conviction": null,
+   "prevRating": "UP",
+   "prevTp": 0.24,
+   "ticker": "SUPERMX",
+   "name": "Supermax Corporation Berhad",
+   "type": "Results Note",
+   "rating": "UP",
+   "tp": 0.24,
+   "price": 0.31,
+   "divYield": null,
+   "high52": 0.535,
+   "low52": 0.25,
+   "mktSrc": "https://stockanalysis.com/quote/klse/SUPERMX/",
+   "catalyst": "4QFY26 turnaround with core net loss of RM34m far better than Kenanga's forecast RM116m loss, though ASPs are normalising in 1QFY27; rating and TP unchanged.",
+   "quote": "4QFY26 Turnaround, but ASP Normalising in 1QFY27",
+   "summary": [
+    "A very large beat in relative terms — a RM34m loss against a forecast RM116m loss, and consensus at RM125m.",
+    "Despite that, neither rating nor target price moved, which is a strong signal Kenanga sees the improvement as temporary.",
+    "The reason is in the note's own headline: average selling prices are already normalising in 1QFY27, so the turnaround is not expected to persist.",
+    "The share price of RM0.31 sits about 29% above the RM0.24 target, so Kenanga sees meaningful downside.",
+    "This is a case where a headline beat and a bearish stance coexist logically — the beat came from pricing that is already reversing."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/SUPERMX-260827-4Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 1.8,
+   "ticker": "KEYFIELD",
+   "name": "Keyfield International Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 1.88,
+   "price": 1.35,
+   "divYield": 5.88,
+   "high52": 1.78,
+   "low52": 1.3,
+   "mktSrc": "https://stockanalysis.com/quote/klse/KEYFIELD/",
+   "catalyst": "Acquiring a trailing suction hopper dredger for USD24.7m, which Kenanga views as a significant discount to original construction cost; TP raised 4.4% to RM1.88.",
+   "quote": "KEYFIELD is making an acquisition of a TSHD (dredging vessel) for USD24.7m, which in our view is at a significant discount relative to the original cost of construction.",
+   "summary": [
+    "The investment case here is asset value: Kenanga's view is that the vessel is being bought well below its original construction cost.",
+    "Buying distressed marine assets below replacement cost is a balance-sheet-led way to add earnings capacity without building it.",
+    "The target price rise of 4.4% is modest, indicating the accretion is real but not transformative to the earnings base.",
+    "Rating held at Outperform, so this strengthens an existing positive stance rather than creating one.",
+    "Execution risk sits in utilisation — a discounted vessel only creates value if it is contracted and working."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/KEYFIELD-260827-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "miss",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 13,
+   "ticker": "PPB",
+   "name": "PPB Group Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 13.4,
+   "price": 10.26,
+   "divYield": 4.13,
+   "high52": 12.28,
+   "low52": 8.81,
+   "mktSrc": "https://stockanalysis.com/quote/klse/PPB/",
+   "catalyst": "1HFY26 core net profit 5% below Kenanga's expectation at 37% of its full-year estimate, though TP was raised 3.1% to RM13.40.",
+   "quote": "PPB's 1HFY26 core net profit (CNP) was 5% lower than we had expected, coming to only 37% of Kenanga, but 44% of consensus, full-year estimate.",
+   "summary": [
+    "A modest miss against Kenanga's forecast, though the gap to consensus was smaller — 44% versus the house's 37%.",
+    "At 37% of the full-year number by the halfway mark, the year is materially back-loaded and relies on a stronger second half.",
+    "The target price was nonetheless raised 3.1%, so a valuation input is outweighing the earnings shortfall.",
+    "Rating held at Outperform; PPB's Wilmar associate stake typically drives the valuation more than its own operating divisions.",
+    "The wide gap between the RM10.26 price and RM13.40 target reflects the persistent holding-company discount on this structure."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/PPB-260827-2Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "inline",
+   "conviction": "\"We maintain our OUTPERFORM call and GGM-derived PBV TP of RM5.95 for this top banking pick.\"",
+   "prevRating": "OP",
+   "prevTp": 5.95,
+   "ticker": "PBBANK",
+   "name": "Public Bank Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 5.95,
+   "price": 5.15,
+   "analyst": {
+    "v": "positive",
+    "house": "CIMB Securities &amp; AmInvestment Bank Research",
+    "date": "14 &amp; 22 Jul 2026",
+    "note": "See the executive summary above for the named calls.",
+    "cites": [
+     [
+      "The Edge Malaysia, 14 Jul 2026 &mdash; CIMB Securities&rsquo; top-pick list",
+      "https://theedgemalaysia.com/node/810552"
+     ],
+     [
+      "The Edge Malaysia, 24 Jun 2026 &mdash; CIMB Securities on banks",
+      "https://theedgemalaysia.com/node/808047"
+     ],
+     [
+      "The Edge Malaysia, 22 Jul 2026 &mdash; &lsquo;Time to favour banks again as valuations and yields shine, analysts say&rsquo;",
+      "https://theedgemalaysia.com/node/810720"
+     ]
+    ]
+   },
+   "crossCheck": {
+    "note": "The one stock in the period where three houses name it independently. <b>CIMB Securities</b> listed Public Bank among its top picks on 14 Jul 2026 &mdash; &quot;Its top picks are Dialog Group Bhd, Malayan Cement Bhd, IOI Corp Bhd, QL Resources Bhd, KPJ Healthcare Bhd, Public Bank Bhd, Telekom Malaysia Bhd, Gamuda Bhd, Hong Leong Bank Bhd, RHB Bank Bhd, Tenaga Nasional Bhd, Malaysian Pacific Industries Bhd and Axis Real Estate Investment Trust&quot; &mdash; on a target of <b>RM5.50</b> set in its 24 Jun banking note. <b>AmInvestment Bank Research</b> named it a banking top pick on 22 Jul 2026 alongside RHB Bank and Hong Leong Bank. Both predate Kenanga&rsquo;s 27 Aug note by five to six weeks, so this is standing conviction rather than a same-day chorus. And note CIMB&rsquo;s RM5.50 is about 8% below Kenanga&rsquo;s RM5.95 &mdash; the agreement is on the name, not on the price.",
+    "cites": [
+     [
+      "The Edge Malaysia, 14 Jul 2026 &mdash; CIMB Securities&rsquo; top-pick list",
+      "https://theedgemalaysia.com/node/810552"
+     ],
+     [
+      "The Edge Malaysia, 24 Jun 2026 &mdash; CIMB Securities on banks",
+      "https://theedgemalaysia.com/node/808047"
+     ],
+     [
+      "The Edge Malaysia, 22 Jul 2026 &mdash; &lsquo;Time to favour banks again as valuations and yields shine, analysts say&rsquo;",
+      "https://theedgemalaysia.com/node/810720"
+     ]
+    ]
+   },
+   "divYield": 4.34,
+   "high52": 5.29,
+   "low52": 4.18,
+   "mktSrc": "https://stockanalysis.com/quote/klse/PBBANK/",
+   "catalyst": "1HFY26 net profit RM3.58b (+2% YoY) in line at 48% of full-year forecasts, with above-industry loan growth and a 12.2% ROE.",
+   "quote": "PBBANK's 1HFY26 net profit came in line as above-industry loan growth and sturdy NOII anchored its sturdy 12.2% ROE, despite some industry competition for deposits.",
+   "summary": [
+    "Above-industry loan growth is the standout: the bank is taking share rather than merely growing with the market.",
+    "A 12.2% ROE is among the strongest in Malaysian banking and is what sustains the premium valuation.",
+    "Deposit competition is explicitly flagged as a headwind, which is the main threat to funding costs and therefore to margins.",
+    "Non-interest income (NOII) is doing real work alongside lending, diversifying the earnings mix.",
+    "Neither rating nor target price moved, consistent with the most predictable large-cap bank in the coverage delivering as expected."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/PBBANK-260827-2Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 5.5,
+   "ticker": "ABMB",
+   "name": "Alliance Bank Malaysia Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 5.5,
+   "price": 4.8,
+   "analyst": {
+    "v": "positive",
+    "house": "Hong Leong Investment Bank Research",
+    "date": "22 Jul 2026",
+    "note": "HLIB names Alliance Bank its top pick in the sector &mdash; notable because HLIB simultaneously <em>downgraded</em> the banking sector to neutral from overweight, citing an &quot;absence of immediate near-term catalysts&quot;. So this is a preferred name inside a sector the same house has turned cautious on, which is a narrower endorsement than it first appears. <b>Read the date:</b> a standing pick from five weeks before the Kenanga report beside it. Note also that neither CIMB Securities nor AmInvestment includes Alliance Bank in their own banking picks &mdash; the conviction here is one house&rsquo;s, not the street&rsquo;s.",
+    "cites": [
+     [
+      "The Edge Malaysia, 22 Jul 2026 &mdash; &lsquo;Time to favour banks again as valuations and yields shine, analysts say&rsquo;",
+      "https://theedgemalaysia.com/node/810720"
+     ]
+    ]
+   },
+   "divYield": 3.99,
+   "high52": 5.59,
+   "low52": 4.27,
+   "mktSrc": "https://stockanalysis.com/quote/klse/ABMB/",
+   "catalyst": "1QFY27 net profit +25% YoY with a headline ROE of 11.3%, judged in line as some recoveries are unlikely to recur.",
+   "quote": "ABMB's 1QFY27 net profit jumped 25% YoY with a headline ROE of 11.3% though we consider it inline with our expectation",
+   "summary": [
+    "A 25% profit jump treated as merely in line — the qualifier matters more than the headline.",
+    "Kenanga explicitly flags that some recoveries in the quarter are unlikely to recur, so the underlying run rate is lower than reported.",
+    "At 28% of the full-year forecast in the first quarter, the bank is tracking slightly ahead of a straight-line pace even after that caveat.",
+    "An 11.3% ROE is respectable for a smaller domestic bank though below Public Bank's 12.2% reported the same day.",
+    "Neither rating nor target price moved, consistent with Kenanga looking through a flattered headline to a steady underlying trend."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/ABMB-260827-1Q27-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "MP",
+   "prevTp": 18.8,
+   "ticker": "PETGAS",
+   "name": "Petronas Gas Berhad",
+   "type": "Results Note",
+   "rating": "MP",
+   "tp": 18.8,
+   "price": 17.58,
+   "divYield": 4.1,
+   "high52": 19.3,
+   "low52": 16.62,
+   "mktSrc": "https://stockanalysis.com/quote/klse/PETGAS/",
+   "catalyst": "1HFY26 core profit RM897.3m met expectations at 47% of Kenanga's full-year estimate, with 2Q ticking up 2% QoQ.",
+   "quote": "PETGAS delivered a satisfactory set of 1HFY26 results, with 2QFY26 core profit ticking up 2% QoQ to RM454.0m and 1HFY26 core profit to RM897.3m, making up 47%/48% of house/street's full-year FY26 estimates.",
+   "summary": [
+    "A textbook utility result: a 2% sequential increase and half-year profit at 47% of forecast, almost exactly on plan.",
+    "Kenanga's own word is 'satisfactory', which fairly describes a regulated-asset business delivering predictable returns.",
+    "House and street estimates are within one percentage point of each other, so there is effectively no dispersion of view.",
+    "Neither rating nor target price moved, and Market Perform reflects limited upside rather than any operational concern.",
+    "For a regulated gas transmission business, predictability is the product — the absence of surprises is the result working as intended."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/PETGAS-260827-2Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 3.35,
+   "ticker": "IJM",
+   "name": "IJM Corporation Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 3.35,
+   "price": 2.86,
+   "divYield": 6.25,
+   "high52": 2.99,
+   "low52": 2.05,
+   "mktSrc": "https://stockanalysis.com/quote/klse/IJM/",
+   "catalyst": "1QFY27 core profit RM115.6m (+214% QoQ, +31% YoY) met expectations at 23% of Kenanga's full-year estimate.",
+   "quote": "IJM reported 1QFY27 core profit of RM115.6m (+214% QoQ; +31% YoY) which met expectations.",
+   "summary": [
+    "The 214% sequential jump looks dramatic but reflects a weak comparative quarter rather than a step change in run rate.",
+    "The 31% year-on-year increase is the more meaningful figure and points to genuine underlying improvement.",
+    "At 23% of the full-year forecast in the first quarter, IJM is tracking almost exactly to a straight-line pace.",
+    "Neither rating nor target price moved, consistent with a result that landed where the model expected.",
+    "Alongside SUNCON and KIMLUN in this period, Kenanga is broadly constructive on Malaysian construction, supported by the data centre build-out."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/IJM-260827-1Q27-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 4.5,
+   "analyst": {
+    "v": "positive",
+    "house": "CIMB Securities",
+    "date": "14 Jul 2026",
+    "note": "CIMB Securities names QL Resources in its 14 Jul 2026 top-pick list: &quot;Its top picks are Dialog Group Bhd, Malayan Cement Bhd, IOI Corp Bhd, QL Resources Bhd, KPJ Healthcare Bhd, Public Bank Bhd, Telekom Malaysia Bhd, Gamuda Bhd, Hong Leong Bank Bhd, RHB Bank Bhd, Tenaga Nasional Bhd, Malaysian Pacific Industries Bhd and Axis Real Estate Investment Trust&quot;. No individual target price accompanied QL in that note. <b>Read the date:</b> this is a standing pick from six weeks before Kenanga&rsquo;s 27 Aug results note, not a reaction to those results. Kenanga also rates QL Outperform, so the two are aligned in direction; CIMB is the one putting conviction behind it.",
+    "cites": [
+     [
+      "The Edge Malaysia, 14 Jul 2026 &mdash; CIMB Securities&rsquo; top-pick list",
+      "https://theedgemalaysia.com/node/810552"
+     ]
+    ]
+   },
+   "ticker": "QL",
+   "name": "QL Resources Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 4.5,
+   "price": 4,
+   "divYield": 1.34,
+   "high52": 4.71,
+   "low52": 3.28,
+   "mktSrc": "https://stockanalysis.com/quote/klse/QL/",
+   "catalyst": "1QFY27 net profit RM100.8m within expectations at 21% of full-year forecast, with marine product manufacturing profit up 52% YoY on strong fishmeal performance.",
+   "quote": "QL's higher-margin marine product manufacturing (MPM) segment remained key earnings growth driver (+52% YoY) on strong fishmeal performance",
+   "summary": [
+    "Growth is concentrated in the highest-margin division: marine product manufacturing profit rose 52% YoY on fishmeal strength.",
+    "Because MPM carries higher margins than the rest of the group, the mix shift lifts blended profitability as well as absolute profit.",
+    "Fishmeal performance is partly weather- and catch-dependent, so this driver is less controllable than it appears.",
+    "At 21% of the full-year forecast in 1Q, the year is tracking marginally behind a straight-line pace, consistent with normal seasonality.",
+    "Neither rating nor target price moved, so this confirmed rather than changed Kenanga's view."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/QL-260827-1Q27-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "beat",
+   "conviction": null,
+   "prevRating": "UP",
+   "prevTp": 0.43,
+   "ticker": "OPPSTAR",
+   "name": "Oppstar Berhad",
+   "type": "Results Note",
+   "rating": "MP",
+   "tp": 0.75,
+   "price": 0.79,
+   "divYield": null,
+   "high52": 1.06,
+   "low52": 0.175,
+   "mktSrc": "https://stockanalysis.com/quote/klse/OPPSTAR/",
+   "catalyst": "1QFY27 a strong beat, returning to profit after seven consecutive loss-making quarters; upgraded to Market Perform with TP raised 74% to RM0.75.",
+   "quote": "OPPSTAR's 1QFY27 came in as a strong beat, turning profitable after seven consecutive loss-making quarters.",
+   "summary": [
+    "The largest target-price move anywhere in this dataset: +74%, from RM0.43 to RM0.75, alongside a rating upgrade.",
+    "Breaking a seven-quarter run of losses is a genuine inflection rather than an incremental improvement.",
+    "The quality of the turn matters: net profit reached 52% of the full-year forecast on only 26% of forecast revenue, so this is margin recovery, not a revenue surge.",
+    "Kenanga still stops at Market Perform rather than Outperform, and the share price of RM0.79 already exceeds the RM0.75 target.",
+    "So the house has caught up to the turnaround rather than getting ahead of it — the re-rating is acknowledgement, not a call for further upside."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/OPPSTAR-260827-1QFY27-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "miss",
+   "conviction": null,
+   "prevRating": "MP",
+   "prevTp": 0.34,
+   "ticker": "MEDIA",
+   "name": "Media Prima Berhad",
+   "type": "Results Note",
+   "rating": "UP",
+   "tp": 0.28,
+   "price": 0.295,
+   "divYield": 5.36,
+   "high52": 0.38,
+   "low52": 0.27,
+   "mktSrc": "https://stockanalysis.com/quote/klse/MEDIA/",
+   "catalyst": "FY26 results fell short on weaker advertising expenditure across key segments including digital media; downgraded to Underperform with TP cut 17.6% to RM0.28.",
+   "quote": "MEDIA's FY26 results fell short of expectations, largely due to weaker adex across key segments, including digital media.",
+   "summary": [
+    "A downgrade to Underperform, one of only a handful of outright bearish calls Kenanga made across this fortnight.",
+    "The most concerning detail is that digital media weakened alongside traditional segments — digital is meant to be the offset to legacy decline.",
+    "Advertising expenditure is a discretionary, cyclical spend, so this reads as exposure to a broader advertiser pullback rather than a company-specific stumble.",
+    "The miss itself was modest at 91% of forecast; the downgrade reflects the direction of travel more than the size of the shortfall.",
+    "At RM0.295 against a RM0.28 target, Kenanga now sees the stock as slightly overvalued as well as structurally challenged."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/MEDIA-260827-4QFY26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 2.76,
+   "ticker": "SCGBHD",
+   "name": "Southern Cable Group Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 2.98,
+   "price": 2.58,
+   "divYield": 1.45,
+   "high52": 2.68,
+   "low52": 1.6,
+   "mktSrc": "https://stockanalysis.com/quote/klse/SCGBHD/",
+   "catalyst": "2QFY26 within expectations, 1HFY26 core net profit RM76m at 49% of both house and consensus full-year forecasts; TP raised 8% to RM2.98.",
+   "quote": "SCGBHD's 2QFY26 results came in within expectations, with CNP of RM41m bringing 1HFY26 CNP to RM76m, accounting for 49% of both our and consensus full-year forecasts.",
+   "summary": [
+    "An almost perfectly on-plan half: 49% of the full-year forecast at the halfway point, against both house and consensus.",
+    "Kenanga and consensus landing on the identical 49% figure means there is no dispersion of view on this name at all.",
+    "The 8% target-price raise on an in-line result indicates the re-rating comes from the forward outlook rather than this half's numbers.",
+    "Cable demand is tied to grid and data centre build-out, the same structural theme running through TENAGA, SUNCON and CHEEDING in this period.",
+    "Rating held at Outperform, so the raise strengthens an existing positive stance rather than marking a change of view."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/SCGBHD-260827-RN-2QFY26-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "beat",
+   "conviction": "\"TGUAN is one of our sector picks for the quarter.\"",
+   "prevRating": "OP",
+   "prevTp": 1.73,
+   "analyst": {
+    "v": null,
+    "house": "None &mdash; Kenanga states sole coverage",
+    "date": "15 Jul 2026",
+    "note": "See the executive summary above.",
+    "cites": []
+   },
+   "ticker": "TGUAN",
+   "name": "Thong Guan Industries Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 1.73,
+   "price": 1.61,
+   "crossCheck": {
+    "note": "<b>No cross-check is possible, and that is the finding.</b> Kenanga states in its own words that it is the only house covering this stock: &quot;we maintain our &lsquo;outperform&rsquo; call on Thong Guan Industries Bhd&hellip;and BP Plastics Holding Bhd&hellip;as our sector picks, of which we have sole coverage&quot; (15 Jul 2026). A previous version of this page showed a street average target of RM2.58 against Kenanga&rsquo;s RM1.73, drawn from an aggregator that did not display the number of analysts behind it. Given Kenanga&rsquo;s statement of sole coverage, that figure cannot be reconciled and has been removed rather than shown with a caveat.",
+    "cites": [
+     [
+      "The Edge Malaysia Weekly, 20&ndash;26 Jul 2026 &mdash; Brokers Digest",
+      "https://theedgemalaysia.com/node/811798"
+     ]
+    ]
+   },
+   "divYield": 4.33,
+   "high52": 1.68,
+   "low52": 1.04,
+   "mktSrc": "https://stockanalysis.com/quote/klse/TGUAN/",
+   "catalyst": "1HFY26 net profit RM76.9m beat expectations at 71% of the full-year forecast, core profit surging 99% on higher plastic packaging volumes and prices lifted by Middle East supply disruption.",
+   "quote": "TGUAN's 1HFY26 results beat our expectation at 71% of our full-year forecast with core net profit surging by 99% led by increased plastic packaging sales volume as well as higher selling prices arising from the supply disruption caused by the Middle East conflict.",
+   "summary": [
+    "One of the largest beats of the period: 71% of the full-year forecast delivered in the first half, with core profit up 99%.",
+    "Both volume and price rose together, which is the strongest possible combination for a packaging manufacturer.",
+    "The price gain is explicitly attributed to Middle East supply disruption, making it a geopolitical windfall rather than structural pricing power.",
+    "That distinction is the key risk: if the disruption eases, the pricing benefit unwinds while the added volume may persist.",
+    "Kenanga left both rating and target price unchanged despite the beat, which is a notably cautious response and consistent with viewing the gain as temporary."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/TGUAN-260827-2Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "beat",
+   "conviction": "\"BPPLAS is one of our sector picks for the quarter.\"",
+   "prevRating": "OP",
+   "prevTp": 0.87,
+   "analyst": {
+    "v": null,
+    "house": "None &mdash; Kenanga states sole coverage",
+    "date": "15 Jul 2026",
+    "note": "See the executive summary above.",
+    "cites": []
+   },
+   "ticker": "BPPLAS",
+   "name": "BP Plastics Holding Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 0.87,
+   "price": 0.76,
+   "crossCheck": {
+    "note": "<b>No cross-check is possible, and that is the finding.</b> Same position as TGUAN: Kenanga states it has &quot;sole coverage&quot; of both stocks (15 Jul 2026). The previously shown street average of RM1.00 against Kenanga&rsquo;s RM0.87 came from an aggregator with no visible analyst count and has been removed as unverifiable rather than presented as agreement.",
+    "cites": [
+     [
+      "The Edge Malaysia Weekly, 20&ndash;26 Jul 2026 &mdash; Brokers Digest",
+      "https://theedgemalaysia.com/node/811798"
+     ]
+    ]
+   },
+   "divYield": 4.29,
+   "high52": 0.945,
+   "low52": 0.59,
+   "mktSrc": "https://stockanalysis.com/quote/klse/BPPLAS/",
+   "catalyst": "1HFY26 core earnings RM19.8m beat expectations at 77% of the full-year forecast, described by Kenanga as a bumper quarter.",
+   "quote": "BPPLAS' 1HFY26 core earnings of RM19.8m beat our expectation at 77% of our full-year forecast.",
+   "summary": [
+    "At 77% of the full-year forecast by the halfway mark, this is the largest proportional beat in the verified set.",
+    "Kenanga's own phrase, a bumper quarter, signals the scale was well outside its modelled range.",
+    "Read with TGUAN's 71% on the same day, both Malaysian plastic packagers beat heavily — pointing to a sector-wide pricing event rather than company execution.",
+    "That shared driver is the Middle East supply disruption TGUAN's note names explicitly, so the same reversal risk applies here.",
+    "Rating and target price both unchanged, again indicating Kenanga treats the windfall as unlikely to repeat."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/BPPLAS-260827-2Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 1.5,
+   "ticker": "KIMLUN",
+   "name": "Kimlun Corporation Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 1.5,
+   "price": 0.92,
+   "divYield": 4.08,
+   "high52": 1.52,
+   "low52": 0.91,
+   "mktSrc": "https://stockanalysis.com/quote/klse/KIMLUN/",
+   "catalyst": "1HFY26 met expectations with core profit RM34.8m at 43% of the full-year forecast; 2QFY26 core profit doubled sequentially to RM23.6m.",
+   "quote": "KIMLUN delivered a satisfactory set of 1HFY26 results, with 2QFY26 core profit doubling QoQ to RM23.6m.",
+   "summary": [
+    "The sequential doubling is the operationally meaningful figure — the second quarter carried roughly two-thirds of the half-year profit.",
+    "At 43% of the full-year forecast at the midpoint the year is modestly back-loaded, which the improving quarterly trend supports.",
+    "Neither rating nor target price moved, so this confirmed rather than changed Kenanga's position.",
+    "Alongside IJM and SUNCON, this is the third Malaysian contractor Kenanga rates Outperform in this period, consistent with a constructive construction view.",
+    "At RM0.92 against a RM1.50 target the implied upside is among the widest in the set, reflecting a persistent small-cap contractor discount."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/KIMLUN-260827-2Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": "miss",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 1.47,
+   "ticker": "PARAMON",
+   "name": "Paramount Corporation Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 1.47,
+   "price": 1.01,
+   "divYield": 7.43,
+   "high52": 1.11,
+   "low52": 0.97,
+   "mktSrc": "https://stockanalysis.com/quote/klse/PARAMON/",
+   "catalyst": "1HFY26 net profit RM43.4m fell 14% short of expectations on slower launches and property sales of RM413m GDV, 21% below the same period last year.",
+   "quote": "PARAMON's 1HFY26 net profit of RM43.4m fell short of our expectations by 14%, mainly due to slower launches and lower sales achieved of RM413m in GDV which was 21% softer than the corresponding period last year.",
+   "summary": [
+    "The miss is launch-driven rather than demand-driven: fewer projects were brought to market, so less revenue could be recognised.",
+    "The 21% year-on-year fall in sales value is the more forward-looking concern, since today's sales become tomorrow's recognised revenue.",
+    "That makes this a weaker signal than a pure timing miss — the replenishment of the sales pipeline itself slowed.",
+    "Kenanga nonetheless held both rating and target price, implying it expects launches to catch up in the second half.",
+    "This sits against stronger property signals from SIMEPROP and E&O in the same week, so the softness looks company-specific rather than sectoral."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/PARAMON-260827-2Q26-RN-RISE-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": null,
+   "conviction": "\"FY27 ratings of 1.6x PBV and 13x PER are the most attractive among integrated peers.\" (A peer-comparative valuation claim rather than a named pick.)",
+   "prevRating": "OP",
+   "prevTp": 25.8,
+   "analyst": {
+    "v": null,
+    "house": "Hong Leong IB, CIMB Securities",
+    "date": "26 Aug 2026",
+    "opp": true,
+    "note": "See the executive summary above for the named calls.",
+    "cites": []
+   },
+   "ticker": "KLK",
+   "name": "Kuala Lumpur Kepong Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 25.8,
+   "price": 20,
+   "crossCheck": {
+    "note": "This is the sharpest disagreement on the board, and it needs the headline number stated first. On 24 Aug KLK took a <b>RM1.62b non-cash impairment</b> on its Synthomer stake &mdash; carrying value RM1.811b written down against a market value of RM190.1m &mdash; pushing 3QFY26 to a <b>RM1.34b attributable net loss</b> against RM346.6m profit a year earlier. Excluding it, PAT was RM444.8m, up 28% YoY. Kenanga&rsquo;s &quot;weaker-than-expected&quot; refers to <em>core</em> net profit, which strips the impairment out, so the two are not in conflict &mdash; but the headline loss does not appear anywhere in Kenanga&rsquo;s framing. Two houses moved on 26 Aug: <b>Hong Leong Investment Bank downgraded to Hold</b> at <b>RM22.72</b>, citing &quot;less attractive valuations following the stock&rsquo;s recent share price run-up&quot;, while <b>CIMB Securities held Buy</b> at <b>RM24.32</b>, arguing &quot;We see FY27 as a potential earnings reset year, as the Synthomer write-down substantially reduces the risk of further sizeable impairments&quot;. Both sit below Kenanga&rsquo;s RM25.80, and one of the two has stepped off the buy side entirely.",
+    "cites": [
+     [
+      "New Straits Times, 26 Aug 2026 &mdash; &lsquo;KLK gets mixed calls as analysts weigh earnings recovery against valuation&rsquo;",
+      "https://www.nst.com.my/business/corporate/2026/08/1518919/klk-gets-mixed-calls-analysts-weigh-earnings-recovery-against"
+     ],
+     [
+      "The Star, 24 Aug 2026 &mdash; &lsquo;KLK hit by RM1.6bil impairment, swings into 3Q26 loss&rsquo;",
+      "https://www.thestar.com.my/business/business-news/2026/08/24/klk-hit-by-rm16bil-impairment-swings-into-3q26-loss"
+     ]
+    ]
+   },
+   "divYield": 2.86,
+   "high52": 23.18,
+   "low52": 18.6,
+   "mktSrc": "https://stockanalysis.com/quote/klse/KLK/",
+   "catalyst": "Post-results briefing gave several reassurances: downstream capex is slowing, the de-gearing target is unchanged and the dividend is likely to persist or rise.",
+   "quote": "KLK's post-9MFY26 results briefing provided several reassurances. Downstream capex is slowing, de-gearing target has not changed and current dividend is likely to persist (or raised).",
+   "summary": [
+    "This briefing directly addresses the weak nine-month result reported the previous day, and is the more informative of the two notes.",
+    "Slowing downstream capex plus an unchanged de-gearing target means free cash flow should improve even if earnings stay soft.",
+    "The dividend being likely to persist or rise is the clearest signal management is confident in that cash generation.",
+    "Kenanga calls FY27 valuations the most attractive among integrated peers, which is a relative-value conviction statement rather than a general endorsement.",
+    "Rating and target price both held; the value here is the reassurance on balance sheet and payout rather than any change to numbers."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/KLK-260827-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": null,
+   "conviction": null,
+   "prevRating": "MP",
+   "prevTp": 0.44,
+   "ticker": "D&O",
+   "name": "D&O Green Technologies Berhad",
+   "type": "Company Updates",
+   "rating": "MP",
+   "tp": 0.44,
+   "price": 0.425,
+   "divYield": null,
+   "high52": 1.6,
+   "low52": 0.31,
+   "mktSrc": "https://stockanalysis.com/quote/klse/D%26O/",
+   "catalyst": "Despite sequential improvement in 2QFY26 operating performance, inventory impairment remains a key near-term earnings overhang with further write-offs expected into 1HFY27.",
+   "quote": "Despite the sequential improvement in D&O's 2QFY26 operating performance, inventory impairment remains a key near-term earnings overhang, with further write-offs expected in 2H and potentially into 1HFY27.",
+   "summary": [
+    "Operations are improving sequentially, but the balance sheet is the constraint — inventory impairment is the stated overhang.",
+    "Kenanga expects further write-offs in 2H and potentially into 1HFY27, so this is a multi-period drag rather than a single clearing event.",
+    "Write-offs are non-cash but they signal inventory carried above realisable value, which usually implies pricing pressure in the end market.",
+    "Neither rating nor target price moved, and the share price sits near the target, leaving little implied upside.",
+    "Read with the 24 August results note, the pattern is consistent: the operating trend is recovering while accounting clean-up continues to suppress reported earnings."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/08/DO-260827-CU-Kenanga.pdf"
+  }
+ ]
+}
