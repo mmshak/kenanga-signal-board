@@ -125,7 +125,8 @@ tied to the Claude subscription rather than a metered API key, and **expires in 
 year** — an expired token looks exactly like a broken job, so set a reminder.
 
 Full procedure and stop conditions in `rules/daily-run.md`; what the run executes is
-`.claude/commands/daily-run.md`.
+`.claude/commands/daily-run.md`. For a plain-English guide to checking on it, renewing
+the token, and the specific failures we've already hit and fixed, see `OPERATIONS.md`.
 
 ---
 
