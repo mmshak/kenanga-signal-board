@@ -46,7 +46,12 @@ jobs:
         run: node scripts/build.js
 
       - name: Commit and push if changed
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
+          # The research-agent step rewrites (and revokes) its own git credential
+          # on the remote; reset it here to this job's own token before pushing.
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/ dist/ index.html checks/report.json
