@@ -84,15 +84,19 @@ node scripts/build.js
 Refuses to run unless verification passed.
 
 ### 12. Publish
-- **Artifact:** republish `dist/artifact.html` to the existing artifact URL.
-- **GitHub:** commit `data/`, `checks/report.json`, `dist/` and push. Pages redeploys.
+The GitHub Actions workflow (`.github/workflows/daily.yml`) owns this step. It re-runs
+verification independently of the agent, rebuilds, commits and pushes. **GitHub Pages is
+the single live copy** — https://mmshak.github.io/kenanga-signal-board/
 
-If push access is unavailable (see README), deliver `dist/index.html` to the user instead
-and say it needs uploading.
+The agent leaves the working tree dirty and stops. It does not commit.
+
+If you are running this by hand rather than through Actions, commit and push yourself
+after `node checks/verify.js` has exited 0.
 
 ### 13. Report
-State: date processed, reports found, reports verified, blocking failures, warnings raised,
-and anything that needed judgment. **If something was inferred rather than read, say so.**
+State: date processed, reports found, reports verified, blocking failures, warnings
+raised, and anything that needed judgment. **If something was inferred rather than read,
+say so.**
 
 ---
 

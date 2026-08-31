@@ -7,9 +7,8 @@ trading day per run.
 **Live:** https://mmshak.github.io/kenanga-signal-board/
 **User guide:** https://mmshak.github.io/kenanga-signal-board/guide/
 
-The Artifact copies (updated nightly, same links every time):
-- Dashboard &mdash; https://claude.ai/code/artifact/81a8e72e-d9d8-48f0-af29-95b1051fe6f0
-- User guide &mdash; https://claude.ai/code/artifact/750af739-841a-4aec-b453-5ae45ee3fafb
+There is deliberately **one** live copy. Both pages are rebuilt and pushed by the nightly
+workflow; nothing else publishes them.
 
 ---
 
@@ -52,7 +51,6 @@ checks/report.json     last run's results (feeds the on-page strip)
 templates/shell.html   presentation only; data injected at build
 scripts/build.js       data + shell → dist/
 dist/index.html        self-contained page (also copied to /index.html for Pages)
-dist/artifact.html     same page, for Artifact publishing
 guide/index.html       one-page user guide for the team
 ```
 
@@ -109,12 +107,25 @@ Accuracy you can't see isn't a control.
 
 ## The daily job
 
-**Tuesday–Saturday, 00:00 Malaysia time.** Each run processes the **previous** trading day —
-Kenanga publishes in the morning, so a midnight Tuesday run collects Monday's bundle. Tue–Sat
-covers Mon–Fri publications. Monday is deliberately excluded: it would find nothing.
+**GitHub Actions — Tuesday to Saturday, 00:00 Malaysia time** (`0 16 * * 1-5` UTC), defined
+in `.github/workflows/daily.yml`. Each run processes the **previous** trading day: Kenanga
+publishes in the morning, so a midnight Tuesday run collects Monday's bundle. Monday is
+deliberately excluded — it would find nothing.
 
-Full procedure and stop conditions in `rules/daily-run.md`. A run that hits a blocking
-failure publishes nothing and leaves the previous good build live.
+It runs on GitHub's machines, so nothing depends on a laptop being awake, and it pushes here
+natively. The agent does the research and writes `data/YYYY-MM-DD.json`; the **workflow**
+re-runs verification independently, rebuilds, commits and pushes. Verifying twice is
+deliberate: the agent's own belief that it passed is not the gate.
+
+A run that hits a blocking failure commits nothing and leaves the previous good build live.
+That is the correct outcome, not an outage.
+
+**Setup:** one repository secret, `CLAUDE_CODE_OAUTH_TOKEN`, from `claude setup-token`. It is
+tied to the Claude subscription rather than a metered API key, and **expires in about a
+year** — an expired token looks exactly like a broken job, so set a reminder.
+
+Full procedure and stop conditions in `rules/daily-run.md`; what the run executes is
+`.claude/commands/daily-run.md`.
 
 ---
 

@@ -2,7 +2,6 @@
 /**
  * Build the dashboard from data/*.json into two self-contained outputs:
  *   dist/index.html    — complete page, for GitHub Pages / local / any static host
- *   dist/artifact.html — same page without the skeleton tags, for Artifact publishing
  *
  *   node scripts/build.js
  *
@@ -71,17 +70,12 @@ for (const tok of ['__DAILY__', '__DATA__', '__CHECKS__'])
 
 fs.mkdirSync(p('dist'), { recursive: true });
 fs.writeFileSync(p('dist', 'index.html'), html);
-
-// artifact variant: the platform supplies doctype/html/head/body itself
-let art = html
-  .replace(/^<!DOCTYPE html>\s*<html lang="en">\s*<head>\s*<meta charset="utf-8">\s*<meta name="viewport"[^>]*>\s*/, '')
-  .replace(/\s*<\/html>\s*$/, '')
-  .replace('<body>', '')
-  .replace(/<\/body>\s*$/, '');
-fs.writeFileSync(p('dist', 'artifact.html'), art);
+// GitHub Pages serves the repository root, so the root copy is the live page.
+// Written here rather than by a separate `cp` step so it can never go stale.
+fs.writeFileSync(p('index.html'), html);
 
 const kb = n => (n / 1024).toFixed(1) + 'KB';
 console.log(`\n✓ built ${dates.length} date(s), ${Object.values(DATA).reduce((a, x) => a + x.length, 0)} rows`);
 console.log(`  dist/index.html     ${kb(html.length)}`);
-console.log(`  dist/artifact.html  ${kb(art.length)}`);
+console.log(`  index.html          ${kb(html.length)}  (served by Pages)`);
 console.log(`  verification        ${CHECKS.verdict} · ${CHECKS.checksRun} checks · ${CHECKS.totalWarnings} warnings\n`);

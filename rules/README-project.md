@@ -1,48 +1,59 @@
-# Kenanga Signal Board — where everything lives
+# Where everything lives
 
-**Live dashboard (the link your team uses):**
-https://claude.ai/code/artifact/81a8e72e-d9d8-48f0-af29-95b1051fe6f0
+**Single live copy:** https://mmshak.github.io/kenanga-signal-board/
+**User guide:** https://mmshak.github.io/kenanga-signal-board/guide/
 
-The nightly job republishes to that same URL. The link never changes.
+There is deliberately **one** published copy. Earlier builds also published to a
+claude.ai Artifact; that path has been retired to avoid two copies drifting apart.
 
----
+## The runner
 
-## Why the Project, not GitHub
+**GitHub Actions**, `.github/workflows/daily.yml`, Tue-Sat 00:00 Malaysia time.
+It runs on GitHub's machines, so it does not depend on any laptop being awake, and it
+pushes to this repository natively.
 
-A scheduled run starts a **fresh session with an empty workspace** — nothing from a previous
-run survives on disk. It also cannot push to GitHub: a known Cowork bug
-(anthropics/claude-code#84581) blocks repository write access from cloud sessions, and there
-is no UI to grant it.
+Two other runners were considered and rejected:
 
-So this Claude Project is the durable store. Every nightly run reads the system from here,
-appends one day, and writes the new data file back here.
+- **A Cowork scheduled task** — works, always on, but cannot push to GitHub
+  (anthropics/claude-code#84581 blocks repository write access from cloud sessions) and
+  so could only publish to an Artifact, which would have been a second live copy.
+- **Claude Code under launchd on a Mac** — pushes fine, but `launchd` does not catch up
+  runs missed while the machine is asleep, and a laptop at midnight is asleep. Days
+  would go silently missing.
+
+## Requirements
+
+One repository secret: **`CLAUDE_CODE_OAUTH_TOKEN`**, generated locally with
+
+```bash
+claude setup-token
+```
+
+This is tied to the Claude subscription, not a metered API key. **It expires in about a
+year** — set a reminder, because an expired token looks exactly like a broken job.
+
+## The system, and why it is portable
 
 ```
-kenanga-board/rules/signals.md      operating rules — the project's memory
-kenanga-board/rules/daily-run.md    the daily procedure and stop conditions
-kenanga-board/checks/verify.js      Tier-1 verification suite
-kenanga-board/scripts/build.js      data + shell → self-contained page
-kenanga-board/templates/shell.html  presentation only, no data
-kenanga-board/data/YYYY-MM-DD.json  one file per trading day — source of truth
-kenanga-board/data/index.json       manifest of available dates
+rules/signals.md      operating rules -- the project's memory
+rules/daily-run.md    the daily procedure and stop conditions
+.claude/commands/daily-run.md   what the scheduled run executes
+checks/verify.js      Tier-1 verification suite
+scripts/build.js      data + shell -> self-contained page
+templates/shell.html  presentation only, no data
+data/YYYY-MM-DD.json  one file per trading day -- source of truth
 ```
 
-## How a nightly run works
+The runner is disposable; this system is not. Any runner that can execute
+`node checks/verify.js && node scripts/build.js` and push produces the same result.
+Swapping runners is a config change, not a rebuild.
 
-1. Read `rules/signals.md` and `rules/daily-run.md` from this Project — **before anything else**
-2. Reconstruct the working tree from the Project docs into the session workspace
-3. Fetch and verify the previous trading day's Kenanga reports
-4. Write `data/YYYY-MM-DD.json`
-5. `node checks/verify.js` — **exit 1 stops the run and publishes nothing**
-6. `node scripts/build.js`
-7. Republish `dist/artifact.html` (also kept at /tmp/kenanga-site/artifact-body.html for in-place republish) to the artifact URL above, passing it as `url` so it
-   updates in place rather than creating a new artifact
-8. Write the new data file and `checks/report.json` back to this Project
-9. Report what happened
+## Failure behaviour
 
-## GitHub
+The workflow verifies **twice** — once inside the agent's run, once independently before
+the commit step. A blocking failure means nothing is committed and the site stays on the
+last good build. That is the correct outcome, not an outage.
 
-`https://github.com/mmshak/kenanga-signal-board` still hosts a copy at
-`mmshak.github.io/kenanga-signal-board`, but it can only be updated by manual upload while
-#84581 is open. **The Artifact link is the live one.** If the GitHub bug is fixed, the job
-can push there too — nothing else needs to change.
+**Watch for silence.** GitHub disables scheduled workflows on public repos after 60 days
+of repository inactivity. Daily commits keep this alive, but a job that breaks and stops
+committing will have its schedule quietly switched off two months later.
