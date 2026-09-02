@@ -82,6 +82,11 @@ the action updates itself and changes behaviour again):
   repository's git credentials in a used-up state when it finishes. The commit step
   now resets them itself right before pushing (see `.github/workflows/daily.yml`), so
   this shouldn't recur unless that step is edited.
+- **"Reached maximum number of turns"** — Claude ran out of allowed steps before
+  finishing a busy day (a full bundle can be 25 individual report PDFs, each needing
+  several tool calls). The turn budget in `claude_args` (`--max-turns`) has been raised
+  once already; if it happens again, raise it further rather than assuming something
+  else broke — check the job's own `timeout-minutes` has enough headroom to match.
 
 For anything else, the error message at the bottom of the failed step is usually
 specific enough to search or reason about directly — the failures above were the

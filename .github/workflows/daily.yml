@@ -19,7 +19,7 @@ concurrency:
 jobs:
   daily-run:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 75
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -37,7 +37,7 @@ jobs:
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           prompt: '/daily-run'
-          claude_args: '--allowedTools "Read,Write,Edit,Bash,WebFetch,WebSearch" --max-turns 60'
+          claude_args: '--allowedTools "Read,Write,Edit,Bash,WebFetch,WebSearch" --max-turns 200'
 
       - name: Verify (independent gate)
         run: node checks/verify.js
