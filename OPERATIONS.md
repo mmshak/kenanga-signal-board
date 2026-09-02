@@ -12,11 +12,15 @@ checks its own work, and updates the live site — without you doing anything.
 
 Two systems are involved, doing different jobs:
 
-- **GitHub** hosts and schedules the whole thing, across three workflow files: the
-  actual pipeline (`_run-daily-research.yml`), a guaranteed once-nightly trigger for it
-  (`daily.yml`), and an hourly same-day trigger for it (`intraday-check.yml`). It spins
-  up a temporary computer, runs the job on it, then throws that computer away — this is
-  why it doesn't matter whether your laptop is on.
+- **GitHub** hosts and schedules the whole thing — one workflow file
+  (`.github/workflows/daily.yml`) with three jobs inside it: `decide` (cheap, no AI —
+  figures out whether anything needs doing), `research` (the real pipeline), and
+  `rebuild` (rebuild-only, no AI, for when a plain code/data push needs republishing).
+  GitHub spins up a temporary computer, runs the job on it, then throws that computer
+  away — this is why it doesn't matter whether your laptop is on. (You may also see a
+  `pages-build-deployment` entry in the Actions list — that's GitHub's own automatic
+  Pages deployment, not something this project defines; it runs on its own whenever
+  `index.html` changes, regardless of this workflow.)
 - **Claude** does the one step that needs judgment: reading the PDFs, deciding what
   counts as a "top pick," writing the summary. It runs on Anthropic's most capable model
   (`--model opus` in the workflow). Everything before and after that step — scheduling,
@@ -26,10 +30,10 @@ Two systems are involved, doing different jobs:
 ## What happens on a normal day
 
 **During the day (the fast path), every hour from 09:00–20:00 Malaysia time, Monday
-to Friday:** a cheap check (plain web request, no AI, effectively free) looks at
-whether Kenanga has published today's edition yet, at its predictable page URL. Most
-checks find nothing yet and stop immediately. The moment one finds today's edition
-live, it hands off to the real pipeline:
+to Friday:** the `decide` job runs a cheap check (plain web request, no AI, effectively
+free) for whether Kenanga has published today's edition yet, at its predictable page
+URL. Most hours find nothing yet and stop immediately — nothing else runs. The moment
+one finds today's edition live, the `research` job picks it up:
 
 1. Claude fetches today's Kenanga reports and writes up the findings.
 2. An independent script re-checks that work against 11 fixed rules (no invented
@@ -62,13 +66,11 @@ the same day Kenanga publishes.
 
 ## How to check on it
 
-Open the [Actions tab](https://github.com/mmshak/kenanga-signal-board/actions). Two
-workflows matter day to day:
-
-- **"Intraday check"** — runs hourly; almost every row will be a quick green check
-  that found nothing yet, which is normal, not a problem. Only look closely at a red X.
-- **"Daily run"** — runs once nightly; a green check here just means the fallback ran
-  cleanly, whether or not it had anything to do.
+Open the [Actions tab](https://github.com/mmshak/kenanga-signal-board/actions) →
+**"Daily run"**. You'll see far more rows than days, because it fires hourly — almost
+all of them will be a quick green check that found nothing yet and stopped (`decide`
+only, no `research` or `rebuild` job underneath it), which is normal, not a problem.
+Only a red X is worth looking closely at.
 
 A quiet week could mean "nothing to report" or "silently broken" — they look the same
 from a distance, so an occasional glance is worth it.
@@ -118,8 +120,8 @@ For anything else, the error message at the bottom of the failed step is usually
 specific enough to search or reason about directly — the failures above were the
 non-obvious ones.
 
-**A residual risk worth knowing about, not a failure to fix reactively:** the intraday
-check assumes Kenanga's daily page always follows the pattern
+**A residual risk worth knowing about, not a failure to fix reactively:** the `decide`
+job's intraday check assumes Kenanga's daily page always follows the pattern
 `kenanga-today-{day}-{month name}-{year}` (e.g. `kenanga-today-2-september-2026`) —
 confirmed against several real dates, but not guaranteed forever. If Kenanga ever
 changes that pattern, the intraday check would just quietly never find a match — no
@@ -161,7 +163,7 @@ working daily job commits often enough to never hit this, but an extended quiet
 stretch (rare, given daily market publications) is worth checking for.
 
 **Someone changed `templates/shell.html` or a script — does that need a full research
-run to go live?** No. A fourth workflow, "Build on push," rebuilds and republishes
-automatically on any push touching `templates/`, `scripts/build.js`, `checks/verify.js`,
-or `data/` — no AI involved, just the verify-and-build scripts. This is also how a
-one-off data correction gets published without waiting for the next scheduled run.
+run to go live?** No. Pushing to `templates/`, `scripts/build.js`, `checks/verify.js`,
+or `data/` runs the same workflow's `rebuild` job — no AI involved, just the
+verify-and-build scripts. This is also how a one-off data correction gets published
+without waiting for the next scheduled run.

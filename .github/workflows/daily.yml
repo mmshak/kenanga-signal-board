@@ -1,14 +1,34 @@
 name: Daily run
 
-# Tue-Sat 00:00 Malaysia time (UTC+8) = 16:00 UTC Mon-Fri.
-# This is the guaranteed nightly fallback: it always processes the PREVIOUS
-# trading day (see rules/daily-run.md), regardless of what intraday-check.yml
-# already caught during the day — if that day's file already exists, the
-# reusable workflow's own commit step finds nothing to push and no-ops.
-# Monday MYT is deliberately excluded — Kenanga publishes nothing for the board to find.
+# One workflow, three jobs:
+#   decide   -> figures out what (if anything) needs doing, cheaply, no AI.
+#   research -> runs Claude to fetch/write a new day's data, then verifies,
+#               builds, and publishes.
+#   rebuild  -> re-verifies and rebuilds only (no AI) when a plain push
+#               changes the template, scripts, or data directly.
+#
+# Triggers:
+#   - Nightly cron (0 16 * * 1-5 UTC = Tue-Sat 00:00 MYT): guaranteed
+#     fallback, always targets the PREVIOUS trading day. See rules/daily-run.md.
+#   - Intraday cron (0 1-12 * * 1-5 UTC = 09:00-20:00 MYT Mon-Fri, same
+#     calendar day throughout): hourly, checks whether TODAY's Kenanga
+#     edition is out yet via a plain HTTP request (no AI cost) and only
+#     triggers research if so, so the site updates the same day as
+#     publication instead of waiting for the next midnight.
+#   - Push to main touching templates/, scripts/build.js, checks/verify.js,
+#     or data/: rebuilds and republishes without a research run.
+#   - Manual dispatch: choose 'previous' or 'today'.
 on:
   schedule:
     - cron: '0 16 * * 1-5'
+    - cron: '0 1-12 * * 1-5'
+  push:
+    branches: [main]
+    paths:
+      - 'templates/**'
+      - 'scripts/build.js'
+      - 'checks/verify.js'
+      - 'data/**'
   workflow_dispatch:
     inputs:
       target:
@@ -17,13 +37,153 @@ on:
         options: [previous, today]
         default: previous
 
+permissions:
+  contents: write
+  id-token: write
+
 concurrency:
   group: daily-run
   cancel-in-progress: false
 
 jobs:
-  daily-run:
-    uses: ./.github/workflows/_run-daily-research.yml
-    with:
-      target: ${{ inputs.target || 'previous' }}
-    secrets: inherit
+  decide:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      mode: ${{ steps.decide.outputs.mode }}     # research | rebuild | skip
+      target: ${{ steps.decide.outputs.target }} # previous | today (mode=research only)
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Decide what this run needs to do
+        id: decide
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            echo "Push to main touched build-relevant files -> rebuild only."
+            echo "mode=rebuild" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual run -> research, target=${{ inputs.target }}"
+            echo "mode=research" >> "$GITHUB_OUTPUT"
+            echo "target=${{ inputs.target }}" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if [ "${{ github.event.schedule }}" = "0 16 * * 1-5" ]; then
+            echo "Nightly fallback -> research, target=previous"
+            echo "mode=research" >> "$GITHUB_OUTPUT"
+            echo "target=previous" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # Intraday poll: cheap, no-AI check for whether today's edition is
+          # already out, and whether we already have it.
+          TODAY=$(TZ=Asia/Kuala_Lumpur date +%F)
+          if [ -f "data/${TODAY}.json" ]; then
+            echo "Already have data/${TODAY}.json -> skip."
+            echo "mode=skip" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          DAY=$(TZ=Asia/Kuala_Lumpur date +%-d)
+          MONTH=$(TZ=Asia/Kuala_Lumpur date +%B | tr '[:upper:]' '[:lower:]')
+          YEAR=$(TZ=Asia/Kuala_Lumpur date +%Y)
+          URL="https://www.kenanga.com.my/market-insights/daily-research-reports/kenanga-today-${DAY}-${MONTH}-${YEAR}/"
+          CODE=$(curl -s -o /dev/null -w "%{http_code}" --max-time 20 "$URL")
+          echo "Checked $URL -> HTTP $CODE"
+          if [ "$CODE" = "200" ]; then
+            echo "mode=research" >> "$GITHUB_OUTPUT"
+            echo "target=today" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=skip" >> "$GITHUB_OUTPUT"
+          fi
+
+  research:
+    needs: decide
+    if: needs.decide.outputs.mode == 'research'
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # The agent researches and writes data/YYYY-MM-DD.json, then stops without
+      # committing (see .claude/commands/daily-run.md). Everything after this step
+      # re-verifies independently — the agent's own belief that it passed is not the gate.
+      - name: Run daily research agent
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: "/daily-run ${{ needs.decide.outputs.target }}"
+          claude_args: '--model opus --allowedTools "Read,Write,Edit,Bash,WebFetch,WebSearch" --max-turns 200'
+
+      - name: Verify (independent gate)
+        run: node checks/verify.js
+
+      - name: Build
+        run: node scripts/build.js
+
+      - name: Commit and push if changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # The research-agent step rewrites (and revokes) its own git credential
+          # on the remote; reset it here to this job's own token before pushing.
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ dist/ index.html checks/report.json
+          if git diff --staged --quiet; then
+            echo "No changes — nothing published today (no bundle, holiday, or weekend)."
+            exit 0
+          fi
+          NEW_DATE=$(git diff --staged --name-only -- data/ \
+            | grep -E '^data/[0-9]{4}-[0-9]{2}-[0-9]{2}\.json$' \
+            | sed -E 's#data/(.*)\.json#\1#' | head -n1)
+          git commit -m "Daily update${NEW_DATE:+: $NEW_DATE}"
+          git pull --rebase origin main || true
+          git push
+
+  rebuild:
+    needs: decide
+    if: needs.decide.outputs.mode == 'rebuild'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Verify
+        run: node checks/verify.js
+
+      - name: Build
+        run: node scripts/build.js
+
+      - name: Commit and push if changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/ index.html checks/report.json
+          if git diff --staged --quiet; then
+            echo "No output changes to publish."
+            exit 0
+          fi
+          git commit -m "Rebuild: template/script/data change on main"
+          git pull --rebase origin main || true
+          git push

@@ -1,9 +1,11 @@
 # Daily run — operating procedure
 
-Two runners invoke this procedure, with different target-date modes (see step 2):
+One workflow, `.github/workflows/daily.yml`, invokes this procedure from its `research`
+job, with different target-date modes depending on which of its two schedules fired (see
+step 2):
 
-**`daily.yml` — the guaranteed nightly fallback.** Tuesday–Saturday, 00:00 Malaysia time
-(UTC+8) = `0 16 * * 1-5` UTC. Always targets the PREVIOUS trading day. Kenanga publishes its
+**Nightly cron — the guaranteed fallback.** Tuesday–Saturday, 00:00 Malaysia time (UTC+8)
+= `0 16 * * 1-5` UTC. Always targets the PREVIOUS trading day. Kenanga publishes its
 bundle in the morning, so a run at midnight Tuesday MYT collects **Monday's** reports.
 Tue–Sat therefore covers Mon–Fri publications. A Monday run would find nothing and is
 deliberately excluded.
@@ -16,12 +18,13 @@ deliberately excluded.
 | Fri 00:00 | Thursday |
 | Sat 00:00 | Friday |
 
-**`intraday-check.yml` — the fast path.** Polls hourly, 09:00–20:00 Malaysia time,
-Monday–Friday, using a plain HTTP check against Kenanga's own site (no AI cost) for whether
-TODAY's edition is out. Only invokes this procedure — targeting TODAY, not the previous
-day — once that check has already confirmed the page exists, and only if we don't already
-have that date's data file. This is why a genuinely new day can appear on the board the same
-day it's published, rather than waiting for the next midnight. The nightly run above still
+**Intraday cron — the fast path.** The workflow's `decide` job polls hourly,
+09:00–20:00 Malaysia time, Monday–Friday, using a plain HTTP check against Kenanga's own
+site (no AI cost) for whether TODAY's edition is out. Only invokes this procedure —
+targeting TODAY, not the previous day — once that check has already confirmed the page
+exists, and only if we don't already have that date's data file. This is why a genuinely
+new day can appear on the board the same day it's published, rather than waiting for the
+next midnight. The nightly run above still
 runs regardless, as a guaranteed catch-all in case the intraday check ever misses.
 
 ---
