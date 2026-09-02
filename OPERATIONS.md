@@ -31,8 +31,12 @@ Tuesday through Saturday, at midnight Malaysia time:
 4. If it doesn't pass, **nothing is published** and the site quietly stays on
    yesterday's good version. That's the system working correctly, not a bug.
 
-Some nights nothing gets published at all — a holiday, a weekend, or a day Kenanga
-didn't release a bundle. That's expected, not a failure.
+On a day Kenanga didn't release a bundle (a holiday, a weekend), no *new* data is
+added — but you'll still usually see a small "Daily update" commit that night with no
+real content change, just a refreshed "last verified" timestamp. The verification step
+re-checks all existing data every run, whether or not there's anything new, and that
+re-check alone is enough to produce a commit. A genuinely new trading day is
+recognisable by an actual new file appearing under `data/`.
 
 **You don't need to do anything on a normal night.** The site just updates.
 
