@@ -134,6 +134,9 @@
   .rating-pill.UP{background:var(--critical-soft);color:var(--critical);}
   .signal-catalyst{margin-top:6px;color:var(--ink-muted);font-size:13px;max-width:70ch;}
   .flag-note{margin-top:7px;font-size:11.5px;color:var(--warning);display:flex;gap:5px;align-items:flex-start;}
+  .s2-cross-note{margin:0 0 12px;padding:8px 12px;border-radius:8px;background:var(--warning-soft);color:var(--warning);font-size:12.5px;display:flex;gap:6px;align-items:baseline;flex-wrap:wrap;}
+  .s2-cross-note button{border:none;background:none;padding:0;font:inherit;color:inherit;text-decoration:underline;cursor:pointer;}
+  .s2-cross-note[hidden]{display:none;}
   .cite{margin-top:8px;font-size:11px;color:var(--ink-faint);}
   .cite a{text-decoration:underline;}
 
@@ -332,6 +335,7 @@
     </div>
     <div class="card-body">
       <div class="chips" id="s2-filters" role="group" aria-label="Filter by recommended lean"></div>
+      <div class="s2-cross-note" id="s2-cross-note" hidden></div>
       <div class="table-wrap"><table id="s2-table"><thead></thead><tbody></tbody></table></div>
       <div id="s2-detail"></div>
     </div>
@@ -678,20 +682,50 @@
 
   var STOCK_TYPES = ["Results Note","Company Updates"];
 
+  // Shared with the cross-type note below, so "Positive" always means the
+  // same thing whether we're filtering the visible table or checking what
+  // the current report-type tab might be hiding.
+  function isPositive(r){ return r.verified && (r.lean==="Positive" || (r.analyst && r.analyst.v==="positive")); }
+
   function renderSection2Table(){
     var all = reportsFor(activeDates()).filter(function(r){ return r.type===state.s2type; });
     var isStock = STOCK_TYPES.indexOf(state.s2type)!==-1;
     var rows = all;
     // "Stated conviction" catches a row if EITHER signal is Positive.
     if(state.s2lean==="Positive"){
-      rows = rows.filter(function(r){
-        return r.verified && (r.lean==="Positive" || (r.analyst && r.analyst.v==="positive"));
-      });
+      rows = rows.filter(isPositive);
     } else if(state.s2lean==="None stated"){
-      rows = rows.filter(function(r){
-        return r.verified && r.lean!=="Positive" && !(r.analyst && r.analyst.v==="positive");
-      });
+      rows = rows.filter(function(r){ return r.verified && !isPositive(r); });
     }
+
+    // The report-type tab and the conviction filter are independent controls,
+    // so "Stated conviction" only ever searches the currently selected type.
+    // A Positive row filed under a different type (e.g. a Sector Update
+    // naming a stock outside today's own bundle) would otherwise render as a
+    // silent, misleading "no positives here" — surface it instead of hiding it.
+    var crossNote = document.getElementById("s2-cross-note");
+    if(state.s2lean==="Positive"){
+      var elsewhere = TYPES.filter(function(t){
+        return t!==state.s2type && reportsFor(activeDates()).some(function(r){ return r.type===t && isPositive(r); });
+      });
+      if(elsewhere.length){
+        crossNote.innerHTML = "&#9873; Also stated elsewhere, under a different report type: "+
+          elsewhere.map(function(t){ return '<button type="button" data-jump-type="'+t+'">'+t+'</button>'; }).join(", ");
+        crossNote.hidden = false;
+        Array.from(crossNote.querySelectorAll("button")).forEach(function(btn){
+          btn.addEventListener("click",function(){
+            state.s2type = btn.getAttribute("data-jump-type");
+            typeSelect.value = state.s2type;
+            renderSection2();
+          });
+        });
+      } else {
+        crossNote.hidden = true; crossNote.innerHTML="";
+      }
+    } else {
+      crossNote.hidden = true; crossNote.innerHTML="";
+    }
+
     var thead=document.querySelector("#s2-table thead");
     var tbody=document.querySelector("#s2-table tbody");
     thead.innerHTML = isStock
