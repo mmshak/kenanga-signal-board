@@ -1,10 +1,23 @@
 ---
 description: Run the daily Kenanga Signal Board research and data-entry procedure
+argument-hint: "[previous|today]"
 ---
 
-Follow `rules/daily-run.md` literally, step by step. Before doing anything else, read
-`rules/signals.md` in full — it encodes decisions this project has already made the hard
-way, and a fresh session has no memory of them.
+Target date mode: **$ARGUMENTS** (if blank, treat as `previous`).
+
+- `previous` — the default, guaranteed nightly behavior: the previous trading day, per the
+  table in `rules/daily-run.md` step 2.
+- `today` — the current Malaysia calendar date. Used by the intraday poll, which only
+  invokes you once it has already confirmed today's Kenanga Today page is live, so treat
+  "not yet published" here as a normal, expected outcome, not a stop condition — check, and
+  if it genuinely isn't out yet, stop and report that plainly rather than retrying or
+  guessing. If `data/<today's date>.json` already exists, there is nothing to do — stop
+  immediately without re-fetching anything.
+
+Follow `rules/daily-run.md` literally, step by step, substituting the target date above for
+step 2's date-selection logic. Before doing anything else, read `rules/signals.md` in full —
+it encodes decisions this project has already made the hard way, and a fresh session has no
+memory of them.
 
 Do the research and write the one new `data/YYYY-MM-DD.json` file (plus regenerated
 `data/index.json`) exactly as that procedure describes. Run `node checks/verify.js` and,

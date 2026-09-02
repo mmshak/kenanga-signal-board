@@ -1,0 +1,59 @@
+name: Intraday check
+
+# Fast path: polls, hourly on weekdays during Malaysia business hours, for
+# whether TODAY's Kenanga Today edition has been published yet — using a
+# plain HTTP check against Kenanga's own page (no AI cost) so the site
+# updates the same day a bundle goes out, rather than waiting for the
+# midnight nightly run (daily.yml, unchanged, still runs as a guaranteed
+# fallback in case this ever misses).
+#
+# 01:00-12:00 UTC Mon-Fri = 09:00-20:00 Malaysia time Mon-Fri (UTC+8, same
+# calendar day throughout that window, so the weekday match is exact).
+on:
+  schedule:
+    - cron: '0 1-12 * * 1-5'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      should_run: ${{ steps.decide.outputs.should_run }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Decide whether to trigger research
+        id: decide
+        run: |
+          TODAY=$(TZ=Asia/Kuala_Lumpur date +%F)
+          if [ -f "data/${TODAY}.json" ]; then
+            echo "Already have data/${TODAY}.json — nothing to do."
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          DAY=$(TZ=Asia/Kuala_Lumpur date +%-d)
+          MONTH=$(TZ=Asia/Kuala_Lumpur date +%B | tr '[:upper:]' '[:lower:]')
+          YEAR=$(TZ=Asia/Kuala_Lumpur date +%Y)
+          URL="https://www.kenanga.com.my/market-insights/daily-research-reports/kenanga-today-${DAY}-${MONTH}-${YEAR}/"
+
+          CODE=$(curl -s -o /dev/null -w "%{http_code}" --max-time 20 "$URL")
+          echo "Checked $URL -> HTTP $CODE"
+          if [ "$CODE" = "200" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+          fi
+
+  research:
+    needs: check
+    if: needs.check.outputs.should_run == 'true'
+    uses: ./.github/workflows/_run-daily-research.yml
+    with:
+      target: today
+    secrets: inherit

@@ -1,0 +1,61 @@
+name: Build on push
+
+# Rebuilds and republishes whenever the template, build script, or verification
+# suite changes on main — no AI involved, just node checks/verify.js && node
+# scripts/build.js. This is what gets a template fix (or a data correction)
+# live without waiting for, or paying for, a full research run.
+#
+# The commit this job makes touches only dist/, root index.html, and
+# checks/report.json — none of which match the paths filter below, so this
+# workflow does not trigger itself.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'templates/**'
+      - 'scripts/build.js'
+      - 'checks/verify.js'
+      - 'data/**'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-on-push
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Verify
+        run: node checks/verify.js
+
+      - name: Build
+        run: node scripts/build.js
+
+      - name: Commit and push if changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/ index.html checks/report.json
+          if git diff --staged --quiet; then
+            echo "No output changes to publish."
+            exit 0
+          fi
+          git commit -m "Rebuild: template/script/data change on main"
+          git pull --rebase origin main || true
+          git push

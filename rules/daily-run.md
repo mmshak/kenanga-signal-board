@@ -1,10 +1,12 @@
 # Daily run — operating procedure
 
-**Schedule:** Tuesday–Saturday, 00:00 Malaysia time (UTC+8) = `0 16 * * 1-5` UTC.
+Two runners invoke this procedure, with different target-date modes (see step 2):
 
-**Each run processes the PREVIOUS trading day.** Kenanga publishes its bundle in the
-morning, so a run at midnight Tuesday MYT collects **Monday's** reports. Tue–Sat therefore
-covers Mon–Fri publications. A Monday run would find nothing and is deliberately excluded.
+**`daily.yml` — the guaranteed nightly fallback.** Tuesday–Saturday, 00:00 Malaysia time
+(UTC+8) = `0 16 * * 1-5` UTC. Always targets the PREVIOUS trading day. Kenanga publishes its
+bundle in the morning, so a run at midnight Tuesday MYT collects **Monday's** reports.
+Tue–Sat therefore covers Mon–Fri publications. A Monday run would find nothing and is
+deliberately excluded.
 
 | Run (MYT) | Processes |
 |---|---|
@@ -13,6 +15,14 @@ covers Mon–Fri publications. A Monday run would find nothing and is deliberate
 | Thu 00:00 | Wednesday |
 | Fri 00:00 | Thursday |
 | Sat 00:00 | Friday |
+
+**`intraday-check.yml` — the fast path.** Polls hourly, 09:00–20:00 Malaysia time,
+Monday–Friday, using a plain HTTP check against Kenanga's own site (no AI cost) for whether
+TODAY's edition is out. Only invokes this procedure — targeting TODAY, not the previous
+day — once that check has already confirmed the page exists, and only if we don't already
+have that date's data file. This is why a genuinely new day can appear on the board the same
+day it's published, rather than waiting for the next midnight. The nightly run above still
+runs regardless, as a guaranteed catch-all in case the intraday check ever misses.
 
 ---
 
@@ -23,9 +33,18 @@ Open `rules/signals.md` and follow it literally. It encodes decisions that were 
 getting things wrong; a fresh session has no memory of them.
 
 ### 2. Determine the target date
-Previous calendar day. If it is a Malaysian public holiday or a weekend, or if Kenanga
+Depends on which mode you were invoked with (see `.claude/commands/daily-run.md`):
+
+- **`previous`** (the nightly default) — the previous calendar day.
+- **`today`** (the intraday fast path) — the current Malaysia calendar date. The caller has
+  already confirmed the page exists before invoking you in this mode, so treat "it's not
+  actually out" here as unusual, not routine — but still just stop and report it plainly if
+  it turns out that way, rather than retrying or guessing.
+
+Either way: if the target date is a Malaysian public holiday or a weekend, or if Kenanga
 published no bundle, **stop and write nothing.** A missing date is correct; an invented one
-is not. 25 Aug 2026 is the precedent: no bundle, no file.
+is not. 25 Aug 2026 is the precedent: no bundle, no file. If `data/<target date>.json`
+already exists, there is nothing to do — stop immediately without re-fetching.
 
 ### 3. Fetch the Kenanga Today digest
 Get that date's digest PDF. Take the day's report line-up from the **bundle contents**, not
