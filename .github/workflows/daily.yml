@@ -10,18 +10,18 @@ name: Daily run
 # Triggers:
 #   - Nightly cron (0 16 * * 1-5 UTC = Tue-Sat 00:00 MYT): guaranteed
 #     fallback, always targets the PREVIOUS trading day. See rules/daily-run.md.
-#   - Intraday cron (0 1-12 * * 1-5 UTC = 09:00-20:00 MYT Mon-Fri, same
-#     calendar day throughout): hourly, checks whether TODAY's Kenanga
-#     edition is out yet via a plain HTTP request (no AI cost) and only
-#     triggers research if so, so the site updates the same day as
-#     publication instead of waiting for the next midnight.
+#   - Intraday cron (01:00 and 13:00 UTC Mon-Fri = 09:00 and 21:00 MYT, same
+#     calendar day throughout): twice a day, 12 hours apart, checks whether
+#     TODAY's Kenanga edition is out yet via a plain HTTP request (no AI
+#     cost) and only triggers research if so, so the site can update the
+#     same day as publication instead of waiting for the next midnight.
 #   - Push to main touching templates/, scripts/build.js, checks/verify.js,
 #     or data/: rebuilds and republishes without a research run.
 #   - Manual dispatch: choose 'previous' or 'today'.
 on:
   schedule:
     - cron: '0 16 * * 1-5'
-    - cron: '0 1-12 * * 1-5'
+    - cron: '0 1,13 * * 1-5'
   push:
     branches: [main]
     paths:

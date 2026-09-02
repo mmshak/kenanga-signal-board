@@ -18,8 +18,8 @@ deliberately excluded.
 | Fri 00:00 | Thursday |
 | Sat 00:00 | Friday |
 
-**Intraday cron — the fast path.** The workflow's `decide` job polls hourly,
-09:00–20:00 Malaysia time, Monday–Friday, using a plain HTTP check against Kenanga's own
+**Intraday cron — the fast path.** The workflow's `decide` job polls twice a day, 09:00
+and 21:00 Malaysia time, Monday–Friday, using a plain HTTP check against Kenanga's own
 site (no AI cost) for whether TODAY's edition is out. Only invokes this procedure —
 targeting TODAY, not the previous day — once that check has already confirmed the page
 exists, and only if we don't already have that date's data file. This is why a genuinely

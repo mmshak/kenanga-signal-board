@@ -29,23 +29,24 @@ Two systems are involved, doing different jobs:
 
 ## What happens on a normal day
 
-**During the day (the fast path), every hour from 09:00–20:00 Malaysia time, Monday
-to Friday:** the `decide` job runs a cheap check (plain web request, no AI, effectively
-free) for whether Kenanga has published today's edition yet, at its predictable page
-URL. Most hours find nothing yet and stop immediately — nothing else runs. The moment
-one finds today's edition live, the `research` job picks it up:
+**During the day (the fast path), at 09:00 and 21:00 Malaysia time, Monday to Friday:**
+the `decide` job runs a cheap check (plain web request, no AI, effectively free) for
+whether Kenanga has published today's edition yet, at its predictable page URL. Most
+checks find nothing yet and stop immediately — nothing else runs. The moment one finds
+today's edition live, the `research` job picks it up:
 
 1. Claude fetches today's Kenanga reports and writes up the findings.
 2. An independent script re-checks that work against 11 fixed rules (no invented
    numbers, no unquoted "conviction" claims, no duplicate rows, etc.) — Claude's own
    opinion that it did a good job doesn't count; this check does.
 3. If it passes, the page is rebuilt and the changes are pushed live automatically —
-   same day, usually within the hour of publication.
+   same day as publication, within 12 hours of it going out (worst case: published
+   just after the 09:00 check, caught by the 21:00 one instead).
 4. If it doesn't pass, **nothing is published** and the site quietly stays on the
    previous good version. That's the system working correctly, not a bug.
 
-Once a day's file exists, later checks that same day see it's already done and skip —
-Claude only actually runs once per day, not once per hourly poll.
+Once a day's file exists, the other check that same day sees it's already done and
+skips — Claude only actually runs once per day, not once per check.
 
 **At midnight (the guaranteed fallback), Tuesday through Saturday:** the same pipeline
 runs again, but always targeting the *previous* day regardless of what the daytime
@@ -67,10 +68,10 @@ the same day Kenanga publishes.
 ## How to check on it
 
 Open the [Actions tab](https://github.com/mmshak/kenanga-signal-board/actions) →
-**"Daily run"**. You'll see far more rows than days, because it fires hourly — almost
-all of them will be a quick green check that found nothing yet and stopped (`decide`
-only, no `research` or `rebuild` job underneath it), which is normal, not a problem.
-Only a red X is worth looking closely at.
+**"Daily run"**. You'll see a few more rows than days (two intraday checks plus the
+nightly run) — most will be a quick green check that found nothing yet and stopped
+(`decide` only, no `research` or `rebuild` job underneath it), which is normal, not a
+problem. Only a red X is worth looking closely at.
 
 A quiet week could mean "nothing to report" or "silently broken" — they look the same
 from a distance, so an occasional glance is worth it.
@@ -152,10 +153,11 @@ existing Claude subscription via the token, not a metered API key.
 "Daily run" → **Run workflow** → choose `today` (today's bundle, if it's out) or
 `previous` (default; yesterday's).
 
-**Does polling every hour cost a lot extra?** The hourly check itself is a single
-free web request — negligible GitHub Actions usage. Claude only actually runs once a
-day: either the one intraday poll that finds a new edition, or the nightly fallback if
-none did. Cost doesn't scale with how often the check polls.
+**Does the twice-daily check cost extra?** No — each check is a single free web
+request, and Claude only actually runs once a day: either the intraday check that
+finds a new edition, or the nightly fallback if neither check did. The frequency was
+picked mainly to keep the Actions history readable, not for cost — GitHub Actions
+minutes are unlimited on a public repo either way.
 
 **What if the schedule seems to have stopped firing on its own?** GitHub disables
 scheduled jobs on public repos after 60 days with no commits to the repo at all. A
