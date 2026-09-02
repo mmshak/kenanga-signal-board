@@ -1,13 +1,14 @@
 {
- "generatedAt": "2026-09-01T19:18:15.067Z",
+ "generatedAt": "2026-09-02T20:13:45.988Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
   "2026-08-27",
-  "2026-08-28"
+  "2026-08-28",
+  "2026-09-01"
  ],
- "rows": 60,
- "verified": 60,
+ "rows": 76,
+ "verified": 76,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -82,6 +83,12 @@
    "date": "2026-08-28",
    "row": "TAANN",
    "msg": "Kenanga's own headline calls the half 'Good 1H, In Line', while the body notes core profit at 42% of the house forecast and 41% of consensus — slightly behind a 50% straight-line pace. The classification here follows Kenanga's stated 'In Line' verdict rather than the percentage, but the two readings differ and the note is worth opening directly."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-01",
+   "row": "Oil & Gas",
+   "msg": "This report's stated 'top pick' is DIALOG, a stock with no standalone Kenanga report in today's bundle; DIALOG's and KEYFIELD's rating/TP figures below are as quoted in this sector piece and have not been independently verified against a DIALOG- or KEYFIELD-specific report today."
   }
  ],
  "verdict": "PASS"
