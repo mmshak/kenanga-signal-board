@@ -1,0 +1,248 @@
+{
+ "date": "2026-09-02",
+ "schema": 1,
+ "daily": {
+  "klci": 1700.5,
+  "chg": -25.34,
+  "pct": -1.47,
+  "inst": 212.6,
+  "instPct": 32.8,
+  "retail": 275.7,
+  "retailPct": 28.9,
+  "foreign": -488.4,
+  "foreignPct": 38.3,
+  "ideas": "Company Update: MBMR; Economic Viewpoint: Indonesia CPI (Aug-26)",
+  "news": [
+   {
+    "h": "VSTECS to exit ISATEC for RM48.8m as it eyes core ICT expansion",
+    "body": "VSTECS Bhd is cashing out of its seven-year investment in software company ISATEC Sdn Bhd for RM48.8m as it plans to redirect capital towards larger projects in areas including artificial intelligence (AI) and data-centre infrastructure. The information and communications technology (ICT) distributor is selling its entire 40.0% stake in ISATEC to Singapore-based Skyform Pte Ltd. Four management shareholders of ISATEC will also sell part of their stakes to Skyform, amounting cumulatively to 35.0% for RM42.7m. Overall, Skyform is acquiring 75.0% of ISATEC for RM91.4m. (The Edge Malaysia)",
+    "takeaways": [
+     "The implied valuation is readable straight off the two legs of the deal: VSTECS gets RM48.8m for 40.0% and the four management shareholders get RM42.7m for 35.0% — both work out at RM1.22m per 1% of equity, so the managers are exiting on identical terms to VSTECS, and the RM91.4m paid for 75.0% frames the whole of ISATEC at roughly RM122m.",
+     "This is a redeployment, not a retreat from ICT: the digest states VSTECS is redirecting the capital towards larger projects in AI and data-centre infrastructure, which is where distribution margin and scale are currently concentrated in the Malaysian technology chain.",
+     "Skyform is Singapore-based and is buying control (75.0%), so ISATEC passes out of Malaysian majority hands entirely — VSTECS is not retaining a strategic minority, it is selling its whole 40.0%.",
+     "Neither of the two Kenanga reports in the 2 September bundle covers VSTECS or the ICT distribution sector, so this is standalone digest context rather than a read-across to a covered name.",
+     "For a CEO, the signal worth keeping is the direction of travel rather than the sum: a seven-year software minority is being converted into cash to chase AI and data-centre exposure, which is the same capital-rotation pattern visible across Malaysian technology names this year."
+    ]
+   },
+   {
+    "h": "Kee Ming bags RM40.0m engineering jobs for warehouses in Penang, Selangor",
+    "body": "Kee Ming Group Bhd has secured two subcontracts worth a combined RM40.0m to provide mechanical and electrical engineering services for warehouses in Penang and Selangor. The contracts were awarded by a third-party contractor principally involved in the supply of steel structures, as well as civil engineering and building construction. The contractor's name was not disclosed in Kee Ming's bourse filing. Kee Ming said the contracts are expected to contribute positively to its earnings and net assets for the financial year ending March 31, 2027 and throughout the duration of the projects. (The Edge Malaysia)",
+    "takeaways": [
+     "Kee Ming is a subcontractor here, not the main contractor — the work was awarded by a third-party contractor engaged in steel structures and civil engineering, which places Kee Ming a tier down the chain and therefore on tighter margins than the awarding party.",
+     "The awarding contractor's name was not disclosed in the bourse filing, so counterparty credit quality cannot be assessed from the announcement as published.",
+     "The earnings benefit is guided to the financial year ending 31 March 2027 and beyond, not to the current year, so this is a forward-order-book item rather than a near-term earnings event.",
+     "Penang and Selangor warehousing demand is the underlying driver, which is the same industrial-property and logistics build-out theme that supports mechanical-and-electrical order books generally; the digest gives no contract duration, so the split between FY2027 and later years cannot be inferred from the source.",
+     "Kee Ming is not covered by either Kenanga report in the 2 September bundle, so this is standalone context; the RM40.0m figure is the combined value of two subcontracts, not a single award."
+    ]
+   },
+   {
+    "h": "Seni Jaya unit secures seven-year advertising concession for JB-Singapore RTS Link",
+    "body": "Seni Jaya Corp Bhd has secured a seven-year concession to manage and commercialise advertising spaces at the Johor Bahru-Singapore Rapid Transit System (RTS Link). The concession was awarded to SJX Media Sdn Bhd, an indirect 70.0%-owned subsidiary of Seni Jaya, by Malaysia Rapid Transit System Sdn Bhd (MRTS) — a wholly owned unit of Malaysia Rapid Transit Corp Sdn Bhd (MRT Corp) — under an advertising concession agreement dated Sept 1. Seni Jaya said that SJX Media will design, install, operate, maintain and eventually transfer the advertising media at designated spaces within the RTS Link project. It will also market, sell and manage the advertising spaces throughout the concession period, at its own cost and risk. (The Edge Malaysia)",
+    "takeaways": [
+     "Seni Jaya's economic share is 70.0%, not 100% — SJX Media is an indirect 70.0%-owned subsidiary, so the group captures roughly seven-tenths of whatever the concession earns before minority interest.",
+     "The digest is explicit that SJX Media carries the media build and commercialisation \"at its own cost and risk\", which means capex and occupancy risk sit with the concessionaire rather than with MRT Corp — the upside is uncapped but so is the downside if RTS Link footfall disappoints.",
+     "This is a build-operate-transfer structure: SJX Media will design, install, operate, maintain and eventually transfer the advertising media, so the assets revert at the end of the seven-year term and there is no residual value to the concessionaire.",
+     "The counterparty is Malaysia Rapid Transit System Sdn Bhd, a wholly owned unit of MRT Corp, and the agreement is dated 1 September — one day before this digest — so this is a fresh award rather than a previously flagged pipeline item.",
+     "No revenue or capex figure is disclosed in the digest, so the earnings effect cannot be sized from the retrieved source; neither Kenanga report in the 2 September bundle covers Seni Jaya or out-of-home advertising."
+    ]
+   },
+   {
+    "h": "RM24.7m proposal for Bintai Kinden to exit Melaka university concession",
+    "body": "Bintai Kinden Corp Bhd will receive RM24.7m under a proposed settlement with Universiti Islam Melaka Bhd (UIMB) over its long-standing concession to provide student accommodation at Universiti Islam Melaka (UNIMEL). Bintai Kinden said that the proposed arrangement would see UIMB pay the RM24.7m to Bintai Kinden's wholly owned subsidiary, Optimal Property Management Sdn Bhd (OPM), comprising monthly concession payments amounting to RM14.7m and RM10.0m to recover outstanding concession arrears. (The Edge Malaysia)",
+    "takeaways": [
+     "The RM24.7m is not new money for new work: RM10.0m of it is recovery of outstanding concession arrears, meaning roughly two-fifths of the headline is collection of amounts already owed rather than fresh consideration.",
+     "The remaining RM14.7m is described as monthly concession payments, so cash arrives over time rather than as a single receipt — the digest does not state the payment schedule, so the timing cannot be established from the retrieved source.",
+     "The counterparty is Universiti Islam Melaka Bhd, and the existence of arrears large enough to need a dedicated RM10.0m recovery component is itself the material fact about counterparty payment behaviour under the original concession.",
+     "The transaction is a proposal, not a completed settlement, and the digest gives no conditions precedent, so it should be read as a negotiated exit path rather than as banked cash.",
+     "Bintai Kinden is not covered by either Kenanga report in the 2 September bundle; this is standalone digest context."
+    ]
+   },
+   {
+    "h": "Alam Maritim to buy fifth offshore support vessel as it seeks to rebuild business after PN17 exit",
+    "body": "Alam Maritim Resources Bhd has proposed to acquire an offshore support vessel (OSV) for USD19.8m (RM80.8m) in cash to expand its subsea services capabilities in the oil and gas sector. The transaction will be carried out through its wholly owned subsidiary, Alam Maritim (M) Sdn Bhd (AMSB), which will acquire the 65-metre vessel from Singapore-based shipbuilder POET Shipbuilding & Engineering Pte Ltd. (The Edge Malaysia)",
+    "takeaways": [
+     "The purchase is all cash at USD19.8m (RM80.8m) for a single 65-metre vessel, which is a substantial commitment for a group that has only recently exited PN17 status — the headline itself frames this as rebuilding rather than incremental fleet renewal.",
+     "The implied exchange rate in the digest's own conversion is about 4.08 MYR per USD, against the USD/MYR spot of 4.0390 printed on the same digest page — close enough that the ringgit figure is a fair translation, but a weaker ringgit from here raises the ringgit cost of any unpaid balance.",
+     "This is the fifth OSV, and the stated purpose is expanding subsea services capability, so the group is adding to a specific higher-value segment rather than buying generic tonnage.",
+     "The seller is Singapore-based POET Shipbuilding & Engineering, and the buyer is wholly owned subsidiary Alam Maritim (M) Sdn Bhd, so there is no minority leakage on the asset.",
+     "Neither Kenanga report in the 2 September bundle covers Alam Maritim or the OSV segment; the digest discloses no funding structure for the RM80.8m, so gearing impact cannot be established from the retrieved source."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Iran uses Xi-Putin bloc to counter US economic warfare",
+    "region": "Global",
+    "body": "A week into the US campaign to make Iran an economic outcast, the Islamic Republic is meeting world leaders and touting ways to boost trade. (Bloomberg)",
+    "takeaways": [
+     "This is the single most directly relevant macro item to the day's only stock row: Kenanga's MBMR note states that automotive parts supply disruption began in April 2026 \"due to the middle-east war\", so the conflict is already inside the covered company's cost base rather than being an abstract risk.",
+     "MBMR's guidance is that the disruption is minimal for now and raw material supply remains stable, but that raw material prices are expected to rise on higher logistics costs — a cost that is typically shared with customers and which Kenanga says it has already factored into its assumptions.",
+     "The oil channel is visible in the same digest page: Nymex crude closed at USD90.2 a barrel on 1 September, up 5.20% on the day, the largest single-day move among the commodity prices printed in this edition.",
+     "The framing matters — Iran is described as countering US economic pressure by courting the China-Russia bloc and expanding trade, which points to a prolonged sanctions-and-realignment episode rather than a discrete shock that resolves quickly.",
+     "For a CEO, the practical read is that a Middle East geopolitical line item now shows up as a logistics-cost pass-through in Malaysian auto parts manufacturing, which is a more concrete transmission channel than the usual oil-price headline."
+    ]
+   },
+   {
+    "h": "Cools to a three-month low; broad-based test the 5.3% GDP call",
+    "region": "Malaysia",
+    "body": "The Manufacturing Purchasing Managers' Index (PMI) edged down to 50.2 in August (Jul: 50.7). Outlook: Manufacturing expansion likely to continue, but growth momentum has weakened. (See Economic Viewpoint: Malaysia Manufacturing PMI)",
+    "takeaways": [
+     "The reading is still above the 50 no-change mark, so manufacturing is expanding — but at 50.2 the margin is thin, and the digest's own outlook line says growth momentum has weakened.",
+     "The underlying Economic Viewpoint referenced here is Kenanga's Malaysia Manufacturing PMI (Aug-26) note, which was published in the 1 September bundle and already sits on this board's 1 September row — it is not part of the 2 September bundle.",
+     "Kenanga's position in that note is that the sub-51 print remains consistent with its full-year 2026 GDP growth forecast of 5.3%, so a softer PMI has not yet moved the house GDP call.",
+     "A weakening manufacturing pulse is consistent with what MBMR told Kenanga at its briefing on the automotive side — extended public holidays in August and September and diverted Perodua production lines both subtract from output in exactly the months this PMI covers and the next.",
+     "The digest's headline phrasing — \"broad-based test the 5.3% GDP call\" — signals that Kenanga sees the softness as spread across components rather than concentrated in one sub-index, which is what makes it a test of the forecast rather than noise."
+    ]
+   },
+   {
+    "h": "Credit holds firm, but liquidity is cooling fast",
+    "region": "Malaysia",
+    "body": "Broad money (M3) growth eased to 5.7% YoY in July (Jun: 6.7%), pulling back from a 52-month high the month before. We maintain our 2026 loan growth forecast at 5.0% - 5.5% (2025: 4.8%) despite the stronger July print. (See Economic Viewpoint: Malaysia Money & Credit)",
+    "takeaways": [
+     "The split in the headline is the point: credit (loan growth) is holding, while liquidity (M3) is decelerating a full percentage point in a single month, from 6.7% to 5.7% YoY.",
+     "June's 6.7% was a 52-month high, so July is a pullback from an unusually strong base rather than a break below trend — the level is still above the 2025 loan growth outturn of 4.8%.",
+     "Kenanga keeps its 2026 loan growth forecast unchanged at 5.0%-5.5%, explicitly declining to revise up on the strong July print, which is a deliberately conservative stance rather than a neutral one.",
+     "As with the PMI item, the referenced Malaysia Money & Credit Economic Viewpoint was published in the 1 September bundle and appears on this board's 1 September row; the 2 September bundle's only Economic Viewpoint is the Indonesia CPI note.",
+     "Cooling liquidity alongside firm credit is the configuration that typically precedes tighter funding conditions for consumer big-ticket purchases — relevant to MBMR, whose Kenanga risk list names consumers cutting back on discretionary spending, particularly big-ticket items like new cars."
+    ]
+   },
+   {
+    "h": "Malaysia-Japan trade up 11.8% to USD23.3b in January-July 2026, says minister",
+    "region": "Malaysia",
+    "body": "Bilateral trade between Malaysia and Japan rose 11.8% to USD23.3b in the first seven months of 2026 compared with the same period last year, said Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani. (The Edge Malaysia)",
+    "takeaways": [
+     "Double-digit growth in Malaysia-Japan bilateral trade over seven months is a volume signal for the Japanese-linked automotive supply chain, which is the chain MBMR sits in through Perodua, Daihatsu and Hino.",
+     "The figure is trade value in US dollars, so part of the 11.8% reflects currency and price effects rather than pure volume — the digest gives no volume breakdown, so the split cannot be established from the retrieved source.",
+     "The currency angle cuts the other way for MBMR's associates: its 2QFY26 associate contributions were helped by a stronger ringgit against the Japanese yen, and USD/YEN at 160.09 on 1 September was 0.23% weaker for the yen on the day.",
+     "MBMR's dealership portfolio disclosed in the Kenanga note is heavily Japanese-linked — Daihatsu at 447 units in 1HCY26 (+9% YoY) and Hino at 60 units (-6% YoY) — alongside Perodua, so bilateral trade intensity is a background support rather than a swing factor at these unit volumes.",
+     "This is a ministerial statement of an outturn, not a forecast, so it carries no forward guidance on 2H2026 trade."
+    ]
+   },
+   {
+    "h": "14 MOUs worth RM1.49 bil signed on opening of MAHA Trade Days",
+    "region": "Malaysia",
+    "body": "Fourteen memoranda of understanding (MOUs) worth RM1.49 billion were signed at the opening of MAHA Trade Days 2026 on Tuesday, reflecting investors' confidence in Malaysia's agri-food sector. (The Edge Malaysia)",
+    "takeaways": [
+     "MOUs are non-binding by nature and the digest gives no conversion history, so RM1.49b is a stated intent figure rather than committed capital — it should not be read as an investment outturn.",
+     "The average size is about RM106m across fourteen MOUs, which points to a spread of mid-sized agri-food commitments rather than one or two anchor projects.",
+     "Neither Kenanga report in the 2 September bundle covers agriculture or agri-food, so there is no read-across to a covered row from this item.",
+     "CPO closed at RM5,072 a tonne on 1 September, up 3.64% on the day per the same digest page, so the agri-commodity backdrop on the day was firm — but palm oil is not the sector these MOUs are described as covering.",
+     "The event is dated Tuesday, 1 September, consistent with a digest published the following morning covering the previous trading day."
+    ]
+   },
+   {
+    "h": "Japan allocates over JPY600.0b to maintain fuel subsidies",
+    "region": "Asia Pacific",
+    "body": "Japan's cabinet on Tuesday decided to use JPY616.0 billion (USD3.9 billion or RM15.7 billion) in emergency reserve funds for the current fiscal year for measures to ease the financial burden on businesses and households, Kyodo News reported. Of the sum, JPY613.6 billion will be used to continue subsidies to keep retail gasoline prices at around JPY170 per litre, as tensions in West Asia drive up global fuel prices. (The Edge Malaysia)",
+    "takeaways": [
+     "Almost the entire package is fuel: JPY613.6b of the JPY616.0b total goes to gasoline price subsidies, so this is a single-purpose intervention rather than a broad relief package.",
+     "The stated cause is West Asia tensions driving up global fuel prices — the same conflict that Kenanga's MBMR note identifies as the origin of automotive parts supply disruption since April 2026, so two separate items in this digest trace to one geopolitical source.",
+     "The subsidy targets a retail price of around JPY170 per litre, which tells a CEO the administered price level Japan is defending rather than just the sum being spent.",
+     "Funding comes from emergency reserve funds for the current fiscal year, meaning it is drawn from existing budgetary headroom rather than requiring a supplementary budget.",
+     "Nymex crude at USD90.2 a barrel on 1 September, up 5.20% on the day per this digest, is the price backdrop against which the allocation was decided."
+    ]
+   },
+   {
+    "h": "US job openings edge higher in July in sign of stable labour demand",
+    "region": "Americas",
+    "body": "US job openings edged higher in July, suggesting demand for workers remains broadly stable at a subdued level. Available positions rose to 7.27 million from a downwardly revised 7.18 million in June, according to Bureau of Labor Statistics data out on Tuesday. (The Edge Malaysia)",
+    "takeaways": [
+     "The increase is small — 7.27 million from 7.18 million — and the June figure was revised down, so the level is stable rather than improving; the digest's own wording is \"broadly stable at a subdued level\".",
+     "A downward revision to the prior month is the detail that matters for anyone tracking the series: the July gain partly reflects a lower comparison base rather than fresh hiring demand.",
+     "US equities fell on the same session this digest reports — Dow -0.79%, S&P 500 -0.71%, Nasdaq -1.03% — so the labour print did not translate into risk appetite on the day.",
+     "Neither Kenanga report in the 2 September bundle has direct US revenue exposure, so this is background macro rather than a read-across to a covered row.",
+     "Stable-but-subdued US labour demand is the configuration that keeps Federal Reserve policy expectations in a holding pattern, which matters to Malaysian markets mainly through the dollar — USD/MYR weakened 0.30% to 4.0390 on the day."
+    ]
+   },
+   {
+    "h": "Eurozone inflation jumps to highest in almost three years",
+    "region": "Europe",
+    "body": "Euro-area inflation quickened to the highest level in almost three years, cementing the case for an interest-rate hike by the European Central Bank next week. Consumer prices rose 3.3% from a year ago in August, up from 2.9% the previous month, Eurostat said Tuesday. (The Edge Malaysia)",
+    "takeaways": [
+     "A 0.4 percentage point jump in a single month, from 2.9% to 3.3%, is a large move for a headline euro-area print and takes inflation to a near-three-year high — the digest states this cements the case for an ECB hike the following week.",
+     "The direction of travel is notable against the day's other inflation item: Indonesia's August CPI in Kenanga's own Economic Viewpoint also rose, to 3.19% from 2.88%, with core at a 42-month high — two separate economies printing firmer inflation in the same month.",
+     "The difference is the policy response: Kenanga expects Bank Indonesia to hold at 5.75% because inflation stays inside its 1.5%-3.5% target band, whereas the euro area is above target and heading for a hike.",
+     "EUR/USD was broadly flat at 1.1592 on 1 September, down 0.04%, so the currency had not yet moved on the inflation print at the time this digest was compiled.",
+     "An ECB hike tightens global financial conditions at the margin; neither Kenanga report in the 2 September bundle has direct euro-area exposure, so the relevance here is to cross-border funding costs rather than to a covered row."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260902-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "The Kenanga Signal on this row reads None stated even though the report's Investment case paragraph opens \"We continue to like MBMR for: (i) its strong earnings visibility...\". Under rules/signals.md §2 that phrasing is thesis language, not a pick declaration — the report names MBMR neither a Top Pick nor a sector pick nor the most attractive among peers, and its own peer table on page 4 carries MBMR at MARKET PERFORM with -6% downside against five OUTPERFORM-rated peers. Separately, the report is internally inconsistent on dividend yield: page 1 and the financial tables both show a 9.0% net dividend yield for FY26F/FY27F, while the Investment case paragraph on page 2 says \"attractive dividend yield of about 10%\". Both figures are quoted as printed; neither has been reconciled.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "MP",
+   "prevTp": 5.0,
+   "ticker": "MBMR",
+   "name": "MBM Resources Berhad",
+   "type": "Company Updates",
+   "rating": "MP",
+   "tp": 5.0,
+   "price": 5.32,
+   "divYield": 12.41,
+   "high52": 5.59,
+   "low52": 4.6,
+   "mktSrc": "https://stockanalysis.com/quote/klse/MBMR/",
+   "catalyst": "Post-2QFY26 results briefing update. Forecasts, TP of RM5.00 and MARKET PERFORM call all maintained. Kenanga came away \"feeling mixed\": Perodua production capacity slows in 2HFY26 as lines are diverted to the all-new Ativa Hybrid (tentatively 4QCY26) and Myvi (tentatively 1QCY27), extended August and September public holidays cut output, and start-up losses at Perodua's Smart Mobility EV plant are expected to spill into 2027 — offset by consistent dealership momentum from new model launches and a 9% dividend yield.",
+   "quote": "MBMR expects slower production capacity for Perodua in 2HFY26 on diversion of production lines in favour of all-new model launches i.e Ativa Hybrid (tentatively 4QCY26) and Myvi (tentatively 1QCY27) as well as due to extended public holidays in certain months.",
+   "summary": [
+    "Nothing moved on the call: rating held at MARKET PERFORM, target price held at RM5.00, and forecasts explicitly \"Maintained\" — FY26F core net profit of RM318.9m (-6.0% core EPS growth) and FY27F of RM320.7m (+0.6%) are unchanged. The TP is 6x PER on FY27F EPS, a deliberate discount to the auto sector's 11x forward average that Kenanga justifies by MBMR's smaller scale and its dealership-leaning rather than manufacturing-leaning model; the 3-star ESG rating means no TP adjustment. Against the RM5.32 share price the peer table shows -6% downside, making MBMR one of only three names in Kenanga's auto coverage carrying negative upside, alongside UNDERPERFORM-rated DRB-HICOM (-19%) and TCHONG (-18%); the other four — BAUTO, HIL, HLIND and SIME — are all OUTPERFORM.",
+    "The 3QFY26 volume guidance is the substantive new information. Kenanga estimates below 30k units a month, despite Perodua's July sales printing 31,842 units (+16% MoM, -5% YoY), because Perodua is on the verge of diverting production lines to the all-new Ativa Hybrid (tentatively 4QCY26) and Myvi (tentatively 1QCY27), and because of extended public holidays in August and September. The YoY decline already visible in a strong July print is the detail that supports the caution.",
+    "Perodua's Smart Mobility EV plant is a 2HFY26 drag, not yet a contributor. Bookings were close to 2k units as at August 2026, but commercial production is running below 100 units a month because supplier quality is not meeting Perodua's commercial production standards, and only an estimated 400-450 units had been registered as at August 2026. Kenanga expects start-up losses to spill over into 2027, or until Perodua introduces EV models better suited to its target customers below the RM60k price range — the QV-e was recently repriced to RM63,499 with battery leasing or RM87,499 outright. The first phase is capped at 500 units a month before any ramp towards 2,000+, with local assembly content targeted above 30% initially and around 50% by 2027.",
+    "The dealership picture is mixed in both directions. Jaecoo carries the best margin of MBMR's brands but its 1HCY26 sales fell 24% YoY to 181 units, and management acknowledged intensifying competition from other Jaecoo dealers; Perodua at 13,383 units was -2% YoY, Volvo 200 units +11%, Daihatsu 447 units +9%, Volkswagen 236 units -6% and Hino 60 units -6%. Momentum is expected from the Perodua Traz (2k sold monthly with a three-month backlog), Jaecoo J5, J8 and C9, Euro 5 engines for Daihatsu and Hino commercial vehicles, and Volkswagen Golf variants. The 23%-owned Perodua associate order backlog is stable at 35k-40k units — but that is down from 60k units in early 2026.",
+    "Two external pressures are named. Automotive parts supply has been disrupted since April 2026 by the Middle East war; MBMR says the disruption is minimal for now with stable raw-material supply, but raw-material prices are expected to rise on higher logistics costs, a cost typically shared with customers and already inside Kenanga's assumptions. Kenanga's stated risks are consumers cutting back on big-ticket discretionary spending amid high inflation and subsidy rationalisation, persistent global auto supply-chain disruption including chip shortages, and persistently high auto-parts material costs. The balance sheet remains net cash across the forecast period, with market capitalisation of RM2,079.5m and free float of 39%."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "MBSB Research",
+    "date": "3 Sep 2026",
+    "opp": true,
+    "note": "The most recent publicly retrievable named-house call on MBMR is <b>MBSB Research</b>, whose briefing note on the same 2QFY26 results briefing was reported by The Star on <b>3 September 2026</b> &mdash; one day after the Kenanga note beside it, covering the same event, so this is a contemporaneous second opinion rather than a stale one. MBSB maintained its &quot;buy&quot; rating and target price of <b>RM6.14</b>, saying MBMR &quot;delivered a resilient performance in 2Q26, supported by steady Perodua sales and production volumes alongside favourable foreign-exchange movements, which underpinned associate contributions&quot;, and adding that the stock trades at an undemanding minus one standard deviation to its five-year mean with an attractive 8.1% dividend yield. It read the same Jaecoo weakness Kenanga did, noting a 49.2% YoY unit-sales decline in 2Q26 as competing dealers discounted heavily, but still expects group earnings to remain relatively stable. <b>MBSB used no pick language, so this row reads None stated.</b> The divergence flag is set because MBSB&rsquo;s buy at RM6.14 sits opposite Kenanga&rsquo;s MARKET PERFORM at RM5.00 &mdash; a 23% gap in target price on the same briefing. An earlier dated call also exists: <b>RHB Research, 5 August 2026</b>, which argued MBMR&rsquo;s share-price weakness near its 52-week low &quot;presents an attractive buying opportunity ahead of an expected recovery in second-half (2H26) earnings&quot;, citing an estimated FY2027 dividend yield of about 11% and around 5.8x forward earnings; the retrieved report of that note carried no target price, so none is stated here. Of the nine houses this board searches, only RHB yielded a dated, publicly retrievable call; MBSB Research sits outside that list of nine but is a named house with a dated note, and under the most-recent-statement rule it is the call that governs this row.",
+    "cites": [
+     [
+      "The Star, 3 Sep 2026 &mdash; &lsquo;Mixed prospects for MBM Resources&rsquo;",
+      "https://www.thestar.com.my/business/business-news/2026/09/03/mixed-prospects-for-mbm-resources"
+     ],
+     [
+      "The Star, 5 Aug 2026 &mdash; &lsquo;MBM likely to recover on better vehicle sales&rsquo;",
+      "https://www.thestar.com.my/business/business-news/2026/08/05/mbm-likely-to-recover-on-better-vehicle-sales"
+     ],
+     [
+      "The Edge Malaysia, 27 Aug 2026 &mdash; &lsquo;MBM Resources declares 28 sen dividend as 2Q profit jumps 32% on stronger associates&rsquo; contributions&rsquo;",
+      "https://theedgemalaysia.com/node/816033"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/MBMR-260902-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Indonesia CPI (Aug-26)",
+   "name": "Indonesia Consumer Price Index (Aug-26): Food Prices Push Inflation Higher, BI Set to Hold",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "Indonesia's headline inflation rose to 3.19% YoY in August from 2.88% in July, slightly above the 3.13% consensus but inside Bank Indonesia's 1.5%-3.5% target band for a sixth straight month. Kenanga holds its 2026 inflation forecast at 3.1% with upside risk to 3.3%, and expects BI to keep the policy rate at 5.75% in the near term.",
+   "quote": "Indonesia's headline inflation rose to 3.19% YoY in August (Jul: 2.88%), slightly above consensus (3.13%) but stayed within Bank Indonesia's (BI) 1.5% - 3.5% target range for a sixth straight month.",
+   "summary": [
+    "Food did the work. Food, beverage and tobacco inflation jumped to 3.86% YoY from 2.97% on higher broiler chicken meat, fresh fish, cooking oil and rice prices, and the month-on-month rate rebounded sharply to +0.21% from July's -0.14% deflation. At a 25.01% CPI weight, this is the single largest component and the direct explanation for the headline move.",
+    "The more consequential number is core, not headline: core inflation rose to 2.92% YoY from 2.76%, a 42-month high, which Kenanga reads as reflecting strong underlying demand. Headline is inside the target band, but a three-and-a-half-year high in core is the part that constrains policy room.",
+    "The components moved in different directions. Transportation eased to 4.79% from 5.12% on lower airfares and petrol prices; housing, water, electricity and other fuel edged up to 1.01% from 0.99% on maintenance, repair and security costs; and personal care and other services rose to 9.25% from 9.04% on other personal items and gold jewellery — the highest category rate in the basket by a wide margin.",
+    "Kenanga holds its 2026 inflation forecast at 3.1% (2025: 1.9%) but flags explicit upside risk that could lift it to 3.3%, naming weather-related disruption to food supply, potentially higher fuel prices, and stronger domestic demand as the three channels. The 2025-to-2026 step is itself large — 1.9% to 3.1% is a near-doubling of the annual rate.",
+    "On policy, Kenanga expects BI to hold at 5.75% in the near term, reasoning that the rupiah has strengthened and stabilised below 18,000 against the USD while inflation stays inside the 1.5%-3.5% band — but states that room to hike remains on the table if price pressures intensify or the rupiah comes under renewed pressure. Regional context in the note is mixed: Thailand eased to 1.9% (Jun: 2.4%), a four-month low on lower retail fuel prices, while Singapore rose to 2.2% (Jun: 1.9%), a two-year high on higher electricity and gas charges and increased transport fares."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/EV_ID_CPI_Aug26_260902-Kenanga.pdf"
+  }
+ ]
+}

@@ -1,15 +1,16 @@
 {
- "generatedAt": "2026-09-03T05:37:12.787Z",
+ "generatedAt": "2026-09-03T19:20:50.168Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
   "2026-08-27",
   "2026-08-28",
   "2026-09-01",
+  "2026-09-02",
   "2026-09-03"
  ],
- "rows": 79,
- "verified": 79,
+ "rows": 81,
+ "verified": 81,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -90,6 +91,12 @@
    "date": "2026-09-01",
    "row": "Oil & Gas",
    "msg": "This report's stated 'top pick' is DIALOG, a stock with no standalone Kenanga report in today's bundle; DIALOG's and KEYFIELD's rating/TP figures below are as quoted in this sector piece and have not been independently verified against a DIALOG- or KEYFIELD-specific report today."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-02",
+   "row": "MBMR",
+   "msg": "The Kenanga Signal on this row reads None stated even though the report's Investment case paragraph opens \"We continue to like MBMR for: (i) its strong earnings visibility...\". Under rules/signals.md §2 that phrasing is thesis language, not a pick declaration — the report names MBMR neither a Top Pick nor a sector pick nor the most attractive among peers, and its own peer table on page 4 carries MBMR at MARKET PERFORM with -6% downside against five OUTPERFORM-rated peers. Separately, the report is internally inconsistent on dividend yield: page 1 and the financial tables both show a 9.0% net dividend yield for FY26F/FY27F, while the Investment case paragraph on page 2 says \"attractive dividend yield of about 10%\". Both figures are quoted as printed; neither has been reconciled."
   },
   {
    "id": "C09-flag",
