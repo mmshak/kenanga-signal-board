@@ -1,14 +1,15 @@
 {
- "generatedAt": "2026-09-02T21:24:09.187Z",
+ "generatedAt": "2026-09-03T05:37:12.787Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
   "2026-08-27",
   "2026-08-28",
-  "2026-09-01"
+  "2026-09-01",
+  "2026-09-03"
  ],
- "rows": 76,
- "verified": 76,
+ "rows": 79,
+ "verified": 79,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -89,6 +90,24 @@
    "date": "2026-09-01",
    "row": "Oil & Gas",
    "msg": "This report's stated 'top pick' is DIALOG, a stock with no standalone Kenanga report in today's bundle; DIALOG's and KEYFIELD's rating/TP figures below are as quoted in this sector piece and have not been independently verified against a DIALOG- or KEYFIELD-specific report today."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-03",
+   "row": "KJTS",
+   "msg": "The Kenanga Signal on this row reads None stated because KJTS's own Company Update contains no pick declaration — only an 'Investment thesis' paragraph beginning 'We like KJTS for...'. Kenanga's separate Market Strategy note in the same 3 September bundle does list KJTS (with SAMAIDEN) under 'Sector Top picks' for Renewable Energy & Energy Efficiency (Exhibit 11). That statement sits in a different report and is recorded on the Market Strategy row, not inferred onto this one."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-03",
+   "row": "Plantation",
+   "msg": "This sector note states ratings and target prices for IOICORP, KLK, HSPLANT, TSH, PPB and UMCCA, none of which has a standalone Kenanga report in today's bundle. Those figures are as quoted in this sector piece and have not been independently verified against stock-specific reports today."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-03",
+   "row": "Market Strategy",
+   "msg": "This strategy note states ratings and target prices for a large number of stocks across the coverage universe (including QL, MAYBANK, HLBANK, SIMEPROP, ABMB, BURSA, YTLPOWR, DIALOG, KEYFIELD, HSPLANT and others), none of which has a standalone Kenanga report in today's bundle. Those figures are as quoted in this strategy piece and have not been independently verified against stock-specific reports today. Note also that the PDF filename is dated 260902 while the document's own header is dated 03 September 2026; it is published in the 3 September bundle and listed in that day's Ideas of the Day."
   }
  ],
  "verdict": "PASS"
