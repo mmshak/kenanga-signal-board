@@ -1,0 +1,394 @@
+{
+ "date": "2026-09-04",
+ "schema": 1,
+ "daily": {
+  "klci": 1715.1,
+  "chg": 6.39,
+  "pct": 0.37,
+  "inst": 52.4,
+  "instPct": 43.4,
+  "retail": 22.2,
+  "retailPct": 27.5,
+  "foreign": -74.6,
+  "foreignPct": 29.2,
+  "ideas": "Results Note: KEEMING; Company Update: FFB, KERJAYA; Rating Summary; Economic Viewpoint: BNM MPC Meeting (3 Sept), Bond Market Weekly Outlook, Ringgit Weekly Outlook",
+  "news": [
+   {
+    "h": "Zetrix AI to acquire 50.0% stake in Philippines-based MYEG Ventures for RM130m via cash-and-share deal",
+    "body": "Zetrix AI Bhd is acquiring a 50.0% stake in Philippines-based information technology services provider MYEG Ventures Inc for RM130.0m via a cash-and-share deal. The digital services provider said it entered into a share purchase agreement with Next Lion Ltd on Sept 1 to acquire 15.3m ordinary shares in MYEG Ventures. MYEG Ventures is principally involved in providing information technology services. It holds a 60.0% stake in MYEG Philippines Inc. Upon completion of the acquisition, MYEG Philippines will become a subsidiary of Zetrix AI. (The Edge Malaysia)",
+    "takeaways": [
+     "The structural point is consolidation, not diversification: MYEG Ventures holds 60.0% of MYEG Philippines, so buying half of the holding company converts MYEG Philippines from an associate-type interest into a subsidiary of Zetrix AI, which changes how the Philippine business is consolidated rather than adding a new line of work.",
+     "RM130.0m for 15.3m shares implies about RM8.50 a share, but the digest gives no earnings, revenue or net-asset figure for MYEG Ventures, so no valuation multiple can be attached to the deal from this item alone.",
+     "It is a cash-and-share deal and the digest does not disclose the split between the two, so the dilution to existing Zetrix AI holders cannot be quantified from what is published here.",
+     "The counterparty is named — Next Lion Ltd — and the agreement is dated 1 September, two days before this digest, so this is a fresh, identified transaction rather than a market rumour.",
+     "Zetrix AI is not covered in today's Kenanga bundle and carries no rating or target price from Kenanga research, so there is no house view to read alongside it. The company does appear elsewhere in today's digest for a different reason: eight Zetrix AI warrant series sit in the oversold warrants table, most of them priced at half a sen."
+    ]
+   },
+   {
+    "h": "Niche Capital Emas' rare earth partner gets interim manufacturing licence",
+    "body": "Niche Capital Emas Holdings Bhd announced that its joint development partner Greensnow Consolidated Bhd (GCB) has obtained an interim manufacturing licence from the Ministry of Investment, Trade and Industry (Miti). The licence, granted to GCB's wholly-owned unit Greensnow Biosolutions Sdn Bhd last month, permits it to manufacture green chemical and bio-based solvents for rare earth (RE) extraction at a facility in Kawasan Perindustrian Gebeng Phase 4 in Kuantan, said Niche Capital Emas in a bourse filing. (The Edge Malaysia)",
+    "takeaways": [
+     "Read who holds the licence: it was granted to Greensnow Biosolutions, a wholly owned unit of Niche Capital Emas' joint development partner, not to Niche Capital Emas itself — so the company's exposure is through the partnership, not through a permit of its own.",
+     "The licence is explicitly interim, which means it is a step in a permitting process rather than a final manufacturing approval, and the digest gives no expiry, conversion condition or timeline for a full licence.",
+     "The permitted scope is narrow and upstream of mining economics: green chemical and bio-based solvents used for rare earth extraction, at a named site in Kawasan Perindustrian Gebeng Phase 4, Kuantan.",
+     "The licence was granted last month but is only being announced now via a bourse filing, so the news value is the disclosure rather than the event.",
+     "No capacity, capex or offtake figure is given anywhere in the item, so any estimate of what this is worth would have to be invented and is therefore not stated here. Niche Capital Emas is not covered in today's Kenanga bundle."
+    ]
+   },
+   {
+    "h": "Media Chinese to sell property for RM20.0m following cessation of Canadian media operations",
+    "body": "Media Chinese International Ltd has proposed to sell its property in Canada for CAD6.9m (RM19.9m), following the cessation of its media operations in the country. The disposal is expected to generate an unaudited gain of CAD5.3m (RM15.3m), the group said in a bourse filing. The estimated net proceeds from the disposal, after relevant costs and expenses but before tax, total CAD6.6m (RM19.0m). The group intends to use the proceeds for general working capital. (The Edge Malaysia)",
+    "takeaways": [
+     "The gain is most of the price: CAD5.3m of unaudited gain on a CAD6.9m disposal means the property sits in the books at roughly CAD1.6m, so this is a long-held asset carried far below its market value rather than a sale at or near cost.",
+     "The three ringgit figures in the item — RM19.9m headline, RM15.3m gain and RM19.0m net proceeds — imply a CAD/MYR rate of about 2.88 across all three, so the conversions are internally consistent even though the digest prints no CAD rate in its forex table.",
+     "The RM20.0m in the headline and the RM19.9m in the body are the same number rounded differently; the disposal is not a RM20.0m transaction to two decimal places.",
+     "Sequence matters for how this reads: the media operations in Canada have already ceased, so the sale is the wind-down of a property left behind by a closed business, not a decision to exit.",
+     "Proceeds are earmarked for general working capital rather than reinvestment or a distribution, and Media Chinese is not covered in today's Kenanga bundle, so there is no house view attached to the item."
+    ]
+   },
+   {
+    "h": "Instant beverage manufacturer Orgabio to buy Semenyih lot for RM11.3m",
+    "body": "Orgabio Holdings Bhd, which makes instant beverage premixes and food supplements, will acquire a freehold industrial property in Semenyih, Selangor for RM11.3m cash. Its wholly owned subsidiary, Orgabio Manufacturing Sdn Bhd entered an agreement with Chung Lian Fatt to purchase a 5,263 square metre parcel of freehold land at Jalan Bangi, Mukim Semenyih, according to an exchange filing. Orgabio said it plans to develop a warehouse on the site to support its expanding operations. It expects the purchase to be completed by the fourth quarter of 2026. (The Edge Malaysia)",
+    "takeaways": [
+     "RM11.3m for 5,263 square metres works out to roughly RM2,150 per square metre, or about RM200 per square foot, for freehold industrial land at Jalan Bangi, Mukim Semenyih.",
+     "The stated purpose is a warehouse to support expanding operations, so the land cost is only the first tranche of spending — the digest gives no construction budget or completion date for the warehouse itself.",
+     "It is an all-cash purchase from a named individual vendor, Chung Lian Fatt, with completion expected by 4Q 2026, which is a short runway for a land transaction.",
+     "Buying freehold land outright rather than leasing warehouse space is a balance-sheet-heavy choice for a company of Orgabio's size, and the digest gives no indication of how it is being funded.",
+     "Orgabio is not covered in today's Kenanga bundle. The nearest read-across in today's reports is FFB, which is spending RM56.3m of its placement proceeds on Malaysian manufacturing capability including at Larkin, Johor — both are consumer manufacturers funding physical capacity, at very different scales."
+    ]
+   },
+   {
+    "h": "Techna-X sells loss-making HK super battery firm for RM45.0m to fund restaurant expansion",
+    "body": "Techna-X Bhd is selling its entire 50.0% stake in loss-making Hong Kong-based super battery and capacitor maker HK Aerospace Beidou New Energy Technology Co Ltd (HKAB) for RM45.0m cash, with the proceeds to fund its restaurant expansion. The group said RM30.0m of the proceeds will be used to open 10 new restaurants or outlets in central Peninsular Malaysia and reimage two existing outlets through Craveat International, the operator of Italiannies and TGI Fridays in Malaysia. The remaining RM13.5m will be used for working capital, including the settlement of trade and other payables as well as general operating and administrative expenses, while RM1.5m has been set aside for expenses related to the disposal. (The Edge Malaysia)",
+    "takeaways": [
+     "The allocation adds up exactly — RM30.0m for restaurants, RM13.5m for working capital and RM1.5m for disposal expenses equals the RM45.0m consideration — so every ringgit of the proceeds is already spoken for and none is retained as unallocated cash.",
+     "RM30.0m across 10 new outlets plus the reimaging of two existing ones implies well under RM3m per new outlet, which is the kind of fit-out budget consistent with casual-dining formats such as Italiannies and TGI Fridays rather than large-format restaurants.",
+     "Nearly a third of the proceeds — RM13.5m — goes to working capital and explicitly to settling trade and other payables, so part of this disposal is repairing the balance sheet rather than funding growth.",
+     "This is a complete strategic reversal: the group is exiting a loss-making advanced-materials business in Hong Kong to fund food and beverage outlets in central Peninsular Malaysia, two businesses with nothing in common.",
+     "Techna-X is not covered in today's Kenanga bundle and no rating, target price or research view accompanies the item, so this is digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "China-US spat at G20 boils down to dispute over one word",
+    "region": "Global",
+    "body": "A disagreement between Chinese and US officials at a Group of 20 (G20) finance chiefs meeting this week mostly revolved around a dispute over one word, according to people familiar with the talks. (Bloomberg, via The Edge Malaysia)",
+    "takeaways": [
+     "The digest does not say which word was disputed, so the substance of the disagreement cannot be established from this item — what is reportable is that a G20 finance chiefs' communique process stalled on drafting language.",
+     "It is sourced to people familiar with the talks rather than to an official statement, which places it a step below the on-the-record central bank items elsewhere in today's macro section.",
+     "A communique fight over wording is a low-stakes event in itself but a useful indicator of how little common ground the two sides currently have on the record.",
+     "It lands in the same digest as an item reporting Malaysia-China bilateral trade up 30.6% in 1H2026, a reminder that the diplomatic friction and the trade flows are moving in opposite directions.",
+     "None of today's five Kenanga reports has direct exposure to G20 policy outcomes, so this is background context rather than a read-across to a covered row."
+    ]
+   },
+   {
+    "h": "Canada assesses risks to imports after India raid finds fake labels on food products",
+    "region": "Global",
+    "body": "The Canadian Food Inspection Agency is looking into whether an illegal operation in India that labelled chips and other food products with fake nutrition information and expiry dates represents a risk to the country's imports. (The Edge Malaysia)",
+    "takeaways": [
+     "The agency is assessing risk, not recalling product — the item describes an investigation into whether Canadian imports are affected, and reports no finding either way.",
+     "The specific failure was labelling integrity: fake nutrition information and fake expiry dates on chips and other packaged food, which is a supply-chain documentation problem rather than a contamination event.",
+     "Food-import label verification is the kind of item that raises compliance costs across an entire sourcing corridor once a regulator starts checking, even where no individual shipment is found at fault.",
+     "The digest gives no volumes, no named brands and no affected-import estimate, so no financial magnitude can be attached to it.",
+     "Malaysia is not named in the item, and none of today's Kenanga reports covers packaged food exports to Canada — FFB, the one consumer name in today's bundle, is a domestic and regional dairy business whose expansion in this note is directed at Cambodia and Johor."
+    ]
+   },
+   {
+    "h": "Bank Negara Malaysia keeps overnight policy rate unchanged",
+    "region": "Malaysia",
+    "body": "Malaysia's central bank kept interest rates unchanged on Thursday as expected amid stable prices and strong growth. The overnight policy rate is maintained at 2.75% following the fifth of six scheduled reviews for the year, Bank Negara Malaysia (BNM) said in a statement on Thursday. (The Edge Malaysia)",
+    "takeaways": [
+     "This is the one macro item in today's digest that has its own Kenanga report in the same bundle — the BNM MPC Economic Viewpoint — so it is the only bullet here where a house view is directly attached rather than inferred.",
+     "The decision was in line with both Kenanga's house view and consensus, and Kenanga's note records that the policy statement was largely unchanged and retained its forward guidance, confirming a data-dependent stance.",
+     "The more significant content is the growth upgrade rather than the rate: Kenanga's note reports the MPC now expects 2026 growth of around 5.0%, up from previous guidance of 'firmly within the 4.0% - 5.0% range', which sits above the Ministry of Finance's 4.0%-4.5% forecast.",
+     "One meeting remains in 2026, on 5 November, and Kenanga's own MPC schedule table already carries a 'No change' outlook for it, consistent with its call for the OPR to stay at 2.75% through the year.",
+     "The market read it as benign: the KLCI closed up 0.37% at 1,715.1 on the day, with local institutions net buyers of RM52.4m and foreign participants net sellers of RM74.6m."
+    ]
+   },
+   {
+    "h": "Malaysia-China bilateral trade up 30.6% to USD80.4b in 1H2026, says deputy minister",
+    "region": "Malaysia",
+    "body": "Bilateral trade between Malaysia and China expanded 30.6% year-on-year, reaching USD80.43b (RM325.3b) in the first half of 2026 (1H2026). (The Edge Malaysia)",
+    "takeaways": [
+     "A 30.6% year-on-year expansion is a very large move for a bilateral trade corridor of this size, and the digest reports it as a single half-year figure without splitting exports from imports — so the direction of the surplus cannot be read from this item.",
+     "The USD80.43b / RM325.3b pairing implies a conversion rate of about 4.04, consistent with the USD/MYR rate of 4.0425 printed in the same digest.",
+     "The figure is attributed to a deputy minister rather than to a statistics release, so it is a stated official number rather than a data print with published methodology.",
+     "It sits directly alongside today's G20 item on China-US friction, and is the more consequential of the two for Malaysia: the trade relationship is compounding while the diplomatic one is described as stuck on drafting language.",
+     "Kenanga's own BNM note in today's bundle attributes the MPC's more constructive growth assessment partly to E&E exports and continued strength in tech-related non-E&E exports, which is the channel through which a corridor of this size shows up in the domestic growth numbers."
+    ]
+   },
+   {
+    "h": "Malaysia, Indonesia eye further growth in RM114.0b bilateral trade, says Johari",
+    "region": "Malaysia",
+    "body": "Malaysia and Indonesia have significant scope to expand bilateral trade beyond the RM114 billion recorded last year by strengthening trade facilitation and improving cross-border goods movement. (The Edge Malaysia)",
+    "takeaways": [
+     "The named constraints are procedural rather than tariff-related — trade facilitation and cross-border goods movement — so the stated upside comes from administration, not from market access.",
+     "The RM114.0b figure is for last year and is a base for an aspiration; the item contains no target, timeline or growth figure, so nothing quantitative can be read off it.",
+     "For scale, the Malaysia-China corridor in the item above ran at RM325.3b in the first half of 2026 alone, so the Indonesia relationship is a materially smaller one being talked up rather than a comparable trade axis.",
+     "It is a ministerial statement of intent, which places it among the softest items in today's macro section in terms of evidential weight.",
+     "The relevant Indonesian read-across in Kenanga's recent work is macroeconomic rather than trade-based: the 2 September bundle carried an Economic Viewpoint on Indonesia's August CPI, which BI has held rates against. None of today's five reports carries direct Indonesian revenue exposure."
+    ]
+   },
+   {
+    "h": "S&P Global Ratings warns of risks from China's generous credit ratings",
+    "region": "Asia Pacific",
+    "body": "Generous credit ratings are baking risks into China's booming bond market as Beijing attracts foreign issuers, S&P Global Ratings' Asia-Pacific ratings chief said on Thursday. (The Edge Malaysia)",
+    "takeaways": [
+     "The warning is about ratings compression, not defaults: the argument is that overly generous domestic ratings make credit differentiation impossible, which is a pricing problem before it is ever a loss problem.",
+     "The timing is what gives it weight — the concern is raised while Beijing is actively attracting foreign issuers, so the exposure being created is new rather than legacy.",
+     "It comes from a named, on-the-record source, S&P Global Ratings' Asia-Pacific ratings chief, which puts it above the anonymously sourced items in today's macro section.",
+     "No default rates, spread levels or issuance volumes are given, so the scale of the risk described cannot be quantified from this item.",
+     "There is no direct link to any of today's five Kenanga reports; the relevance for Malaysian readers is to regional credit conditions generally, a channel Kenanga's Ringgit Weekly note in the same bundle discusses only via US Treasury yields and the debasement trade, not via Chinese credit."
+    ]
+   },
+   {
+    "h": "BOJ said to favour quarter-point hike, flexible on future path",
+    "region": "Asia Pacific",
+    "body": "The Bank of Japan (BOJ) is leaning toward raising its benchmark interest rate by a quarter point this month in response to upward price risks, while leaving open the possibility of accelerating the pace of hikes thereafter, according to people familiar with the matter. (Bloomberg, via The Edge Malaysia)",
+    "takeaways": [
+     "The currency has already moved on this: USD/YEN fell 2.23% to 156.32 from 159.89 in the session this digest covers, the largest single move in today's forex table by a wide margin.",
+     "That yen strength is not just a Japan story for Malaysian readers — Kenanga's Ringgit Weekly note in today's bundle explicitly credits it, saying MYR 'stabilising at 4.043 as yen strength pulled the USD broadly lower'.",
+     "This is the third consecutive Kenanga digest carrying a BOJ tightening signal: the 3 September edition ran both US Treasury Secretary Bessent urging 'decisive' steps and board member Takata arguing for nimble hikes, and this item reports the institution now leaning that way.",
+     "Kenanga's own BNM note today prints Japan's overnight call rate at 1.00% after a 25bps increase in June 2026, so a quarter-point move this month would be the second hike of the year rather than the start of a cycle.",
+     "Equities did not react the way the currency did: the Nikkei 225 slipped just 0.17% to 64,214.5 in the same session, after a 2.85% fall recorded in the previous digest."
+    ]
+   },
+   {
+    "h": "Strong demand boosts US services sector activity in August",
+    "region": "Americas",
+    "body": "US services sector activity picked up in August as strong demand lifted new orders to a 3-1/2-year high and drove input prices higher, suggesting inflation could remain elevated and compel the Federal Reserve to hike interest rates before the end of this year. (The Edge Malaysia)",
+    "takeaways": [
+     "This is the item that most directly challenges Kenanga's own house call. The Ringgit Weekly note in today's bundle keeps the Fed on hold in September with a first cut in 2Q27, while this print is described as potentially compelling a hike before year-end.",
+     "The mechanism named is input prices, not output prices — new orders at a three-and-a-half-year high are driving costs up, which is the earliest and least certain stage of a pass-through to consumer inflation.",
+     "Services is precisely the component Kenanga's own note singles out as the trigger to watch: it says evidence of broadening services inflation in the 11 September CPI would push USDMYR toward 4.060, against a retest of 4.030 on an in-line print.",
+     "The market read the day as risk-on regardless: the Dow rose 1.18%, the S&P 500 1.06% and the NASDAQ 1.40% in the session this digest covers.",
+     "Today's US data is not one-directional — the jobless claims item in the same section describes no material shift in labour market conditions, so the services strength is not corroborated by a tightening labour market in this digest."
+    ]
+   },
+   {
+    "h": "US trade gap widens to largest since early 2025 on AI push",
+    "region": "Americas",
+    "body": "The US trade deficit widened sharply in July to the largest since early 2025, reflecting a surge in imports of computers and other technological equipment. The gap in goods and services trade grew 24.4% from the prior month to USD88.6 billion (RM358.4 billion), Commerce Department data showed Thursday. (The Edge Malaysia)",
+    "takeaways": [
+     "The composition is the interesting part: the deficit widened because of a surge in imports of computers and other technological equipment, so this is AI-related capital formation showing up as a trade deficit rather than weak US competitiveness.",
+     "A 24.4% month-on-month widening to USD88.6b is a very large single-month move, and the digest attributes it to one identified category rather than to broad import strength.",
+     "The demand behind those imports is what regional exporters sell into: Kenanga's BNM note in today's bundle records the MPC citing 'strong global tech expansion' and sustained tech-related spending as support for the growth outlook it upgraded to around 5.0%.",
+     "The USD88.6b / RM358.4b pairing implies a conversion rate of about 4.05, consistent with the USD/MYR of 4.0425 printed in the same digest.",
+     "This is July data being published in September, so it is the oldest data point in today's macro section and should be read behind the August services and weekly claims prints in the same block."
+    ]
+   },
+   {
+    "h": "US weekly jobless claims rise marginally amid stable labour market",
+    "region": "Americas",
+    "body": "The number of Americans filing claims for unemployment benefits increased marginally last week, suggesting no material shift in labour market conditions at the end of August. (The Edge Malaysia)",
+    "takeaways": [
+     "The digest's own conclusion is that nothing changed — a marginal rise with no material shift in labour market conditions — so this is a confirmation print rather than a signal.",
+     "It matters mainly as the setup for the bigger number: Kenanga's Ringgit Weekly note in today's bundle flags tonight's payrolls print, expected at 55.0k after -23.0k in July, which is the release that will actually move the September Fed debate.",
+     "A stable claims series sits awkwardly beside the services-sector item in the same section, which is framed as potentially compelling a Fed hike this year — the labour data is not corroborating the inflation argument.",
+     "Kenanga's own view is that neither release is decisive: its note reads the 11 September CPI, not Jackson Hole or the labour data, as 'the key test for September Fed expectations'.",
+     "No claims level or change figure is printed in the digest, only the direction, so nothing quantitative can be taken from this item."
+    ]
+   },
+   {
+    "h": "Bank of England's Pill says higher rates would help head off inflation pressure",
+    "region": "Europe",
+    "body": "Bank of England Chief Economist Huw Pill said that raising interest rates now would help reduce the chance that the central bank has to be more aggressive in future to tame inflation which has picked up as a result of the Iran war. (Reuters)",
+    "takeaways": [
+     "The argument is about sequencing rather than level: Pill's case is that tightening now reduces the total tightening required later, which is a pre-emptive rather than a reactive rationale.",
+     "The inflation he is responding to is explicitly attributed to the Iran war, so this is the same oil-and-conflict channel that runs through the rest of today's digest — Nymex crude closed at USD91.3 a barrel, up 0.32%.",
+     "This is the Chief Economist speaking, not the Monetary Policy Committee, so it indicates a direction of argument inside the Bank rather than a decision.",
+     "Kenanga's own BNM note in today's bundle prints the UK base rate at 3.75% after a 25bps cut in December 2025 — the Bank has been easing, so a hike from here would be a reversal rather than a continuation.",
+     "The FTSE-100 rose 0.70% to 10,831.5 in the same session and none of today's five Kenanga reports carries direct UK revenue exposure, so the relevance is to the global rate backdrop rather than to any covered row."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260904-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Three data-quality points on this row, all internal to Kenanga's own PDF. (1) The report states its earnings revision three different ways: the front-page summary says 'We raise FY27F-FY28F earnings by 11%-20%', the Forecasts paragraph says 8% and 15% respectively, and the Summary Earnings Table's Earnings Revision row says 4.6% and 15.8%. All three are reproduced in the takeaways rather than one being silently chosen. (2) The front page gives YTD FY27 wins as 'c.RM150m' while the order-book paragraph gives 'c.RM143m'. (3) The peer-comparison table on page 4 is stale — it shows KEEMING at a last price of RM1.70 and a target price of RM1.80, against RM2.41 and RM2.84 in the same document. Separately, the previous target price of RM2.00 shown on this row is NOT stated in today's PDF: it is taken from an NST report of Kenanga's 26 June 2026 note (Outperform, TP raised to RM2.00 from RM1.80), and reconciles with today's arithmetic — RM2.84 is 22x the FY28F core EPS of 12.9 sen, and 18x the pre-revision FY28F EPS of about 11.2 sen is roughly RM2.00. Finally, the PDF filename is dated 260903 while the document's own header reads 04 September 2026 and it is published in the 4 September bundle. The 52-week range shown is stockanalysis.com's (RM0.60-RM2.58); Kenanga's own stock-information box gives RM0.38-RM2.56, where the RM0.38 low corresponds to the February 2026 IPO price rather than a traded low.",
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 2.00,
+   "ticker": "KEEMING",
+   "name": "Kee Ming Group Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 2.84,
+   "price": 2.41,
+   "divYield": null,
+   "high52": 2.58,
+   "low52": 0.60,
+   "mktSrc": "https://stockanalysis.com/quote/klse/KEEMING/",
+   "catalyst": "Maintained OUTPERFORM with TP raised to RM2.84 after 1QFY27 core net profit of RM6m came in within expectations at 21% of the full-year forecast; the target PER is rerated to 22x FY28F EPS from 18x on the group's move into larger data-hall electrical packages, TNB high-voltage opportunities and a new Sarawak branch.",
+   "quote": "KEEMING's 1QFY27 results came in within expectations, with CNP of RM6m accounting for c.21% of our full-year forecast.",
+   "summary": [
+    "The quarter itself was soft and Kenanga attributes it to timing rather than deterioration: 1QFY27 core net profit of RM6m fell 30% QoQ on a less favourable project mix, a lower contribution from higher-margin industrial projects and the absence of variation-order contribution, pulling core net margin down 9 percentage points QoQ to 13%. Operating cash flow turned negative on working-capital movements from higher contract assets and receivables. A c.RM70m letter of award secured in June was only granted towards the end of the quarter and has yet to contribute meaningfully. No year-on-year comparison exists because the group only listed in February 2026.",
+    "Order book stands at c.RM246m — high voltage 43%, industrial 24%, commercial 13%, data centres 10% — after a recent RM40m award. The tender book is RM2.2bn, weighted 47% to data centres, 27% to interconnection facilities, 16% industrial, 7% commercial and 4% residential. Note the report's own inconsistency on year-to-date wins: the front page says c.RM150m and the order-book paragraph says c.RM143m.",
+    "The rerating rests on a change in what KEEMING is allowed to bid for. It secured a maiden RM21m data centre job covering underground infrastructure and data hall electrical works — a break from its historical fit-out focus — and is now qualified by end customers to tender directly for data hall electrical packages. Management indicates Phase 2 of that project could be at least double Phase 1, and the c.RM1bn data centre portion of the tender book includes three data hall electrical packages totalling c.RM300m with outcomes expected by early 4QCY26.",
+    "The target price of RM2.84 is 22x FY28F EPS, with the target PER raised from 18x for three stated reasons: the move up the value chain into larger data hall electrical works, increasing exposure to TNB high-voltage opportunities, and the Sarawak expansion. Be careful with the earnings-revision figure — the report gives it three different ways (front page 11%-20%, Forecasts paragraph 8% and 15%, Summary Earnings Table 4.6% and 15.8%) and does not reconcile them. FY27F-FY28F order book assumptions were raised to RM313m and RM398m from RM268m and RM353m.",
+    "The two largest opportunities Kenanga describes are explicitly not in the forecasts. On Sarawak, KEEMING has submitted three tenders worth c.RM100m with partner HKB, and Kenanga estimates that Sarawak Energy's 1.5GW solar target by 2030, assuming SLVEST takes around 40% share and c.RM50m of connectivity works per site, implies close to RM2bn of potential connectivity opportunities — 'We have not factored in any contribution from these potential Sarawak opportunities.' On TNB, five tenders submitted in February averaging c.RM50m-RM60m each remain undecided. Kenanga's stated conviction language is an investment-case line ('We like KEEMING due to' its structural growth profile, the SLVEST solar-interconnection relationship, its data centre positioning and TNB/Sarawak potential), which is not a pick declaration, so this row reads None stated. Risks named are execution risk, dependence on subcontractors and working capital risk."
+   ],
+   "analyst": {
+    "v": null,
+    "opp": true,
+    "house": "Maybank Investment Bank",
+    "date": "18 Aug 2026",
+    "note": "The most recent publicly retrievable named-house call on KEEMING is <b>Maybank Investment Bank on 18 Aug 2026</b>, which <b>downgraded the stock to &lsquo;hold&rsquo; from &lsquo;buy&rsquo; on valuation</b> ahead of the results announcement, guiding to April-June earnings of RM5m-RM7m against RM9m in January-March and noting the stock was trading at about 21x forward earnings against peer MN Holdings at 17x. No target price was carried in that report; Maybank&rsquo;s last published target price, from its 26 Jun 2026 note reported by NST, was <b>RM1.94</b> (Buy, raised from RM1.36). <b>Read the date.</b> The 18 August call predates the 1QFY27 results announced at end-August, the RM40m contract wins announced on 1 September, and today&rsquo;s Kenanga note &mdash; and its last published target price of RM1.94 sits below the RM2.41 share price, so it is a stale call rather than a live argument. Maybank used no pick language, so this row reads <b>None stated</b>. The divergence marker is set because Hold against Kenanga&rsquo;s Outperform is an opposite-direction call under the house-divergence rule, and it is set from that verified 18 August statement only &mdash; not inferred from prices. Of the nine houses searched, only Maybank Investment Bank yielded a dated, publicly retrievable call on KEEMING.",
+    "cites": [
+     [
+      "The Edge Malaysia via KLSE Screener, 18 Aug 2026 &mdash; &lsquo;Kee Ming may see slow start to FY2027, says analyst&rsquo;",
+      "https://www.klsescreener.com/v2/news/view/1775847/kee-ming-may-see-slow-start-to-fy2027-says-analyst"
+     ],
+     [
+      "New Straits Times via KLSE Screener, 26 Jun 2026 &mdash; &lsquo;Analysts upbeat on Kee Ming&rsquo;s RM70m solar job, sees strong earnings contribution&rsquo;",
+      "https://www.klsescreener.com/v2/news/view/1745121/analysts-upbeat-on-kee-ming-039-s-rm70m-solar-job-sees-strong-earnings-contribution"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/KEEMING-260903-RN-1QFY27-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "The sum-of-parts table on page 2 values the construction segment at RM4,540.5m on a stated basis of '16x FY27 PER', while the Valuations paragraph on page 1 says the construction target PER was rerated to 18x from 16x. The two are inconsistent within the same document and Kenanga does not reconcile them; both are reported here rather than one being chosen. Separately, the RM3.08 share price is Kenanga's own quoted figure and equals the 52-week high shown both in its stock-information box and on stockanalysis.com, but the Bloomberg-sourced overbought table in the same day's Kenanga Today digest already prints KERJAYA at a last price of RM3.100 with a 30-day high of RM3.150 — so the report's price is a snapshot slightly behind the market.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 3.13,
+   "ticker": "KERJAYA",
+   "name": "Kerjaya Prospek Group Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 3.80,
+   "price": 3.08,
+   "divYield": 4.55,
+   "high52": 3.08,
+   "low52": 2.06,
+   "mktSrc": "https://stockanalysis.com/quote/klse/KERJAYA/",
+   "catalyst": "Reiterated OUTPERFORM with TP raised to RM3.80 from RM3.13 after a maiden RM858m data centre MEP contract in Iskandar Puteri lifted year-to-date job wins to a record RM3.23b, past both Kenanga's RM2.5b FY26 assumption and management's RM3.0b target; FY26-FY27 forecasts raised 8% and 10% and the construction target PER rerated to 18x.",
+   "quote": "While the project's net margin is expected to be lower than KERJAYA's typical 10% level, at 5%-6%, we view this breakthrough positively as a strategic entry into the highly competitive data centre space.",
+   "summary": [
+    "The contract itself: wholly owned subsidiary Kerjaya Prospek (M) Sdn Bhd secured an RM858m fixed lump-sum contract from a data centre developer for mechanical, electrical and plumbing fit-out works at Iskandar Puteri, Johor. Construction is scheduled to commence in 3Q 2026 and is targeted for completion within eight months — an unusually compressed schedule for a contract of this size.",
+    "Kenanga is explicit that the margin is worse and argues the trade is still worth making: expected net margin of 5%-6% against KERJAYA's typical 10%, offset by the fast eight-month execution ensuring high resource efficiency and rapid cashflow turnaround. That dilution is carried into the numbers — the blended construction net margin assumption is cut to 9.8% from 10.0%.",
+    "On order book, the win takes year-to-date replenishment to RM3.23b, past Kenanga's full-year FY26 assumption of RM2.5b and management's own RM3.0b target, and lifts the outstanding order book to RM5.9b, which Kenanga describes as strong earnings visibility over the next three years. FY26-FY27 job win assumptions are raised to RM3.5b and RM2.5b (from RM2.5b and RM2.2b) and revenue recognition to RM2.6b and RM3.0b (from RM2.35b and RM2.65b), producing earnings upgrades of 8% and 10%.",
+    "The target price of RM3.80 comes from a sum-of-parts: construction RM4,540.5m (RM3.61 a share), property RM183.2m (RM0.15) at a 30% discount to RNAV, and FY27F net cash RM60.6m (RM0.05). The construction multiple is where the rerating sits — the text says 18x, a modest discount to the 22x benchmark for large-cap peers GAMUDA, IJM and SUNCON, to reflect KERJAYA's mid-cap profile, though the SoP table's own basis column still reads 16x. No ESG adjustment is made, on a 3-star rating.",
+    "Beyond this contract, Kenanga lists up to RM2.0b of infrastructure packages at Andaman Island, participation in the Penang LRT Package 2 tender, and property launches next year at Jalan Puchong, KL (GDV RM800m) and Tanjung Bungah, Penang (GDV RM830m). Dividend guidance is unchanged at 14.0 sen a year, a yield above 4%. Kenanga's conviction language is an investment-case line ('We continue to like KERJAYA for' its high-margin formwork method, lean management and order-book visibility including at least RM1b a year of recurring related-company work), which is not a pick declaration, so this row reads None stated. Risks named are further deterioration in building job prospects, rising input costs, and liquidated ascertained damages from cost overruns and delays."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "RHB Research",
+    "date": "2 Sep 2026",
+    "note": "The most recent publicly retrievable named-house calls on KERJAYA are dated <b>2 Sep 2026</b>, reported by The Star after the 1H26 results: <b>RHB Research maintained a target price of RM3.41</b> with a 15% upside and a projected 5% FY27 dividend yield, while BIMB Research raised its target price to RM3.24 from RM2.91. <b>Read the date &mdash; both calls predate the RM858m data centre contract announced on 2 September and reported on 3 September</b>, which is the entire subject of the Kenanga note beside them, so neither has been restated against this event. RHB&rsquo;s rating is not stated in the retrievable report, only its target price, so <b>no divergence marker is set</b> &mdash; the rule requires a verified call, and a direction is not inferred from a target price. Neither house used pick language, so this row reads <b>None stated</b>. Of the nine houses searched, only RHB yielded a dated, publicly retrievable call; BIMB Research is recorded here as additional named-house context but is not one of the nine.",
+    "cites": [
+     [
+      "The Star via KLSE Screener, 2 Sep 2026 &mdash; &lsquo;High order book to fuel Kerjaya Prospek showing&rsquo;",
+      "https://www.klsescreener.com/v2/news/view/1784861/high-order-book-to-fuel-kerjaya-prospek-showing"
+     ],
+     [
+      "The Star, 4 Sep 2026 &mdash; &lsquo;Trading ideas: Kerjaya Prospek, Niche Capital, Plytec, Orgabio, Media Chinese International, AirAsia, Eco-Shop, Techna-X, Farm Fresh, RNG Tech&rsquo;",
+      "https://www.thestar.com.my/business/business-news/2026/09/04/trading-ideas-kerjaya-prospek-niche-capital-plytec-orgabio-media-chinese-international-airasia-eco-shop-techna-x-farm-fresh-rng-tech"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/KERJAYA-260904-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "The placement price is reported two different ways by two sources published on the same day, and both are correct at different stages. Farm Fresh's own announcement, as reported by The Star on 3 September and used by TA Securities in its 4 September note, gives an illustrative issue price of RM1.824, a 10% discount to the five-day VWAMP of RM2.0267 as at 2 September. Kenanga's note says the price 'has subsequently been fixed at RM1.95/share, representing a 3.2% discount to the 5-day VWAMP of RM2.0134/share'. The difference is the illustrative announcement price versus the subsequently fixed book-built price, against VWAMPs struck on different reference dates — not a contradiction in the underlying facts. Kenanga's own conviction language on this row is an investment-case line ('We like FFB for' its RTD milk leadership, ice cream foray and product innovation), which is not a pick declaration, so the signal reads None stated.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "MP",
+   "prevTp": 2.08,
+   "ticker": "FFB",
+   "name": "Farm Fresh Berhad",
+   "type": "Company Updates",
+   "rating": "MP",
+   "tp": 2.00,
+   "price": 1.99,
+   "divYield": 1.01,
+   "high52": 3.03,
+   "low52": 1.95,
+   "mktSrc": "https://stockanalysis.com/quote/klse/FFB/",
+   "catalyst": "Reiterated MARKET PERFORM with TP cut 4% to RM2.00 from RM2.08 on an unchanged 28x FY27F PER, after a proposed private placement of up to 109.7m new shares (5.8% of the existing base) to raise up to RM200m for Cambodia and Malaysia expansion produces net EPS dilution of 4% and 5% for FY27F and FY28F.",
+   "quote": "Consequently, we lower our TP by 4% to RM2.00 (from RM2.08), based on an unchanged 28x FY27F PER.",
+   "summary": [
+    "The proposal is a private placement of up to 109.7m new shares, equivalent to 5.8% of the existing share base, raising up to RM200.0m, targeted for completion by 3QCY26. Kenanga's note states the issue price has subsequently been fixed at RM1.95 a share, a 3.2% discount to the five-day volume-weighted average market price of RM2.0134 — a materially narrower discount than the 10% illustrative discount in the company's own announcement two days earlier.",
+    "Proceeds are almost entirely committed: RM148.3m to capex, split RM92m for Cambodia's processing facilities and integrated dairy farm and RM56.3m for Malaysian manufacturing including at Larkin, Johor and new or complementary FMCG categories; RM50m for the previously announced acquisition of an additional 20% of Inside Scoop; and the balance for placement expenses. The capex is to be deployed progressively over 24 months.",
+    "There is an explicit fallback that tells you the priority order: if the placement raises less than RM200.0m, the group will prioritise its capex requirements and any shortfall reduces the RM50m Inside Scoop allocation. The dairy build-out is funded before the ice cream stake increase.",
+    "The dilution arithmetic is the whole of the target-price cut. Kenanga raises FY27/FY28 earnings forecasts by 2% and 1% for higher interest income on the enlarged cash balance — noting earnings from the projects the proceeds fund were already largely in the forecasts — which only partly offsets the larger share base, leaving net EPS dilution of 4% and 5%. The 28x FY27F PER is unchanged and remains broadly in line with peers' average historical forward PER of 29x, still reflecting the slower-than-expected commissioning of the Enstek plant.",
+    "This funds a build already in motion rather than a new decision: Cambodia's processing facility is targeted to begin pasteurised milk production in October 2026 with UHT by end-2026, and the first 1,500 heifers for the integrated dairy farm arrive in April 2027. Kenanga's conviction language is an investment-case line ('We like FFB for' its RTD milk leadership on a vertically integrated grass-to-glass model, its foray into high-margin ice cream, and its innovation-driven portfolio), which is not a pick declaration, so the row reads None stated. Risks named are raw material price volatility, pricing competition from new entrants, and unfavourable forex movements."
+   ],
+   "analyst": {
+    "v": null,
+    "opp": true,
+    "house": "TA Securities",
+    "date": "4 Sep 2026",
+    "note": "<b>TA Securities</b> published on the <b>same day</b> as this Kenanga note &mdash; the only row in today's bundle where the two houses are exactly contemporaneous. Analyst Liew Yi Jiet <b>maintained a &lsquo;Buy&rsquo; recommendation and lowered the target price to RM2.75 from RM2.91</b> after incorporating the enlarged share base, calling the placement timely given FY27 capex requirements of about RM200m and estimating it would cut pro-forma net gearing to 0.53x from 0.89x. Two differences from Kenanga are worth reading side by side: TA estimates EPS dilution of about 5.5% for FY27-FY29 against Kenanga's 4% and 5% for FY27F/FY28F, and TA was still working from the illustrative RM1.824 placement price while Kenanga's note reports the price as subsequently fixed at RM1.95. TA used no pick language, so this row reads <b>None stated</b>. The divergence marker is set because Buy against Kenanga&rsquo;s Market Perform is an opposite-direction call under the house-divergence rule, taken from that verified dated statement rather than inferred. Of the nine houses searched, only TA Securities yielded a dated, publicly retrievable call on FFB; BIMB Securities Research was also quoted constructively on 2 September but with no rating or target price attached.",
+    "cites": [
+     [
+      "New Straits Times via KLSE Screener, 4 Sep 2026 &mdash; &lsquo;Farm Fresh&rsquo;s RM200mil placement timely for expansion: TA Securities&rsquo;",
+      "https://www.klsescreener.com/v2/news/view/1786489/farm-fresh-039-s-rm200mil-placement-timely-for-expansion-ta-securities"
+     ],
+     [
+      "The Star, 3 Sep 2026 &mdash; &lsquo;Farm Fresh proposes RM200mil private placement exercise&rsquo;",
+      "https://www.thestar.com.my/business/business-news/2026/09/03/farm-fresh-proposes-rm200mil-private-placement-exercise"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/FFB-260904-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "BNM MPC (Sep-26)",
+   "name": "BNM MPC Meeting (3 September): Holds rates steady, backs a 5.0% growth story amid Middle East risks",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "BNM held the Overnight Policy Rate at 2.75% at the fifth of six 2026 meetings, in line with Kenanga's house view and consensus, while upgrading its domestic growth assessment to around 5.0% for 2026; Kenanga maintains its call for the OPR to stay at 2.75% through 2026.",
+   "quote": "We maintain our call for the OPR to stay at 2.75% through 2026.",
+   "summary": [
+    "The decision carried no surprise and the statement carried no change: the OPR was held at 2.75%, the MPC repeated that the current stance is 'consistent with the outlook of continued price stability and sustainable economic growth', and it kept the forward guidance that it will 'remain vigilant to ongoing developments and assess the balance of risks surrounding the outlook for domestic inflation and growth'. Kenanga reads that as confirming a data-dependent approach.",
+    "The substantive change is in the growth language. The MPC now expects 2026 growth of around 5.0%, up from previous guidance of 'firmly within the 4.0% - 5.0% range' — a revision Kenanga says signals greater confidence and which sits well above the Ministry of Finance's 4.0%-4.5% forecast. For 2027 the MPC expects resilience on E&E exports, tech-related non-E&E exports, tourism, stable labour conditions and investment activity. Kenanga's own forecast is 5.3% for 2026, against 5.2% in 2025.",
+    "Inflation is not the constraint. Headline and core averaged 1.8% and 2.0% respectively over the first seven months of 2026, and the MPC noted limited pass-through to consumer prices despite elevated costs and robust growth, helped by domestic policy measures, stable demand and limited spillovers from export-led growth into wages. The stated upside risk is the Middle East conflict via elevated global commodity prices.",
+    "The risk assessment is described as broadly balanced in both directions: downside from prolonged geopolitical tension, tighter global financial conditions, elevated financial market valuations and lower domestic commodity production; upside from stronger technology-related export demand, better-than-expected global growth, higher tourism, faster global supply chain recovery and pro-growth policies in major economies.",
+    "Kenanga's reasoning for the hold is that growth at around 5.0% with July inflation at 1.8% leaves 'limited urgency for further policy adjustment'. Its own policy-rate table puts that in regional context: Malaysia's last move was a 25bps cut in July 2025, the longest unchanged stretch among the Asian central banks listed, while New Zealand (Sep-26), the Philippines (Aug-26), South Korea (Jul-26), Indonesia (Jun-26) and Japan (Jun-26) have all raised by 25bps within the past four months. One meeting remains this year, on 5 November, and Kenanga's schedule table already carries a 'No change' outlook for it."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/EV_BNM_MPC5_260904-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Ringgit Weekly",
+   "name": "Ringgit Weekly Outlook: US CPI, not Jackson Hole, sets the September FOMC and the ringgit's course",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "The ringgit weakened to 4.043/USD from 4.025 a week earlier on hawkish Fed repricing; Kenanga keeps the Fed on hold in September with a first cut in 2Q27 and names the 11 September US CPI, not Jackson Hole, as the decisive input for both the FOMC and USDMYR.",
+   "quote": "We keep the Fed on hold in September, with our first cut in 2Q27, reading Warsh's speech as a test rather than a signal.",
+   "summary": [
+    "On the week, MYR ended Thursday at 4.043/USD from 4.025 the previous Friday, having touched 4.046 on Wednesday before stabilising — a weaker week for the ringgit driven by hawkish Fed repricing rather than by anything domestic. That is consistent with the USD/MYR of 4.0425 printed in the same day's Kenanga Today digest.",
+    "Kenanga names two forces pushing in opposite directions. Warsh's Jackson Hole message and US-Iran escalation lifted front-end US rates and oil, pressuring the ringgit; against that, yen strength pulled the dollar broadly lower, and rising back-end Treasury yields still point to further Treasury buybacks, which 'keeps the debasement trade alive and caps USD upside', supporting emerging market FX carry and leaving MYR range-bound.",
+    "The calendar is the argument. Tonight's US payrolls print is expected at 55.0k after -23.0k in July, with PPI and then the 11 September CPI to follow; Kenanga calls the CPI 'the key test for September Fed expectations' and forecasts 0.2% MoM, in line with consensus. The ECB's expected 25bps hike is judged to have limited spillover for the ringgit.",
+    "The house view is that the Fed should not respond to this inflation impulse: 'Crude is lifting the headline number, but the impulse stays narrow. Hiking into an oil shock would hurt domestic demand without lowering the oil price.' With guidance withdrawn, each release carries more weight — an in-line CPI opens a retest of 4.030, while evidence of broadening services inflation would push USDMYR toward 4.060. That is the specific risk today's digest raises elsewhere, with US services activity in August lifting new orders to a three-and-a-half-year high and driving input prices higher.",
+    "The forecast path has USDMYR at 4.03 for Q3-26, 3.95 at end-2026, then 4.00, 4.02 and 3.95 through Q3-27, with a bearish long-term USD trend — the 3.95 year-end figure is unchanged from the Jackson Hole viewpoint in the 1 September bundle. Near term the technical read is neutral: consolidating around the EMA-5 at 4.040 with RSI-7 at 45.8 showing no clear direction, resistance at 4.049 and support at 4.030."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/EV_Ringgit-Weekly-Outlook_260904-Kenanga.pdf"
+  }
+ ]
+}

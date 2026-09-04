@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T19:20:50.168Z",
+ "generatedAt": "2026-09-04T05:40:51.540Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -7,10 +7,11 @@
   "2026-08-28",
   "2026-09-01",
   "2026-09-02",
-  "2026-09-03"
+  "2026-09-03",
+  "2026-09-04"
  ],
- "rows": 81,
- "verified": 81,
+ "rows": 86,
+ "verified": 86,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -115,6 +116,24 @@
    "date": "2026-09-03",
    "row": "Market Strategy",
    "msg": "This strategy note states ratings and target prices for a large number of stocks across the coverage universe (including QL, MAYBANK, HLBANK, SIMEPROP, ABMB, BURSA, YTLPOWR, DIALOG, KEYFIELD, HSPLANT and others), none of which has a standalone Kenanga report in today's bundle. Those figures are as quoted in this strategy piece and have not been independently verified against stock-specific reports today. Note also that the PDF filename is dated 260902 while the document's own header is dated 03 September 2026; it is published in the 3 September bundle and listed in that day's Ideas of the Day."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-04",
+   "row": "KEEMING",
+   "msg": "Three data-quality points on this row, all internal to Kenanga's own PDF. (1) The report states its earnings revision three different ways: the front-page summary says 'We raise FY27F-FY28F earnings by 11%-20%', the Forecasts paragraph says 8% and 15% respectively, and the Summary Earnings Table's Earnings Revision row says 4.6% and 15.8%. All three are reproduced in the takeaways rather than one being silently chosen. (2) The front page gives YTD FY27 wins as 'c.RM150m' while the order-book paragraph gives 'c.RM143m'. (3) The peer-comparison table on page 4 is stale — it shows KEEMING at a last price of RM1.70 and a target price of RM1.80, against RM2.41 and RM2.84 in the same document. Separately, the previous target price of RM2.00 shown on this row is NOT stated in today's PDF: it is taken from an NST report of Kenanga's 26 June 2026 note (Outperform, TP raised to RM2.00 from RM1.80), and reconciles with today's arithmetic — RM2.84 is 22x the FY28F core EPS of 12.9 sen, and 18x the pre-revision FY28F EPS of about 11.2 sen is roughly RM2.00. Finally, the PDF filename is dated 260903 while the document's own header reads 04 September 2026 and it is published in the 4 September bundle. The 52-week range shown is stockanalysis.com's (RM0.60-RM2.58); Kenanga's own stock-information box gives RM0.38-RM2.56, where the RM0.38 low corresponds to the February 2026 IPO price rather than a traded low."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-04",
+   "row": "KERJAYA",
+   "msg": "The sum-of-parts table on page 2 values the construction segment at RM4,540.5m on a stated basis of '16x FY27 PER', while the Valuations paragraph on page 1 says the construction target PER was rerated to 18x from 16x. The two are inconsistent within the same document and Kenanga does not reconcile them; both are reported here rather than one being chosen. Separately, the RM3.08 share price is Kenanga's own quoted figure and equals the 52-week high shown both in its stock-information box and on stockanalysis.com, but the Bloomberg-sourced overbought table in the same day's Kenanga Today digest already prints KERJAYA at a last price of RM3.100 with a 30-day high of RM3.150 — so the report's price is a snapshot slightly behind the market."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-04",
+   "row": "FFB",
+   "msg": "The placement price is reported two different ways by two sources published on the same day, and both are correct at different stages. Farm Fresh's own announcement, as reported by The Star on 3 September and used by TA Securities in its 4 September note, gives an illustrative issue price of RM1.824, a 10% discount to the five-day VWAMP of RM2.0267 as at 2 September. Kenanga's note says the price 'has subsequently been fixed at RM1.95/share, representing a 3.2% discount to the 5-day VWAMP of RM2.0134/share'. The difference is the illustrative announcement price versus the subsequently fixed book-built price, against VWAMPs struck on different reference dates — not a contradiction in the underlying facts. Kenanga's own conviction language on this row is an investment-case line ('We like FFB for' its RTD milk leadership, ice cream foray and product innovation), which is not a pick declaration, so the signal reads None stated."
   }
  ],
  "verdict": "PASS"
