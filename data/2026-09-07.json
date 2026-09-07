@@ -1,0 +1,271 @@
+{
+ "date": "2026-09-07",
+ "schema": 1,
+ "daily": {
+  "klci": 1708.1,
+  "chg": -7.03,
+  "pct": -0.41,
+  "inst": -89.9,
+  "instPct": 40.8,
+  "retail": 110.4,
+  "retailPct": 30.9,
+  "foreign": -20.5,
+  "foreignPct": 28.4,
+  "ideas": "Company Update: GAMUDA; Economic Viewpoint: Bond Market Weekly Outlook; Weekly Technical Review: DJIA, KLCI",
+  "news": [
+   {
+    "h": "Zetrix AI exits HeiTech Padu after disposing of entire 16.9% stake for RM27.5m",
+    "body": "Zetrix AI Bhd has exited HeiTech Padu Bhd after disposing of its entire 16.9% stake in the information technology services provider. Zetrix AI said its wholly-owned unit MY EG Capital Sdn Bhd sold the stake comprising 27.5m shares in HeiTech Padu via a direct business transaction on Sept 2. The disposal resulted in Zetrix AI and its founder, ceasing to be substantial shareholders of HeiTech Padu by virtue of their interest in MY EG Capital. (The Edge Malaysia)",
+    "takeaways": [
+     "The pricing falls out of the two figures the digest gives: 27.5m shares sold for RM27.5m is exactly RM1.00 per share, and 27.5m shares representing 16.9% implies roughly 163m HeiTech Padu shares in issue.",
+     "This is a clean exit, not a trim — the digest is explicit that the entire 16.9% stake went, and that Zetrix AI and its founder consequently cease to be substantial shareholders of HeiTech Padu by virtue of their interest in MY EG Capital.",
+     "The mechanism is a direct business transaction on 2 September, i.e. an off-market negotiated crossing rather than open-market selling, so the sale did not have to be absorbed by the order book; the digest does not name the buyer, so the incoming shareholder cannot be established from the retrieved source.",
+     "The seller of record is MY EG Capital Sdn Bhd, a wholly-owned unit, so the RM27.5m accrues to Zetrix AI in full with no minority leakage.",
+     "Zetrix AI appears twice in this edition: three of its call warrants sit in the digest's own oversold-warrants table (ZETRIX AI BHD-DC at a 14-day RSI of 18.00, -B2 at 18.71 and -B6 at 24.96), so the derivatives were already heavily sold before this disposal was reported. Neither Kenanga report in the 7 September bundle covers Zetrix AI or HeiTech Padu."
+    ]
+   },
+   {
+    "h": "Shin Yang Group to acquire Kuching industrial site for RM34.0m in related-party transaction",
+    "body": "Shipping company Shin Yang Group Bhd is acquiring an 8.316-hectare industrial site in Kuching, Sarawak, for RM34.0m in a related-party transaction. Shin Yang said it had entered into a sale and purchase agreement with Forescom Plywood Sdn Bhd for the proposed acquisition. Forescom Plywood is ultimately held by Shin Yang Holdings Sdn Bhd (SYHSB), which is also the largest shareholder of Shin Yang Group. (The Edge Malaysia)",
+    "takeaways": [
+     "The related-party structure is the material fact, not the size: the vendor Forescom Plywood is ultimately held by Shin Yang Holdings Sdn Bhd, which is also the largest shareholder of the buyer — so the controlling shareholder sits on both sides of the transaction.",
+     "The digest discloses no independent valuation, no valuer and no comparable, so whether RM34.0m is a fair price for the land cannot be established from the retrieved source; the price works out at about RM4.09m per hectare on the stated 8.316 hectares.",
+     "A sale and purchase agreement has already been entered into, so this is a signed deal described as a proposed acquisition rather than an early-stage negotiation.",
+     "The buyer is described in the digest as a shipping company acquiring an industrial site, so this is a property and land asset addition rather than fleet or shipping capacity.",
+     "Neither Kenanga report in the 7 September bundle covers Shin Yang Group, shipping or Sarawak industrial land, so this is standalone digest context with no read-across to a covered row."
+    ]
+   },
+   {
+    "h": "Aumas Resources reports maiden gold estimate of 110,000 ounces in Tawau project",
+    "body": "Aumas Resources Bhd has reported a maiden mineral resource estimate (MRE) of 110,000 ounces of contained gold for its Andrassy gold project in Tawau, Sabah. The project is held through Aumas Resources' wholly-owned subsidiary, Wullersdorf Resources Sdn Bhd, under an exclusive prospecting and contract of work agreement with the prospecting licence holder Aurelius Borneo Mining Sdn Bhd. The licence covers an area of about 18,000 hectares and is valid until July 12, 2027, following a one-year renewal, said Aumas Resources in a bourse filing. (The Edge Malaysia)",
+    "takeaways": [
+     "This is a maiden estimate, which means it establishes a first formal resource baseline for the Andrassy project rather than upgrading an existing one — there is no prior figure in the digest to compare it against.",
+     "Aumas does not own the tenement. The prospecting licence is held by Aurelius Borneo Mining Sdn Bhd, and Aumas participates through wholly-owned Wullersdorf Resources under an exclusive prospecting and contract of work agreement, so its access is contractual rather than proprietary.",
+     "The licence runs only to 12 July 2027 and that date already reflects a one-year renewal — roughly ten months from this digest — which makes renewal, not geology, the nearest-term binary for the project as described.",
+     "The digest gives no grade, tonnage, resource category split, capital cost or mine plan, so the project cannot be valued from the retrieved source. As pure arithmetic on two numbers printed in this same edition, 110,000 ounces against the gold price of USD4,441.9 per troy ounce on 4 September is about USD489m of gross in-situ metal — that is a scale marker, not a valuation, and it ignores recovery, dilution and every cost.",
+     "Gold fell 1.40% on 4 September, the largest single-day decline among the commodity prices printed in this edition; neither Kenanga report in the 7 September bundle covers Aumas Resources or the gold mining sector."
+    ]
+   },
+   {
+    "h": "Key Asic inks MoU to jointly develop green AI data centre",
+    "body": "Semiconductor company Key Asic Bhd has teamed up with a Hong Kong-listed green technology group to develop a large-scale green artificial intelligence (AI) data centre in Malaysia. The company entered into a 10-year memorandum of understanding with CT Vision (International) Holdings Ltd on Friday to collaborate on the construction of the data centre. CT Vision is involved in new energy technologies, including photovoltaic, wind power, natural gas and biomass, as well as energy-saving technologies for green data centres. (The Edge Malaysia)",
+    "takeaways": [
+     "The ten-year term is the unusual feature. An MoU is by nature non-binding, so a decade-long one reads as a framework for a programme of work rather than a commitment to a single build.",
+     "No contract value, capacity, site or funding structure is disclosed in the digest, so the earnings effect cannot be sized from the retrieved source — this is intent, not order book.",
+     "The division of labour implied by the description is that CT Vision brings the energy side — photovoltaic, wind power, natural gas, biomass and energy-saving technology for green data centres — while Key Asic is described as a semiconductor company; the digest names neither party as the construction contractor.",
+     "The MoU was signed on Friday, 4 September, the same session on which GAMUDA's Sydney Metro West award was announced, and data centre demand is the structural theme running through both: Kenanga's GAMUDA note in this bundle has the group as frontrunner for upcoming Springhill data centre campus tenders, having swept all four contracts awarded there since April.",
+     "Key Asic is not covered by either Kenanga report in the 7 September bundle, so the link to a covered row is thematic rather than direct."
+    ]
+   },
+   {
+    "h": "SCIB to buy three Sabah land parcels for RM15.2m to expand presence in state",
+    "body": "Sarawak Consolidated Industries Bhd is planning to acquire three parcels of leasehold land in Kolombong, Kota Kinabalu for RM15.2m cash as part of its expansion plans into the state. SCIB's wholly-owned unit SCIB Ecobuild Sdn Bhd entered into a sale and purchase agreement with East Liberty Sdn Bhd for the three parcels, together with rights and interest in an adjoining road reserve. SCIB said the parcels comprise six existing double-storey shoplots that generate an aggregate monthly rental income of RM43,600. The other two land parcels are undeveloped and could be used for additional shoplots. (The Edge Malaysia)",
+    "takeaways": [
+     "There is an income floor under this purchase, which is unusual for a land deal: six existing double-storey shoplots already generate RM43,600 of aggregate monthly rental, or RM523,200 a year — about 3.4% on the RM15.2m consideration.",
+     "That yield is on the whole consideration but the rent comes from only part of the assets, since two of the three parcels are undeveloped, so the running yield on the income-producing component alone is higher and cannot be separated from the retrieved source.",
+     "The undeveloped parcels are described as potentially usable for additional shoplots, which is optionality rather than a plan — the digest discloses no development cost, timeline or approval status.",
+     "The consideration is all cash and the land is leasehold; the digest does not state the remaining lease tenure or how the RM15.2m is being funded, so gearing impact cannot be established.",
+     "The strategic point is geographic: a Sarawak building-materials group is buying its way into Sabah through its wholly-owned SCIB Ecobuild, with the transaction also carrying rights and interest in an adjoining road reserve. Neither Kenanga report in the 7 September bundle covers SCIB."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Norway's USD2.0t sovereign fund proposes deep cuts to US Treasury holdings",
+    "region": "Global",
+    "body": "The manager of Norway's USD2.3 trillion (RM9.3 trillion) sovereign wealth fund has proposed significantly cutting its exposure to US Treasuries as part of a wider shake-up of its bond investments to improve returns, according to a letter published this week. (The Edge Malaysia)",
+    "takeaways": [
+     "The digest is internally inconsistent on the size of the fund: its own headline says USD2.0t while the body says USD2.3 trillion (RM9.3 trillion). Both figures are reproduced here as printed; neither has been reconciled against the other, and no third figure has been substituted.",
+     "The stated motive is return improvement as part of a wider shake-up of the fund's bond investments — the digest attributes no political or policy rationale to the proposal.",
+     "It is a proposal in a published letter, not an executed reallocation. No size, schedule or replacement asset is disclosed, so the flow effect on the Treasury market cannot be sized from the retrieved source.",
+     "It lands on the same day as Kenanga's own Bond Market Weekly in this bundle, which has the 10-Y UST at 4.782% after a 6.4 bps weekly rise. Kenanga attributes that week's move to Fed repricing rather than term premium; a large sovereign buyer stepping back would work through the term-premium channel instead, which is a different and slower mechanism.",
+     "The Malaysian counterpoint sits in the same Kenanga note: foreign investors turned net buyers of Malaysian government bonds with RM11.1b of inflows in August, RM5.6b of it in the final week — so the reallocation debate in advanced-market government debt is running alongside inflows into MGS and GII."
+    ]
+   },
+   {
+    "h": "Japan says progress made on USD550.0b investment pact with US",
+    "region": "Global",
+    "body": "Japanese Trade Minister Ryosei Akazawa said progress was being made on a USD550.0b (RM2.22 trillion) investment initiative set up as part of a trade deal with the US last year. (The Edge Malaysia)",
+    "takeaways": [
+     "The digest's own conversion implies about 4.04 ringgit to the dollar (RM2.22 trillion on USD550.0b), consistent with the USD/MYR rate of 4.0445 printed on the same page for 4 September.",
+     "The claim is progress, not completion: no disbursement figure, no project list and no timetable is given, so nothing here is committed capital.",
+     "The initiative dates from a trade deal struck last year, so this is implementation of an existing commitment rather than a new package.",
+     "Japanese equities were the standout on the day this digest reports — the Nikkei 225 rose 1.26% to 65,020.9, the largest gain among the twelve indices printed in this edition, while the Dow, S&P 500 and Nasdaq all fell.",
+     "Neither Kenanga report in the 7 September bundle has direct Japanese exposure; GAMUDA's overseas footprint as described by Kenanga is Australia, Taiwan and New Zealand."
+    ]
+   },
+   {
+    "h": "Anwar urges Rural Ministry, MOF to resolve allocation issue amicably",
+    "region": "Malaysia",
+    "body": "Prime Minister Datuk Seri Anwar Ibrahim on Friday called on the Ministry of Rural and Regional Development (KKDW) and the Ministry of Finance (MOF) to resolve issues concerning allocations, including delayed payments to contractors, through discussions. (The Edge Malaysia)",
+    "takeaways": [
+     "Of the day's Malaysian macro items this is the one that touches the only company row in the bundle: delayed payments to contractors is a construction-sector working-capital problem, and GAMUDA is the sole stock Kenanga published on today.",
+     "The exposure is sentiment rather than substance for this particular row. GAMUDA's pipeline as named in Kenanga's note is the Springhill data centre campus, the Northern Perak water project, Taiwan, Brisbane and New Zealand's Northland Corridor Highway — no rural ministry work appears in it.",
+     "GAMUDA's first-listed risk in the same Kenanga note is delay in the roll-out of key public infrastructure projects in Malaysia, which may delay margin recovery; a payments dispute between a spending ministry and the Treasury is that risk in its cash-flow form.",
+     "The prescription is procedural — resolve amicably through discussions — so no additional allocation, deadline or policy change is announced in the digest.",
+     "No figure is attached to the disputed allocation in the retrieved source, so the scale cannot be quantified. For context on the order of magnitude Kenanga is assuming, its unchanged GAMUDA forecasts embed construction job wins of RM22b in FY26 and RM27b in FY27."
+    ]
+   },
+   {
+    "h": "Malaysia's strong fundamentals support capital market opportunities — Treasury sec-gen",
+    "region": "Malaysia",
+    "body": "Malaysia's strong economic fundamentals will continue to support investment opportunities across its capital markets, Treasury secretary general Tan Sri Johan Mahmood Merican said. (The Edge Malaysia)",
+    "takeaways": [
+     "This is an official statement of confidence with no policy content, target or figure attached, so it is sentiment rather than data.",
+     "The tape on the day this digest reports leaned the other way at the top of the market: the KLCI fell 0.41% to 1,708.1, the FTSE EMAS fell 0.46%, and Bursa's market capitalisation slipped RM7.5b to RM2,064.1b.",
+     "Breadth was split rather than uniformly weak — the FTSE Smallcap rose 0.10% and the MESDAQ index rose 0.57% on the same session that the large-cap indices fell.",
+     "Participation shows domestic retail as the day's absorber: local retail was a net buyer of RM110.4m on 30.9% of value, against local institutions selling RM89.9m on 40.8% and foreigners selling a comparatively modest RM20.5m on 28.4%.",
+     "The claim also has to be read against Kenanga's own Bond Market Weekly in this bundle, which records foreign institutions extending their net selling streak on Bursa Malaysia to four weeks with RM366.0m of net outflows — while simultaneously reporting RM11.1b of August foreign inflows into Malaysian government bonds. The confidence is showing up in the bond market, not the equity market."
+    ]
+   },
+   {
+    "h": "Value of Maha MOUs exceeds initial target with RM9.3b done — Mohamad Sabu",
+    "region": "Malaysia",
+    "body": "The value of Memoranda of Understanding (MOUs) signed in conjunction with the Malaysia Agriculture, Horticulture and Agro-Tourism Exhibition (Maha) has reached RM9.3b, exceeding the initial target of RM8.0b. (The Edge Malaysia)",
+    "takeaways": [
+     "The event beat its own target by RM1.3b, or about 16% above the stated RM8.0b goal.",
+     "This board already carries the opening-day figure: the 2 September row recorded 14 MOUs worth RM1.49b signed at the opening of Maha Trade Days, so the running total has multiplied roughly six-fold over the course of the exhibition.",
+     "MOUs are non-binding by nature and the digest supplies no conversion history for previous editions, so RM9.3b is stated intent, not committed investment.",
+     "The palm oil backdrop on the day was firm — CPO closed at RM5,054 a tonne on 4 September, up 0.72% — but the digest does not identify palm oil as the subject of these MOUs, so the two should not be linked beyond general agri-sector sentiment.",
+     "Neither Kenanga report in the 7 September bundle covers agriculture or agri-food, so there is no read-across to a covered row."
+    ]
+   },
+   {
+    "h": "Japan July household spending falls at fastest pace in 2-1/2 years",
+    "region": "Asia Pacific",
+    "body": "Japanese household spending fell in July at the fastest annual pace in 2-1/2 years, government data showed on Friday, highlighting lacklustre private consumption ahead of a closely watched Bank of Japan meeting. (Reuters)",
+    "takeaways": [
+     "The digest gives the superlative but not the number — fastest annual pace of decline in two and a half years — so the magnitude of the fall cannot be stated from the retrieved source.",
+     "The timing is what makes it consequential: it arrives ahead of a closely watched Bank of Japan meeting, and weak private consumption is an argument against further tightening.",
+     "Kenanga's Bond Market Weekly in this bundle is the corroborating detail — the 10Y JP yield at 2.918% is down 1.3 bps week-on-week and is the only major ten-year government bond yield in Kenanga's table to fall over the week, while the euro area, UK, US, Singapore, Indonesia and Thailand all rose.",
+     "Equity and currency markets did not treat it as a growth scare on the day: the Nikkei 225 rose 1.26% and USD/YEN edged down 0.04% to 156.26, a marginally firmer yen.",
+     "Neither Kenanga report in the 7 September bundle has direct Japanese revenue exposure, so this is background macro rather than a read-across to a covered row."
+    ]
+   },
+   {
+    "h": "Fed rate decision still hangs on inflation after jobs report",
+    "region": "Americas",
+    "body": "A surprise jump in US hiring last month has bolstered the case for the Federal Reserve (Fed) to raise interest rates when they meet later this month, but a hike is still not guaranteed. (The Edge Malaysia)",
+    "takeaways": [
+     "This item is the direct backdrop to the day's Economic Viewpoint row: Kenanga's Bond Market Weekly keeps the Fed on hold at the 15-16 September FOMC meeting, with the first cut pencilled in for 2Q27.",
+     "Kenanga's own phrasing on the payrolls beat is that it \"raises the bar but does not clear it\", because wage growth stays benign and job gains remain narrowly concentrated.",
+     "The decision rule Kenanga sets out is unusually explicit and gives a CEO a testable trigger: its 0.2% MoM core CPI forecast keeps the Fed on hold, while a print above 0.3% MoM tips September toward a hike and could push the 10-Y UST toward 5.0%.",
+     "The date that settles it is 11 September, which Kenanga calls the decisive external input.",
+     "The Fed's own signals were pulling in different directions ahead of the print, as Kenanga reports them: Governor Waller favoured holding rates steady as long as inflation moderates, while Chair Warsh's cautious Jackson Hole remarks still leaned toward a possible hike."
+    ]
+   },
+   {
+    "h": "US non-farm payrolls surge in August; unemployment rate steady at 4.1%",
+    "region": "Americas",
+    "body": "US job growth accelerated sharply in August while the unemployment rate held steady at 4.1%, pointing to a still stable labour market and keeping an interest rate hike from the Federal Reserve this month on the table. (The Edge Malaysia)",
+    "takeaways": [
+     "Kenanga's Bond Market Weekly in this bundle puts the number on the digest's adjective: August non-farm payrolls rose 162k against a 55k consensus, roughly three times the expected pace.",
+     "The wage side did not confirm the hiring surge — average hourly earnings grew a benign 3.1% YoY, which is the specific reason Kenanga still holds the Fed at the September meeting despite the beat.",
+     "The reaction was in rates rather than equities. The 10-Y UST rose 6.4 bps to 4.782% and the 2-Y rose 2.3 bps to 4.366%, with the belly leading — the 5-Y up 6.6 bps against 3.7 bps at the 30-Y — which Kenanga reads as a Fed repricing rather than a rise in term premium. US equities fell: Dow -0.51%, S&P 500 -0.38%, Nasdaq -0.29%.",
+     "For Malaysia the timing matters: Kenanga states the local market closed before Friday's US payrolls release, so the MGS curve has yet to price in the beat, and it expects the 10-Y MGS to test higher early in the week as the curve catches up.",
+     "The MGS curve had already moved before that catch-up — the 10-Y MGS rose 11.1 bps to 3.985% on the week, the largest weekly move anywhere on Kenanga's MGS curve."
+    ]
+   },
+   {
+    "h": "ECB doubles down as G7's hawk with another rate hike due in coming week",
+    "region": "Europe",
+    "body": "The European Central Bank will almost certainly deliver a second interest-rate hike in the coming week, throwing the focus onto how open officials are to a third step later in the year. (The Edge Malaysia)",
+    "takeaways": [
+     "This is a second hike, not a first, so the ECB is now in a sequence — and the digest frames the live question as whether officials stay open to a third step later in the year.",
+     "The bond market has moved with it: the 10Y EU yield in Kenanga's table stands at 3.338%, up 6.1 bps on the week and 48.4 bps year to date.",
+     "The currency had not reacted by the time this digest was compiled — EUR/USD was 1.1614 on 4 September, up 0.09% on the day.",
+     "The policy divergence is the practical takeaway: the ECB is tightening while Kenanga has the Fed on hold in September and Bank Negara's OPR forecast flat at 2.75% from 2Q26 all the way through 2Q27.",
+     "Neither Kenanga report in the 7 September bundle has direct euro-area exposure, so the transmission to Malaysia runs through global funding conditions rather than through a covered row."
+    ]
+   },
+   {
+    "h": "Bank of England's Bailey sees long-term pressures driving up government debt",
+    "region": "Europe",
+    "body": "Bank of England Governor Andrew Bailey said on Friday that weak productivity and shocks such as COVID-19 were behind a climb in public debt across advanced economies, which in turn was pushing up borrowing costs. (Reuters)",
+    "takeaways": [
+     "The mechanism Bailey names is structural rather than cyclical — weak productivity plus shocks such as COVID-19 lifting public debt across advanced economies, which then pushes up borrowing costs.",
+     "The UK curve is where the argument is most visible in this bundle: Kenanga's table has the 10Y UK yield at 5.133%, up 7.0 bps on the week and 65.4 bps year to date, the highest ten-year government bond yield among the majors it tracks.",
+     "British assets other than gilts were quiet on the day — the FTSE-100 was unchanged at 10,831.1 (-0.4 points, 0.00%) and GBP/USD firmed 0.18% to 1.3519.",
+     "If the argument holds, the exposed points on the Malaysian curve are the long end: the 20-Y and 30-Y MGS are up 27.6 bps and 20.2 bps month-on-month respectively in Kenanga's table, ahead of the 15-Y at 11.2 bps.",
+     "Kenanga's reading of this particular week was the opposite mechanism — Fed repricing rather than a rise in term premium — but the two are not in conflict: Bailey is describing a multi-year debt trajectory and Kenanga a one-week rates move."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260907-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": null,
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 5.3,
+   "ticker": "GAMUDA",
+   "name": "Gamuda Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 5.3,
+   "price": 4.62,
+   "divYield": 2.14,
+   "high52": 5.76,
+   "low52": 3.7,
+   "mktSrc": "https://stockanalysis.com/quote/klse/GAMUDA/",
+   "catalyst": "Third Sydney Metro West contract. Sydney Metro awarded the Parramatta Integrated Station Development to the Riverside Link Consortium; the station works are worth AUD880m (c.RM2.54b) and are split 80:20 between Gamuda Engineering and MTR Australia, giving GAMUDA a RM2.0b revenue share. Outstanding order book reaches a record RM61.6b and YTD FY27 job wins RM9.3b. OUTPERFORM reiterated with an unchanged SoP-based TP of RM5.30; forecasts maintained.",
+   "quote": "GAMUDA has secured its third Sydney Metro West contract via an 80:20 GAMUDA-led JV for the Parramatta ISD project.",
+   "summary": [
+    "Nothing moved on the call. OUTPERFORM reiterated, the SoP-based TP held at RM5.30, and forecasts explicitly \"Maintained\" — construction job-win assumptions unchanged at RM22b for FY26 and RM27b for FY27, property sales targets unchanged at RM4b and RM5b. The valuation is built on the construction business at 22x CY27 PER, which Kenanga says is in line with how it values other large-cap contractors IJM (OP; TP: RM3.35) and SUNCON (OP; TP: RM9.70); the sum of parts is RM29,927.8m, or RM5.05 per share, plus a RM0.25 (5%) premium for a 4-star ESG rating. Against the RM4.62 share price the peer table shows 14.7% upside — the lowest of the five names in Kenanga's construction coverage, behind KIMLUN (65.7%), SUNCON (22.0%), KERJAYA (19.9%) and IJM (16.3%).",
+    "The award, precisely as stated. Sydney Metro gave the Sydney Metro West (SMW) - Parramatta Integrated Station Development (ISD) project to the Riverside Link Consortium, comprising Gamuda Engineering Pty Ltd, Gamuda (Australia) Pty Ltd and MTR Corporation (Australia) Pty Ltd. The station works are valued at AUD880m (c.RM2.54b) and are undertaken by Gamuda Engineering and MTR Australia on an 80:20 basis, equating to a RM2.0b revenue share for GAMUDA. The project commences immediately with targeted completion by 2032, so this is a six-year build rather than a near-term earnings event. The market did not reward it on the day: the same digest shows GAMUDA closing at RM4.62 on 4 September, down 1.1%, on both the top-volume list (10.33m shares) and the top-loser list.",
+    "Margin, not size, is what Kenanga singles out. The ISD project is structured with a cost pass-through mechanism and carries an expected PBT margin of 6%-8%, against the 5% PBT margin Kenanga cites for GAMUDA's traditional Australian infrastructure jobs. Kenanga attributes the expansion to two things: the project's scale, and cost baselines pegged to earlier peak oil and diesel prices — in other words the contract is priced off a higher cost base than currently prevails, which is where the extra margin sits.",
+    "The order book is now the central plank of the thesis. This is the third SMW contract secured since 2022, after the AUD2.16b Western Tunnelling Package (March 2022) and the AUD2.7b Station Package West (December 2025). The award lifts YTD FY27 job wins to RM9.3b against Kenanga's full-year FY27 assumption of RM27b, and pushes the outstanding order book to a record RM61.6b — comfortably past the RM50b end-2026 target, which Kenanga says GAMUDA is now on track to exceed well in advance. One arithmetic note: the order book ties exactly to this board's 1 September GAMUDA row, where Kenanga put it at RM59.6b, plus the RM2.0b share of this award. The job-win tally does not tie as neatly — RM6.93b on 1 September plus RM2.0b is RM8.93b against the RM9.3b printed today, a RM0.37b difference that Kenanga does not explain and that is not resolved here.",
+    "The pipeline is broad and the earnings step-up is dated. Kenanga has GAMUDA as frontrunner for upcoming tenders at the Springhill data centre campus, having swept all four contracts awarded there since April; domestically it names the Northern Perak water project; regionally it sees a high probability of another Taiwan project by 2HCY26 and notes shortlisting for infrastructure projects in Brisbane and the Northland Corridor Highway in New Zealand. The financial shape is back-loaded: core net profit of RM1,057m in FY26F (+5.3%) rising to RM1,388m in FY27F (+31.3%) on revenue growth of 9.6% then 31.4%, leaving the stock on 25.9x FY26F and 19.7x FY27F core PER with a 2.2% net dividend yield and net gearing peaking at 0.70x in FY26F before easing to 0.56x. Risks Kenanga names are delay in the roll-out of key Malaysian public infrastructure projects, rising input costs and labour shortage, overseas policy and forex risk, and liquidated ascertained damages from cost overruns and delays. Note on the signal: the report's Investment case paragraph opens \"We continue to like GAMUDA for: (i) its strong positioning in upcoming data centre tenders...\" — under rules/signals.md §2 that is thesis language, not a pick declaration, so the Kenanga Signal on this row reads None stated. The report names GAMUDA neither a Top Pick nor a sector pick nor the most attractive among peers, and a full search of the PDF for \"top pick\", \"sector pick\", \"our pick\", \"preferred\", \"most attractive\", \"we like\", \"favour\" and \"favourite\" returned no match."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "TA Research",
+    "date": "2 Sep 2026",
+    "note": "The most recent publicly retrievable named-house call on GAMUDA is <b>TA Research</b>, reported by The Star on <b>2 September 2026</b> &mdash; five days before the Kenanga note beside it, and written on the previous catalyst (the RM3.57b Port Dickson hyperscale data centre wins) rather than on the Sydney Metro West Parramatta award. TA retained its &quot;buy&quot; recommendation with a target price of <b>RM5.42</b>, estimating the Port Dickson contracts could generate about RM285.6m in pre-tax profit over the construction period on an assumed 8% PBT margin, and describing the then-RM59.6bil construction order book as 4.8 times FY26 construction revenue, giving clear earnings visibility for the next three to four years. It saw the order book reaching RM60bil by end-2026 on a RM1.2bil monthly burn rate, requiring about RM5bil of further wins which it considered achievable against more than RM50bil of tenders across Malaysia, Singapore, Taiwan and Australia. <b>TA used no pick language in the retrieved report, so this row reads None stated.</b> The divergence flag is not set: TA&rsquo;s buy at RM5.42 sits on the same side as Kenanga&rsquo;s OUTPERFORM at RM5.30. Two earlier dated calls also exist, both reported by the New Straits Times on <b>14 August 2026</b> on the Edify Energy and Cyberjaya data centre wins: <b>Public Investment Bank</b> maintained &quot;Outperform&quot; with a target price of RM5.60, and <b>Hong Leong Investment Bank</b> reiterated &quot;Buy&quot; with a target price of RM5.27; neither used pick language either. Of the nine houses this board searches, three &mdash; Public Investment Bank, Hong Leong Investment Bank and TA Securities &mdash; yielded dated, publicly retrievable calls in this window. No named house had published a retrievable note on the Parramatta ISD award as at the time of this run.",
+    "cites": [
+     [
+      "The Star, 2 Sep 2026 &mdash; &lsquo;Gamuda&rsquo;s data centre push to power earnings&rsquo;",
+      "https://www.thestar.com.my/business/business-news/2026/09/02/gamudas-data-centre-push-to-power-earnings"
+     ],
+     [
+      "New Straits Times, 14 Aug 2026 &mdash; &lsquo;Analysts bullish on Gamuda after nearly RM2bil in new wins&rsquo;",
+      "https://www.nst.com.my/business/corporate/2026/08/1510937/analysts-bullish-gamuda-after-nearly-rm2bil-new-wins"
+     ],
+     [
+      "KLSE Screener, 7 Sep 2026 &mdash; &lsquo;Trading ideas: Gamuda, F&amp;N, AuMAS, Shin Yang, SCIB, HeiTech Padu, AmFIRST REIT, Zetrix AI&rsquo;",
+      "https://www.klsescreener.com/v2/news/view/1787309/trading-ideas-gamuda-f-n-aumas-shin-yang-scib-heitech-padu-amfirst-reit-zetrix-ai"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/GAMUDA-260907-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Bond Market Weekly",
+   "name": "Bond Market Weekly Outlook: Payrolls beat, but CPI decides — September Fed call sets the curve",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "MGS and GII yields rose across the curve, up between 1.3 bps and 11.1 bps, with the selloff concentrated in the 7-Y to 10-Y segment; the 10-Y MGS rose 11.1 bps to 3.985%. Kenanga keeps the Fed on hold at the 15-16 September FOMC with the first cut pencilled in for 2Q27, and expects the 10-Y MGS to test higher early in the week as the curve catches up with Friday's UST move. US CPI on 11 September is the decisive input.",
+   "quote": "We keep the Fed on hold at the 15-16 September FOMC meeting, with the first cut pencilled in for 2Q27.",
+   "summary": [
+    "The local move was external in origin and concentrated in the belly. MGS and GII yields rose across the curve, up between 1.3 bps and 11.1 bps, with the selloff concentrated in the 7-Y to 10-Y segment: the 10-Y MGS rose 11.1 bps to 3.985% and the 10-Y GII rose 10.1 bps to 3.953%. Kenanga names the drivers as cautious remarks from Warsh at Jackson Hole tempering expectations for near-term Fed rate cuts, and escalating US-Iran tensions lifting front-end UST yields and oil prices.",
+    "Kenanga is explicit that domestic factors mattered less this week: the Manufacturing PMI eased to 50.2 in August (July: 50.7) and BNM kept the OPR unchanged for a seventh consecutive MPC meeting. Its own forecast table carries the OPR flat at 2.75% from Q2-26 through Q2-27, so the house view is that domestic policy is not the swing variable for the curve over the forecast horizon.",
+    "Foreign money is moving in opposite directions across the two Malaysian asset classes. Foreign investors turned net buyers of Malaysian government bonds with RM11.1b of inflows in August, RM5.6b of that in the final week alone; at the same time foreign institutions extended their net selling streak on Bursa Malaysia to four weeks, with RM366.0m of net outflows. Bonds are attracting the flow the equity market is losing.",
+    "The US leg is the reason the curve moved. August non-farm payrolls rose 162k against a 55k consensus, the unemployment rate held at 4.1% and average hourly earnings grew a benign 3.1% YoY. UST yields rose 2.3 to 6.6 bps across the curve, with the 10-Y up 6.4 bps to 4.782% and the 2-Y up 2.3 bps to 4.366%; the belly led, the 5-Y rising 6.6 bps against 3.7 bps at the 30-Y, which Kenanga reads as consistent with a Fed repricing rather than a rise in term premium. Its verdict on the beat is that it \"raises the bar but does not clear it\", as wage growth stays benign and job gains remain narrowly concentrated.",
+    "The forward path comes with a stated trigger and a stated gap. Kenanga's 0.2% MoM core CPI forecast for the 11 September print keeps the Fed on hold, while a print above 0.3% MoM tips September toward a hike and could push the 10-Y UST toward 5.0%; it expects yields rangebound with an upward bias in the front end and belly. Locally, the market closed before Friday's payrolls, so Kenanga expects the 10-Y MGS to test higher early in the week as the curve catches up, with IPI, retail sales and labour market data providing support — yet its forecast table still has the 10-Y MGS at 3.70% for Q3-26 and 3.63% for Q4-26 against 3.985% today, and USDMYR firming to 4.03 by end-Q3-26 from 4.0445 on 4 September. On supply, there was no reopening or issuance this week; the upcoming auction is a reopening of the 10-Y MGII with RM5.0b to be issued and no private placement."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/EV_Bond-Market-Weekly-Outlook_260907-Kenanga.pdf"
+  }
+ ]
+}
