@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07T19:44:06.488Z",
+ "generatedAt": "2026-09-08T05:47:04.623Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -9,10 +9,11 @@
   "2026-09-02",
   "2026-09-03",
   "2026-09-04",
-  "2026-09-07"
+  "2026-09-07",
+  "2026-09-08"
  ],
- "rows": 88,
- "verified": 88,
+ "rows": 91,
+ "verified": 90,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -135,6 +136,12 @@
    "date": "2026-09-04",
    "row": "FFB",
    "msg": "The placement price is reported two different ways by two sources published on the same day, and both are correct at different stages. Farm Fresh's own announcement, as reported by The Star on 3 September and used by TA Securities in its 4 September note, gives an illustrative issue price of RM1.824, a 10% discount to the five-day VWAMP of RM2.0267 as at 2 September. Kenanga's note says the price 'has subsequently been fixed at RM1.95/share, representing a 3.2% discount to the 5-day VWAMP of RM2.0134/share'. The difference is the illustrative announcement price versus the subsequently fixed book-built price, against VWAMPs struck on different reference dates — not a contradiction in the underlying facts. Kenanga's own conviction language on this row is an investment-case line ('We like FFB for' its RTD milk leadership, ice cream foray and product innovation), which is not a pick declaration, so the signal reads None stated."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-08",
+   "row": "HLIND",
+   "msg": "Named as the day's Company Update by both the Kenanga Today digest and the 8 September bundle page heading, but no HLIND report has been published: the bundle's Company Update slot holds GAMUDA-260907-CU, the previous day's report already carried on this board's 7 September date, and HLIND returns 404 under every filename convention in rules/signals.md §6. Shown as a pending row rather than hidden; no figures have been guessed."
   }
  ],
  "verdict": "PASS"

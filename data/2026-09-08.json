@@ -1,0 +1,242 @@
+{
+ "date": "2026-09-08",
+ "schema": 1,
+ "daily": {
+  "klci": 1714.8,
+  "chg": 6.69,
+  "pct": 0.39,
+  "inst": -145.2,
+  "instPct": 40.0,
+  "retail": 84.5,
+  "retailPct": 31.1,
+  "foreign": 59.8,
+  "foreignPct": 28.9,
+  "ideas": "Company Update: HLIND; Economic Viewpoint: BNM International Reserves (end-August), MY Bond Flows (Aug-26)",
+  "news": [
+   {
+    "h": "MN Holdings JV bags RM67.3m TNB contract for cable works in Penang",
+    "body": "MN Holdings Bhd said its subsidiary and an engineering firm have jointly secured a RM67.3m contract from Tenaga Nasional Bhd to install an underground cable for bulk power supply to Intel Penang. The wholly-owned subsidiary, MN Utilities Engineering Sdn Bhd, and Pembinaan Tajri Sdn Bhd will undertake the 275-kilovolt cable installation works through an 80:20 joint venture, said MN Holdings in a bourse filing. Pembinaan Tajri, which was established in 1983, is involved in building and infrastructure works, according to the firm's website. (The Edge Malaysia)",
+    "takeaways": [
+     "The headline number is not the company's number. The works run through an 80:20 joint venture between wholly-owned MN Utilities Engineering Sdn Bhd and Pembinaan Tajri Sdn Bhd, so MN Holdings' share of the RM67.3m is about RM53.8m. The digest states no contract period, so this cannot be converted into an annual revenue rate.",
+     "The end user matters more than the payer. Tenaga Nasional awards the contract, but the digest is explicit that the cable carries bulk power supply to Intel Penang - this is a transmission-grade grid connection for a semiconductor plant, not distribution work.",
+     "The specification is stated: 275-kilovolt underground cable installation. The digest gives no route length, no start date and no completion date, so the build schedule cannot be established from the retrieved source.",
+     "The partner is described only in outline - Pembinaan Tajri was established in 1983 and is involved in building and infrastructure works, sourced by the digest to the firm's own website rather than to a filing. MN Holdings is the majority partner at 80%.",
+     "TNB itself was the third-largest gainer on Bursa in the session this edition reports, rising 1.6% to RM13.84 on 6.26m shares; the same edition separately carries TENAGA NASIONAL BHD-V in its oversold-warrants table at a 14-day RSI of 19.73. The read-across within this edition is the CBH Engineering item, also a 275kV connection job - two of the five corporate items here are transmission-voltage works for large single loads. Neither Economic Viewpoint in the 8 September bundle covers MN Holdings or the power contracting sector."
+    ]
+   },
+   {
+    "h": "Zetrix AI's Philippine acquisition is back on",
+    "body": "Zetrix AI Bhd will acquire a 50.0% stake in MyEG Ventures Inc for RM130.0m, reviving the deal after scrapping last week's agreement, but this time from a different seller. IPVG Employees Inc, which currently owns 9.4% of MyEG Ventures, will first buy another 40.6% stake from other shareholders before selling the full 50.0% stake to Zetrix AI, the company said in an exchange filing. Zetrix AI will finance about 78.0% of the RM130.0m deal through new shares, while the remaining RM29.0m will be paid in cash. (The Edge Malaysia)",
+    "takeaways": [
+     "What changed is the seller, not the target or the size. The deal was scrapped last week and has been revived from a different counterparty - IPVG Employees Inc, which currently owns 9.4% of MyEG Ventures and must first buy a further 40.6% from other shareholders to assemble the 50.0% it will sell on. Completion therefore depends on a prior transaction to which Zetrix AI is not a party.",
+     "The funding split ties out arithmetically: about 78.0% in new shares with RM29.0m in cash. RM130.0m less RM29.0m is RM101.0m, or 77.7% of the consideration, consistent with the stated 78.0%. The digest gives no issue price and no share count, so the dilution cannot be sized.",
+     "Priced pro-rata, RM130.0m for 50.0% implies RM260.0m for the whole of MyEG Ventures. That is arithmetic on the two figures given, not a valuation - the digest discloses no earnings, net asset value or valuation basis for the target.",
+     "This board does not carry the original, scrapped agreement, so the RM130.0m cannot be compared against the terms it replaces. The digest states neither the previous price nor the reason for the scrapping.",
+     "Zetrix AI is the only company to appear in the corporate news of both this edition and the 7 September one, where it disposed of its entire 16.9% HeiTech Padu stake for RM27.5m - a separate transaction, not a funding leg of this acquisition, and the digest draws no link between them. Its call warrant ZETRIX AI BHD-BC sits in this edition's oversold-warrants table at a 14-day RSI of 15.55, last price RM0.005, expiring 29 October 2026. No report in the 8 September bundle covers Zetrix AI."
+    ]
+   },
+   {
+    "h": "Hengyuan, Shell Malaysia agree key terms for 10-year offtake deal renewal",
+    "body": "Hengyuan Refining Company Bhd has agreed on key terms to renew its product supply deal with Shell Malaysia for another 10 years, from 2027 to 2036. Hengyuan said it signed a binding term sheet with Shell Malaysia Trading Sdn Bhd and Shell Timur Sdn Bhd. The deal will run for an initial five years (2027-2031), with the option to extend for another five years (2032-2036) if both sides agree. (The Edge Malaysia)",
+    "takeaways": [
+     "The committed term is half the headline. The structure is five plus five - an initial 2027-2031 period with an option to extend to 2032-2036 only if both sides agree - so the ten years in the headline is the maximum, not the contracted minimum.",
+     "It is a binding term sheet on key terms, not the executed supply agreement. The digest gives no volume, no pricing formula and no minimum offtake, so nothing here converts into revenue.",
+     "The direction of the relationship is downstream: this is a product supply deal with Shell Malaysia Trading Sdn Bhd and Shell Timur Sdn Bhd, so the counterparties are Hengyuan's route to market rather than its crude supply. The digest does not name the products covered.",
+     "The renewal starting in 2027 implies the existing arrangement runs to the end of 2026, but the digest does not state the expiring deal's terms or end date, so that is an inference from the start date rather than a stated fact.",
+     "On the commodity backdrop, this edition's Nymex crude oil row cannot be used as a 7 September price: it prints USD91.5/bbl against USD91.3 (+0.20%), identical in value and percentage change to the 7 September edition, as are the gold, soybean and soyoil rows - those four were not refreshed. What is dated is Kenanga's own BNM reserves note in this bundle, which records optimism over a potential Strait of Hormuz agreement pulling Brent lower during August without moving the ringgit. Hengyuan is not covered by a report in the 8 September bundle."
+    ]
+   },
+   {
+    "h": "CBH Engineering lands RM88.1m Selangor job, second data centre-linked job in under two weeks",
+    "body": "CBH Engineering Holding Bhd has secured an RM88.1m contract to design and build a 275kV consumer landing station for a data centre in Selangor. The engineering services provider's wholly owned subsidiary received the contract from Company A - a private company that is involved in providing infrastructure for hosting, data processing services and related activities. CBH Engineering did not name the company in the bourse filing announcement, citing a non-disclosure agreement. (The Edge Malaysia)",
+    "takeaways": [
+     "The customer is undisclosed. The award comes from a party identified only as Company A, a private company involved in providing infrastructure for hosting, data processing services and related activities, unnamed under a non-disclosure agreement - so its credit standing cannot be assessed from the retrieved source.",
+     "The pace is the point the headline makes: this is the second data centre-linked job in under two weeks. The digest does not give the value of the first, so the two-week order intake cannot be totalled.",
+     "The scope is design and build of a 275kV consumer landing station - the grid interface for a large single load rather than the data centre itself, so this is electrical infrastructure work and not a building contract.",
+     "No contract period, start date or completion date is given, unlike the Vestland item in this same edition, so revenue recognition cannot be phased from the retrieved source. The digest also does not name the wholly owned subsidiary that received the award.",
+     "The 275kV specification is shared with the MN Holdings item in this same edition, a TNB cable job for bulk power supply to Intel Penang - two separate transmission-voltage connection awards in a single day's news, both serving large industrial or data-centre loads. Neither Economic Viewpoint in the 8 September bundle covers CBH Engineering or data centre construction."
+    ]
+   },
+   {
+    "h": "Vestland's 2026 contract wins top RM1.0b with RM263.7m Sungai Golok flood mitigation works",
+    "body": "Construction firm Vestland Bhd has bagged a RM263.7m contract for flood mitigation works along Sungai Golok in Kelantan, bringing its contracts wins for this year past RM1.0b. Vestland said its wholly owned subsidiary Vestland Infra Sdn Bhd had accepted a letter of award from Johnson Fluid Engineering Sdn Bhd for the construction of a dual-function sheet pile wall and bridge works along the river. The company said work is scheduled to start on Sept 21 this year, and is expected to be completed by April 14, 2028. (The Edge Malaysia)",
+    "takeaways": [
+     "One award, a quarter of the year. At RM263.7m this single contract is more than a quarter of the RM1.0b of 2026 wins it takes the company past. The digest gives only the threshold, not the exact year-to-date total, so the precise figure cannot be stated.",
+     "It is a subcontract, not a direct government award. The letter of award comes from Johnson Fluid Engineering Sdn Bhd, a private company, and was accepted by wholly owned subsidiary Vestland Infra Sdn Bhd - so the counterparty risk sits with the main contractor rather than with the public client.",
+     "The timetable is unusually specific for a digest item: work starts on 21 September 2026 and completion is expected by 14 April 2028, about 19 months, which is roughly RM14m of contract value a month on a straight-line basis. That is arithmetic on the two dates given, not a Kenanga forecast.",
+     "The scope is a dual-function sheet pile wall and bridge works along Sungai Golok in Kelantan - flood mitigation infrastructure, which places the ultimate funding in the public capital expenditure cycle even though the contracting chain is private.",
+     "The relevant context sits on this board's 7 September date, where the Prime Minister called on the Rural and Regional Development Ministry and the Ministry of Finance to resolve allocation issues including delayed payments to contractors. That item does not recur in this edition and the digest draws no connection to Vestland. Vestland is not covered by a report in the 8 September bundle."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "EU to invest EUR200.0m in Greenland as Trump circles",
+    "region": "Global",
+    "body": "The European Union (EU) is investing EUR200 million (USD232 million or RM940 million) in Greenland, part of the bloc's campaign to tighten links to the island as President Donald Trump claims it should belong to the US. (The Edge Malaysia)",
+    "takeaways": [
+     "The digest's own three-currency quotation is internally consistent with the rates printed on the same page: EUR200m against USD232m implies EUR/USD of 1.16, close to the 1.1625 shown for 7 September, and USD232m against RM940m implies USD/MYR of about 4.05, close to the 4.0463 shown for the same day.",
+     "The stated motive is political rather than commercial - part of the bloc's campaign to tighten links to the island as President Trump claims Greenland should belong to the US.",
+     "No breakdown, timetable, recipient or instrument is given, so whether this is grant, equity or infrastructure spending cannot be established from the retrieved source.",
+     "As a scale marker only: USD232m is about one 570th of the USD132.0b of Malaysian international reserves that Kenanga's own note in this bundle reports for end-August. The comparison sizes the sum; it implies nothing about either party.",
+     "This is one of two Global macro bits in the edition and both concern the standing of major currencies and blocs. Neither Economic Viewpoint in the 8 September bundle covers the EU or Greenland; the European channel Kenanga does describe is global duration repricing driven by US fiscal strain."
+    ]
+   },
+   {
+    "h": "Global reserves shift from dollar overstated, NY Fed study says",
+    "region": "Global",
+    "body": "The decline in the dollar's share of foreign-exchange reserves does not reflect a widespread reallocation away from the currency but rather moves by a small number of reserve managers, according to research from the Federal Reserve Bank of New York. (The Edge Malaysia)",
+    "takeaways": [
+     "The claim is about the composition of a move, not its direction. The dollar's reserve share has declined; the study's argument is that a small number of reserve managers account for it rather than a widespread reallocation.",
+     "No figures from the study are reproduced in the digest - not the size of the share decline, not the number of managers, not the period - so the strength of the finding cannot be assessed from the retrieved source.",
+     "It lands beside a reserve manager's own monthly disclosure in this same bundle. Kenanga's BNM International Reserves note has Malaysia's headline reserves down USD0.1b to USD132.0b, with foreign currency reserves down USD0.2b to USD116.6b and other reserve assets up USD0.1b to USD2.3b.",
+     "For Malaysia specifically, Kenanga records gold, special drawing rights and the IMF reserve position as broadly unchanged in August - so this particular manager shows no dollar-to-gold reallocation in the month.",
+     "The China item in this same edition points the other way for a different manager, with the largest gold purchases since 2023 in August. Two managers moving in opposite directions is exactly the concentration the NY Fed study describes; the digest itself does not make that link."
+    ]
+   },
+   {
+    "h": "Slip for a second month even as bond inflows hold up",
+    "region": "Malaysia",
+    "body": "Bank Negara Malaysia (BNM) international reserves fell USD0.1b (-0.1% MoM) to USD132.0b as at 28 August 2026, the second straight monthly decline. BNM holds at 2.75% and drops \"appropriate\" to buy optionality, not to signal a hike. (See Economic Viewpoint: BNM International Reserves)",
+    "takeaways": [
+     "This macro bit is Kenanga's own publication rather than third-party news - it is the summary line of the BNM International Reserves (end-August) Economic Viewpoint that appears in this same bundle as a full row on this board.",
+     "The headline is a marginal decline: reserves fell USD0.1b (-0.1% MoM) to USD132.0b as at 28 August 2026, the second straight monthly fall. In ringgit terms total reserves fell RM0.5b (-0.1% MoM) to RM534.7b.",
+     "The phrase \"even as bond inflows hold up\" is where the tension sits: foreign currency reserves fell USD0.2b to USD116.6b even as foreign investors bought domestic bonds in size - and the other Economic Viewpoint in this same bundle puts those August bond inflows at RM15.9b, the largest since September 2013 on Kenanga's own ranking.",
+     "The policy line attached is unambiguous. Kenanga expects BNM to hold the OPR at 2.75% through 2026 and reads the removal of \"appropriate\" from the statement as preserving flexibility rather than signalling direction.",
+     "The supporting evidence Kenanga cites is disinflationary: crude materials PPI at 24.1% YoY compressing to under 3.0% for finished goods, and technology wage growth collapsing to 1.3% from 6.4% despite faster output, with growth expected around 5.0% for 2026 and July inflation at 1.8%. It also names the conditions that would end the patience - subsidies holding up the consumer end, and an output gap that could turn positive next year."
+    ]
+   },
+   {
+    "h": "PM calls for stronger STEM ecosystem to drive Malaysia's future growth",
+    "region": "Malaysia",
+    "body": "Prime Minister Datuk Seri Anwar Ibrahim has called for Malaysia to strengthen its STEM (science, technology, engineering and mathematics) ecosystem to develop more young talent capable of driving the country's future growth and competitiveness. (The Edge Malaysia)",
+    "takeaways": [
+     "This is a call, not a policy. No funding, target, timeline or named programme is attached in the digest, so nothing here is budgeted spending.",
+     "The stated objective is talent supply - developing more young people capable of driving future growth and competitiveness - rather than any specific industrial or investment measure.",
+     "The nearest hard number in this bundle runs the other way on the price of technical skills: Kenanga's BNM reserves note records technology wage growth collapsing to 1.3% from 6.4% despite faster output, and cites it as evidence for a benign inflation read rather than as a labour-market strength.",
+     "The demand side appears twice in this same edition's corporate news - a 275kV bulk power supply cable for Intel Penang and a 275kV landing station for a Selangor data centre - so capital-intensive technology facilities are being connected to the grid in the same news cycle in which the talent pipeline is being discussed.",
+     "Neither Economic Viewpoint in the 8 September bundle covers education, labour supply or STEM policy, so this is standalone digest context with no read-across to a covered row."
+    ]
+   },
+   {
+    "h": "Bumiputera MSME contribution target to be reviewed by early 2027, says economy minister",
+    "region": "Malaysia",
+    "body": "The target to increase the contribution of Bumiputera micro, small and medium enterprises (MSMEs) from 15% of gross domestic product (GDP) to potentially double by 2035 will be reviewed in greater detail at the end of this year or early next year, said Economy Minister Akmal Nasrullah Mohd Nasir. (The Edge Malaysia)",
+    "takeaways": [
+     "The baseline is stated and the destination is not: Bumiputera MSMEs currently contribute 15% of GDP, with an ambition to potentially double that by 2035. Doubling 15% would be 30%, but the digest's wording is \"potentially double\", so the target figure is not fixed.",
+     "The horizon is long and the review is near: 2035 for the target, but a detailed review at the end of this year or early next year - so by early 2027 on the digest's own framing.",
+     "A review is not a revision. The digest states no direction, so whether the target would be raised, lowered, reaffirmed or extended cannot be established from the retrieved source.",
+     "The measure is a share of GDP, which moves with the denominator as well as the numerator - and Kenanga's own reserves note in this bundle carries expected Malaysian growth of around 5.0% for 2026, so the base is growing while the share is being targeted.",
+     "Neither Economic Viewpoint in the 8 September bundle covers MSME policy or the Bumiputera agenda, and no company row in this bundle is exposed to it."
+    ]
+   },
+   {
+    "h": "Malaysia bonds draw record USD3.9b inflows in August on AI boom",
+    "region": "Malaysia",
+    "body": "Malaysia's bonds lured record inflows in August on optimism over the impact of the artificial intelligence (AI) boom on the Southeast Asian economy. (The Edge Malaysia)",
+    "takeaways": [
+     "The dollar figure ties to Kenanga's own note in this same bundle: RM15.9b of August bond inflows at the 4.0504 USDMYR that Kenanga's reserves note uses for August is about USD3.93b, matching the digest headline's USD3.9b.",
+     "The superlatives do not tie. The digest headline calls it a record; Kenanga's Bond Flows note calls it the third-largest monthly inflow on record and the highest since September 2013. Both are reproduced here as printed and the two cannot be reconciled from the retrieved sources.",
+     "The attribution does not tie either. The headline credits optimism over the AI boom's impact on the economy, while Kenanga attributes the reversal to global duration repricing amid heightened US fiscal concerns, with Malaysia's resilient domestic fundamentals supporting the shift into local debt. Kenanga's note does not mention AI as a driver.",
+     "The composition, from Kenanga's note: MGS inflows of RM5.0b, GII RM5.6b and corporate bonds and sukuk RM4.8b, lifting total foreign holdings to RM320.1b, or 13.5% of total outstanding debt, from RM304.2b and 12.9% in July.",
+     "It also reconciles with the 7 September row on this board, which recorded RM11.1b of August foreign inflows into Malaysian government bonds. MGS RM5.0b plus GII RM5.6b plus the smaller Malaysian Treasury Bill and Islamic Treasury Bill increases in Kenanga's table is RM11.1b; adding CBS RM4.8b gives RM15.9b for all debt. The two figures measure different universes, not different months, so there is no contradiction between the two dates."
+    ]
+   },
+   {
+    "h": "China central bank adds most gold since 2023 even as prices jump",
+    "region": "Asia Pacific",
+    "body": "China added the most gold to its reserves since 2023, accelerating purchases in August even as bullion prices surged. (The Edge Malaysia)",
+    "takeaways": [
+     "No tonnage, value or reserve total is given, so the purchase cannot be sized from the retrieved source - only that August buying accelerated and was the largest since 2023.",
+     "The buying went in against the price. The digest describes bullion prices as surging through the month, which makes this a policy allocation rather than an opportunistic purchase.",
+     "This edition's gold quote cannot be used to date the move. The Gold row prints USD4,441.9 against USD4,504.9 (-1.40%) - identical in value and in percentage change to the 7 September edition, as are the soybean, soyoil and Nymex crude rows, so those four commodity rows were not refreshed for this edition.",
+     "Malaysia's reserve manager did not do the same thing in the same month: Kenanga's BNM reserves note in this bundle records gold, special drawing rights and the IMF reserve position as broadly unchanged in August, with the movement instead in foreign currency reserves (-USD0.2b) and other reserve assets (+USD0.1b).",
+     "Read against the NY Fed item in this same edition - that the dollar's declining reserve share reflects a small number of managers rather than a broad reallocation - China is a candidate for exactly that concentration. The digest does not make that link itself, and neither Economic Viewpoint in the 8 September bundle covers gold or Chinese reserve policy."
+    ]
+   },
+   {
+    "h": "Canada set to hit at Trump tariffs, risking wider trade war",
+    "region": "Americas",
+    "body": "Canada is poised to impose tariffs of 15% to 50% on hundreds of products from the US on Tuesday, as Prime Minister Mark Carney bets that standing up to President Donald Trump will eventually help Ottawa's negotiating position with its biggest trading partner. (Bloomberg)",
+    "takeaways": [
+     "The range and the timing are both stated: tariffs of 15% to 50% on hundreds of US products, due on Tuesday - which is the day this digest was published, 8 September.",
+     "The rationale given is negotiating leverage rather than protection - Prime Minister Mark Carney betting that standing up to President Trump eventually helps Ottawa's position with its biggest trading partner.",
+     "The digest names the downside in its own headline, a wider trade war, but gives no product list and no trade value, so the exposure cannot be quantified from the retrieved source.",
+     "It is sourced to Bloomberg, the only one of the nine macro bits in this edition not carried by The Edge Malaysia or written by Kenanga itself.",
+     "Neither Economic Viewpoint in the 8 September bundle covers North American trade policy. The US channel Kenanga does model is rates and fiscal: the Fed on hold in September with the first cut in 2Q27, the 11 September CPI print as the decisive signal, and US debt crossing USD40.0t during August alongside a 30-year Treasury yield breaching 5.30%."
+    ]
+   },
+   {
+    "h": "Eurozone growth upgraded after bumper quarter for Ireland",
+    "region": "Europe",
+    "body": "The eurozone economy expanded more than initially thought in the second quarter after a sharp upward revision in Ireland. (The Edge Malaysia)",
+    "takeaways": [
+     "The upgrade is attributed to one member state. The euro-area second quarter expanded more than initially thought after a sharp upward revision in Ireland, so a single small economy is moving the aggregate.",
+     "No revised growth rate, no prior estimate and no size for the Irish revision are given, so the magnitude of the upgrade cannot be stated from the retrieved source.",
+     "It is a revision to a quarter already past, not a forward upgrade - the digest attaches no change to any second-half or full-year forecast.",
+     "The currency reaction as printed in this edition is mild: EUR/USD at 1.1625 on 7 September, up 0.09% on the day. Kenanga's own reserves note in this bundle attributes August dollar weakness - DXY at 99.5 against July's 100.9 - to US fiscal strain rather than to relative growth abroad.",
+     "Neither Economic Viewpoint in the 8 September bundle carries euro-area forecasts. The European transmission Kenanga does describe is global duration repricing driven by US fiscal concerns, which it names as the driver of Malaysia's RM15.9b of August bond inflows."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260908-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": false,
+   "ticker": "HLIND",
+   "type": "Company Updates",
+   "flag": "Named as the day's Company Update by both the Kenanga Today digest and the 8 September bundle page heading, but no HLIND report has been published: the bundle's Company Update slot holds GAMUDA-260907-CU, the previous day's report already carried on this board's 7 September date, and HLIND returns 404 under every filename convention in rules/signals.md §6. Shown as a pending row rather than hidden; no figures have been guessed."
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "BNM International Reserves",
+   "name": "BNM International Reserves (end-August): Slip for a second month even as bond inflows hold up",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "BNM international reserves fell USD0.1b (-0.1% MoM) to USD132.0b as at 28 August 2026, the second straight monthly decline; in ringgit terms RM534.7b, down RM0.5b (-0.1% MoM). Foreign currency reserves fell USD0.2b (-0.1% MoM) to USD116.6b even as foreign investors bought domestic bonds in size, partly offset by other reserve assets up USD0.1b (+2.4% MoM) to USD2.3b. Kenanga expects BNM to hold the OPR at 2.75% through 2026, reads the removal of \"appropriate\" as preserving flexibility rather than signalling a hike, and keeps its USDMYR year-end forecast at 3.95.",
+   "quote": "We expect BNM to hold the OPR at 2.75% through 2026. Removing \"appropriate\" was deliberate: it preserves flexibility rather than signals direction.",
+   "summary": [
+    "The decline is marginal and its composition is the story. Headline reserves fell USD0.1b (-0.1% MoM) to USD132.0b as at 28 August 2026, the second straight monthly fall. Within that, foreign currency reserves fell USD0.2b (-0.1% MoM) to USD116.6b - which Kenanga flags as happening even as foreign investors bought domestic bonds in size - partly offset by other reserve assets rising USD0.1b (+2.4% MoM) to USD2.3b, with gold, special drawing rights and the IMF reserve position broadly unchanged. In ringgit the fall is RM0.5b (-0.1% MoM) to RM534.7b; Kenanga's own table puts the latest release at RM534.65b, USD132.00b and a USDMYR of 4.0504.",
+    "The net series is not the headline series and lags it by a month. Net of drains, total reserves rose to USD96.9b in July (June: USD96.7b) and foreign currency reserves on the same basis rose to USD81.6b (June: USD81.3b). Kenanga states explicitly that both net series lag headline reserves by one month, so the improvement shown is a July improvement sitting inside an August headline decline - the two are not in conflict and should not be read as one.",
+    "The ringgit strengthened and Kenanga is specific about why. The MYR appreciated 0.4% in August to average 4.07/USD (July: 4.08/USD), trading in an exceptionally tight 4.09-4.10 band through the first two weeks. Kenanga's reading of that fortnight is a testable claim: optimism over a potential Strait of Hormuz agreement pulled Brent lower without moving the currency, \"confirming that US rate expectations, not energy prices, now set USD direction\". Soft July payrolls and heavy downward revisions sparked a dovish repricing, but in-line CPI and hawkish remarks from the Fed's Hammack capped the ringgit at 4.09/USD by 14 August; the break came the following week, when US debt crossed USD40.0t, the 30-year Treasury yield breached 5.30% and the Treasury launched an unscheduled buy-back. Regionally all ASEAN-5 currencies strengthened as the DXY weakened to 99.5 (July: 100.9), with the THB up 1.5%, SGD 1.2%, IDR 1.2%, MYR 0.4% and PHP 0.2% - the ringgit fourth of the five, so this was a dollar move rather than a ringgit one, which Kenanga attributes to US fiscal strain rather than Fed hawkishness.",
+    "The policy call is a hold with the reasoning laid out. Kenanga expects BNM to hold the OPR at 2.75% through 2026 and reads the removal of \"appropriate\" as deliberate - preserving flexibility rather than signalling direction. The evidence it cites is dovish: crude materials PPI at 24.1% YoY compresses to under 3.0% for finished goods, technology wage growth has collapsed to 1.3% from 6.4% despite faster output, growth is expected around 5.0% for 2026 and July inflation was 1.8%. It also names what would end the patience - subsidies holding up the consumer end, and an output gap that could turn positive next year. On the curve, Kenanga reads the recent MGS steepening as imported term premium rather than OPR repricing, which is the consistent counterpart to this board's 7 September row, where the 10-Y MGS rose 11.1 bps to 3.985% on a week Kenanga attributed to a Fed repricing rather than a rise in term premium.",
+    "The ringgit forecast implies appreciation from here and rests on a dated external trigger. The USDMYR year-end forecast is unchanged at 3.95 (2025: 4.06), about 2.4% firmer than the 4.0463 printed for 7 September in the same day's digest. The path assumes the Fed holds in September with a first cut in 2Q27, and Kenanga's phrasing on the August payrolls beat is that it raises the bar without clearing it, since wage growth stays benign and job gains remain narrowly concentrated - with the market reading US CPI on 11 September as the signal for hold or hike. The domestic support Kenanga points to is latent rather than realised: foreign currency deposits still elevated at RM336.8b against RM342.6b in June, pointing to substantial potential conversion into ringgit assets over time. The note does not label the month of the RM336.8b figure, so it is stated here exactly as printed rather than dated."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/EV_BNM-International-Reserves_Aug26_260908-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": null,
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "MY Bond Flows",
+   "name": "Malaysia Bond Flows (Aug-26): Foreign investors return, but it's a duration trade, not a risk-on signal",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "Foreign investors turned net buyers of Malaysian bonds in August with RM15.9b of inflows (Jul: -RM5.6b), which Kenanga calls the third-largest monthly inflow on record and the highest since September 2013. Total foreign holdings rose to RM320.1b (Jul: RM304.2b), or 13.5% of outstanding debt (Jul: 12.9%), on MGS +RM5.0b, GII +RM5.6b and corporate bonds and sukuk +RM4.8b. Foreigners were net sellers of RM2.0b of Malaysian equities, leaving capital market net inflows of RM13.9b, a 15-month high. Kenanga reads the month as a duration trade rather than a risk-on signal and expects foreign participation to pick up only gradually into 2027.",
+   "quote": "The near-term risk is that August's inflow proves a one-off duration trade rather than the start of a sustained trend.",
+   "summary": [
+    "The reversal is large and it reconciles with what this board already carries. Foreign investors bought RM15.9b of Malaysian bonds in August after selling RM5.6b in July - a RM21.5b swing that Kenanga ranks as the third-largest monthly inflow on record and the highest since September 2013. It ties to the 7 September row, which recorded RM11.1b of August foreign inflows into Malaysian government bonds: MGS RM5.0b plus GII RM5.6b plus the smaller Malaysian Treasury Bill and Islamic Treasury Bill increases in Kenanga's table is RM11.1b, and adding corporate bonds and sukuk of RM4.8b gives RM15.9b for all debt. The two figures measure different universes, not different months.",
+    "The recovery in MGS is explicitly partial, which is the caveat inside the headline. MGS shifted to RM5.0b of inflows from RM7.4b of July outflows and foreign ownership rose to 33.3% (Jul: 33.0%), but holdings of RM235.2b remain below June's RM237.6b - Kenanga says the recovery has yet to fully reverse the earlier outflows. Ownership is also still below the 34.1% of March and April in its own table, so August restored the flow without restoring the stock.",
+    "The largest proportional moves were outside MGS. GII reverted to RM5.6b of inflows from RM0.4b of outflows and foreign ownership jumped to 7.1% from 6.3% - the largest increase in foreign ownership of the three segments. Corporate bonds and sukuk inflows rose sharply to RM4.8b from RM0.8b, lifting ownership to 3.5% from 3.0%; on Kenanga's table the CBS holding now stands at RM34.6b against RM21.6b at end-2025, so the credit segment has grown by more than half in eight months from a small base.",
+    "Bonds and equities went opposite ways, and Kenanga treats that divergence as the diagnostic. Foreign investors sold RM2.0b of Malaysian equities in August after buying RM0.3b in July, concentrated in the financial, industrial and technology sectors, which Kenanga says points to more cautious risk appetite even as foreign money returned to debt - the reallocation was driven by duration and relative fixed-income attractiveness rather than a broad-based rise in risk appetite. The arithmetic of the two flows is the capital market total: RM15.9b less RM2.0b is the RM13.9b of net inflows Kenanga reports for August, a 15-month high against July's RM5.3b outflow. On the single session this same digest reports, the equity leg went the other way - foreigners were net buyers of RM59.8m on Bursa on 7 September, 28.9% of value, as the KLCI rose 6.69 points to 1,714.8.",
+    "The outlook is conditional, and Kenanga names the condition rather than a date. It expects the Fed to hold rates through the rest of 2026 with the first cut only in 2Q27, later than current market pricing implies, and says demand for local bonds is likely to stay uneven until that cut comes into view, with global duration repricing doing more to drive flows than any easing in liquidity. It reads Warsh's comments as a test of the Fed's inflation threshold rather than a signal of a policy shift, and names the US-Israel-Iran conflict as a source of volatility - which sits alongside rather than against the companion reserves note in this same bundle, where a potential Strait of Hormuz agreement is described as an August retrospective that pulled Brent lower. On fundamentals Kenanga puts Malaysia ahead of regional peers on relative value - resilient growth, moderating inflation, stable ratings, healthy external balances, attractive real yields and ample domestic liquidity - but argues for patience rather than an imminent inflow wave, seeing foreign participation pick up only gradually into 2027."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/EV_Bond-Flows_Aug26_260908-Kenanga.pdf"
+  }
+ ]
+}
