@@ -1,0 +1,235 @@
+{
+ "date": "2026-09-09",
+ "schema": 1,
+ "daily": {
+  "klci": 1714.4,
+  "chg": -0.39,
+  "pct": -0.02,
+  "inst": -63.3,
+  "instPct": 41.8,
+  "retail": -25.8,
+  "retailPct": 31.8,
+  "foreign": 89.0,
+  "foreignPct": 26.3,
+  "ideas": "Company Update: KPJ",
+  "news": [
+   {
+    "h": "NCT Alliance launches RM2.5b second phase of NCT Smart Industrial Park in Sepang",
+    "body": "NCT Alliance Bhd has officially launched the second phase of the NCT Smart Industrial Park (NSIP) in Sepang, which broke ground in November last year. With a gross development value of RM2.5b, the 230.1-acre Phase 2 will offer 241 units of detached, semi-detached, cluster and terraced factories, as well as industrial land parcels. (The Edge Malaysia)",
+    "takeaways": [
+     "Gross development value is not revenue and not an order book. RM2.5b is the value of everything Phase 2 is expected to sell across 241 factory units plus separately offered industrial land parcels, and the digest gives no launch-to-completion schedule and no take-up figure, so nothing here converts into a recognition profile.",
+     "The density arithmetic on the digest's own two figures: RM2.5b across 230.1 acres is about RM10.9m of GDV an acre, and RM2.5b across 241 units is about RM10.4m a unit before any value is assigned to the land parcels. Because those parcels are inside the RM2.5b but outside the 241 units, RM10.4m is an upper bound on the average built-product price, not an estimate of it. This is arithmetic on the two numbers given, not a company disclosure.",
+     "The ground was broken before the launch. The digest states Phase 2 broke ground in November last year, so this is a phase already under construction being brought to market rather than a new start - which is why the launch itself carries no capital commitment in the item.",
+     "The product mix is entirely industrial: detached, semi-detached, cluster and terraced factories, plus industrial land parcels. No residential or commercial component is disclosed, and no anchor tenant, buyer or end-user sector is named.",
+     "Sepang is in Selangor, and this same edition's macro bits carry the Selangor Menteri Besar's expectation that the state will record more than RM100.0b of investment value in 2026. Two of this edition's five corporate items are Selangor projects - this one and Theta Edge's LRT3 telecoms build. The digest draws no link between them. The 9 September bundle contains a single report, the KPJ Company Update, so no Kenanga note in this edition covers NCT Alliance or industrial property."
+    ]
+   },
+   {
+    "h": "QES Group to buy two office units in Singapore for RM17.5m",
+    "body": "QES Group Bhd said a unit of its subsidiary QES (Asia-Pacific) Sdn Bhd has entered into a sale and purchase agreement to acquire two freehold office units in Singapore's Space Nova development for a total of $5.5m (RM17.5m) cash, to be used as office space to support its Singapore business expansion. About 90% of the consideration will be funded through bank borrowings, with the remainder from internal funds; the deal is expected to lift the group's gearing to 0.4 times from 0.3 times as at end-2025, with no material impact on earnings per share for the current financial year. (The Edge Malaysia)",
+    "takeaways": [
+     "The digest prints the same figure two ways: RM17.48m in the news-highlights line on page 1 and RM17.5m in the corporate-news body on page 2. They are the same number rounded differently, not two transactions.",
+     "The currency conversion is close to, but not exactly, this edition's own rates. S$5.5m against RM17.48m implies a SGD/MYR cross of about 3.18, while the USD/SGD 1.2661 and USD/MYR 4.0623 printed for 8 September in the same edition imply about 3.21 - which would make the ringgit figure roughly RM17.6m. The gap is consistent with the conversion having been struck on a different date; the digest does not state which.",
+     "It is a debt-funded purchase and the balance-sheet cost is disclosed: about 90% from bank borrowings with the remainder from internal funds, lifting group gearing to 0.4 times from 0.3 times as at end-2025. That is a stated 0.1-times step for a RM17.5m outlay.",
+     "This is an occupier purchase, not an investment property. The units are freehold, in Singapore's Space Nova development, and are to be used as office space supporting the group's Singapore business expansion - so no rental yield, tenant or valuation basis is given, and none should be assumed.",
+     "The company itself says there is no material impact on earnings per share for the current financial year, which places the whole case on the Singapore expansion the space is meant to house rather than on the asset. The digest discloses nothing about the size or timing of that expansion, and no report in the 9 September bundle covers QES Group or the semiconductor equipment sector."
+    ]
+   },
+   {
+    "h": "Favelle Favco secures contracts worth RM132m to supply cranes",
+    "body": "Favelle Favco Bhd has secured four contracts to supply cranes worth a total of RM131.7m. Its wholly owned units Favelle Favco Cranes (M) Sdn Bhd and Favelle Favco Cranes Pty Ltd will each supply a tower crane, with delivery expected by end-2026, while Favco Cranes (M) is also set to deliver two offshore cranes - one by mid-2027 and the other on a staggered basis from the second to third quarter of 2027. (The Edge Malaysia)",
+    "takeaways": [
+     "Four contracts, four cranes, and the digest allocates them by subsidiary: one tower crane each from Favelle Favco Cranes (M) Sdn Bhd and Favelle Favco Cranes Pty Ltd, plus two offshore cranes from Favelle Favco Cranes (M). No per-contract value is given, so the RM131.7m cannot be split between tower and offshore work.",
+     "Delivery straddles two years and the back end is the heavier one by count: both tower cranes by end-2026, then one offshore crane by mid-2027 and the last staggered across the second to third quarter of 2027. Three of the four deliveries therefore fall in 2027 or later on the digest's own dates - but without per-contract values the revenue split between the years cannot be sized.",
+     "The headline rounds up. The page 1 news-highlights line says RM132m; the corporate-news body says RM131.7m. The lower figure is the stated contract total.",
+     "No customer is named for any of the four contracts, and no geography is given for the offshore cranes. The involvement of the Australian unit, Favelle Favco Cranes Pty Ltd, is the only location signal in the item, and it relates to a tower crane rather than to the offshore work.",
+     "Offshore crane orders are an oil and gas capital-spending read, and this edition's crude quote cannot be used to date the demand: Nymex crude prints at USD93.0/bbl with the day change shown as N.A., as it is for soybean, soyoil and gold. No report in the 9 September bundle covers Favelle Favco or the oil and gas sector - this board's most recent Oil & Gas sector row is dated 1 September."
+    ]
+   },
+   {
+    "h": "TRC Synergy bags RM150m subcontract for hyperscale data centre from Gamuda unit",
+    "body": "TRC Synergy Bhd has secured a subcontract worth RM150m from Gamuda Bhd's engineering arm for underground services works at a hyperscale data centre. The contract, awarded to wholly owned subsidiary TRC Construction Sdn Bhd by Gamuda Engineering Sdn Bhd, commenced on Aug 14 and is scheduled for completion by Nov 25. (The Edge Malaysia)",
+    "takeaways": [
+     "The counterparty is already on this board. Gamuda Engineering Sdn Bhd is the awarding party, and GAMUDA carries a verified Company Update on this board's 7 September date - OUTPERFORM, target price RM5.30, share price RM4.62 - where its outstanding order book is recorded at a record RM61.6b. This RM150m is a subcontract out of that book, so it is TRC Synergy's revenue and GAMUDA's cost, not incremental work for both.",
+     "The work started roughly three and a half weeks before it appears here: commencement is stated as Aug 14, and this edition is dated 9 September.",
+     "The completion date is printed without a year - 'by Nov 25' - and that ambiguity is material. Read as 2026 the contract runs about three and a half months; read as 2027 it runs about 15 months. That is a four-fold difference in the monthly revenue recognition rate, so it is left unresolved here rather than assumed.",
+     "The scope is underground services works, which is the utility and enabling layer beneath the facility rather than the data halls themselves. Neither the site nor the end client is named, and the digest gives no indication of whether TRC Synergy carries any technology-specific execution risk.",
+     "Hyperscale data centre work now runs across consecutive editions of this digest: the 8 September edition carried CBH Engineering's RM88.1m design-and-build of a 275kV consumer landing station for a Selangor data centre, and this one adds a RM150m underground services package. GAMUDA was also this edition's top-volume stock, at RM4.63 and up 0.9% on 1.77m shares, and its top gainer by the same 0.9%. No report in the 9 September bundle covers TRC Synergy."
+    ]
+   },
+   {
+    "h": "Theta Edge wins Prasarana job to build telecom infrastructure for LRT3",
+    "body": "Theta Edge Bhd has secured a five-year contract from Prasarana Malaysia Bhd to build and operate telecommunications infrastructure along the Light Rail Transit 3 (LRT3), or Shah Alam Line. Its wholly owned subsidiary Theta Telecoms Sdn Bhd has been appointed network operator and strategic partner to develop a common telecommunications network along the LRT3 right of way, installing, operating, maintaining and servicing the required hardware. (The Edge Malaysia)",
+    "takeaways": [
+     "No contract value is disclosed. This is the only one of the five corporate items in this edition without a headline figure, so it cannot be sized or ranked against the RM2.5b, RM150m, RM131.7m and RM17.5m items beside it.",
+     "It is a build-and-operate mandate rather than a construction award. Theta Telecoms Sdn Bhd is appointed network operator and strategic partner, installing, operating, maintaining and servicing the hardware over a five-year term - which points to recurring revenue across the period rather than a one-off contract, though the digest states no revenue model.",
+     "The asset is described as a common telecommunications network along the LRT3 right of way. 'Common' implies shared access rather than a single-user network, but no telco counterparty is named and no access or revenue-sharing arrangement is stated, so who pays Theta Telecoms beyond Prasarana cannot be established from the retrieved source.",
+     "The client is Prasarana Malaysia Bhd, the government-owned transport operator, so the funding sits in the public sector. The digest gives no start date, no completion milestones and no renewal terms beyond the five-year length.",
+     "This is transport infrastructure being fitted with a communications layer - which is thematically adjacent to this same edition's macro item on highways needing to evolve from physical infrastructure into a smart mobility ecosystem, though that item concerns roads, not rail, and the digest draws no link. LRT3 is the Shah Alam Line, making this the second Selangor project among this edition's five corporate items. No report in the 9 September bundle covers Theta Edge or telecommunications infrastructure."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "EU and Canada plan far-reaching alliance to strengthen partnership",
+    "region": "Global",
+    "body": "The European Union and Canada are working toward a new, all-encompassing relationship that will range from trade to security, as the transatlantic partners seek to build a new alliance to offset the global power politics dominated by the US and China. (Bloomberg)",
+    "takeaways": [
+     "The scope is stated as all-encompassing, ranging from trade to security, but nothing has been agreed. The digest describes the parties as 'working toward' a relationship, with no treaty, negotiating mandate, timetable or scoping document named.",
+     "The stated purpose is third-party rather than bilateral: to offset global power politics dominated by the US and China. On the digest's own framing this is positioning against two blocs, not a commercial case built on the trade between these two.",
+     "It sits in the same edition as an item on the same government pointed the other way - Prime Minister Mark Carney defending retaliatory tariffs against the US as protective rather than escalatory. Read together, the two describe one posture with two faces: alliance-building with Europe, counter-tariffs against Washington.",
+     "This board's 8 September date carried the EU's EUR200.0m Greenland investment, framed there as part of a campaign to tighten links to the island as President Trump claims it should belong to the US. Two consecutive editions therefore show EU outreach in North America. The digest itself does not connect the two items.",
+     "No Malaysian transmission channel is stated, and there is none to be read from the bundle either: the 9 September bundle carries no Economic Viewpoint - its only report is the KPJ Company Update - so unlike the 8 September edition, this one contains no Kenanga house view on trade blocs, currencies or global rates against which to weigh the item."
+    ]
+   },
+   {
+    "h": "Govt eyes higher Bumiputera economic contribution as PuTERA35 targets come under review",
+    "region": "Malaysia",
+    "body": "The government is looking at raising the economic contribution of Bumiputera businesses beyond existing targets as it prepares to review the progress and ambitions of the Bumiputera Economic Transformation Plan 2035 (PuTERA35). (The Malaysian Reserve)",
+    "takeaways": [
+     "This is the same review this board recorded a day earlier, now with a direction attached. The 8 September edition carried the Economy Minister saying the target to lift Bumiputera MSME contribution from 15% of GDP toward potentially double by 2035 would be reviewed in detail at the end of this year or early next; this item names the plan - PuTERA35 - and says the government is looking at raising ambitions beyond existing targets.",
+     "Direction without magnitude. 'Beyond existing targets' is as specific as the digest gets: no revised percentage, no restated baseline, no date for the new target and no review completion date are given.",
+     "The two editions are not describing the same universe, and the digest does not reconcile them. The 8 September framing was Bumiputera micro, small and medium enterprises specifically; this one refers to Bumiputera businesses under PuTERA35, a broader transformation plan. The 15%-of-GDP baseline from the earlier item should therefore not be carried across to this one.",
+     "It is sourced to The Malaysian Reserve, which supplies two of this edition's nine macro bits - this item and the rubber glove regulation item - and is the only outlet here other than The Edge Malaysia, Bloomberg and Reuters.",
+     "A share-of-GDP target moves with the denominator as well as the numerator, and this edition offers nothing to size the denominator: the 9 September bundle has no Economic Viewpoint, so unlike 8 September - where Kenanga's own reserves note carried expected 2026 growth of around 5.0% - there is no Kenanga growth forecast in this bundle to read the target against."
+    ]
+   },
+   {
+    "h": "Govt boosts rubber glove industry with improved regulations, enhances traceability",
+    "region": "Malaysia",
+    "body": "The government is strengthening regulations governing rubber glove manufacturing and exports to address industry overcapacity while enhancing the traceability of Malaysian-made gloves. (The Malaysian Reserve)",
+    "takeaways": [
+     "Two different policy aims are bundled into one sentence. Addressing industry overcapacity is a supply-side restriction on production; enhancing traceability of Malaysian-made gloves is a provenance and compliance measure aimed at export markets. They would work through different instruments, and the digest names neither - no licensing regime, no quota, no standard, no certification scheme.",
+     "The government itself names overcapacity as the problem being addressed. That is an official statement about the sector's own supply, not about demand, and the digest attaches no capacity figure, utilisation rate or export volume to it.",
+     "Nothing here is dated. No effective date, consultation period, transition arrangement or enforcement start is given, so the item cannot be positioned in any company's forecast period.",
+     "No glove maker is named, and none appears anywhere in this edition's market tables - not in the top-volume, top-gainer or top-loser lists, nor in the oversold or overbought stock and warrant tables.",
+     "The nearest priced input in this same edition is latex at RM7.06/kg, up 0.71% on 8 September - the raw material for the industry being regulated. The 9 September bundle contains only the KPJ Company Update, so there is no Kenanga sector view here on rubber products, gloves or manufacturing, and no covered stock in this bundle is exposed to the measure."
+    ]
+   },
+   {
+    "h": "Nanta: Highways need to evolve in tandem with rising number of vehicles",
+    "region": "Malaysia",
+    "body": "Highways need to evolve from mere physical infrastructure to a safer, smoother and more efficient smart mobility ecosystem, in line with the increasing number of vehicles on the road, which is estimated at six million vehicles daily across the entire highway network. (The Edge Malaysia)",
+    "takeaways": [
+     "The only hard figure in the item is the traffic estimate: six million vehicles daily across the entire highway network. No spending figure, budget line, concession change or named project is attached, so this is an argument rather than a programme.",
+     "The stated objectives are qualitative - safer, smoother and more efficient - and the framing is explicitly a step up from 'mere physical infrastructure' to a smart mobility ecosystem.",
+     "The implication of 'ecosystem' is technology and systems spending on assets that already exist, rather than new road building. But no procurement route, funding source or delivery vehicle is named, so no beneficiary can be identified from the retrieved source.",
+     "The traffic estimate is given as a daily count with no time series behind it, so the 'rising number of vehicles' that drives the whole argument is asserted rather than quantified in the digest.",
+     "The closest thing in this same edition is Theta Edge's five-year Prasarana mandate to build and operate a common telecommunications network along the LRT3 right of way - transport infrastructure being fitted with a communications layer, which is the same idea applied to rail. The digest makes no connection between them, and no report in the 9 September bundle covers transport infrastructure, concessions or autos; the bundle's sole report is on KPJ."
+    ]
+   },
+   {
+    "h": "Amirudin: Selangor to record more than RM100.0b investment value in 2026",
+    "region": "Malaysia",
+    "body": "Selangor is confident that the value of investments recorded by the state this year will exceed RM100.0b based on the current positive momentum, said Selangor Menteri Besar Datuk Seri Amirudin Shari. (The Edge Malaysia)",
+    "takeaways": [
+     "This is an expectation, not a result. The state is 'confident' the 2026 figure will exceed RM100.0b based on current positive momentum; no year-to-date figure and no prior-year comparison are given, so the claim cannot be tested against anything in the retrieved source.",
+     "'Investment value recorded' is an approvals-style measure rather than capital actually spent, and the digest supplies no definition, no sector split and no domestic-versus-foreign breakdown. It should not be read as construction or capital expenditure in the year.",
+     "Two of this edition's five corporate items are Selangor projects and give the claim some physical texture: NCT Alliance's RM2.5b Phase 2 industrial park at Sepang, and Theta Edge's telecoms build along the LRT3 Shah Alam Line. A third, TRC Synergy's RM150m hyperscale data-centre subcontract, does not name its state, so it cannot be counted here.",
+     "This board's 8 September date carries the closest comparable pair - CBH Engineering's RM88.1m design-and-build of a 275kV consumer landing station for a Selangor data centre, and MN Holdings' RM67.3m TNB cable job for bulk power supply to Intel Penang. Those are grid connections for large industrial loads, the physical counterpart to an investment-value headline, and both are separate items from a different edition rather than components of this RM100.0b.",
+     "There is no Kenanga forecast in this bundle to weigh the figure against: the 9 September bundle carries no Economic Viewpoint and no Market Strategy note, only the KPJ Company Update."
+    ]
+   },
+   {
+    "h": "Japan's wages grow most since 1997, keeping BOJ on rate hike path",
+    "region": "Asia Pacific",
+    "body": "Japanese workers' nominal wages rose at the fastest pace in nearly three decades on the back of strong corporate earnings and a tight labour market, in data likely to keep the Bank of Japan (BOJ) on course for further monetary tightening. (The Edge Malaysia)",
+    "takeaways": [
+     "The superlative is specific but the number is not. The headline dates the fastest pace to 1997 and the body says nearly three decades, yet no percentage is printed - so the size of the wage increase cannot be stated from the retrieved source, only its ranking.",
+     "Nominal is the operative word. The digest gives no Japanese inflation figure alongside it, so real wage growth - the variable that actually drives household consumption - is not established by this item.",
+     "Two causes are given and both are cyclical rather than structural: strong corporate earnings and a tight labour market.",
+     "The stated policy read is one-directional - data likely to keep the BOJ on course for further monetary tightening. That is the opposite direction to the other central-bank item in this edition, where the Bank of England's Governor pushes back on the idea that a hike is inevitable.",
+     "The currency print in this same edition is consistent with the direction but small in size: USD/YEN at 154.24 on 8 September against 154.65 on 7 September, a 0.27% move with the yen firmer. The ringgit went the other way on the same day, USD/MYR rising to 4.0623 from 4.0463, 0.40% weaker - the largest single-day move of any pair in this edition's forex table."
+    ]
+   },
+   {
+    "h": "Carney says retaliatory tariffs meant to protect Canada, not escalate US conflict",
+    "region": "Americas",
+    "body": "Prime Minister Mark Carney said he doesn't believe in escalating the trade war with the US, but he argued counter-tariffs are necessary to cushion the blow for Canadian businesses and workers. (Bloomberg)",
+    "takeaways": [
+     "This is the follow-through on an item this board already carries. The 8 September edition reported Canada poised to impose tariffs of 15% to 50% on hundreds of US products on Tuesday - that is, 8 September, the session whose data this edition reports - and this item is the Prime Minister reframing those same measures the day they landed.",
+     "The stated rationale has changed between the two editions. On 8 September the digest described Carney betting that standing up to President Trump would eventually help Ottawa's negotiating position; here the argument is defensive, cushioning the blow for Canadian businesses and workers. Both items are Bloomberg-sourced and the digest does not note the shift.",
+     "No new measure is announced. This item carries no product list, no rate and no trade value, so the 15%-to-50% range recorded on this board's 8 September date remains the only quantification of the tariffs available here.",
+     "The same government appears twice in this single edition pointed in two directions - counter-tariffs against the US in this item, and an all-encompassing new alliance with the European Union in the Global item above.",
+     "Unlike the 8 September edition, where Kenanga's own reserves and bond flows notes supplied the US rates and fiscal channel into Malaysia, the 9 September bundle carries no Economic Viewpoint at all. There is therefore no Kenanga view in this edition on North American trade policy or its transmission to the ringgit."
+    ]
+   },
+   {
+    "h": "Bessent says buyback move aimed at quelling market 'fever'",
+    "region": "Americas",
+    "body": "Treasury Secretary Scott Bessent said his move last month to expand a buyback program for older US government securities was aimed at quelling a \"fever\" in the bond market. (Bloomberg)",
+    "takeaways": [
+     "This puts a stated motive behind an event this board already recorded as a fact. Kenanga's BNM International Reserves note in the 8 September bundle described the August week in which US debt crossed USD40.0t and the 30-year Treasury yield breached 5.30%, with the Treasury launching an unscheduled buy-back. Bessent now says that expansion was aimed at quelling a 'fever' in the bond market.",
+     "The timing lines up with the ringgit account in that same Kenanga note: that week was when the MYR broke out of the tight 4.09-4.10 band it had held through the first half of August, and Kenanga attributed August dollar weakness - DXY at 99.5 against July's 100.9 - to US fiscal strain rather than to Fed policy.",
+     "What is being bought is stated and what it costs is not: older US government securities, meaning off-the-run issues. The digest gives no size for the expansion, no purchase schedule and no funding detail.",
+     "'Fever' is the Treasury Secretary's own word for the market condition, quoted as such. That is an unusually explicit official characterisation of disorderly trading in one's own government's debt; the digest reports the quote and adds no market reaction to it.",
+     "Kenanga's Bond Flows note in the 8 September bundle attributed Malaysia's RM15.9b of August bond inflows to global duration repricing amid heightened US fiscal concerns - the same mechanism this intervention was aimed at. That read-across comes entirely from the previous day's reports: the 9 September bundle contains only the KPJ Company Update and no Economic Viewpoint."
+    ]
+   },
+   {
+    "h": "BoE's Bailey pushes back against idea of rate hike being inevitable",
+    "region": "Europe",
+    "body": "Bank of England Governor Andrew Bailey said on Tuesday he wanted to dispel the idea that it's just a matter of time before the central bank raises interest rates, rather than a possibility that hinges on economic and geopolitical developments. (Reuters)",
+    "takeaways": [
+     "The intervention is about expectations, not policy. Bailey is dispelling the idea that a hike is a matter of time, recasting it as a possibility contingent on economic and geopolitical developments. No rate, no vote split and no meeting date appears in the item.",
+     "Note which way the pushback runs. He is arguing against an assumed tightening, so the market position he is correcting is hawkish - the same direction of travel the Japan item in this edition describes as intact for the BOJ.",
+     "'Tuesday' dates the remarks to 8 September, the same session whose market data this edition reports throughout, so this is same-day commentary rather than a retrospective.",
+     "Sterling barely registered it in this edition's own table: GBP/USD at 1.3528 against 1.3539, down 0.08% - the smallest daily move of the three major crosses printed, against EUR/USD at -0.10% and USD/YEN at -0.27%. The FTSE-100 fell 10.5 points, or 0.10%, to 10,811.7 on the same day.",
+     "The 9 September bundle carries no Economic Viewpoint, so there is no Kenanga UK or European rate view in this edition. The most recent Kenanga framing of European rates on this board is from the 8 September bundle, where the European channel was described as global duration repricing driven by US fiscal concerns rather than as domestic policy."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260909-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Three internal inconsistencies inside this single PDF are reported here as printed rather than resolved. (1) Page 1 says the officer-in-charge 'will carry out the 5-year plan already set out in motion' while page 2 says the interim head 'will complete some of the 3-year plan already set out in motion'; the strategy is elsewhere described as spanning 2026-2030, which is five years. (2) Page 1 gives current total bed capacity as '~4,000' in one sentence and, in the next, sets the FY26 target as a 4%-5% increase 'from 3,900 beds'. (3) The Summary Earnings Table shows EV/EBITDA of 11.4x for FY26F and 10.4x for FY27F, while the Peers Table in the same document shows KPJ HEALTHCARE at 16.3x one-year forward and 15.2x two-year forward - a difference of about 45% on a metric of the same name, which the report does not reconcile. Separately, the 52-week range in Kenanga's own stock-information box (H RM3.52, L RM2.37) differs slightly from the market data used in this row's range columns (stockanalysis.com: RM3.53 / RM2.34).",
+   "result": null,
+   "conviction": null,
+   "prevRating": "MP",
+   "prevTp": 3.05,
+   "ticker": "KPJ",
+   "name": "KPJ Healthcare Bhd",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 3.05,
+   "price": 2.61,
+   "divYield": 1.54,
+   "high52": 3.53,
+   "low52": 2.34,
+   "mktSrc": "https://stockanalysis.com/quote/klse/KPJ/",
+   "catalyst": "Upgraded to OUTPERFORM from MARKET PERFORM after a 19% share-price retracement over the past month, with the target price held at RM3.05 on an unchanged 12x FY27F EV/EBITDA and forecasts unchanged. The note follows an analyst briefing chaired by officer-in-charge Professor Datuk Dr Hanafiah Harunarashid, after the departure of former president and managing director Chin Keat Chyuan; Kenanga's position is that the 2026-2030 strategic plan is intact and that the leadership vacancy does not materially affect the earnings outlook. No ESG adjustment on a 3-star rating.",
+   "quote": "Following the retracement of its share price by 19% over the past month, we upgrade our call from MARKET PERFORM to OUTPERFORM. At current share price, the stock is trading at -1.0SD below its 5-year historical average.",
+   "summary": [
+    "The upgrade is a price move, not a forecast change. Forecasts are unchanged, the target price is held at RM3.05 on an unchanged 12x FY27F EV/EBITDA multiple described as in line with regional peers, and there is no ESG adjustment on a 3-star rating. What changed is the share price: a 19% retracement over the past month leaves the stock at RM2.61, which the report's own peer table shows as 16.9% below the RM3.05 target. That is what carries the call across Kenanga's OUTPERFORM threshold of more than 10% expected total return, printed in the same PDF - with the 1.6% net dividend yield on top. The valuation argument is stated as 10x EV/EBITDA and -1.0SD below the five-year historical average; the Summary Earnings Table's nearest figure is 10.4x for FY27F.",
+    "The vacancy at the top is the whole subject, and Kenanga's argument is that the plan is institutional rather than personal. The briefing was chaired by chief medical director Professor Datuk Dr Hanafiah Harunarashid, serving as officer-in-charge after the departure of former president and managing director Chin Keat Chyuan, and the report's position is that the selection process is ongoing, the strategic plan remains intact and the outcome would not materially affect the earnings outlook. Two things are worth reading carefully here: the report does not state a timeline for the appointment, and it describes the plan as a five-year one on page 1 and as a three-year one on page 2 - both are reproduced in this row's data-quality note rather than one being chosen.",
+    "The capital commitment behind the plan is large and the bed maths is specific. Kenanga puts capital expenditure at an estimated RM4b-5b over 2026-2030, directed at system-led integration, AI implementation, digitalisation, Centres of Excellence and brownfield expansion, with total bed capacity going from about 4,000 now to 4,600-5,000. For FY26 the target is a 4%-5% increase from 3,900 beds - roughly 200 more beds, to about 4,100-4,200 - driven primarily by brownfield expansion, which the report states is already factored into its forecasts. The '~4,000 currently' and 'from 3,900 beds' figures sit one sentence apart and are not reconciled; both are reported here as printed.",
+    "The upside case is a revenue-intensity gap that Kenanga quantifies twice. The group plans to expand to 15 specialised Centres of Excellence, having already established a heart and lung CoE at KPJ Johor Specialist Hospital and a neuroscience and stroke CoE at KPJ Damansara Specialist Hospital 2, and is described as upscaling medical complexity to capture high-yield complex surgical cases rather than relying on basic treatments. The gap: on latest 1H2026 data revenue per bed is RM1.13m, which the report puts at 8% to 15% below peers, while 2QFY26 average revenue per inpatient hit a record RM8,656 (+7% YoY, +1% QoQ) and remains 30%-35% below the peer average. The record and the gap are the same number read two ways - the improvement is real and the distance left to close is larger than the improvement.",
+    "Gestation losses are narrowing on Kenanga's account, and the forecasts still sit below the consensus printed in its own table. In 1HFY26 KPJ turned one hospital profitable at the bottom line (KPJ Bandar Dato Onn, on higher patient throughput) and narrowed losses across the rest of the gestating portfolio versus 1HFY25; management expects at least one more facility to turn pre-tax profitable and another to reach bottom-line profitability by end-FY26, while KPJ Miri faces a prolonged gestation on difficulty recruiting and retaining specialist consultants. All key gestating assets - DSH2, KPJ Perlis, KPJ Batu Pahat and KPJ Miri - are stated to be EBITDA-positive. Against that, the Summary Earnings Table shows FY26F and FY27F core net profit of RM384.5m and RM424.1m versus consensus net profit of RM407m and RM454m in the same table, with dividends per share held flat at 4.15 sen. Named risks are regulatory, the potential imposition of a Diagnostic-Related Group payment system, and longer-than-expected gestation at newer hospitals. Kenanga's conviction language here is an investment-case paragraph - 'We like KPJ for' the sector's prospects, the low price elasticity of demand for healthcare, and its 30-hospital network against IHH Healthcare's 16 in Malaysia - which is not a pick declaration, so this row reads None stated."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "CIMB Securities",
+    "date": "9 Sep 2026",
+    "opp": true,
+    "note": "The same analyst briefing produced four named-house calls on <b>9 September 2026</b>, the same day as the Kenanga note beside them - so for once there is no date gap to explain - and they split in both directions. <b>RHB Research</b> kept its <b>Buy</b> but cut its target price to <b>RM3.51 from RM4.01</b> after a review of its discounted cash flow assumptions, saying management reaffirmed every element of the 2026-2030 plan and that the plan is board-sanctioned and institutionally owned rather than tied to any individual, while the absence of a named successor and an appointment timeline remains unresolved; it advocates accumulating patiently and views clarity on the new chief as a near-term re-rating catalyst. <b>Public Investment Bank</b> upgraded to <b>Outperform from Neutral</b> on a more attractive risk-reward profile after the share price weakness; no target price is stated in the retrievable reports. <b>Hong Leong Investment Bank</b> maintained <b>Buy with a RM3.79 target price</b>, noting the stock at 12.8x FY2027 EV/EBITDA against roughly 20x in past private hospital transactions - a materially different multiple from the 10.4x FY27F EV/EBITDA in Kenanga's own summary table, which is a basis difference rather than a contradiction. <b>CIMB Securities</b> went the other way: it left the meeting with a slightly negative view on the lack of clarity around Chin's departure and <b>downgraded to Hold with the target price cut to RM2.67</b>, below the RM2.61 share price. That is opposite to Kenanga's OUTPERFORM, so <b>the divergence marker is set</b> on a verified, dated, named call rather than inferred from prices. <b>Read one figure with care:</b> RHB's stated prior target of RM4.01 does not match the RM3.77 target reported for RHB on 13 August in The Edge Malaysia; both are reproduced as printed and the two cannot be reconciled from publicly retrievable sources. None of the four used pick language - RHB's 'trading at attractive levels' and PublicInvest's 'more attractive risk-reward' are valuation phrasings, not declarations of a top or sector pick - so this row reads <b>None stated</b>. Of the nine houses searched, four yielded a dated, publicly retrievable call: CIMB Securities, RHB, Hong Leong Investment Bank and Public Investment Bank. Maybank Investment Bank, AmInvestment Bank, TA Securities, MIDF and Affin Hwang did not.",
+    "cites": [
+     [
+      "New Straits Times, 9 Sep 2026 &mdash; &lsquo;KPJ Healthcare growth plans intact but succession uncertainty lingers&rsquo;",
+      "https://www.nst.com.my/business/corporate/2026/09/1528817/kpj-healthcare-growth-plans-intact-succession-uncertainty"
+     ],
+     [
+      "The Edge Malaysia, 9 Sep 2026 &mdash; &lsquo;KPJ&rsquo;s growth plans remain intact as group searches for new MD &mdash; analysts&rsquo;",
+      "https://theedgemalaysia.com/node/817347"
+     ],
+     [
+      "The Edge Malaysia, 13 Aug 2026 &mdash; &lsquo;KPJ Healthcare may report stronger 2Q, says RHB Research&rsquo;",
+      "https://theedgemalaysia.com/node/814371"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/KPJ-260909-CU-Kenanga.pdf"
+  }
+ ]
+}

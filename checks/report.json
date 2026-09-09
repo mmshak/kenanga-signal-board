@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08T19:21:47.542Z",
+ "generatedAt": "2026-09-09T05:53:17.703Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -10,10 +10,11 @@
   "2026-09-03",
   "2026-09-04",
   "2026-09-07",
-  "2026-09-08"
+  "2026-09-08",
+  "2026-09-09"
  ],
- "rows": 91,
- "verified": 90,
+ "rows": 92,
+ "verified": 91,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -142,6 +143,12 @@
    "date": "2026-09-08",
    "row": "HLIND",
    "msg": "Named as the day's Company Update by both the Kenanga Today digest and the 8 September bundle page heading, but no HLIND report has been published: the bundle's Company Update slot holds GAMUDA-260907-CU, the previous day's report already carried on this board's 7 September date, and HLIND returns 404 under every filename convention in rules/signals.md §6. Shown as a pending row rather than hidden; no figures have been guessed."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-09",
+   "row": "KPJ",
+   "msg": "Three internal inconsistencies inside this single PDF are reported here as printed rather than resolved. (1) Page 1 says the officer-in-charge 'will carry out the 5-year plan already set out in motion' while page 2 says the interim head 'will complete some of the 3-year plan already set out in motion'; the strategy is elsewhere described as spanning 2026-2030, which is five years. (2) Page 1 gives current total bed capacity as '~4,000' in one sentence and, in the next, sets the FY26 target as a 4%-5% increase 'from 3,900 beds'. (3) The Summary Earnings Table shows EV/EBITDA of 11.4x for FY26F and 10.4x for FY27F, while the Peers Table in the same document shows KPJ HEALTHCARE at 16.3x one-year forward and 15.2x two-year forward - a difference of about 45% on a metric of the same name, which the report does not reconcile. Separately, the 52-week range in Kenanga's own stock-information box (H RM3.52, L RM2.37) differs slightly from the market data used in this row's range columns (stockanalysis.com: RM3.53 / RM2.34)."
   }
  ],
  "verdict": "PASS"
