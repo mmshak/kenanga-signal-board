@@ -1,0 +1,247 @@
+{
+ "date": "2026-09-10",
+ "schema": 1,
+ "daily": {
+  "klci": 1714.3,
+  "chg": -0.06,
+  "pct": 0.0,
+  "inst": 12.7,
+  "instPct": 40.8,
+  "retail": 76.8,
+  "retailPct": 28.1,
+  "foreign": -89.5,
+  "foreignPct": 31.2,
+  "ideas": "Result Note: SCIENTX",
+  "news": [
+   {
+    "h": "Mikro MSC to acquire full stake in cable manufacturer Broadguard for RM30m",
+    "body": "Mikro MSC Bhd is planning to acquire a full equity stake in Broadguard Sdn Bhd (BSB) for RM30m to expand its reach within the electrical and electronics ecosystem. Mikro will issue 51.7m new shares, about 4.3% of its enlarged share base, at an issue price of about 58 sen apiece to vendors Sie Chee Din and Wong Meng Jie in exchange for their entire stake in BSB, a cable and security-systems wholesaler incorporated in 2004. (The Edge Malaysia)",
+    "takeaways": [
+     "No cash leaves the company. The consideration is 51.7m new Mikro MSC shares at about 58 sen apiece, issued directly to vendors Sie Chee Din and Wong Meng Jie, and no borrowing or cash component is disclosed. The dilution is stated: the new shares are about 4.3% of the enlarged base.",
+     "The two figures the digest gives are internally consistent, and a third can be derived from them. 51.7m shares at about 58 sen is about RM30.0m, matching the headline price; and 51.7m shares representing 4.3% implies an enlarged base of roughly 1.20b shares, so roughly 1.15b before the issue. That share count is arithmetic on the digest's own numbers, not a company disclosure.",
+     "The issue price sits below the market price printed in the same edition. Mikro MSC appears in this edition's overbought list at RM0.630, with a 14-day RSI of 75.89 and a 30-day high also of RM0.630 - so the roughly 58 sen issue price is about 8% below the last price in the same document. That comparison is computed here from the two printed figures; the digest does not draw it.",
+     "Nothing in the item lets the RM30m be tested. Broadguard is described only as a cable and security-systems wholesaler incorporated in 2004: no revenue, profit, net assets, profit guarantee or earnings multiple is given. Note also that the digest's own headline calls Broadguard a 'cable manufacturer' while the body calls it a wholesaler - reproduced here as printed rather than resolved, and the distinction matters, because a wholesaler buys reach and route-to-market while a manufacturer buys capacity.",
+     "Mikro MSC is the only one of this edition's five corporate-news names that also appears anywhere in the edition's own market tables - and it appears in the technical screens rather than the top-volume, top-gainer or top-loser lists. No report in the 10 September bundle covers Mikro MSC or the electrical and electronics sector: the bundle is the Kenanga Today digest plus a single Results Note on SCIENTX."
+    ]
+   },
+   {
+    "h": "SSF Home sees Low Kok Yew emerge as third-largest shareholder",
+    "body": "SSF Home Group Bhd said Low Kok Yew has emerged as a substantial shareholder after raising his stake in the home furniture retailer to above 5%. Low bought 13.6m direct shares, or a 1.7% stake, from executive director and deputy CEO Lok Kok Khong on Sept 7, in a transaction valued at RM4.9m. Prior to the purchase, Low's shareholding stood at 4.8%; it has now increased to 6.5%, making him the third-largest shareholder. (The Edge Malaysia)",
+    "takeaways": [
+     "This is a transfer between holders, not a fundraising. The 13.6m shares were bought from executive director and deputy CEO Lok Kok Khong on Sept 7; SSF Home Group itself raises nothing and its share count does not change.",
+     "The implied price is about 36 sen a share - RM4.9m for 13.6m shares - on the digest's own two figures. Both are rounded in the item, so the figure is approximate and is arithmetic rather than a disclosure.",
+     "The stake maths reconciles: 4.8% before plus the 1.7% purchased gives the 6.5% stated. Working the same way from 13.6m shares at 1.7% implies roughly 800m shares in issue, which is again derived here rather than printed.",
+     "What is absent is as notable as what is stated. The digest does not name the two larger shareholders, gives no board seat, states no intention behind the purchase, and does not say what the seller retains. It also attaches no affiliation to the name Low Kok Yew, so none should be assumed.",
+     "The seller is an executive director and deputy CEO, which makes this a disposal by management as well as an acquisition by an incoming substantial shareholder - the item reports only the buying side. No report in the 10 September bundle covers SSF Home Group or furniture retail; the day's only Kenanga report is on SCIENTX."
+    ]
+   },
+   {
+    "h": "LFE Corp wins RM23.9m contracts for Ara Damansara redevelopment",
+    "body": "LFE Corp Bhd said it has secured three contracts worth a combined RM23.9m to provide electrical, mechanical and plumbing services for a redevelopment project in Ara Damansara, Selangor. Its wholly owned unit LFE Engineering Sdn Bhd accepted all three letters of award, dated Aug 5, 2026, from Pembinaan Bina Bumi Sdn Bhd to undertake the subcontracting works. (The Edge Malaysia)",
+    "takeaways": [
+     "Three contracts are reported as one number. RM23.9m is the combined value of three letters of award for electrical, mechanical and plumbing services, with no per-contract split, no duration and no completion date, so nothing here converts into a revenue-recognition profile.",
+     "The award predates its appearance here by about five weeks: the letters of award are dated Aug 5, 2026 and this edition is dated 10 September.",
+     "LFE is the subcontractor, not the builder. The awarding party is Pembinaan Bina Bumi Sdn Bhd and the recipient is wholly owned LFE Engineering Sdn Bhd, so this is a package carved out of someone else's main contract. Neither the developer nor the project's total value is named.",
+     "Selangor appears in a corporate item for the third consecutive edition on this board: CBH Engineering's RM88.1m consumer landing station for a Selangor data centre on 8 September, NCT Alliance's RM2.5b Sepang industrial park phase and Theta Edge's LRT3 Shah Alam telecoms mandate on 9 September, and now Ara Damansara. This board's 9 September date also carries the Selangor Menteri Besar's expectation of more than RM100.0b of investment value in the state in 2026; the digest links none of them.",
+     "On scale, this is the smallest construction-linked award recorded on this board across those three editions - RM23.9m against TRC Synergy's RM150m subcontract on 9 September and CBH Engineering's RM88.1m on 8 September. No report in the 10 September bundle covers LFE Corp, construction or building services."
+    ]
+   },
+   {
+    "h": "Enra teams up with China's O&G services firm to bid for FPSO job in Southeast Asia",
+    "body": "Enra Group Bhd has teamed up with a Chinese oil and gas services provider to jointly bid for an upcoming tender to provide a floating storage and offloading (FPSO) vessel in Southeast Asia. Its indirect wholly owned subsidiary Hexagon Energy Logistics Sdn Bhd signed a non-binding pre-joint bidding cooperation agreement with China Offshore Engineering & Technology Co Ltd, under which the parties will negotiate scope of work, pricing and responsibilities once official tender documents are received, to be formalised in a separate definitive agreement. (The Edge Malaysia)",
+    "takeaways": [
+     "Nothing is committed at any level. The agreement is explicitly non-binding and pre-joint-bidding; scope of work, pricing and responsibilities are all still to be negotiated, and only once official tender documents are received - and then formalised in a separate definitive agreement.",
+     "The tender itself has not been issued. This is an intention to bid for an upcoming tender, so there are two contingencies ahead of any revenue: the tender appearing, and the consortium winning it.",
+     "No value, no field, no country and no counterparty on the client side. 'Southeast Asia' is the whole of the geography given, and no vessel size, day rate or charter length appears, so the opportunity cannot be sized from the retrieved source.",
+     "The digest's own expansion of the acronym is short a word: it writes 'floating storage and offloading (FPSO) vessel', while the P in FPSO stands for production. Reproduced as printed; the distinction matters, because a production unit is a materially larger and more complex asset than a storage-and-offloading one.",
+     "The oil-price backdrop in this same edition is the strongest single-day move in it: Nymex crude at USD96.1/bbl, up 3.25% on 9 September, the largest daily change of any commodity printed in the edition. The most recent Kenanga oil and gas view on this board remains the 1 September Oil & Gas sector update - OVERWEIGHT, big-cap top pick switched to DIALOG, KEYFIELD named the best proxy for a 2027 upstream recovery - and no report in the 10 September bundle covers Enra or the sector."
+    ]
+   },
+   {
+    "h": "Pimpinan Ehsan to delist from Main Market on Sept 14",
+    "body": "Pimpinan Ehsan Bhd will be delisted on Sept 14 after the shell company said it could not meet a Bursa Malaysia deadline to submit a plan to revive itself. Trading in its shares has been halted since Aug 21 after the planned reverse takeover of renewable energy firm reNIKOLA Holdings Sdn Bhd collapsed. Under a capital reduction and repayment exercise, shareholders will receive 91 sen per share, funded from about RM65m held in a custodian account. (The Edge Malaysia)",
+    "takeaways": [
+     "This is the end of a failed reverse takeover, not a distressed collapse. The planned RTO of renewable energy firm reNIKOLA Holdings Sdn Bhd fell through, trading has been halted since Aug 21, the company could not meet Bursa Malaysia's deadline for a regularisation plan, and the listing goes on Sept 14.",
+     "Shareholders are being repaid rather than written off: 91 sen per share under a capital reduction and repayment exercise, funded from about RM65m held in a custodian account.",
+     "Those two figures imply roughly 71m shares in issue - RM65m at 91 sen. That is arithmetic on the digest's own numbers; no share count is printed.",
+     "There is no market price to weigh the 91 sen against. The shares have not traded since Aug 21, and this edition is published four calendar days before the delisting date.",
+     "It is the only one of this edition's five corporate items that removes activity from the market rather than adding it, and the digest gives no reason for the RTO's collapse. No report in the 10 September bundle covers Pimpinan Ehsan, reNIKOLA or renewable energy."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Global goods trade strengthening despite tariffs, Middle East tensions, WTO says",
+    "region": "Global",
+    "body": "Global trade in goods has strengthened from June despite geopolitical and policy-related uncertainties, the World Trade Organization said on Wednesday, signaling resilience in merchandise flows even as risks remain elevated. (The Edge Malaysia)",
+    "takeaways": [
+     "Direction without magnitude. Trade has 'strengthened from June', but no index level, growth rate or volume figure appears, so the improvement cannot be sized from the retrieved source.",
+     "The statement is dated to Wednesday - 9 September, the session whose market data this edition reports throughout - so it is same-week commentary rather than a retrospective.",
+     "The framing is resilience despite two named headwinds, tariffs and Middle East tensions, and both run through this same edition: the EU's 'Made in Europe' procurement push aimed at China, and an ECB rate rise expected in response to Iran-war energy inflation.",
+     "The scope is merchandise only. Services are not covered, and the WTO's own caveat is carried in the item itself - risks remain elevated.",
+     "The read into the day's single Kenanga report is real but indirect. SCIENTX's packaging division sells into the global plastic packaging market, its FY26 margin gain came from selling prices lifted by the resin surge that followed the same Middle East conflict, and the report names weak packaging demand in a prolonged global downturn as one of its three stated risks. The 10 September bundle carries no Economic Viewpoint, so there is no Kenanga house view on global trade in this edition."
+    ]
+   },
+   {
+    "h": "Global credit market revs up again after USD70.0b of issuance",
+    "region": "Global",
+    "body": "Companies are ramping up borrowing in bond markets again after raising more than USD70 billion (RM284.84 billion) Tuesday in the busiest global session since June, as borrowers seek to lock in funding before costs climb any higher. (The Edge Malaysia)",
+    "takeaways": [
+     "The ringgit conversion checks out against this edition's own rate, which is not always the case in this digest: USD70b shown as RM284.84b implies about 4.069, against the USD/MYR 4.0695 printed for 9 September in the same document.",
+     "Both the size and the period need reading precisely. 'More than USD70 billion' is a floor, not a total, and it is one session's issuance - Tuesday, 8 September - described as the busiest global session since June.",
+     "The stated motive is pre-emptive and one-directional: borrowers are locking in funding before costs climb any higher. That is issuers positioning for higher rates, not lower.",
+     "It sits either side of the long end in this edition. Corporates are supplying paper while the US Treasury, in the Americas item below, is buying up to USD6.0b of 10- to 20-year bonds on the same Thursday - and the ECB is expected to raise rates that day.",
+     "Malaysia's channel into this is on the board rather than in this bundle: Kenanga's 8 September Bond Flows note recorded RM15.9b of August foreign inflows into Malaysian bonds, which it called the third-largest monthly inflow on record and the highest since September 2013. The 10 September bundle contains no Economic Viewpoint to update that."
+    ]
+   },
+   {
+    "h": "EU targets China with 'Made in Europe' public contract rules",
+    "region": "Global",
+    "body": "The European Union is pushing governments to direct more of their EUR2.6t (RM12.28 trillion) in public contracts toward local suppliers - and away from China. (The Edge Malaysia)",
+    "takeaways": [
+     "The EUR2.6t is a stock of existing public contracts being redirected, not new money being spent. Nothing in the item adds to procurement budgets; it proposes changing who wins them.",
+     "The conversion is close to, but not exactly, this edition's own rates. EUR/USD at 1.1630 and USD/MYR at 4.0695 imply about 4.73 ringgit to the euro, which would put EUR2.6t at roughly RM12.31t against the RM12.28t printed - a difference of about 0.2%, consistent with a conversion struck on a different date. The digest does not state which.",
+     "The target is named explicitly - China - and the instrument is procurement preference for local suppliers rather than tariffs, which puts it outside the tariff machinery that dominates this board's recent trade items.",
+     "It is a push, not a rule. The EU is 'pushing governments'; no legal act, threshold, sector carve-out or timetable is named, and member states hold the contracts in question.",
+     "This is the third consecutive edition on this board carrying EU external-policy items: EUR200.0m for Greenland on 8 September, the EU-Canada all-encompassing alliance on 9 September, and now procurement against China. The digest connects none of them, and with no Economic Viewpoint in the 10 September bundle there is no Kenanga view here on trade blocs."
+    ]
+   },
+   {
+    "h": "Malaysia's industrial output decelerates in July, official data show",
+    "region": "Malaysia",
+    "body": "Malaysia's industrial output grew at a slower than expected pace in July, as manufacturing and electricity sectors expanded while mining contracted, official data showed. (The Edge Malaysia)",
+    "takeaways": [
+     "There is no number in the item at all. Output grew 'at a slower than expected pace' in July, with no growth rate, no prior-month figure and no consensus estimate, so the deceleration cannot be sized from the retrieved source.",
+     "The composition is given directionally and splits three ways: manufacturing and electricity expanded, mining contracted.",
+     "'Slower than expected' is a statement about forecasts, and the digest names neither the forecast nor whose it was.",
+     "July is the month SCIENTX's financial year ends (FYE 31 July 2026) and its packaging arm is a manufacturer - but the two do not speak to each other as directly as they appear to. Kenanga attributes the FY26 packaging gain to higher average selling prices and cheaper inventory rather than to volumes, and puts plant utilisation at 61% against 60% a year earlier.",
+     "No Kenanga read on the data appears in this bundle: the 10 September bundle contains one report, the SCIENTX Results Note, and no Economic Viewpoint. The most recent Kenanga macro notes on this board remain the 8 September pair - BNM International Reserves and Malaysia Bond Flows."
+    ]
+   },
+   {
+    "h": "Energy reform central to Malaysia's economic policy, says minister",
+    "region": "Malaysia",
+    "body": "Energy reform can no longer be viewed solely as a sectoral or regulatory matter, but must be recognised as an integral part of Malaysia's broader economic agenda, said Economy Minister Akmal Nasrullah Mohd Nasir. (The Edge Malaysia)",
+    "takeaways": [
+     "This is framing, not policy. No tariff, subsidy, mechanism, timetable or instrument is named - the claim is about where energy reform sits in the policy hierarchy, not what it will consist of.",
+     "The argument is explicitly against a narrower reading: energy reform 'can no longer be viewed solely as a sectoral or regulatory matter'. That is a statement about which ministry's problem it is as much as about the reform itself.",
+     "The speaker is Economy Minister Akmal Nasrullah Mohd Nasir - the same minister this board recorded on 8 September saying the Bumiputera MSME contribution target would be reviewed in detail at the end of this year or early next.",
+     "Energy cost is live in this same edition: Nymex crude up 3.25% to USD96.1/bbl on 9 September, and the China item attributing both producer and consumer inflation to elevated energy costs tied to Middle East supply risks.",
+     "It is also live in the day's only report, at company level. SCIENTX's packaging economics run off oil-linked resin, Kenanga assumes Brent averaging USD80 in CY26 and USD74 in CY27, and the group's completed solar PV installation across 10 Malaysian plants is stated to save about RM10m a year from FY26 - a corporate response to exactly the cost the minister is describing, though the digest draws no link and the bundle carries no Economic Viewpoint."
+    ]
+   },
+   {
+    "h": "Rising energy costs lift China's producer, consumer inflation in August",
+    "region": "Asia Pacific",
+    "body": "China's factory-gate inflation gathered pace in August and consumer price growth quickened, driven largely by elevated energy costs tied to supply risks from the Middle East war, even as underlying domestic demand remained subdued. (Reuters)",
+    "takeaways": [
+     "Both gauges moved the same way and neither is quantified. Factory-gate inflation 'gathered pace' and consumer price growth 'quickened', with no percentages, so only the direction is established by this item.",
+     "The stated driver is a supply shock rather than recovering demand: elevated energy costs tied to supply risks from the Middle East war, with underlying domestic demand described in the same sentence as still subdued.",
+     "That pairing - cost-push inflation alongside soft domestic demand - is the least comfortable mix for manufacturers selling into the region, because input costs rise ahead of the pricing power to pass them on. The digest does not draw that conclusion.",
+     "The mechanism is the same one behind the day's only Kenanga report, one step further down the chain. Kenanga's 15 July plastic packaging sector update attributed a resin price rise of about 80% or more to the Middle East conflict since February 2026, and today's SCIENTX note credits FY26 packaging margins to the resulting higher selling prices plus cheaper inventory bought earlier - while warning of partial normalisation as those cheap inventories run out.",
+     "It is one of only two Reuters items among this edition's nine macro bits, the other being the ECB item; the remaining seven are sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US Treasury to buy up to USD6.0b in Sept 10 buyback operation",
+    "region": "Americas",
+    "body": "The Treasury Department said on Wednesday that it will buy up to USD6 billion (RM24.4 billion) in 10- to 20-year Treasury bonds during its buyback operation on Thursday, triple the size of its last long-dated operation. (The Edge Malaysia)",
+    "takeaways": [
+     "This is the operation itself, after two editions of build-up on this board. Kenanga's 8 September BNM International Reserves note recorded the August week in which US debt crossed USD40.0t, the 30-year Treasury yield breached 5.30% and the Treasury launched an unscheduled buy-back; the 9 September edition carried Treasury Secretary Bessent saying that expansion was aimed at quelling a 'fever' in the bond market. Here is the scheduled follow-through, with a size attached for the first time.",
+     "Size, tenor and multiple are all stated: up to USD6b of 10- to 20-year Treasury bonds, triple the size of the last long-dated operation. 'Up to' is a cap on the operation, not a purchase that has happened.",
+     "The conversion is consistent with this edition's own rate: RM24.4b against USD6.0b implies about 4.07, against the USD/MYR 4.0695 printed for 9 September.",
+     "Thursday is 10 September - the date of this edition - so the operation runs as the digest is being read, rather than being reported afterwards.",
+     "Malaysia's exposure to this runs through duration, as recorded on this board a week ago: Kenanga's 8 September Bond Flows note attributed RM15.9b of August foreign inflows into Malaysian bonds to global duration repricing amid heightened US fiscal concerns. The 10 September bundle contains no Economic Viewpoint, so there is no updated Kenanga view on it here."
+    ]
+   },
+   {
+    "h": "Fed officials signal openness to Warsh's proposal for fewer policy meetings",
+    "region": "Americas",
+    "body": "At least a third of all Federal Reserve (Fed) officials have said they would consider meeting less frequently to set interest rates, giving Kevin Warsh an early opening for one of the biggest structural changes he's proposed as the US central bank's new chairman. (The Edge Malaysia)",
+    "takeaways": [
+     "This is a governance change, not a policy one. It concerns how often rates are set, not where they are set, and no rate, forecast or policy direction appears in the item.",
+     "The support is both a floor and a soft one: 'at least a third' of officials say they would consider meeting less frequently. Considering is not endorsing, and no proposal text, vote or timetable is named.",
+     "Kevin Warsh is identified here as the US central bank's new chairman, and this is described as one of the biggest structural changes he has proposed - so it is an early test of a new chair's agenda rather than a settled institutional decision.",
+     "Fewer scheduled meetings would mean longer gaps between decision points, which mechanically raises the weight of each meeting and of the data released between them. The item itself does not draw that out.",
+     "The Fed reaches this board mainly through the ringgit, and the most recent Kenanga statement of that link is from 8 September, where its reserves note argued that US rate expectations, not energy prices, now set the dollar's direction. There is no Kenanga note in the 10 September bundle to update it; the digest's own print has USD/MYR at 4.0695 on 9 September, 0.18% weaker on the day."
+    ]
+   },
+   {
+    "h": "ECB set to hike as Iran war fuels fresh inflation fears",
+    "region": "Europe",
+    "body": "The European Central Bank looks set to raise interest rates on Thursday for the second time this year, seeking to head off an energy-driven surge in inflation triggered by the Iran war. (Reuters)",
+    "takeaways": [
+     "The item anticipates a decision rather than reporting one, and gives no size: the ECB 'looks set to' raise rates on Thursday - 10 September, the date of this edition - and it would be the second increase this year.",
+     "The stated cause is imported and specific: an energy-driven surge in inflation triggered by the Iran war. That is the same shock behind this edition's China inflation item and, one step further down the chain, behind the resin prices that drove SCIENTX's FY26 packaging margins.",
+     "It runs opposite to the central-bank commentary this board carried a day earlier. On 9 September the Bank of England's Governor was pushing back on the idea that a UK hike was inevitable, while the Japan wages item pointed to the BOJ staying on a tightening path. Three central banks, three postures, across two consecutive editions.",
+     "The euro barely moved into it: EUR/USD at 1.1630 against 1.1613, up 0.15% on 9 September - a smaller move than the yen's 0.44% or the ringgit's 0.18% the same day.",
+     "No Kenanga view accompanies it. The 10 September bundle carries only the SCIENTX Results Note and no Economic Viewpoint, so the most recent Kenanga framing of European rates on this board remains the 8 September pair of notes, where the European channel was described as global duration repricing driven by US fiscal concerns rather than as domestic policy."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260910-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The downgrade direction conflicts with Kenanga's own earlier note.</b> This report is headed MARKET PERFORM with a down arrow and says it is 'adjusting our call from OUTPERFORM to MARKET PERFORM', but Kenanga's Plastic Packaging sector update of <a href=\"https://www.kenanga.com.my/wp-content/uploads/2026/07/Plastic-Packaging-260715-3Q26-Strategy-Kenanga.pdf\" target=\"_blank\" rel=\"noopener\">15 July 2026</a> had already downgraded 'SCIENTX (MP, TP: RM3.91) from OUTPERFORM to MARKET PERFORM following share price action' - at the same RM3.91 target. Between the two, the peer tables in Kenanga's own TGUAN and BPPLAS results notes of 27 August show SCIENTEX BHD as OP at RM3.70/RM3.91, and no note upgrading it back to OUTPERFORM was publicly retrievable. The two documents cannot both be right; both are recorded here. (2) <b>The segmental table does not add up in its full-year columns.</b> Packaging plus Property gives FY26 turnover of RM4,813.0m and FY25 of RM4,517.7m - matching the Results Highlights table and the company's own filing - but the Group Turnover row prints RM3,657.9m and RM3,408.3m. The same happens on EBIT: the segments sum to RM881.5m for FY26 and RM742.1m for FY25 against printed group figures of RM677.2m and RM565.2m. The quarterly columns in the same table do reconcile. (3) <b>The Summary Earnings Table's valuation ratios appear struck at a lower share price than the RM3.70 on the cover</b> - Core PER of 8.6x/8.8x/8.5x on core EPS of 40.2/39.4/40.8 sen implies about RM3.46-3.47, and PBV of 1.2x on BVPS of RM2.9 implies about RM3.48, while the page 5 peer table shows 9.4x and 9.1x at RM3.70. That implied price is arithmetic on the report's own numbers and is inferred, not stated. (4) The sum-of-parts table divides by 1,551m paid-up shares while the stock information box gives 1,556.3m shares outstanding, and takes the property segment at RM4,598m against the RM4,602m discounted RNAV computed in the following table. (5) The rating-definition box on page 6 defines OUTPERFORM and OVERWEIGHT as expected total return 'MORE than 1 %', where the same day's Kenanga Today prints 'MORE than 10%'.",
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 3.91,
+   "ticker": "SCIENTX",
+   "name": "Scientex Berhad",
+   "type": "Results Note",
+   "rating": "MP",
+   "tp": 3.91,
+   "price": 3.7,
+   "divYield": 3.26,
+   "high52": 4.0,
+   "low52": 3.06,
+   "mktSrc": "https://stockanalysis.com/quote/klse/SCIENTX/",
+   "catalyst": "Downgraded to MARKET PERFORM from OUTPERFORM after price appreciation, with the sum-of-parts target price held at RM3.91 and no ESG adjustment on a 3-star rating. FY26 core net profit of RM623.1m (+19% YoY) met expectations at 102% of Kenanga's full-year forecast and came in 6% above the street; a 6 sen final dividend takes FY26 to 12 sen against Kenanga's 13 sen forecast. FY27 forecasts are unchanged and FY28F is introduced at 4% earnings growth. Kenanga expects the packaging division's high-base FY26 selling prices to normalise partially as cheaper inventory is used up, on Brent assumed to average USD80 in CY26 and USD74 in CY27.",
+   "quote": "We left our FY27 forecasts unchanged and introduced FY28F forecast with a YoY 4% growth in earnings. Maintain our SoP-derived TP at RM3.91 but adjusting our call from OUTPERFORM to MARKET PERFORM after price appreciation.",
+   "summary": [
+    "The call moved and nothing else did. The target price is held at RM3.91 on an unchanged sum-of-parts, FY27 forecasts are unchanged, FY28F is introduced at 4% growth, and there is no ESG adjustment on a 3-star rating - the stated reason for the downgrade is 'price appreciation' alone. The arithmetic supports the band: at RM3.70 the RM3.91 target is 5.7% upside in the report's own peer table, and with the 3.3% net dividend yield printed beside it the expected total return is about 9%, inside Kenanga's -5% to 10% MARKET PERFORM range. What sits awkwardly is the direction. Kenanga's 15 July sector update had already downgraded SCIENTX to MARKET PERFORM at the same RM3.91 target and at a higher last price of RM3.75, while its 27 August peer tables showed the stock as OP again. Both readings are recorded in this row's data-quality note rather than one being chosen.",
+    "The result met Kenanga and beat the street, and the only miss was the dividend. FY26 core net profit of RM623.1m rose 19% YoY on turnover up 7% to RM4,813.0m, making up 102% of Kenanga's full-year forecast and coming in 6% above consensus - the Summary Earnings Table shows consensus net profit of RM590.2m for the year. The fourth quarter carried it: 4QFY26 revenue of RM1,404.2m and core net profit of RM203.3m, up 26% and 44% QoQ, with the CNP margin at 14.5% against 12.6% in both 3QFY26 and 4QFY25. The 6 sen final dividend takes the year to 12 sen, below Kenanga's 13 sen forecast. Read the forward years the other way round, though: Kenanga's FY27F and FY28F core net profit of RM610.5m and RM632.7m sit below the consensus net profit of RM637.5m and RM667.6m printed in the same table, and its own core EPS growth line shows -2.0% for FY27 before +3.6% in FY28.",
+    "Packaging is where the earnings moved and where the risk to them sits. FY26 packaging EBIT of RM257.4m was 72% higher YoY and the segment's EBIT margin expanded to 9.9% from 6.0%, on higher average selling prices following the surge in raw material prices since the Middle East conflict began in late February 2026, combined with cheaper inventory bought earlier; plant utilisation edged up to 61% from 60%. Kenanga's own framing is that this is a high base: it expects the segment to normalise in FY27, partially offset by firm demand, and its oil assumption is Brent averaging USD80 in CY26 and USD74 in CY27 - unchanged from its 15 July sector note - on the view that prices will not return to pre-conflict levels even if the conflict de-escalates. Against that assumption, the spot print in the same day's Kenanga Today is USD96.1/bbl, though that is Nymex crude on a single day rather than a Brent annual average, so the two are not directly comparable. Separately, completed solar PV installation at 10 Malaysian plants is stated to save about RM10m a year from FY26.",
+    "Property is the smaller revenue line but carries three-quarters of the valuation. Of the RM6,066m sum-of-parts, property contributes RM4,598m at a 50% discount to RNAV - about 76% of the total, computed here - against RM1,468m for packaging at 8x FY27 PER, which Kenanga places within its 8x-10x sector range and at a discount to SCIENTX's 11x one-year historical average forward PER. Yet packaging supplies about 54% of FY26 turnover. The property numbers themselves are solid but softening at the edges: FY26 revenue up 8% to RM2,202.3m and EBIT up 5% to RM624.1m, with the segment's EBIT margin slipping to 28.3% from 29.1%; launches of RM2.8b against a RM3b target, sales of RM2.4b, a take-up rate of 65% against a 70% historical average, and unbilled sales of RM2.1b (3QFY26: RM1.9b). FY27's launch target is RM2.8b of GDV, with 1,100 acres of remaining land bank positioned against the Johor-Singapore SEZ and a possible move into Sarawak.",
+    "The conviction language here is an investment case, not a pick - which is why this row reads None stated. The report says 'We like SCIENTX for its competitiveness in the global plastic packaging industry thanks to its scale advantage, low-cost structure... and continuous strong traction in the affordable housing segment', and that paragraph ends by adjusting the call to MARKET PERFORM. Kenanga's own picks in this sector are elsewhere and are named as such: its 15 July sector update maintains 'TGUAN (OP, TP: RM1.73) and BPPLAS (OP, TP: RM0.87) as our sector picks of which we have sole coverage', and both carry verified rows on this board's 27 August date. Two further details from the report: the average USD-MYR rate strengthened about 2% in 4QFY26 to RM4.04 from RM3.95, giving favourable translation for an exporter - and the same day's digest prints USD/MYR at 4.0695, above that quarterly average - while the stated risks are volatile resin prices, weak packaging demand in a prolonged global downturn, and an aggressive government roll-out of affordable housing schemes intensifying competition."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "TA Securities",
+    "date": "11 Jun 2026",
+    "opp": true,
+    "note": "<b>Read the date gap first.</b> The latest non-Kenanga notes on Scientex that could actually be retrieved and read are the 3QFY26 round published on <b>10-11 June 2026</b> - three months before the Kenanga note beside them, and before the FY26 results this row covers. They are readable because Scientex posts them itself on its investor-relations page; at the time of this run, the FY26 round had not yet been posted there. Of the nine houses this board searches, three yielded a dated, retrievable call: <b>TA Securities</b> - BUY, target price RM4.82 on a sum-of-parts, at a last traded RM3.61 (11 June); <b>Affin Hwang Investment Bank</b> - BUY maintained with the target price raised to RM4.35 after rolling its valuation base forward (10 June); and <b>RHB Investment Bank</b> - NEUTRAL maintained, target price RM3.60, which it put at 0% downside from RM3.61 (11 June), the one house of the three pointing the same way as Kenanga. Outside the nine, <b>Nomura</b> had Buy with a MYR4.13 target and <b>BIMB Securities</b> BUY at RM3.91 - the same target Kenanga carries. CIMB Securities, Maybank Investment Bank, AmInvestment Bank, Hong Leong Investment Bank, Public Investment Bank and MIDF did not yield a publicly retrievable call. <b>None of the five used pick language</b> - no top pick, sector pick, preferred or most attractive - so this row's Analyst Signal reads <b>None stated</b>. <b>The divergence marker is set</b> on TA Securities' and Affin Hwang's BUY calls against Kenanga's MARKET PERFORM: both are named, dated and read from the notes themselves rather than inferred from prices - but both predate the FY26 results, and that is the caveat to carry. <b>One newer source exists and is deliberately not quoted.</b> Business Today published 'Analysts Stay Bullish On Scientex After Record FY26' on 10 September 2026, the same day as the Kenanga note; every attempt to retrieve it during this run returned HTTP 403 from the site's bot protection, so the revised target prices it reports are not reproduced here as figures. The link is given below so a reader can open it directly.",
+    "cites": [
+     [
+      "Scientex Berhad investor relations, 11 Jun 2026 &mdash; TA Securities Results Update (BUY, TP RM4.82)",
+      "https://scientex.com.my/wp-content/uploads/2026/06/260611_Scientex_TA-Securities_3Q26.pdf"
+     ],
+     [
+      "Scientex Berhad investor relations, 10 Jun 2026 &mdash; Affin Hwang Result Note (BUY, TP RM4.35)",
+      "https://scientex.com.my/wp-content/uploads/2026/06/260610_Scientex_AffinHwang_3Q26.pdf"
+     ],
+     [
+      "Scientex Berhad investor relations, 11 Jun 2026 &mdash; RHB Results Review (NEUTRAL, TP MYR3.60)",
+      "https://scientex.com.my/wp-content/uploads/2026/06/260611_Scientex_RHB__3Q26.pdf"
+     ],
+     [
+      "Scientex Berhad investor relations, 11 Jun 2026 &mdash; Nomura Equity Materials (Buy, TP MYR4.13)",
+      "https://scientex.com.my/wp-content/uploads/2026/06/260611_Scientex_Nomura_3Q26.pdf"
+     ],
+     [
+      "Scientex Berhad investor relations, 11 Jun 2026 &mdash; BIMB Securities Company Update (BUY, TP RM3.91)",
+      "https://scientex.com.my/wp-content/uploads/2026/06/260611_Scientex_BIMBSec_3Q26.pdf"
+     ],
+     [
+      "Business Today, 10 Sep 2026 &mdash; &lsquo;Analysts Stay Bullish On Scientex After Record FY26, Packaging Margins Drive Earnings&rsquo; (not retrievable this run &mdash; HTTP 403)",
+      "https://www.businesstoday.com.my/2026/09/10/analysts-stay-bullish-on-scientex-after-record-fy26-packaging-margins-drive-earnings/"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/SCIENTX-260910-FY26-RN-Kenanga.pdf"
+  }
+ ]
+}

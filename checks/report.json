@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09T19:10:56.777Z",
+ "generatedAt": "2026-09-10T05:49:52.578Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -11,10 +11,11 @@
   "2026-09-04",
   "2026-09-07",
   "2026-09-08",
-  "2026-09-09"
+  "2026-09-09",
+  "2026-09-10"
  ],
- "rows": 92,
- "verified": 91,
+ "rows": 93,
+ "verified": 92,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -149,6 +150,12 @@
    "date": "2026-09-09",
    "row": "KPJ",
    "msg": "Three internal inconsistencies inside this single PDF are reported here as printed rather than resolved. (1) Page 1 says the officer-in-charge 'will carry out the 5-year plan already set out in motion' while page 2 says the interim head 'will complete some of the 3-year plan already set out in motion'; the strategy is elsewhere described as spanning 2026-2030, which is five years. (2) Page 1 gives current total bed capacity as '~4,000' in one sentence and, in the next, sets the FY26 target as a 4%-5% increase 'from 3,900 beds'. (3) The Summary Earnings Table shows EV/EBITDA of 11.4x for FY26F and 10.4x for FY27F, while the Peers Table in the same document shows KPJ HEALTHCARE at 16.3x one-year forward and 15.2x two-year forward - a difference of about 45% on a metric of the same name, which the report does not reconcile. Separately, the 52-week range in Kenanga's own stock-information box (H RM3.52, L RM2.37) differs slightly from the market data used in this row's range columns (stockanalysis.com: RM3.53 / RM2.34)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-10",
+   "row": "SCIENTX",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The downgrade direction conflicts with Kenanga's own earlier note.</b> This report is headed MARKET PERFORM with a down arrow and says it is 'adjusting our call from OUTPERFORM to MARKET PERFORM', but Kenanga's Plastic Packaging sector update of <a href=\"https://www.kenanga.com.my/wp-content/uploads/2026/07/Plastic-Packaging-260715-3Q26-Strategy-Kenanga.pdf\" target=\"_blank\" rel=\"noopener\">15 July 2026</a> had already downgraded 'SCIENTX (MP, TP: RM3.91) from OUTPERFORM to MARKET PERFORM following share price action' - at the same RM3.91 target. Between the two, the peer tables in Kenanga's own TGUAN and BPPLAS results notes of 27 August show SCIENTEX BHD as OP at RM3.70/RM3.91, and no note upgrading it back to OUTPERFORM was publicly retrievable. The two documents cannot both be right; both are recorded here. (2) <b>The segmental table does not add up in its full-year columns.</b> Packaging plus Property gives FY26 turnover of RM4,813.0m and FY25 of RM4,517.7m - matching the Results Highlights table and the company's own filing - but the Group Turnover row prints RM3,657.9m and RM3,408.3m. The same happens on EBIT: the segments sum to RM881.5m for FY26 and RM742.1m for FY25 against printed group figures of RM677.2m and RM565.2m. The quarterly columns in the same table do reconcile. (3) <b>The Summary Earnings Table's valuation ratios appear struck at a lower share price than the RM3.70 on the cover</b> - Core PER of 8.6x/8.8x/8.5x on core EPS of 40.2/39.4/40.8 sen implies about RM3.46-3.47, and PBV of 1.2x on BVPS of RM2.9 implies about RM3.48, while the page 5 peer table shows 9.4x and 9.1x at RM3.70. That implied price is arithmetic on the report's own numbers and is inferred, not stated. (4) The sum-of-parts table divides by 1,551m paid-up shares while the stock information box gives 1,556.3m shares outstanding, and takes the property segment at RM4,598m against the RM4,602m discounted RNAV computed in the following table. (5) The rating-definition box on page 6 defines OUTPERFORM and OVERWEIGHT as expected total return 'MORE than 1 %', where the same day's Kenanga Today prints 'MORE than 10%'."
   }
  ],
  "verdict": "PASS"
