@@ -1,0 +1,325 @@
+{
+ "date": "2026-09-11",
+ "schema": 1,
+ "daily": {
+  "klci": 1705.5,
+  "chg": -8.82,
+  "pct": -0.51,
+  "inst": 15.9,
+  "instPct": 38.3,
+  "retail": -3.5,
+  "retailPct": 31.0,
+  "foreign": -12.5,
+  "foreignPct": 30.7,
+  "ideas": "Sector Update: Plantation; Initiate Coverage: AMBEST; Results Note: BAUTO; Rating Summary; Economic Viewpoint: Bond Market Weekly Outlook, Ringgit Weekly Outlook",
+  "news": [
+   {
+    "h": "AME Elite to acquire 176.5-acre Pontian land for RM199.8m",
+    "body": "AME Elite Consortium Bhd has entered into an agreement to purchase four parcels of freehold land spanning 176.5 acres in Mukim Jeram Batu, Pontian, within the Johor-Singapore Special Economic Zone (JS-SEZ), for RM199.8m. The land will be developed into an industrial area. The company said no detailed development plans have been submitted, so it is too early to determine the project's timeline, gross development value, development costs, expected profits or funding sources. (The Edge Malaysia)",
+    "takeaways": [
+     "The land is priced at roughly RM1.13m an acre - RM199.8m over 176.5 acres. That is arithmetic on the digest's own two figures; no per-acre price is printed, and no comparable transaction is given against which to judge it.",
+     "The company itself rules out sizing the project, and names five unknowns in a single sentence: with no detailed development plans submitted, it says it is too early to determine the timeline, gross development value, development costs, expected profits or funding sources. With funding unstated, the RM199.8m cannot be placed against AME Elite's balance sheet from this item either.",
+     "What is definite is the location and the tenure: four freehold parcels in Mukim Jeram Batu, Pontian, inside the Johor-Singapore Special Economic Zone, to be developed into an industrial area. The JS-SEZ framing is the whole of the investment case as the digest presents it.",
+     "Johor runs through three of this edition's five corporate items - this Pontian purchase, Paragon Globe's RM45.2m Johor data-centre earthworks contract, and Cape EMS's battery-storage assembly at its Senai plant. The digest groups none of them, and no macro item in the same edition mentions the JS-SEZ.",
+     "The JS-SEZ also appeared on this board a day earlier at company level: Kenanga's 10 September SCIENTX note positioned 1,100 acres of remaining land bank against it. No report in the 11 September bundle covers AME Elite, industrial property or Johor - the day's reports are a Plantation sector update, an AMBEST initiation and a BAUTO results note."
+    ]
+   },
+   {
+    "h": "Paragon Globe secures RM45.2m contract for Johor data centre development",
+    "body": "Paragon Globe Bhd said it has secured a contract worth RM45.2m to undertake earthworks and retaining walls for a data centre development in Johor. The Johor-based property developer said the contract was awarded by a data centre operator but did not name the firm. The works, to be carried out by its wholly-owned unit PGBG Construction Sdn Bhd, are targeted for completion by the fourth quarter of 2026, said Paragon Globe. (The Edge Malaysia)",
+    "takeaways": [
+     "The scope is the earliest and least specialised stage of a data-centre build: earthworks and retaining walls. Nothing in the award touches the facility itself - no power, cooling, fit-out or IT scope is mentioned - so the RM45.2m is site preparation, not data-centre equipment.",
+     "The client is withheld. The digest says only that the contract was awarded by a data centre operator and that Paragon Globe did not name the firm, so there is no way to size the parent project or judge counterparty risk from the retrieved source.",
+     "The timeline is unusually short for the money: completion is targeted by the fourth quarter of 2026, within roughly four months of this edition, which concentrates whatever revenue is recognised into a very narrow window.",
+     "Paragon Globe is described as a Johor-based property developer and the work goes to wholly owned PGBG Construction Sdn Bhd - a developer taking third-party construction work rather than building its own product.",
+     "It is the second data-centre-linked award on this board in four sessions, after CBH Engineering's RM88.1m Selangor data-centre landing station on 8 September, and sits mid-range among the week's construction awards: RM45.2m against LFE Corp's RM23.9m (10 September), HE Group's RM25.0m in this same edition, CBH's RM88.1m, TRC Synergy's RM150m and NCT Alliance's RM2.5b (both 9 September). No report in the 11 September bundle covers Paragon Globe, construction or data centres."
+    ]
+   },
+   {
+    "h": "HE Group bags RM25.0m power distribution system works for NAND flash manufacturer",
+    "body": "HE Group Bhd has secured a purchase order worth an estimated RM25.0m for power distribution system works for a manufacturer of NAND flash memory products in Malaysia. The electrical engineering services provider said its wholly-owned subsidiary Hexatech Engineering Sdn Bhd accepted the purchase order on Thursday. The unnamed customer is involved in the assembly, testing and packing of NAND flash memory products. The project commenced upon acceptance of the purchase order and is expected to be completed within 20 weeks, said the group. (The Edge Malaysia)",
+    "takeaways": [
+     "It is a purchase order, not a contract, and the value is explicitly an estimate - 'an estimated RM25.0m'. That leaves the headline figure free to move with scope, and no margin, payment terms or renewal expectation are disclosed.",
+     "The duration is stated and short: work commenced on acceptance of the order, dated Thursday - 10 September - and is expected to complete within 20 weeks, so almost all of it falls inside the next two quarters.",
+     "The customer is unnamed and described only by activity: a manufacturer involved in the assembly, testing and packing of NAND flash memory products in Malaysia. That is back-end semiconductor work, not wafer fabrication.",
+     "That distinction matters against the day's own initiation, and the digest does not draw it. Kenanga's AMBEST note argues the spending is in front-end wafer-fab equipment, forecasting ex-China WFE capex growth of about 46%/41%/17% in 2026/27/28F; HE Group's customer sits at the opposite, back-end end of the same chain. Both are Malaysian semiconductor capex, but they are not the same cycle.",
+     "The recipient is wholly owned Hexatech Engineering Sdn Bhd and the parent is described as an electrical engineering services provider, so this is contracted electrical work rather than equipment supply. No report in the 11 September bundle covers HE Group, electrical engineering or semiconductor back-end services."
+    ]
+   },
+   {
+    "h": "Cape EMS partners Helios to distribute residential battery energy storage systems in Europe, Asia-Pacific",
+    "body": "Cape EMS Bhd has teamed up with Singapore-based Helios PV (Asia Pacific) Pte Ltd to distribute Malaysian-assembled residential battery energy storage systems (BESS) in Europe and Asia-Pacific. Cape EMS said its wholly owned unit Cape Renewables Sdn Bhd will use its manufacturing facility in Senai, Johor to handle the sourcing, localisation, system integration, assembly, and supply of the residential BESS solutions. Helios, which has more than 15 years of experience in solar system integration, will be responsible for market development, importation, distribution and first-level customer support, said Cape EMS in a statement. (The Edge Malaysia)",
+    "takeaways": [
+     "The division of labour is the clearest thing in the item. Cape Renewables Sdn Bhd takes sourcing, localisation, system integration, assembly and supply from the Senai, Johor plant; Helios PV (Asia Pacific) Pte Ltd takes market development, importation, distribution and first-level customer support. Cape EMS makes, Helios sells.",
+     "Nothing is sized. No contract value, unit volume, duration, exclusivity, minimum offtake or start date appears, so the arrangement cannot be converted into revenue from the retrieved source.",
+     "'Malaysian-assembled' is the commercial pitch rather than an incidental detail - assembly and localisation in Malaysia for export into Europe and Asia-Pacific, at a moment when supply-chain origin is itself a selling point.",
+     "The credential given is Helios's, not Cape EMS's: more than 15 years in solar system integration. Nothing is stated about Cape EMS's prior track record in battery storage, and Helios is described as Singapore-based rather than as a presence in the European market it is meant to open.",
+     "The energy backdrop in this same edition is the strongest single-day move in it - Nymex crude at USD102.5/bbl, up 6.69% on 10 September - alongside the Houthi seizure of Mocha threatening global energy flows and an ECB rate rise driven by energy inflation. Residential storage demand runs off exactly that, though the digest connects none of them and no report in the 11 September bundle covers Cape EMS or energy storage."
+    ]
+   },
+   {
+    "h": "Newly appointed chairman Syed Azman raises stake in HHRG",
+    "body": "HHRG Bhd's newly appointed executive chairman has raised his stake in the biomass company by acquiring a 0.4% stake. He bought the stake, comprising 4.7m shares, on Sept 9 at 18.15 sen apiece, for a total of RM857,333. The purchase price represented a 3.7% premium to HHRG's closing price of 17.5 sen on Sept 9. Following the transaction, his stake in HHRG stood at 3.2%, still below the 5.0% threshold to be deemed a substantial shareholder. (The Edge Malaysia)",
+    "takeaways": [
+     "He paid above market. The 18.15 sen entry is a 3.7% premium to the 17.5 sen close on the same day, Sept 9 - the opposite of ordinary on-market accumulation, and the item gives no reason for it.",
+     "The figures reconcile once the rounding is unwound: RM857,333 at 18.15 sen implies 4,723,600 shares, which is the '4.7m' as printed; 4.7236m shares representing 0.4% implies roughly 1.18b shares in issue. Both are derived here, not disclosed.",
+     "The purchase deliberately stops short of a threshold. The stake rose to 3.2%, which the item itself notes is still below the 5.0% level at which he would be deemed a substantial shareholder - so no substantial-shareholder disclosure obligation is triggered.",
+     "The amounts are small in absolute terms. RM857,333 buys 0.4%, and the whole 3.2% holding is worth roughly RM6.9m at the same 18.15 sen - arithmetic on the digest's own numbers rather than a stated figure.",
+     "The digest is inconsistent with itself on the name: the News Highlights line on page 1 reads 'Newly appointed chairman Syed Azman raises stake in HHRG', while the Corporate News body never repeats the name and refers only to 'HHRG Bhd's newly appointed executive chairman'. Reproduced as printed. HHRG is described as a biomass company; no report in the 11 September bundle covers it or the sector."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "South Korea nears agreement worth over USD100.0b in US investments, WSJ reports",
+    "region": "Global",
+    "body": "The South Korean government is preparing to announce a major energy investment project in the United States worth more than USD100.0b aimed at boosting artificial intelligence build-out, the Wall Street Journal reported on Thursday. (The Edge Malaysia)",
+    "takeaways": [
+     "Nothing has been announced yet. The government is 'preparing to announce', and 'more than USD100.0b' is a floor rather than a total, so both the existence and the size of the commitment are still open.",
+     "The category is energy, not semiconductors: a major energy investment project in the United States, aimed at boosting artificial-intelligence build-out. The bottleneck being addressed is power for data centres.",
+     "The sourcing is second-hand and dated to Thursday - 10 September - attributed to the Wall Street Journal and carried here via The Edge Malaysia. No counterparties, financing structure, US state or timetable is named.",
+     "It is the top of the same chain the day's AMBEST initiation is built on. Kenanga's note projects the top four hyperscalers' combined capex rising 97%/31% in 2026/2027 to USD686b/USD898b, and cites LAM Research's estimate that every additional USD100b of AI data-centre investment is associated with around USD8b of incremental wafer-fab equipment spending. Applied to this item's USD100b floor, that ratio would imply roughly USD8b of WFE spend - arithmetic on the report's own stated ratio, applied here to a figure neither document connects to the other.",
+     "It is one of only two Global items in this edition's ten macro bits, the other being the Houthi seizure of Mocha. Five of the ten are Malaysian, and none of those five is an economic data release with a headline growth rate attached."
+    ]
+   },
+   {
+    "h": "Houthis seize key Yemeni Red Sea port, threatening global energy flows",
+    "region": "Global",
+    "body": "Iran-aligned Houthi militants seized control of Yemen's port city of Mocha on Thursday, military sources said, posing a further threat to global energy supplies hours after President Donald Trump said he expected the war to end after mid-term elections. (Reuters, via The Edge Malaysia)",
+    "takeaways": [
+     "The oil move in the same edition is the largest single-day change of any price printed in it: Nymex crude at USD102.5/bbl, up 6.69% on 10 September. It follows a 3.25% gain to USD96.1 the session before, recorded on this board's 10 September date - two consecutive sharp advances, and the first print above USD100 carried in these pages.",
+     "The item's own internal tension is the timing: the seizure came 'hours after President Donald Trump said he expected the war to end after mid-term elections'. The political expectation and the facts on the ground moved in opposite directions within the same day.",
+     "The attribution is thin by the digest's usual standard - 'military sources said' - and the item names no tonnage, no shipping lane volume and no specific energy flow, so the phrase 'threatening global energy flows' is not quantified anywhere in the retrieved source.",
+     "It feeds directly into the day's Plantation update, one step removed. Kenanga names 'higher bio-diesel demand from the ongoing Middle East conflict and Black Sea shipping disruption of Ukrainian sunflower exports' among the supports for elevated palm oil prices - a higher crude price strengthens exactly that substitution channel. Kenanga nonetheless left its CY26/CY27 CPO assumptions unchanged at RM4,500/RM4,700 per MT.",
+     "There is no Kenanga house view on energy in this edition: the 11 September bundle carries the digest plus three reports and no Economic Viewpoint. The BAUTO note lists 'escalating input costs' among its four stated risks but attributes none of them to energy."
+    ]
+   },
+   {
+    "h": "Anwar to hold high-level meetings with Modi, Putin during BRICS summit visit in India",
+    "region": "Malaysia",
+    "body": "Prime Minister Datuk Seri Anwar Ibrahim is set to engage in high-level bilateral meetings with Indian Prime Minister Narendra Modi and Russian President Vladimir Putin during his working visit to the Indian capital for the 18th BRICS Summit this weekend. (The Malaysian Reserve)",
+    "takeaways": [
+     "It is an itinerary, not an outcome. Bilateral meetings are scheduled; no agreement, memorandum, trade figure or deliverable is named, and the item does not say what either meeting is about.",
+     "Both counterparties are named - Indian Prime Minister Narendra Modi and Russian President Vladimir Putin - and the occasion is the 18th BRICS Summit in the Indian capital, described as taking place 'this weekend', immediately after this edition.",
+     "Malaysia's own status at the summit is not stated in the item: it says nothing about whether Malaysia attends as a member, partner or guest, which is the detail that would determine what the visit can produce.",
+     "This is one of only two items in this edition sourced to The Malaysian Reserve; the other eight macro bits are attributed to The Edge Malaysia, with the Houthi item carrying a Reuters byline in its headline.",
+     "Nothing in the 11 September bundle speaks to BRICS, India or Russia. With no Economic Viewpoint published in this bundle, the most recent Kenanga macro notes on this board remain the 8 September pair - BNM International Reserves and Malaysia Bond Flows."
+    ]
+   },
+   {
+    "h": "Mitra launches seven initiatives worth RM59.76m to empower Indian community",
+    "region": "Malaysia",
+    "body": "The Malaysian Indian Transformation Unit (Mitra) has launched seven new initiatives worth RM59.76m to strengthen human capital, economic empowerment and socio-spiritual development among the Indian community, particularly those in the B40 (Bottom 40% income) and M40 groups. (The Edge Malaysia)",
+    "takeaways": [
+     "RM59.76m across seven initiatives averages about RM8.5m each, but the item gives no split, so the true distribution could be anything - the average is arithmetic here, not a disclosure.",
+     "Three objectives are named - human capital, economic empowerment and socio-spiritual development - and two target groups, B40 and M40, with B40 defined in the item itself as the bottom 40% by income.",
+     "What is missing is everything operational: no timeline, no disbursement schedule, no beneficiary count, no delivery agency beyond Mitra itself, and no statement of whether this is new money or a reallocation.",
+     "For scale within this edition, RM59.76m is larger than two of the five corporate transactions reported alongside it - Paragon Globe's RM45.2m contract and HE Group's RM25.0m purchase order - and smaller than AME Elite's RM199.8m land purchase. That comparison is computed here, and it measures announcement size only: a government programme and a commercial contract are not comparable in substance.",
+     "It is the second of this edition's five Malaysian macro items to be a spending or policy announcement rather than a data release, alongside the Digital Ministry's Budget 2027 proposal. No report in the 11 September bundle carries a Kenanga view on fiscal policy."
+    ]
+   },
+   {
+    "h": "Malaysia flags growing property overhang amid slowing transactions in 1H2026",
+    "region": "Malaysia",
+    "body": "Unsold affordable and mid-priced homes are making up an increasing share of Malaysia's growing property overhang, the government said. (The Edge Malaysia)",
+    "takeaways": [
+     "There is not a single number in the item. The overhang is 'growing' and transactions are 'slowing' in 1H2026, with no unit count, no value, no prior-period comparison and no definition of the price bands used - so the deterioration cannot be sized from the retrieved source.",
+     "The composition claim is the substance: unsold affordable and mid-priced homes are taking an increasing share. That places the problem at the lower end of the market rather than in luxury stock, which is where Malaysian overhang commentary has historically sat.",
+     "The attribution is to 'the government' with no ministry, agency or official named, and no underlying release cited.",
+     "It lands squarely on a stock this board carries. Kenanga's 10 September SCIENTX note put the property division's FY26 launches at RM2.8b against a RM3b target, sales at RM2.4b, and the take-up rate at 65% against a 70% historical average - and named an aggressive government roll-out of affordable housing schemes intensifying competition among its stated risks. SCIENTX's segment is affordable housing, the exact band this item identifies.",
+     "The same edition's price tables point both ways on property: IOI Properties at RM3.89 is among the day's top gainers, up 1.0%, while Sunway at RM4.73 is among the top losers, down 1.5%. No report in the 11 September bundle covers property or construction."
+    ]
+   },
+   {
+    "h": "DOSM: Building Cost Index falls in Peninsular Malaysia, rises in Sabah and Sarawak in August",
+    "region": "Malaysia",
+    "body": "The Building Cost Index (BCI) with steel bars declined by between 0.1 per cent and 1.1 per cent across building categories and regions in Peninsular Malaysia in August 2026 compared with the previous month, said the Department of Statistics Malaysia (DOSM). (The Malaysian Reserve)",
+    "takeaways": [
+     "Only half the headline is quantified. The Peninsular decline is given as a range of 0.1% to 1.1% month on month across building categories and regions; the rise in Sabah and Sarawak appears in the headline but carries no figure at all in the body.",
+     "'With steel bars' is a specific index variant rather than a general construction-cost measure, so the move describes a particular basket and should not be read as overall building cost inflation.",
+     "A range of 0.1% to 1.1% across categories is wide relative to its own magnitude - the top of the range is eleven times the bottom - which means the aggregate direction is clear but the size of the effect on any single project type is not.",
+     "Set against the construction awards running through this board - Paragon Globe's RM45.2m and HE Group's RM25.0m in this edition, LFE Corp's RM23.9m on 10 September, TRC Synergy's RM150m and NCT Alliance's RM2.5b on 9 September - a monthly move of at most 1.1% is too small to move any of them materially. The digest draws no link.",
+     "This is the second of the two items in this edition sourced to The Malaysian Reserve. The 11 September bundle contains no Economic Viewpoint, so there is no Kenanga read on Malaysian input costs here."
+    ]
+   },
+   {
+    "h": "Digital Ministry seeks incentives to help small businesses adopt technology",
+    "region": "Malaysia",
+    "body": "The Digital Ministry has proposed to the Finance Ministry that Budget 2027 include incentives to encourage small businesses adopt technology. Minister Gobind Singh Deo said the measure was aimed at helping small businesses adopt technology to reduce the cost of essential equipment and digital applications. (The Edge Malaysia)",
+    "takeaways": [
+     "It is one ministry asking another, not a decision. The Digital Ministry has proposed that Budget 2027 include incentives; the Finance Ministry holds the outcome, and the item reports no response from it.",
+     "The stated aim is cost reduction for essential equipment and digital applications, but no instrument is named - no tax deduction, grant, matching scheme or threshold - and no amount is attached.",
+     "Minister Gobind Singh Deo is named as the source, which dates and attributes the ask even though the measure itself has no date.",
+     "Budget 2027 is the decision point, and the item states no timetable for it, so the proposal cannot be tracked from the retrieved source beyond knowing it has been made.",
+     "It is the fifth and last of this edition's Malaysian macro items, and the second forward-looking policy ask alongside Mitra's RM59.76m programme. With no Economic Viewpoint in the 11 September bundle, there is no Kenanga view here on Budget 2027; the most recent Kenanga macro notes on this board remain the 8 September pair."
+    ]
+   },
+   {
+    "h": "BOJ policymaker warns of price risks that may trigger rapid rate hikes",
+    "region": "Asia Pacific",
+    "body": "The Bank of Japan (BOJ) may eventually be forced to raise interest rates rapidly if inflation accelerates given the country's loose financial conditions, board member Kazuyuki Masu said, warning of price risks that solidify the chance of a September hike. (The Edge Malaysia)",
+    "takeaways": [
+     "The warning is about pace, not level, and it is conditional: the BOJ 'may eventually be forced' to raise rates rapidly if inflation accelerates, given loose financial conditions. No rate, forecast or increment appears anywhere in the item.",
+     "The speaker is named - board member Kazuyuki Masu - and the item states the remarks 'solidify the chance of a September hike', which is as close to a timetable as it gets.",
+     "The yen moved the other way on the session this edition reports: USD/YEN at 154.08 against 153.56, a 0.34% weakening of the yen on 10 September and the largest move in the edition's six-pair currency table.",
+     "That currency direction is what makes this a company story today. Kenanga's BAUTO note states the group 'has benefitted from the weakened of JPY against MYR' as it shifts its Mazda mix towards CBU - a 70%/30% CBU/CKD split against 50%/50% in FY26 - and lists 'MYR weakens against JPY' as the fourth of its four stated risks. A BOJ forced into rapid tightening is the mechanism that would turn that stated risk live; the digest draws no such link.",
+     "It is the only Asia Pacific item in this edition and, together with the ECB decision, one of two central-bank items - a tightening warning in Tokyo and a delivered increase in Frankfurt, both driven by inflation the respective items attribute to energy or to loose conditions rather than to demand."
+    ]
+   },
+   {
+    "h": "US producer prices increase as expected in August",
+    "region": "Americas",
+    "body": "US producer prices increased in line with expectations in August amid a rebound in the cost of energy products. The producer price index for final demand rose 0.4% last month after an upwardly revised 0.1% gain in July, the Labor Department's Bureau of Labor Statistics said on Thursday. (The Edge Malaysia)",
+    "takeaways": [
+     "This is the only macro item in the edition that carries hard numbers: the producer price index for final demand rose 0.4% in August, after an upwardly revised 0.1% gain in July - a fourfold acceleration month on month.",
+     "'As expected' is doing the work in the headline. The print matched expectations, so on its own it changes nothing about rate expectations, however large the month-on-month acceleration looks.",
+     "The stated driver is a rebound in the cost of energy products - the same channel as the Houthi item and the ECB's fuel-price warning in this edition, and consistent with Nymex crude's 6.69% jump printed on the same page.",
+     "US equities fell on the session this edition reports, and broadly: Dow Jones -0.60%, S&P 500 -0.58%, Nasdaq -0.65%, with the FTSE-100 -0.57% and the Hang Seng the weakest major index at -1.27%.",
+     "The ringgit firmed slightly against the dollar in the same session - USD/MYR 4.0650 from 4.0695, a 0.11% move. There is no Kenanga framing of the US rate channel in this bundle; the most recent on this board is the 8 September reserves note, which argued that US rate expectations rather than energy prices set the dollar's direction."
+    ]
+   },
+   {
+    "h": "ECB raises interest rates as Iran war fans inflation fears",
+    "region": "Europe",
+    "body": "The European Central Bank raised interest rates on Thursday for the second time this year, seeking to quell an energy-driven rise in inflation triggered by the Iran war even as it warned that fuel prices could move higher. (The Edge Malaysia)",
+    "takeaways": [
+     "This is the decision, one edition after the expectation. This board's 10 September date carried a Reuters item saying the ECB 'looks set to' raise rates on Thursday for the second time this year; here it has done so. The forecast and the outcome match.",
+     "Neither edition gives a size. The 10 September item did not state an expected increment and today's confirmation does not state the actual one, so the move is directional only in the retrieved sources.",
+     "The cause is imported and unchanged: an energy-driven rise in inflation triggered by the Iran war. The new element is the accompanying warning that fuel prices could move higher - a central bank signalling that the shock it is responding to may not have peaked.",
+     "The euro barely registered it. EUR/USD closed at 1.1628 against 1.1630, a 0.02% move on 10 September - the smallest change in the edition's currency table, and smaller than the 0.15% gain the euro posted the previous session.",
+     "The energy thread ties this edition together - the ECB's fuel warning, US producer prices lifted by energy, the Houthi seizure of Mocha, and Nymex crude at USD102.5/bbl - while the 11 September bundle carries no Economic Viewpoint through which Kenanga places a house view on any of it."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260911-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>The same number is used for two different things.</b> The commentary says &lsquo;exceptional sales were recorded in Malaysia at 3,433 units (+58%) which offset the weaker Philippines at 263 units (-43%)&rsquo;, while the Unit Sales table gives 3,433 as the <i>group</i> total for 1QFY27 (Mazda 3,024 + Xpeng 409 + Kia nil) against 2,638 a year earlier, +30%. The two readings cannot both hold: a Malaysia-only 3,433 at +58% implies about 2,173 a year earlier, and adding the 263 Philippines units would put the group at 3,696 rather than 3,433. (2) <b>The peer table's market capitalisation does not match the cover.</b> The stock information box prints RM1,051.7m on 1,130.8m shares outstanding, which is what RM0.930 &times; 1,130.8m gives; the page 4 peer table prints RM1,079.7m for the same stock in the same document. The RM1,051.7m figure is the one the report's own share count supports - that reconciliation is computed here, not stated. (3) <b>The dividend yield is quoted three ways.</b> The cover and the investment case both say &lsquo;attractive dividend yield of about 11%&rsquo;, while the Summary Earnings Table prints FY27F Net Div. Yield of 10.5% and the peer table the same 10.5%; the trailing yield on the market-data source used for this row's yield column is 9.14%. (4) The peer table shows BAUTO's Current FYE as 04/2026 although the note reports 1QFY27 and forecasts FY27-FY28, and Kenanga's 52-week range (H RM1.10 / L RM0.49) differs slightly from the RM1.12 / RM0.50 on the market-data source feeding this row's range columns.",
+   "result": "beat",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 1.22,
+   "ticker": "BAUTO",
+   "name": "Bermaz Auto Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 1.3,
+   "price": 0.93,
+   "divYield": 9.14,
+   "high52": 1.12,
+   "low52": 0.5,
+   "mktSrc": "https://stockanalysis.com/quote/klse/BAUTO/",
+   "catalyst": "OUTPERFORM reiterated after a 1QFY27 beat, with FY27 and FY28 net profit forecasts each raised 6% and the target price lifted 7% to RM1.30 from RM1.22 on an unchanged 9x CY27F PER - a 2x discount to the sector's 11x average forward PER and the same discount to BAUTO's own five-year average. No ESG adjustment on a 3-star rating. 1QFY27 core net profit of RM40.5m was 30% of Kenanga's and 32% of consensus full-year estimates, on revenue of RM553.1m (+13% YoY), with a first interim NDPS of 2.0 sen against 0.75 sen a year earlier. The all-new CX-5 CBU, Xpeng X9 and face-lifted Xpeng G6 are expected to drive volume and margins from September/October 2026.",
+   "quote": "We raised FY27 and FY28 net profit forecasts both by 6%, TP by 7% to RM1.30 (from RM1.22) and reiterate OUTPERFORM call. It offers attractive dividend yield of 11%.",
+   "summary": [
+    "The call held and everything beneath it was raised. The cover prints the rating unchanged and the target price up: OUTPERFORM reiterated, FY27 and FY28 net profit forecasts each +6%, and the target price +7% to RM1.30 from RM1.22 on an unchanged 9x CY27F PER, which Kenanga places at a 2x multiple discount to the sector's 11x average forward PER and at the same discount to BAUTO's own five-year average historical PER. There is no ESG adjustment on a 3-star rating. The peer table puts the resulting upside at 39.8% at RM0.930 - the widest of the eight stocks in it - on a one-year forward core PER of 7.6x against a sector aggregate of 10.4x. Kenanga's stated reason for expecting the risk to earnings to subside is regulatory rather than cyclical: stricter barriers to entry for new EV brands, specifically a RM200k CIF price floor for CBU EVs and the localisation policy.",
+    "The beat is large and narrowly based, and the report is explicit about where it came from. 1QFY27 core net profit of RM40.5m made up 30% of Kenanga's and 32% of consensus full-year estimates, on revenue of RM553.1m, +13% YoY and +2% QoQ. The 389% YoY jump rests on three named items: a normalised effective tax rate of 25.8% against 44.0% a year earlier; a sales mix skewed towards the lower-priced but higher-margin Mazda 3 1.5 CBU; and associates swinging to a RM1.1m profit from a RM9.3m loss, itemised as Mazda Malaysia (RM1.0m against -RM0.2m), Inokom (RM0.1m against -RM5.7m) and Kia Malaysia (RM0.03m against -RM3.2m). EBIT rose 90% YoY while PBT rose 195% - the gap between those two is the associate line, and the gap between PBT and the 389% net profit growth is the tax rate. The 2.0 sen first interim NDPS, against 0.75 sen in 1QFY26, also beat.",
+    "Sequentially the quarter was weaker, and the note says why without hedging. Core net profit fell 13% QoQ despite a marginally lower effective tax rate (25.8% against 26.2%), on discounting to clear the outgoing Xpeng G6 ahead of face-lifted variants and lower associate profit of RM1.1m against RM2.3m on seasonally lower production. Margins compressed across every line QoQ: EBIT 9.9% from 11.9%, PBT 10.1% from 12.4%, net profit 7.3% from 8.6%. Unit sales fell 2% QoQ to 3,433, with Mazda down 6% to 3,024, Xpeng up 47% to 409 on stock-clearing, and Kia at nil as it is phased out against 21 units in 4QFY26 and 195 in 1QFY26.",
+    "The upgrade rests on deliveries that had not started when the quarter closed. All three volume drivers Kenanga names - the all-new CX-5 CBU, the all-new Xpeng X9 and the face-lifted Xpeng G6 - are scheduled for September/October 2026, with CX-5 CBU delivery by end-September and CKD only in 2027. The order backlog is 1.7k units against 1.5k a year ago. Two structural supports sit behind that: an 11.54% strategic stake in EP Manufacturing Bhd, the contract assembler for a list of Chinese models including the Xpeng G6 SUV and X9 MPV for which BAUTO holds exclusive dealership and distributorship; and a CBU/CKD mix moving to 70%/30% from 50%/50% in FY26, which the note ties to a weakened yen against the ringgit. Read the Summary Earnings Table against that, though: FY27F revenue of RM2,260.5m is <i>below</i> FY26A's RM2,275.6m while net profit rises 35% to RM141.7m. On Kenanga's own numbers the forecast upgrade is a margin, associate and tax story rather than a volume one - and the FY27F and FY28F net profit of RM141.7m and RM178.4m both sit above the consensus RM127.6m and RM145.7m printed in the same table.",
+    "Why this row reads None stated, and one figure the peer table supplies. The investment case opens &lsquo;We like BAUTO for: (i) its strong near-term earnings visibility backed by a total order backlog of 1.7k units... (ii) its premium mid-market Mazda brand that offers superior margins, and (iii) its attractive dividend yield of about 11%&rsquo; - an investment case, not a pick declaration, so the Kenanga Signal reads None stated under this board's rule; no top pick, sector pick, preferred or most attractive language appears anywhere in the note. Separately, the peer table carries Hong Leong Industries at OUTPERFORM with a RM21.00 target at a last price of RM16.80 - the stock this board's 8 September date carries as an unverified pending row, because no HLIND report was published in that bundle. Those figures are as quoted in this peer table and have not been verified against an HLIND report. The stated risks are consumers cutting back on big-ticket discretionary spending amid high inflation, supply-chain disruptions, escalating input costs, and a weaker MYR against the JPY."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "MBSB Research",
+    "date": "11 Sep 2026",
+    "opp": true,
+    "note": "<b>Five named houses published on the same day as Kenanga</b>, all read from reports dated 11 September 2026. <b>CIMB Securities</b> (analyst Mohd Shanaz Noor Azam) - BUY maintained, target price RM1.25, projecting core net profit growth of 28.3% in FY27 and 7.1% in FY28 on 7-8% sales volume growth, an associate turnaround and favourable forex. <b>RHB Research</b> (Iftaar Hakim Rusli) - upgraded to BUY from NEUTRAL, target price raised to RM1.15 from RM1.00 on an unchanged 8x 2027 PER with a 6% ESG premium, after raising FY27-FY29 earnings by 14.9%, 12.6% and 14.9%; it put 1QFY27 core profit at RM42m, or 33-35% of its own and the street's full-year estimates, and called FY27 an inflection year. <b>Public Investment Bank</b> (Denny Oh) - upgraded to OUTPERFORM from NEUTRAL, target price raised to RM1.28 from RM0.82 on 8x FY28 EPS, after raising FY27-FY29 forecasts by an average of 26%. <b>Hong Leong Investment Bank</b> (Daniel Wong) - BUY maintained, target price RM1.18, FY27 forecast unchanged, FY28 trimmed 0.7% and FY29 introduced at RM137m, while cautioning that the operating environment remains highly competitive against Chinese OEMs. <b>MBSB Research</b> - NEUTRAL maintained, target price RM0.85 unchanged on 8x FY27 PER, estimates held pending the results briefing. <b>Four of the nine houses this board searches</b> yielded a dated, publicly retrievable call - CIMB Securities, RHB, Public Investment Bank and Hong Leong; Maybank Investment Bank, AmInvestment Bank, TA Securities, MIDF and Affin Hwang did not. MBSB Research sits outside those nine. <b>None of the five used pick language</b> - no top pick, sector pick, preferred or most attractive - so this row's Analyst Signal reads <b>None stated</b>. <b>The divergence marker is set</b> on MBSB Research's NEUTRAL against Kenanga's OUTPERFORM: named, dated and read from the reporting of its note rather than inferred from prices. Two same-day discrepancies are worth carrying: Kenanga, RHB and HLIB all put Mazda's order backlog at about 1,700 units, while MBSB is reported as putting Mazda Malaysia's backlog at 17,000 units; and on the quarter's profit, Kenanga's Results Highlights table shows net profit of RM40.5m while RHB describes core profit of RM42m. Both are reproduced as each house reported them rather than reconciled.",
+    "cites": [
+     [
+      "The Edge Malaysia, 11 Sep 2026 &mdash; &lsquo;Analysts see Bermaz Auto&rsquo;s 1Q beat as start of FY2027 recovery&rsquo;",
+      "https://theedgemalaysia.com/node/817640"
+     ],
+     [
+      "The Edge Malaysia via KLSE Screener, 11 Sep 2026 &mdash; full text of the same report (RHB, Public Investment Bank, MBSB)",
+      "https://www.klsescreener.com/v2/news/view/1790299/analysts-see-bermaz-auto-s-1q-beat-as-start-of-fy2027-recovery"
+     ],
+     [
+      "New Straits Times via KLSE Screener, 11 Sep 2026 &mdash; &lsquo;Bermaz Auto set for FY27 earnings rebound on strong Mazda demand&rsquo; (CIMB Securities, RHB, Public Investment Bank, HLIB)",
+      "https://www.klsescreener.com/v2/news/view/1790295/bermaz-auto-set-for-fy27-earnings-rebound-on-strong-mazda-demand"
+     ],
+     [
+      "Business Today, 11 Sep 2026 &mdash; &lsquo;Bermaz Auto Forecast Kept Unchanged Despite Strong 1Q Results&rsquo; (not retrievable this run &mdash; HTTP 403, contents not used)",
+      "https://www.businesstoday.com.my/2026/09/11/bermaz-auto-forecast-kept-unchanged-despite-strong-1q-results/"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/BAUTO-260911-RN-1Q27-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "This is an <b>Initiate Coverage</b> report; it is filed here as a Company Update because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). There is no previous rating or previous target price, by definition. Four points of caution on the figures, reported as printed rather than resolved. (1) <b>The report gives two different sets of WFE-exposure numbers.</b> Page 1 says AMBEST's wafer-fab-equipment exposure is &lsquo;projected to rise from approximately 47% of revenue in FY24 to some 70% by FY26&rsquo;; page 8 says it will be &lsquo;propelled from ~53% in FY2024 to ~76% by FY2027&rsquo;, above an exhibit titled &lsquo;We Estimate Ambest's WFE-Related Order to Account for ~65%/76% of Revenue in FY26/FY27&rsquo;. FY24 appears as both 47% and 53%, FY26 as both 70% and 65%. The Edge Malaysia's 11 September report of this note carries the page-1 pair. (2) <b>The financial year-end is labelled two ways.</b> The front Summary Earnings Table says &lsquo;FYE Dec&rsquo; and the page 13 peer table says &lsquo;Current FYE 12/2026&rsquo;, while the income statement, balance sheet, cash flow and ratio tables on page 12 all say &lsquo;FYE May&rsquo;. December is the reading the rest of the document supports - FY25 turnover of RM52.7m matches the trailing-twelve-month revenue on the market-data source, and 1HFY26 is already reported - but the note is not internally consistent and states no correction. (3) <b>The front table's per-share figures are struck off a different profit line from the peer table's.</b> The Summary Earnings Table shows FY26F Core EPS of 2.5 sen and Core PER of 60.1x, which at RM1.48 is FY26F <i>net</i> profit of RM12.6m over 510.0m shares; the FY26F <i>core</i> net profit of RM16.1m in the same column gives about 3.2 sen and about 47x on the same share base - and the peer table duly prints 3.0 sen and 49.0x. That reconciliation is arithmetic on the report's own numbers and is inferred, not stated. (4) The page 12 income statement has two row labels transposed: the &lsquo;Associate&rsquo; row carries the PBT figures (9.0 / 8.2 / 7.5 / 16.6 / 46.0) and the &lsquo;Exceptional Items&rsquo; row carries the taxation figures (2.2 / 1.1 / 1.1 / 4.1 / 9.4), each duplicating the correctly labelled row beneath it. The company is also named three ways in the same document - &lsquo;AMBEST Berhad&rsquo; in the page headers, &lsquo;AMBEST GROUP BHD&rsquo; in the peer table and &lsquo;Ambest Precision Engineering Sdn. Bhd.&rsquo; in the company overview; the listed entity is Ambest Group Berhad.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "AMBEST",
+   "name": "Ambest Group Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 1.8,
+   "price": 1.48,
+   "divYield": null,
+   "high52": 1.49,
+   "low52": 0.26,
+   "mktSrc": "https://stockanalysis.com/quote/klse/AMBEST/",
+   "catalyst": "Initiation with OUTPERFORM and a RM1.80 target price on 25x FY27F EPS, raised from the 20x used in an earlier non-rated note, which Kenanga puts at a c.28% discount to regional and local peers and c.32% to Malaysia-listed precision-engineering peers. Forecasts turnover growth of 111%/80% and core net profit growth of 252%/228% in FY26/FY27, driven by ramp-up at existing customers and new customers contributing 7%/18% of revenue, on ex-China wafer-fab equipment capex growth of about 46%/41%/17% in 2026/27/28F. No dividend is expected across the forecast period.",
+   "quote": "We value AMBEST at RM1.80, based on 25x FY27F EPS - representing a ~28% discount to regional and local peers, reflecting its relatively modest earnings base. Compared to our earlier non-rated note, we now have greater conviction in AMBEST's earnings growth, underpinned by a broader-based ramp-up across multiple existing and new customers.",
+   "summary": [
+    "The valuation, and what changed to justify it. RM1.80 is struck at 25x FY27F EPS, up from the 20x PER used in an earlier non-rated note, and Kenanga places that at a c.28% discount to regional and local peers and a c.32% discount to Malaysia-listed precision-engineering peers. The stated reason for the re-rating is a change of basis rather than of discipline: &lsquo;This marks a shift from our previous forecasts, which relied predominantly on new-customer contributions from a low base.&rsquo; Read against its own peer table, the discount is a function of which year is used - AMBEST shows 49.0x one-year forward core earnings against a sector aggregate of 45.3x, and 21.5x two-year forward against 31.2x. On the near year it is dearer than the group; on the following year it is materially cheaper. At RM1.48 the peer table puts the implied upside at 21.6%, and the cover separately describes the stock as trading at roughly a 43% discount to regional and local peers and 45% to Malaysia-listed precision-engineering players at that price.",
+    "The forecast growth rates are extreme and the base is small. Turnover is modelled at RM111.4m in FY26 and RM200.5m in FY27 against RM52.7m in FY25 - growth of 111.5% then 79.9% - with core net profit of RM16.1m and RM36.7m against RM6.4m, growth of 252% then 228%. Net profit margin moves from 12.1% in FY25 to 11.3% in FY26 and 18.3% in FY27, ROE from 19.5% to 28.2% to 38.0%, and the balance sheet from RM33.8m net debt in FY25 to RM7.8m net cash in FY27. FY25 is characterised as an investment year: revenue rose 11.5% but PAT fell 9.4% to RM6.4m as administrative expenses rose 20.3% on headcount and finance costs rose 37.4% to fund expansion. Against consensus in the same table, Kenanga is <i>below</i> in FY26 (RM16.1m against RM18.1m) and <i>above</i> in FY27 (RM36.7m against RM31.4m) - so the house is underwriting the later year, not the nearer one.",
+    "The demand case is built twice, top-down then bottom-up, and both are Kenanga's own estimates. Top-down: the top four hyperscalers' combined capex is projected to rise 97%/31% in 2026/2027 to USD686b/USD898b; the historical correlation between hyperscaler capex and WFE investment is put at about 0.81; and LAM Research's estimate that every USD100b of AI data-centre investment drives around USD8b of incremental WFE spending is cited, with etch and deposition most exposed. Bottom-up: a company-by-company capex build across foundry, logic and memory gives total WFE capex of USD180.5b, USD246.6b and USD283.5b in 2026/27/28F, and ex-China WFE of USD150.9b, USD212.4b and USD248.1b - growth of about 46%, 41% and 17%. Memory leads: Micron, SK Hynix and Samsung are said to plan capex increases of 72% for 2026 and 36% for 2027. Kenanga argues ex-China is the relevant market because Chinese chipmakers source about 20% of front-end equipment domestically today and aim for 80% by 2030, and that the street has repeatedly under-forecast this cycle.",
+    "The company-specific evidence is thinner than the sector case, and the note is candid about parts of it. Customers are unnamed throughout - the exhibit reads &lsquo;Customer A and B Constitute 83% in FY25&rsquo; - with relationships averaging 7.6 years and some running to 14. The transition being modelled is from indirect supply through contract manufacturers and Tier-1 suppliers to direct engagement with WFE players, with new customers modelled at 7%/18% of revenue in FY26/FY27 and still in qualification. There is some evidence of the ramp already: 1HFY26 revenue of RM44.6m was 85% of the whole of FY25, with core PAT of RM7.4m after excluding one-off listing expenses, though 2QFY26 revenue of RM24.3m (+19.2% QoQ) came with a contracting core PAT margin on start-up costs for new equipment. Capex is modelled at RM5.2m in FY26 and RM3.0m in FY27, working-capital pressure is expected to ease partly because certain customers are extending more favourable payment terms, and the note states there is no formal dividend policy and expects no dividend across the forecast period. The three stated risks are a slowdown in WFE spending, the lack of long-term contracts that could result in revenue volatility, and a slower-than-expected ramp-up in new projects or customer onboarding - the second of which is the direct counterweight to a forecast of 111% then 80% revenue growth.",
+    "Why this row reads None stated, and two things that sit outside the note. Nothing in the 15 pages uses pick language: searching the report for all of this board's conviction terms returns only &lsquo;favouring incumbent suppliers&rsquo; and &lsquo;more favourable payment terms&rsquo;, neither of which is a declaration about the stock. The Kenanga Signal therefore reads None stated despite the OUTPERFORM call - nothing is inferred from a rating. Outside the note: the initiation is struck at RM1.48, which is the 52-week high on the market-data source used for this row, after what The Edge Malaysia describes as a rise of nearly 500% since the February 2026 ACE Market listing; and the peer table carries two Kenanga calls that differ from this board's own record - OPPSTAR at UNDERPERFORM with a RM0.750 target, where this board's 27 August date carries Kenanga's OPPSTAR row at MARKET PERFORM on the same RM0.75 target, and SKP Resources at a RM0.270 target against the RM0.26 verified on 1 September. Those peer-table figures are as quoted in this note and have not been verified against stock-specific reports."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "Tradeview Research",
+    "date": "11 Sep 2026",
+    "opp": false,
+    "note": "<b>Exactly one other house covers this stock.</b> The Edge Malaysia, reporting Kenanga's initiation on 11 September 2026, states that &lsquo;Tradeview Research is the only other house covering Penang-based Ambest and also rates the stock a &ldquo;buy&rdquo; with a target price of RM1.60&rsquo;. That is the most recent publicly retrievable non-Kenanga call, and it points the same way as Kenanga's OUTPERFORM, so no divergence marker is set. <b>Read the dating carefully.</b> The Edge's report is dated 11 September 2026, but it does not give the date of the underlying Tradeview note carrying the RM1.60 target, so that call cannot be dated more precisely than &lsquo;current as reported on 11 September&rsquo;. What can be dated directly is Tradeview's earlier work: The Edge Malaysia of 28 April 2026 recorded Tradeview initiating with a BUY at a 72 sen target, struck at 17x 2027 earnings and described as Ambest's first analyst coverage since its February 2026 ACE Market listing, when the stock closed at 62.5 sen for a RM319m market capitalisation. Between that note and this one the target has moved from 72 sen to RM1.60 and the share price from 62.5 sen to RM1.48. <b>None of the nine houses this board searches</b> - CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang - yielded a publicly retrievable call on AMBEST during this run, which is consistent with The Edge's statement that Tradeview is the only other covering house. <b>Neither house used pick language</b>, so this row's Analyst Signal reads <b>None stated</b>.",
+    "cites": [
+     [
+      "The Edge Malaysia via KLSE Screener, 11 Sep 2026 &mdash; &lsquo;Ambest undervalued with further earnings upside; Kenanga joins coverage with &ldquo;outperform&rdquo;&rsquo;",
+      "https://www.klsescreener.com/v2/news/view/1790311/ambest-undervalued-with-further-earnings-upside-kenanga-joins-coverage-with-outperform"
+     ],
+     [
+      "The Edge Malaysia, 28 Apr 2026 &mdash; &lsquo;Ambest set to ride semiconductor upcycle, says Tradeview as shares surge to new high&rsquo; (Tradeview BUY, TP 72 sen)",
+      "https://theedgemalaysia.com/node/801615"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/AMBEST-260911-IC-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Three points of caution on this row. (1) <b>Two sentences in this note could be read as the pick declaration and they name different stocks.</b> Page 1 says &lsquo;We like IOICORP (OP; TP: RM5.40) and KLK (OP; TP:RM25.80) for the larger planters&rsquo;; page 2 says &lsquo;Our picks include IOICORP (OP; TP:RM5.40) for strong FY27 prospects...&rsquo;. This board takes the page-2 sentence as the declaration, because under rules/signals.md &sect;2 &lsquo;we like&rsquo; on its own is an investment case rather than a pick. (2) <b>The August CPO price of RM4,493 per MT needs care.</b> Kenanga labels RM4,493 as the August price, +0.1% MoM and +9% YoY, which would put July at about RM4,489. The Edge Malaysia, in its 17-23 August 2026 weekly, reported the same RM4,493 per tonne as Malaysia's average CPO price for <i>July</i>, up 9.3% year on year. Kenanga's own 3 September report card, carried on this board, separately described CPO as having risen to RM4,612 in August - written before MPOB's August statistics were published. No independent MPOB average CPO price for August could be retrieved during this run, so all three prints are recorded here rather than one being chosen. (3) The note states ratings and target prices for IOICORP, KLK, PPB, HSPLANT, UMCCA, TSH, SDG, TAANN and GENP, none of which has a standalone Kenanga report in today's bundle; those figures are as quoted in this sector piece and have not been independently verified against stock-specific reports today. A smaller typographical point: the page-1 paragraph prints United Malacca's target as &lsquo;TP:TM7.00&rsquo;, given correctly as RM7.00 in the page-2 text and the peer table.",
+   "result": null,
+   "conviction": "\"Our picks include IOICORP (OP; TP:RM5.40) for strong FY27 prospects, robust ROEs with growth from new non-plantation due from FY28 onwards.\"",
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Plantation",
+   "name": "Plantation Sector Update: Inventory Climbed; El-Nino Brought Forward",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "OVERWEIGHT maintained with CY26/CY27 CPO price assumptions unchanged at RM4,500/RM4,700 per MT, after MPOB's August data put closing inventory at a 10-year high of 2.824m MT (+7% MoM, +28% YoY), 6% above Kenanga's own estimate and within 2% of consensus. NOAA's September update brings a greater-than-90% probability of a very strong El Nino forward to this month, and Kenanga expects CY27 palm oil production to fall 3-5% as a result. IOICORP (OP; TP RM5.40) heads the picks, with KLK (OP; TP RM25.80) and PPB (OP; TP RM13.40) among the larger planters and HSPLANT (OP; TP RM3.00), UMCCA (OP; TP RM7.00) and TSH (OP; TP RM1.85) among the smaller ones.",
+   "quote": "Our picks include IOICORP (OP; TP:RM5.40) for strong FY27 prospects, robust ROEs with growth from new non-plantation due from FY28 onwards.",
+   "summary": [
+    "The data half of this note is bearish and Kenanga reports it plainly. August production of 1.817m MT was +1% MoM but -2% YoY; year-to-date output of 12.633m MT is only +0.04% above the same eight months of CY25, though 4% above the 10-year average of 12.120m MT. Exports fell to 1.295m MT, -7% MoM and -2% YoY, below the 10-year average of 1.343m MT. Closing inventory therefore reached 2.824m MT, +7% MoM and +28% YoY - a 10-year high, against a 10-year average of 2.002m MT and a prior 10-year peak of 2.505m MT - coming in 6% above Kenanga's own estimate and within 2% of consensus. The stock/usage ratio rose to 14.1% from 12.5% in July and 10.1% a year earlier, and Kenanga's own September estimate has inventory building again to 2.931m MT.",
+    "The bullish half is a weather forecast whose timing has been brought forward. NOAA's September update puts the probability of a very strong El Nino at more than 90% starting this month, with the possibility of lasting into 1QCY27; Kenanga adds that returning haze and an Air Pollutant Index above 100 confirm drier weather is already taking hold in parts of Southeast Asia. The mechanism it describes is lagged rather than immediate - prolonged dryness produces smaller fruit about six months later and disrupts flowering and yields for up to two years - and its evidence is two very strong El Ninos in 30 years, which cut global palm supply 3% in CY98 and 5% in CY16, in the year <i>after</i> the event in both cases. From that Kenanga expects CY27 production to fall 3-5%, and CY26 FFB production to come in 1-2% below last year's 20.28m MT on a weakening biological yield cycle.",
+    "Prices and assumptions are held rather than raised, which is the note's most conservative move. CY26 stays at RM4,500 and CY27 at RM4,700 per MT - the same figures Kenanga carried in its 3 September sector report card on this board - and August CPO is described as holding firm at RM4,493 per MT (+0.1% MoM, +9% YoY) despite peak production season. Three supports are named beyond weather: higher biodiesel demand, the ongoing Middle East conflict, and Black Sea shipping disruption to Ukrainian sunflower exports. Against that, the same day's Kenanga Today prints CPO at RM5,033 per tonne, down 1.49% on 10 September - well above both annual assumptions, though a single futures print and an annual average are not comparable and the digest makes no attempt to reconcile them.",
+    "The earnings picture splits cleanly: upstream good, downstream not, and diversification years away. High CPO prices are expected to keep upstream margins robust for the coming three to six months and, with seasonally higher production, produce a stronger upstream profit in 2HCY26. Downstream still faces regional overcapacity that Kenanga expects to plague the sector for two to three years, even after 2QCY26 margins reached 6%. Non-plantation earnings - the usual argument for the larger planters - are stated to become meaningful only from CY28 onwards, when SDG, KLK and GENP should book more recurring property development profit and IOI's coconut, palm wood and EFB-to-pulp projects begin contributing. On Kenanga's own timetable that support is more than two years out, with land disposal gains the only near-term exception.",
+    "OVERWEIGHT is held on valuation as much as on price, and the picks are stated in Kenanga's own words. Sector valuations of 15-16x PER and 1.3x PBV are called not excessive, comparable with a three-year average of 15x and 1.2x and at the lower end of a longer-term 15-30x and 1.0-1.5x range, even after the KL Plantation Index outperformed the broader market in recent months. The pick sentence names IOICORP (OP; TP RM5.40) for strong FY27 prospects and robust ROEs with growth from new non-plantation from FY28, with KLK (OP; TP RM25.80) for liquidity, CPO sensitivity and attractive valuation; PPB (OP; TP RM13.40) as oversold at decade-low valuations, notwithstanding near-term uncertainty over Wilmar's Indonesian operation; and HSPLANT (OP; TP RM3.00, with RM710m net cash), UMCCA (OP; TP RM7.00) and TSH (OP; TP RM1.85) among the smaller planters. Every one of those six targets matches the figures carried on this board's 3 September Plantation row - nothing has moved in eight days. The nine-stock peer table additionally shows SD Guthrie at MARKET PERFORM (TP RM7.20), Ta Ann at UNDERPERFORM (TP RM5.00) and Genting Plantations at OUTPERFORM (TP RM6.40)."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/Plantation-260911-SU-MPOB-Kenanga.pdf"
+  }
+ ]
+}

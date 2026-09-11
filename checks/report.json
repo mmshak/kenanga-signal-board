@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10T19:03:07.771Z",
+ "generatedAt": "2026-09-11T06:21:52.814Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -12,10 +12,11 @@
   "2026-09-07",
   "2026-09-08",
   "2026-09-09",
-  "2026-09-10"
+  "2026-09-10",
+  "2026-09-11"
  ],
- "rows": 93,
- "verified": 92,
+ "rows": 96,
+ "verified": 95,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -156,6 +157,24 @@
    "date": "2026-09-10",
    "row": "SCIENTX",
    "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The downgrade direction conflicts with Kenanga's own earlier note.</b> This report is headed MARKET PERFORM with a down arrow and says it is 'adjusting our call from OUTPERFORM to MARKET PERFORM', but Kenanga's Plastic Packaging sector update of <a href=\"https://www.kenanga.com.my/wp-content/uploads/2026/07/Plastic-Packaging-260715-3Q26-Strategy-Kenanga.pdf\" target=\"_blank\" rel=\"noopener\">15 July 2026</a> had already downgraded 'SCIENTX (MP, TP: RM3.91) from OUTPERFORM to MARKET PERFORM following share price action' - at the same RM3.91 target. Between the two, the peer tables in Kenanga's own TGUAN and BPPLAS results notes of 27 August show SCIENTEX BHD as OP at RM3.70/RM3.91, and no note upgrading it back to OUTPERFORM was publicly retrievable. The two documents cannot both be right; both are recorded here. (2) <b>The segmental table does not add up in its full-year columns.</b> Packaging plus Property gives FY26 turnover of RM4,813.0m and FY25 of RM4,517.7m - matching the Results Highlights table and the company's own filing - but the Group Turnover row prints RM3,657.9m and RM3,408.3m. The same happens on EBIT: the segments sum to RM881.5m for FY26 and RM742.1m for FY25 against printed group figures of RM677.2m and RM565.2m. The quarterly columns in the same table do reconcile. (3) <b>The Summary Earnings Table's valuation ratios appear struck at a lower share price than the RM3.70 on the cover</b> - Core PER of 8.6x/8.8x/8.5x on core EPS of 40.2/39.4/40.8 sen implies about RM3.46-3.47, and PBV of 1.2x on BVPS of RM2.9 implies about RM3.48, while the page 5 peer table shows 9.4x and 9.1x at RM3.70. That implied price is arithmetic on the report's own numbers and is inferred, not stated. (4) The sum-of-parts table divides by 1,551m paid-up shares while the stock information box gives 1,556.3m shares outstanding, and takes the property segment at RM4,598m against the RM4,602m discounted RNAV computed in the following table. (5) The rating-definition box on page 6 defines OUTPERFORM and OVERWEIGHT as expected total return 'MORE than 1 %', where the same day's Kenanga Today prints 'MORE than 10%'."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-11",
+   "row": "BAUTO",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>The same number is used for two different things.</b> The commentary says &lsquo;exceptional sales were recorded in Malaysia at 3,433 units (+58%) which offset the weaker Philippines at 263 units (-43%)&rsquo;, while the Unit Sales table gives 3,433 as the <i>group</i> total for 1QFY27 (Mazda 3,024 + Xpeng 409 + Kia nil) against 2,638 a year earlier, +30%. The two readings cannot both hold: a Malaysia-only 3,433 at +58% implies about 2,173 a year earlier, and adding the 263 Philippines units would put the group at 3,696 rather than 3,433. (2) <b>The peer table's market capitalisation does not match the cover.</b> The stock information box prints RM1,051.7m on 1,130.8m shares outstanding, which is what RM0.930 &times; 1,130.8m gives; the page 4 peer table prints RM1,079.7m for the same stock in the same document. The RM1,051.7m figure is the one the report's own share count supports - that reconciliation is computed here, not stated. (3) <b>The dividend yield is quoted three ways.</b> The cover and the investment case both say &lsquo;attractive dividend yield of about 11%&rsquo;, while the Summary Earnings Table prints FY27F Net Div. Yield of 10.5% and the peer table the same 10.5%; the trailing yield on the market-data source used for this row's yield column is 9.14%. (4) The peer table shows BAUTO's Current FYE as 04/2026 although the note reports 1QFY27 and forecasts FY27-FY28, and Kenanga's 52-week range (H RM1.10 / L RM0.49) differs slightly from the RM1.12 / RM0.50 on the market-data source feeding this row's range columns."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-11",
+   "row": "AMBEST",
+   "msg": "This is an <b>Initiate Coverage</b> report; it is filed here as a Company Update because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). There is no previous rating or previous target price, by definition. Four points of caution on the figures, reported as printed rather than resolved. (1) <b>The report gives two different sets of WFE-exposure numbers.</b> Page 1 says AMBEST's wafer-fab-equipment exposure is &lsquo;projected to rise from approximately 47% of revenue in FY24 to some 70% by FY26&rsquo;; page 8 says it will be &lsquo;propelled from ~53% in FY2024 to ~76% by FY2027&rsquo;, above an exhibit titled &lsquo;We Estimate Ambest's WFE-Related Order to Account for ~65%/76% of Revenue in FY26/FY27&rsquo;. FY24 appears as both 47% and 53%, FY26 as both 70% and 65%. The Edge Malaysia's 11 September report of this note carries the page-1 pair. (2) <b>The financial year-end is labelled two ways.</b> The front Summary Earnings Table says &lsquo;FYE Dec&rsquo; and the page 13 peer table says &lsquo;Current FYE 12/2026&rsquo;, while the income statement, balance sheet, cash flow and ratio tables on page 12 all say &lsquo;FYE May&rsquo;. December is the reading the rest of the document supports - FY25 turnover of RM52.7m matches the trailing-twelve-month revenue on the market-data source, and 1HFY26 is already reported - but the note is not internally consistent and states no correction. (3) <b>The front table's per-share figures are struck off a different profit line from the peer table's.</b> The Summary Earnings Table shows FY26F Core EPS of 2.5 sen and Core PER of 60.1x, which at RM1.48 is FY26F <i>net</i> profit of RM12.6m over 510.0m shares; the FY26F <i>core</i> net profit of RM16.1m in the same column gives about 3.2 sen and about 47x on the same share base - and the peer table duly prints 3.0 sen and 49.0x. That reconciliation is arithmetic on the report's own numbers and is inferred, not stated. (4) The page 12 income statement has two row labels transposed: the &lsquo;Associate&rsquo; row carries the PBT figures (9.0 / 8.2 / 7.5 / 16.6 / 46.0) and the &lsquo;Exceptional Items&rsquo; row carries the taxation figures (2.2 / 1.1 / 1.1 / 4.1 / 9.4), each duplicating the correctly labelled row beneath it. The company is also named three ways in the same document - &lsquo;AMBEST Berhad&rsquo; in the page headers, &lsquo;AMBEST GROUP BHD&rsquo; in the peer table and &lsquo;Ambest Precision Engineering Sdn. Bhd.&rsquo; in the company overview; the listed entity is Ambest Group Berhad."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-11",
+   "row": "Plantation",
+   "msg": "Three points of caution on this row. (1) <b>Two sentences in this note could be read as the pick declaration and they name different stocks.</b> Page 1 says &lsquo;We like IOICORP (OP; TP: RM5.40) and KLK (OP; TP:RM25.80) for the larger planters&rsquo;; page 2 says &lsquo;Our picks include IOICORP (OP; TP:RM5.40) for strong FY27 prospects...&rsquo;. This board takes the page-2 sentence as the declaration, because under rules/signals.md &sect;2 &lsquo;we like&rsquo; on its own is an investment case rather than a pick. (2) <b>The August CPO price of RM4,493 per MT needs care.</b> Kenanga labels RM4,493 as the August price, +0.1% MoM and +9% YoY, which would put July at about RM4,489. The Edge Malaysia, in its 17-23 August 2026 weekly, reported the same RM4,493 per tonne as Malaysia's average CPO price for <i>July</i>, up 9.3% year on year. Kenanga's own 3 September report card, carried on this board, separately described CPO as having risen to RM4,612 in August - written before MPOB's August statistics were published. No independent MPOB average CPO price for August could be retrieved during this run, so all three prints are recorded here rather than one being chosen. (3) The note states ratings and target prices for IOICORP, KLK, PPB, HSPLANT, UMCCA, TSH, SDG, TAANN and GENP, none of which has a standalone Kenanga report in today's bundle; those figures are as quoted in this sector piece and have not been independently verified against stock-specific reports today. A smaller typographical point: the page-1 paragraph prints United Malacca's target as &lsquo;TP:TM7.00&rsquo;, given correctly as RM7.00 in the page-2 text and the peer table."
   }
  ],
  "verdict": "PASS"
