@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11T19:04:30.876Z",
+ "generatedAt": "2026-09-14T05:56:54.549Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -13,10 +13,11 @@
   "2026-09-08",
   "2026-09-09",
   "2026-09-10",
-  "2026-09-11"
+  "2026-09-11",
+  "2026-09-14"
  ],
- "rows": 96,
- "verified": 95,
+ "rows": 99,
+ "verified": 98,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -175,6 +176,24 @@
    "date": "2026-09-11",
    "row": "Plantation",
    "msg": "Three points of caution on this row. (1) <b>Two sentences in this note could be read as the pick declaration and they name different stocks.</b> Page 1 says &lsquo;We like IOICORP (OP; TP: RM5.40) and KLK (OP; TP:RM25.80) for the larger planters&rsquo;; page 2 says &lsquo;Our picks include IOICORP (OP; TP:RM5.40) for strong FY27 prospects...&rsquo;. This board takes the page-2 sentence as the declaration, because under rules/signals.md &sect;2 &lsquo;we like&rsquo; on its own is an investment case rather than a pick. (2) <b>The August CPO price of RM4,493 per MT needs care.</b> Kenanga labels RM4,493 as the August price, +0.1% MoM and +9% YoY, which would put July at about RM4,489. The Edge Malaysia, in its 17-23 August 2026 weekly, reported the same RM4,493 per tonne as Malaysia's average CPO price for <i>July</i>, up 9.3% year on year. Kenanga's own 3 September report card, carried on this board, separately described CPO as having risen to RM4,612 in August - written before MPOB's August statistics were published. No independent MPOB average CPO price for August could be retrieved during this run, so all three prints are recorded here rather than one being chosen. (3) The note states ratings and target prices for IOICORP, KLK, PPB, HSPLANT, UMCCA, TSH, SDG, TAANN and GENP, none of which has a standalone Kenanga report in today's bundle; those figures are as quoted in this sector piece and have not been independently verified against stock-specific reports today. A smaller typographical point: the page-1 paragraph prints United Malacca's target as &lsquo;TP:TM7.00&rsquo;, given correctly as RM7.00 in the page-2 text and the peer table."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-14",
+   "row": "Telecommunication",
+   "msg": "Eleven points of caution on this row, reported as printed rather than resolved. (1) <b>The bear-case de-rating for MAXIS is stated two ways.</b> Page 1 says CDB&rsquo;s asymmetric risk-reward holds &lsquo;despite a more punitive bear case de-rating of -3SD (MAXIS: -2SD)&rsquo;; pages 5 to 7 apply <i>-1SD</i> to MAXIS three times (&lsquo;for MAXIS... we assume a de-rating to -1SD&rsquo;; &lsquo;a de-rating to -1SD at 17.0x P/E&rsquo;; &lsquo;a de-rating to 17x (historical -1SD level)&rsquo;). The -1SD reading is the one the rest of the document supports, since 17.0x is what produces the RM2.82/RM2.83 bear-case value. (2) <b>MAXIS&rsquo;s position against its own historical mean is stated two ways.</b> Page 1: &lsquo;it already trades at historical mean&rsquo;. Page 5: &lsquo;MAXIS, which is currently trading below its historical mean&rsquo;. Page 6 gives 18.1x against a 19.7x mean, which is below it. (3) <b>MAXIS&rsquo;s bear-case value is printed twice at two figures</b> - RM2.82 on page 6 and RM2.83 on page 7, both at 17.0x and both described as 20% downside; Exhibit 15 gives RM2.83. (4) <b>The SWN announcement is dated two ways.</b> Exhibit 1 and the page-2 text both put it in Mar 2021, but page 3 says MAXIS &lsquo;remains 24% below its Sept-21 level, when SWN was first announced&rsquo;. (5) <b>MAXIS&rsquo;s RM500m-scenario debt headroom does not match its own exhibit.</b> The text gives RM3.01b; Exhibit 20 prints RM3,068m, which is also what RM3,568m less RM500m gives. The CDB equivalents reconcile exactly (RM1,546m/RM1,846m/RM2,046m against RM1.55b/RM1.85b/RM2.05b). (6) <b>The 2026 DNB cash-commitment total does not add up from its own components.</b> The text says &lsquo;total annual cash commitments related to DNB in 2026 totalled RM528m p.a.&rsquo; while naming RM202m of April 2026 shareholders&rsquo; advances and RM328m for the MoF put option, which sum to RM530m (RM529.9m on Exhibit 16&rsquo;s RM327.9m). (7) <b>The headline scenario percentages are rounded in the text and precise in the exhibit</b>: CDB +37%/-26% against Exhibit 13&rsquo;s +36.6%/(25.5%), MAXIS +21%/-20% against +20.9%/(20.3%). (8) <b>Exhibit 12&rsquo;s caption contradicts the text</b> - it reads &lsquo;Bear &minus;1SD / Bull: Hist. mean P/E&rsquo; for both stocks, though the text applies -3SD to CDB&rsquo;s bear case. (9) <b>CDB&rsquo;s FY27F EPS appears as three figures</b>: 12.7 sen in Exhibit 14&rsquo;s 0% row, &lsquo;13 sen&rsquo; in the stress-test text, and 12.8 sen in the peer table&rsquo;s two-year forward core EPS. Related: the bear-case values cannot be reproduced from the stated multiple and base-case EPS alone - RM2.02 at 18.8x implies about 10.7 sen - because the bear case also assumes lower earnings; the note states the de-rating but never prints its bear-case EPS. That gap is identified here, not in the report. (10) <b>The peer table&rsquo;s price snapshot predates the same day&rsquo;s digest.</b> It shows AXIATA at RM1.68 and TELEKOM MALAYSIA at RM8.00, while Kenanga Today&rsquo;s 11 September closes are RM1.71 and RM7.92. CDB&rsquo;s RM2.72 and MAXIS&rsquo;s RM3.54, used as &lsquo;current share price&rsquo; throughout the note, do not appear in the digest&rsquo;s tables and so could not be cross-checked. (11) Two sections are both numbered &lsquo;(V)&rsquo;, and this is filed as a <b>Sector Update</b> although the document is headed &lsquo;Thematic Report&rsquo;, because this board&rsquo;s report-type dropdown is fixed to five types (rules/signals.md &sect;6). It carries no ticker-level rating, target price or share price of its own, so those columns are empty by design. <b>The divergence marker is deliberately not set</b>: named houses do rate MAXIS opposite to Kenanga (see the analyst note), but this row carries no Kenanga rating of its own against which &sect;3&rsquo;s opposite-direction test can be applied."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-14",
+   "row": "MY Labour Market (Jul-26)",
+   "msg": "Three points of caution on this row. (1) <b>One sentence contradicts the note&rsquo;s own table.</b> The text reads &lsquo;The population outside the labour force <i>fell</i> (0.01%; Jun: 0.09%) to 7.110m&rsquo;, but Table 1 shows that population <i>rising</i> from 7,109.8k in June to 7,110.5k in July - an increase of about 0.01%, not a decrease. The table is the reading the rest of the document supports, since the labour force, employment and the participation rate all rose in the same month. Reported as printed. (2) <b>This note and the Distributive Trade note published in the same bundle describe the same GDP figure differently.</b> Here: &lsquo;we raised our 2026 GDP growth forecast to 5.3% (2025: 5.2%)&rsquo;. There: &lsquo;we maintain our 2026 GDP growth forecast at 5.3% (2025: 5.2%)&rsquo;. This board&rsquo;s 1 September Manufacturing PMI row already carried 5.3% as the standing house forecast, which supports &lsquo;maintain&rsquo;. The number is identical in all three places, so there is no numerical contradiction to resolve - only the framing differs, and both are reproduced as printed. (3) Several typographical slips in the retrieved text are carried as printed: the title reads &lsquo;Unemployment rate hold at 3.0%&rsquo;, and the body contains &lsquo;own-account workersup&rsquo;, &lsquo;for ther first time&rsquo;, &lsquo;Early September data warrant caution, The 3,128 cases...&rsquo; and &lsquo;the ongoing the global E&amp;E upcycle&rsquo;."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-14",
+   "row": "MY Distributive Trade (Jul-26)",
+   "msg": "Two points of caution on this row, both presentational rather than numerical - every figure quoted here reconciles against Table 1 of the note. (1) <b>The same GDP figure is framed differently in the two Economic Viewpoints published in this bundle.</b> This note says &lsquo;we maintain our 2026 GDP growth forecast at 5.3% (2025: 5.2%)&rsquo;; the Labour Market note says &lsquo;we raised our 2026 GDP growth forecast to 5.3% (2025: 5.2%)&rsquo;. This board&rsquo;s 1 September Manufacturing PMI row already carried 5.3% as the standing house forecast, which supports the &lsquo;maintain&rsquo; wording here. The number is the same in all three places, so nothing is in numerical conflict. (2) Typographical slips in the retrieved text, carried as printed: the title reads &lsquo;Spending loss steam&rsquo; (for loses steam), a bullet reads &lsquo;Broad-based moderation across sub-sector&rsquo;, a sentence closes without its bracket (&lsquo;See Economic Viewpoint: Malaysia Distributive Trade&rsquo;), the retail bullet runs two sentences together (&lsquo;(7.5%; Jun: 10.8%).Stronger sales...&rsquo;), and the page-2 footer repeats a contact line followed by a stray &lsquo;Head of Research&rsquo;."
   }
  ],
  "verdict": "PASS"

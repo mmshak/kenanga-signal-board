@@ -1,0 +1,301 @@
+{
+ "date": "2026-09-14",
+ "schema": 1,
+ "daily": {
+  "klci": 1686.7,
+  "chg": -18.78,
+  "pct": -1.1,
+  "inst": 52.4,
+  "instPct": 38.4,
+  "retail": 154.7,
+  "retailPct": 30.3,
+  "foreign": -207.1,
+  "foreignPct": 31.4,
+  "ideas": "Thematic: Telecommunication; Economic Viewpoint: MY Distributive Trade, MY Labour Market; Weekly Technical Review: DJIA, KLCI",
+  "news": [
+   {
+    "h": "Vestland bags RM410.0m contract for mixed-use development on Jalan Ampang; second win in under a week",
+    "body": "Vestland Bhd has secured a RM410.0m contract to undertake construction works for a mixed-use development on Jalan Ampang here. This marks Vestland's second contract win in under a week, following the RM263.7m job it secured for flood-mitigation works along Sungai Golok in Kelantan on Monday (Sept 7). Vestland said its wholly-owned subsidiary had accepted a letter of award from Golden Armani Sdn Bhd to undertake superstructure, landscaping, facilities floors, facade lighting, signage and related miscellaneous works. (The Edge Malaysia)",
+    "takeaways": [
+     "The two wins together come to RM673.7m - RM410.0m plus the RM263.7m Sungai Golok flood-mitigation job dated Monday Sept 7. That total is arithmetic on the digest's own two figures; no order book, remaining unbilled balance or annual revenue is given against which to size it.",
+     "The two jobs are opposite kinds of work. Sungai Golok is public flood-mitigation infrastructure in Kelantan; this one is a private mixed-use development on Jalan Ampang awarded by Golden Armani Sdn Bhd. The item names the awarder but says nothing about the parent project - no gross development value, no developer profile, no counterparty background.",
+     "The scope listed is superstructure, landscaping, facilities floors, facade lighting, signage and related miscellaneous works. That is main-build and finishing work rather than substructure or fit-out, but no contract duration, commencement date, completion target or margin appears anywhere in the item.",
+     "The recipient is described only as a wholly-owned subsidiary and is not named, so the contract cannot be tied to a specific operating entity from the retrieved source.",
+     "At RM410.0m this is the largest single construction award carried on this board since NCT Alliance's RM2.5b on 9 September, and larger than every award in between - TRC Synergy's RM150m (9 September), LFE Corp's RM23.9m (10 September), Paragon Globe's RM45.2m and HE Group's RM25.0m (11 September), and Citaglobal's RM82.1m in this same edition. No report in the 14 September bundle covers Vestland or construction; the bundle is one telecommunications thematic and two Economic Viewpoints."
+    ]
+   },
+   {
+    "h": "Hextar Industries' llaollao deal melts away after RM177.5m acquisition falls through",
+    "body": "Hextar Industries Bhd's RM177.5m deal with Woodpeckers Group Sdn Bhd has fallen through after seven months. Hextar Industries said the acquisition deal has been called off due to certain undisclosed conditions not being met as of the Sept 11 deadline. The deal, originally made back on Feb 12, would have Hextar Industries acquiring a 51.0% stake in Woodpeckers Group, a master franchisee of the llaollao frozen yoghurt chain in Malaysia. (The Edge Malaysia)",
+    "takeaways": [
+     "The reason is withheld. The deal lapsed because of 'certain undisclosed conditions not being met' - the item names no condition, no party at fault, no deposit paid and no break fee, so nothing about the cost of the failure can be established from the retrieved source.",
+     "The dates bracket it precisely: agreed Feb 12, dead at the Sept 11 deadline - seven months, as the item states. Sept 11 is also the session whose market data this edition reports, though the item draws no connection.",
+     "What lapses is control, not a minority holding: a 51.0% stake in Woodpeckers Group Sdn Bhd, master franchisee of the llaollao frozen yoghurt chain in Malaysia. No earnings, revenue or store count for Woodpeckers is given, so the RM177.5m cannot be placed against anything.",
+     "It is the only reversal among this edition's five corporate items - the other four are a RM410.0m construction award, a RM62.5m land purchase, an RM82.1m subcontract and a distributorship agreement. All four of those are additions; this is the single subtraction.",
+     "No report in the 14 September bundle covers Hextar Industries, consumer, retail or food franchising, and no Kenanga rating on the stock appears anywhere on this board."
+    ]
+   },
+   {
+    "h": "PTT Synergy buys Penang land for RM62.5m",
+    "body": "Industrial construction and automated logistics company PTT Synergy Group Bhd is acquiring a 3.925-hectare parcel of freehold land in Penang for RM62.5m in cash. Its wholly owned subsidiary PTT Logistics Hub 3 Sdn Bhd has entered into a sale and purchase agreement with an individual, Lee Mooi Khean, to acquire the land, located at Lot 1597, Mukim 12, in the district of Seberang Perai Selatan. PTT Synergy said the land will be held as an investment property, with potential for future development in line with the group's business expansion plans. (The Edge Malaysia)",
+    "takeaways": [
+     "The implied land price is roughly RM15.9m a hectare, or about RM148 per square foot - RM62.5m over 3.925 hectares, which is about 422,500 sq ft. Both conversions are arithmetic here, not printed in the item, and no comparable Penang transaction is offered against which to judge them.",
+     "It is cash, and the vendor is a private individual named in the item, Lee Mooi Khean, rather than a corporate counterparty. The title is freehold and the parcel is identified precisely - Lot 1597, Mukim 12, Seberang Perai Selatan - but no funding source for the RM62.5m is stated.",
+     "The stated use is passive first and speculative second: held as an investment property, with potential for future development in line with expansion plans. No development plan, timeline, gross development value or capex figure is attached, so nothing about future earnings follows from this item.",
+     "The only clue to intended end use is the buying entity's name - PTT Logistics Hub 3 Sdn Bhd - against a parent described as an industrial construction and automated logistics company. That is an inference from the subsidiary's name, not a statement in the item.",
+     "It is the second land purchase carried on this board in three sessions, after AME Elite's RM199.8m for 176.5 acres in Pontian on 11 September. On the digest's own figures that Johor land works out at about RM1.13m an acre against roughly RM6.4m an acre here (3.925 hectares is about 9.70 acres) - but they are different states, different tenure contexts and different intended uses, and both per-acre figures are derived rather than disclosed. No report in the 14 September bundle covers PTT Synergy, industrial property or logistics."
+    ]
+   },
+   {
+    "h": "Citaglobal bags RM82.1m residential college subcontract",
+    "body": "Citaglobal Bhd has secured an RM82.1m subcontract to design and build a new residential college at Institut Pendidikan Guru Kampus Bahasa Melayu in Lembah Pantai here. The civil engineering and infrastructure group said its wholly owned unit had accepted the project's letter of award from the main contractor Purnama Base Sdn Bhd, which is undertaking the project for the Public Works Department. (The Edge Malaysia)",
+    "takeaways": [
+     "Citaglobal sits one tier down the chain. The letter of award comes from the main contractor, Purnama Base Sdn Bhd, not from the client - so the direct counterparty is a private company even though the ultimate employer is the Public Works Department.",
+     "The scope is design-and-build, which puts design responsibility on the contractor as well as construction risk. No duration, completion date, payment terms or margin is disclosed.",
+     "The asset and its location are specific - a new residential college at Institut Pendidikan Guru Kampus Bahasa Melayu in Lembah Pantai - but the subsidiary taking the work is described only as a wholly owned unit and is not named.",
+     "Together with Vestland's RM410.0m award in the same edition, RM492.1m of new construction work is announced in a single digest. That total is arithmetic on the two items; they are unrelated projects and unrelated companies.",
+     "No report in the 14 September bundle covers Citaglobal, construction or public infrastructure, and the day's only sector work is a telecommunications thematic."
+    ]
+   },
+   {
+    "h": "GTA expands into Brunei with Safran helicopter engine distributorship",
+    "body": "Newly listed GTA Holdings Bhd is expanding its aviation support business into Brunei after securing an authorised distributorship from Safran Helicopter Engines Asia. GTA said its wholly-owned subsidiary, Global Turbine Asia Sdn Bhd has formalised a distributor agreement with Safran, allowing it to market and support selected Safran helicopter engine products in Brunei. The agreement follows a memorandum of understanding signed by the two parties in July to expand their collaboration beyond Malaysia. (The Edge Malaysia)",
+    "takeaways": [
+     "Nothing is sized. No contract value, minimum volume, duration, exclusivity or commencement date appears, so the agreement cannot be converted into revenue from the retrieved source. It is the second of this edition's five corporate items to carry no figure at all - the other three all do.",
+     "The conversion from memorandum to agreement was quick: the item states the distributorship follows an MOU signed by the two parties in July to expand collaboration beyond Malaysia, roughly two months earlier.",
+     "Two qualifiers narrow it. The territory is one country, Brunei, and the products are 'selected Safran helicopter engine products' - not the full range and not a regional mandate.",
+     "The credential on display belongs to the counterparty. Safran Helicopter Engines Asia is the established name; GTA is described as newly listed, with the work sitting in wholly-owned Global Turbine Asia Sdn Bhd. The role is to market and support - distribution and aftermarket services, not manufacture.",
+     "No report in the 14 September bundle covers GTA, aviation or aerospace services, and GTA carries no Kenanga rating anywhere on this board."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Xi pushes 'Greater BRICS' economic ties to give bloc larger global role",
+    "region": "Global",
+    "body": "Chinese President Xi Jinping unveiled on Sunday initiatives in areas ranging from AI to trade to deepen cooperation among the \"Greater BRICS\" emerging economies, as Beijing seeks to weld the grouping into a practical platform for Global South development. (The Edge Malaysia)",
+    "takeaways": [
+     "It is the freshest item in the edition - unveiled on Sunday, the day before this 14 September digest - and the only one that post-dates the 11 September market data the same edition reports.",
+     "Nothing is quantified. 'Initiatives in areas ranging from AI to trade' is the whole of the content; no funding, mechanism, timetable or participating country beyond China is named, and the stated ambition - welding the grouping into 'a practical platform for Global South development' - is Beijing's framing rather than a bloc decision.",
+     "Two of this edition's four Malaysian macro items are the other side of the same summit: Anwar's bilateral meetings with Modi and with Putin. This board's 11 September date carried that visit as an itinerary; here the meetings have happened and Xi has set out the host bloc's agenda.",
+     "The AI thread runs in two directions across four sessions of this board. On 11 September, South Korea was reported preparing to announce more than USD100.0b of US energy investment aimed at AI build-out; here Beijing puts AI at the head of a Global South cooperation agenda. The digest connects the two nowhere.",
+     "No report in the 14 September bundle carries a Kenanga view on China, BRICS or global trade blocs. Both Economic Viewpoints published today are domestic - Malaysia's July labour market and July distributive trade."
+    ]
+   },
+   {
+    "h": "Trump says US, Canada will probably reach deal 'fairly soon'",
+    "region": "Global",
+    "body": "US President Donald Trump expressed optimism about resolving a trade war with Canada, saying that a deal could come \"fairly soon\", but provided no details into whether formal talks between the two economies had resumed. (The Edge Malaysia)",
+    "takeaways": [
+     "The item undercuts its own headline. A deal 'could come fairly soon', but the same sentence records that no detail was provided on whether formal talks have even resumed - so the process behind the optimism is unconfirmed.",
+     "Nothing is specified: no tariff line, no sector, no date, no negotiating team. There is no way to size the trade war being resolved from the retrieved source.",
+     "US equities had their strongest session of the past week on the day this edition reports - Dow Jones +0.98%, S&P 500 +0.86%, Nasdaq +0.96% - though the digest attributes none of that to this item, and the same edition carries two items pointing to a Fed rate hike next week.",
+     "Asia went the other way on the same session, and by more: Nikkei 225 -1.93%, KOSPI -1.76%, TWSE -1.61%, SHCOMP -1.18%, HSI -0.60%, against the STI's +0.11%. The spread between the US and North Asian indices is the widest in this edition's table.",
+     "This is one of only two Global items in the edition's ten macro bits, the other being Xi's Greater BRICS push. No report in the 14 September bundle carries a Kenanga view on US or Canadian trade policy."
+    ]
+   },
+   {
+    "h": "Unemployment rate hold at 3.0%: resilient, but easy gains are behind us",
+    "region": "Malaysia",
+    "body": "The unemployment rate held at 3.0% in July (Jun: 3.0%), reflecting a stable job market. We keep our 2026 unemployment rate forecast at 2.9% (2025: 3.0%) on strong domestic activity. (See Economic Viewpoint: Malaysia Labour Market)",
+    "takeaways": [
+     "This is Kenanga's own note, and it sits on this board as a separate row. The rate held at 3.0% only because the labour force grew in step: unemployed rose to 520.3k from 517.8k while the labour force rose to 17,365.9k from 17,344.9k, which gives exactly 3.00% - a reconciliation computed from the note's own table rather than printed in it.",
+     "The house forecast is unchanged: 2026 unemployment at 2.9% against 3.0% in 2025, on strong domestic activity.",
+     "The headline's caution is supported inside the note. PERKESO Loss of Employment cases fell to 7,526 in August from 9,013 in July, but 3,128 cases recorded as of 10 September imply a monthly pace above August's if sustained.",
+     "Labour demand and hiring are diverging. Active job vacancies rose to 368,642 at end-August from 242,434 in July while placements eased to 26,468 from 28,365 - Kenanga's own conclusion is that vacancies are not fully turning into hires.",
+     "The labour market row carries a data-quality flag: this note describes Kenanga as having 'raised' its 2026 GDP growth forecast to 5.3%, while the Distributive Trade Economic Viewpoint published in the same bundle says it maintains 5.3%, and this board's 1 September Manufacturing PMI row already carried 5.3% as the standing house figure. The number agrees; the framing does not."
+    ]
+   },
+   {
+    "h": "Spending loss steam as 2H26 leans on labour and tourism",
+    "region": "Malaysia",
+    "body": "Distributive trade sales eased for the third straight month to 9.0% YoY in July (Jun: 10.1%), the slowest pace in five months. We maintain 2026 distributive trade growth forecast at 8.1% (2025: 5.6%). (See Economic Viewpoint: Malaysia Distributive Trade)",
+    "takeaways": [
+     "The annual rate slowed for a third straight month but the month itself improved: month-on-month growth rebounded to +1.2% after -1.6% in June and two consecutive contractions, on sales value of RM170.5b against RM168.5b.",
+     "Motor vehicles is where the deceleration is concentrated - 7.9% YoY from 14.9%, with motor vehicle sales alone at 8.3% from 22.3% - even though unit car sales rose to 73.6k from 70.1k in July 2025.",
+     "The forecast is held rather than cut: 2026 distributive trade growth stays at 8.1% against 5.6% in 2025, and Kenanga states upside risk to it from tourism-related spending, a resilient labour market and export spillovers, while saying three straight months of slower growth keep it cautious.",
+     "The digest headline reproduces the note's own typographical slip - 'Spending loss steam' for loses steam - and is carried here as printed.",
+     "Both of today's Economic Viewpoints lean on the same two supports for 2H26: the labour market and tourism under Visit Malaysia 2026. They share the same four-economist byline and are the only two Kenanga publications in this bundle besides the telecommunications thematic and the excluded technical reviews."
+    ]
+   },
+   {
+    "h": "Anwar, Modi discuss deepening semiconductor cooperation, industry partnerships",
+    "region": "Malaysia",
+    "body": "Prime Minister Datuk Seri Anwar Ibrahim and his Indian counterpart Narendra Modi discussed deepening semiconductor cooperation and translating it into industry partnerships during their bilateral meeting here on Saturday. (The Edge Malaysia)",
+    "takeaways": [
+     "It is a discussion, not a deliverable. The two leaders 'discussed deepening semiconductor cooperation and translating it into industry partnerships' - no memorandum, company, investment figure, facility or timetable is named.",
+     "It does deliver on a trail this board already carried. The 11 September edition reported Anwar as 'set to engage' in bilateral meetings with Modi and Putin at the 18th BRICS Summit; this confirms the Modi leg took place on Saturday and states its subject.",
+     "The dateline in the item reads 'here on Saturday' although the meeting was in the Indian capital - the copy appears to have been filed from the summit. Reproduced as printed.",
+     "Semiconductors are the most heavily developed theme on this board in the past week, through Kenanga's 11 September AMBEST initiation, which is built on ex-China wafer-fab equipment capex growth of about 46%/41%/17% in 2026/27/28F and on hyperscaler capex rising 97%/31% in 2026/2027. An India-Malaysia industry partnership is a different part of that chain and the digest draws no link; no report in the 14 September bundle covers the sector.",
+     "It is one of two items from the same weekend visit in this edition, alongside the Putin meeting, and one of four Malaysian macro bits - two of which are Kenanga's own data notes rather than news."
+    ]
+   },
+   {
+    "h": "Anwar, Putin agree on special mechanism to expedite execution of Malaysia-Russia agreements",
+    "region": "Malaysia",
+    "body": "Prime Minister Datuk Seri Anwar Ibrahim, in a bilateral meeting with Russian President Vladimir Putin, has suggested the establishment of a special mechanism between Putrajaya and Moscow to expedite the execution of all agreements reached between the two nations. (The Edge Malaysia)",
+    "takeaways": [
+     "The headline and the body do not say the same thing. The headline reads that the two 'agree on' a special mechanism; the body says Anwar 'has suggested the establishment' of one. Reproduced as printed - on the body's wording, nothing has been agreed.",
+     "The subject is implementation, not new business: a mechanism to expedite the execution of agreements already reached. That implies existing agreements have been slow to execute, but the item names none of them and gives no sector, value or count.",
+     "No mechanism design appears - no secretariat, no membership, no meeting cadence, no start date - so there is nothing here that can be tracked in a later edition.",
+     "It is the second leg of the same BRICS Summit visit as the Modi item, and the second of this edition's two follow-ups to the itinerary this board carried on 11 September.",
+     "No report in the 14 September bundle carries a Kenanga view on Malaysia-Russia trade, and no company on this board is identified with Russian exposure."
+    ]
+   },
+   {
+    "h": "China tells state-owned firms to optimise overseas investment",
+    "region": "Asia Pacific",
+    "body": "China called on government-owned companies to sharpen overseas investment strategies and strengthen security safeguards as Beijing seeks to expand the global reach of its state enterprises. (The Edge Malaysia)",
+    "takeaways": [
+     "The instruction pulls in two directions at once: sharpen overseas investment strategies, which points outward, and strengthen security safeguards, which points to caution. The item does not say which dominates.",
+     "'Called on' is not a rule. No agency, policy instrument, quota, target or deadline is named, so there is no measurable change to track.",
+     "It is the only Asia Pacific item in the edition, and it sits alongside Xi's Greater BRICS initiatives in the same digest - outward Chinese capital is the common thread between them, though the digest groups neither.",
+     "Chinese equities fell on the session this edition reports: SHCOMP -1.18% and HSI -0.60%, against gains across all four US and UK indices in the same table.",
+     "The nearest Kenanga view on this board is indirect and sits in the 11 September AMBEST initiation, which argued that ex-China wafer-fab equipment is the relevant market because Chinese chipmakers source about 20% of front-end equipment domestically today and aim for 80% by 2030. That is a domestic-substitution argument; an outward-investment push neither confirms nor contradicts it."
+    ]
+   },
+   {
+    "h": "Fed rate-hike case builds as inflation fails to cool",
+    "region": "Americas",
+    "body": "Back-to-back hotter-than-expected inflation readings may disappoint the majority of US central bankers who had been counting on price pressures easing on their own, setting the table for an interest-rate hike at the Federal Reserve's (Fed) meeting next week and potentially more to follow. (The Edge Malaysia)",
+    "takeaways": [
+     "The direction is a hike and possibly a series - 'setting the table for an interest-rate hike at the Fed's meeting next week and potentially more to follow'. No figure, no probability and no dissent count is given.",
+     "The meeting in question is one this board has already been carrying. Kenanga's 1 September Jackson Hole note set its base case as a hold with heavier dissent at the 15-16 September FOMC, with a first cut still expected in 2Q27. The digest's framing runs against that call, and the meeting is now a week away.",
+     "Kenanga's own stated trigger was the 11 September US CPI print, with thresholds attached: core CPI at or below 0.1% month on month would cleanly justify a hold, while 0.3% or higher with firm shelter and non-housing services could tip a 25bps hike. The print has landed on the hot side directionally - see the CPI item in this same edition - but no core month-on-month figure appears in this digest, so the test cannot be scored from the retrieved source.",
+     "Markets did not trade it as a shock: US equities rose across the board on the session, Dow +0.98%, S&P 500 +0.86%, Nasdaq +0.96%.",
+     "The ringgit weakened slightly against the dollar, USD/MYR 4.0705 from 4.0650, a 0.14% move. Kenanga's 1 September note kept its year-end USDMYR forecast at 3.95 and its 10-year UST forecast at 4.50%; there is no Economic Viewpoint on the Fed in this bundle to update either."
+    ]
+   },
+   {
+    "h": "US consumer inflation picks up in August",
+    "region": "Americas",
+    "body": "US consumer prices accelerated in August as the cost of gasoline rebounded after two straight monthly declines, bolstering financial market expectations that the Federal Reserve (Fed) could raise interest rates next week. (The Edge Malaysia)",
+    "takeaways": [
+     "There is not a single number in the item. Prices 'accelerated', gasoline 'rebounded after two straight monthly declines' - no headline rate, no core rate, no month-on-month figure - so the size of the acceleration cannot be established from the retrieved source.",
+     "The stated driver is narrow and energy-based. That is the same channel as the producer-price print this board carried on 11 September, where PPI final demand rose 0.4% in August after an upwardly revised 0.1% gain in July, also attributed to a rebound in energy costs. Those two prints are the 'back-to-back hotter-than-expected inflation readings' the Fed item in this edition refers to.",
+     "Energy itself moved the other way on the session reported here: Nymex crude fell 2.37% to USD100.1/bbl, after a 6.69% jump to USD102.5 on 10 September. August gasoline and September crude are different periods, and the digest reconciles neither.",
+     "This was the release Kenanga named in its 1 September Jackson Hole note as the key trigger for the September FOMC. The direction matches its hawkish branch, but the note's thresholds were set on core CPI month on month and that figure is not carried here.",
+     "It is the second of two Americas items in this edition and the second on the same subject. Together they are the only macro bits in the digest that bear on a central bank meeting inside the next week."
+    ]
+   },
+   {
+    "h": "ECB's Lagarde says current inflation shock will be longer lasting",
+    "region": "Europe",
+    "body": "Euro-area inflation will stay elevated for some time, according to European Central Bank (ECB) president Christine Lagarde. \"The current shock is longer-lasting,\" she told Ouest-France in an interview. (The Edge Malaysia)",
+    "takeaways": [
+     "It is an interview remark rather than a decision or a projection: Lagarde told Ouest-France that 'the current shock is longer-lasting' and that euro-area inflation will stay elevated 'for some time'. No horizon, no inflation path and no rate guidance is attached.",
+     "It is the third consecutive step in a sequence this board has carried. On 10 September the ECB 'looked set to' raise rates; on 11 September it did so for the second time this year while warning fuel prices could move higher; here the president restates the persistence of the shock in her own words.",
+     "The stated cause in the earlier items was energy - an inflation rise the 11 September item attributed to the Iran war. This item names no cause at all, so the continuity of the diagnosis is an inference from the earlier editions rather than a statement here.",
+     "The euro fell on the session: EUR/USD 1.1599 from 1.1628, -0.25%. That is the second-largest move in this edition's six-pair currency table, behind the yen's 0.31% strengthening to 153.61, and far larger than the 0.02% the euro managed on 10 September.",
+     "Both central-bank items in this edition point toward tighter or longer-held policy - the Fed toward a hike next week, the ECB toward persistence - and neither has a Kenanga Economic Viewpoint attached in this bundle. The two published today are the Malaysian July labour market and July distributive trade."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260914-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Eleven points of caution on this row, reported as printed rather than resolved. (1) <b>The bear-case de-rating for MAXIS is stated two ways.</b> Page 1 says CDB&rsquo;s asymmetric risk-reward holds &lsquo;despite a more punitive bear case de-rating of -3SD (MAXIS: -2SD)&rsquo;; pages 5 to 7 apply <i>-1SD</i> to MAXIS three times (&lsquo;for MAXIS... we assume a de-rating to -1SD&rsquo;; &lsquo;a de-rating to -1SD at 17.0x P/E&rsquo;; &lsquo;a de-rating to 17x (historical -1SD level)&rsquo;). The -1SD reading is the one the rest of the document supports, since 17.0x is what produces the RM2.82/RM2.83 bear-case value. (2) <b>MAXIS&rsquo;s position against its own historical mean is stated two ways.</b> Page 1: &lsquo;it already trades at historical mean&rsquo;. Page 5: &lsquo;MAXIS, which is currently trading below its historical mean&rsquo;. Page 6 gives 18.1x against a 19.7x mean, which is below it. (3) <b>MAXIS&rsquo;s bear-case value is printed twice at two figures</b> - RM2.82 on page 6 and RM2.83 on page 7, both at 17.0x and both described as 20% downside; Exhibit 15 gives RM2.83. (4) <b>The SWN announcement is dated two ways.</b> Exhibit 1 and the page-2 text both put it in Mar 2021, but page 3 says MAXIS &lsquo;remains 24% below its Sept-21 level, when SWN was first announced&rsquo;. (5) <b>MAXIS&rsquo;s RM500m-scenario debt headroom does not match its own exhibit.</b> The text gives RM3.01b; Exhibit 20 prints RM3,068m, which is also what RM3,568m less RM500m gives. The CDB equivalents reconcile exactly (RM1,546m/RM1,846m/RM2,046m against RM1.55b/RM1.85b/RM2.05b). (6) <b>The 2026 DNB cash-commitment total does not add up from its own components.</b> The text says &lsquo;total annual cash commitments related to DNB in 2026 totalled RM528m p.a.&rsquo; while naming RM202m of April 2026 shareholders&rsquo; advances and RM328m for the MoF put option, which sum to RM530m (RM529.9m on Exhibit 16&rsquo;s RM327.9m). (7) <b>The headline scenario percentages are rounded in the text and precise in the exhibit</b>: CDB +37%/-26% against Exhibit 13&rsquo;s +36.6%/(25.5%), MAXIS +21%/-20% against +20.9%/(20.3%). (8) <b>Exhibit 12&rsquo;s caption contradicts the text</b> - it reads &lsquo;Bear &minus;1SD / Bull: Hist. mean P/E&rsquo; for both stocks, though the text applies -3SD to CDB&rsquo;s bear case. (9) <b>CDB&rsquo;s FY27F EPS appears as three figures</b>: 12.7 sen in Exhibit 14&rsquo;s 0% row, &lsquo;13 sen&rsquo; in the stress-test text, and 12.8 sen in the peer table&rsquo;s two-year forward core EPS. Related: the bear-case values cannot be reproduced from the stated multiple and base-case EPS alone - RM2.02 at 18.8x implies about 10.7 sen - because the bear case also assumes lower earnings; the note states the de-rating but never prints its bear-case EPS. That gap is identified here, not in the report. (10) <b>The peer table&rsquo;s price snapshot predates the same day&rsquo;s digest.</b> It shows AXIATA at RM1.68 and TELEKOM MALAYSIA at RM8.00, while Kenanga Today&rsquo;s 11 September closes are RM1.71 and RM7.92. CDB&rsquo;s RM2.72 and MAXIS&rsquo;s RM3.54, used as &lsquo;current share price&rsquo; throughout the note, do not appear in the digest&rsquo;s tables and so could not be cross-checked. (11) Two sections are both numbered &lsquo;(V)&rsquo;, and this is filed as a <b>Sector Update</b> although the document is headed &lsquo;Thematic Report&rsquo;, because this board&rsquo;s report-type dropdown is fixed to five types (rules/signals.md &sect;6). It carries no ticker-level rating, target price or share price of its own, so those columns are empty by design. <b>The divergence marker is deliberately not set</b>: named houses do rate MAXIS opposite to Kenanga (see the analyst note), but this row carries no Kenanga rating of its own against which &sect;3&rsquo;s opposite-direction test can be applied.",
+   "result": null,
+   "conviction": "\"This, coupled with its more attractive risk-reward, makes CDB our preferred MNO play over MAXIS.\"",
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Telecommunication",
+   "name": "Telecommunication Thematic Report: Time for a Re-look at Mobile Players? Are Regulatory Developments Fully Priced-In?",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "NEUTRAL maintained on the sector, with an OUTPERFORM call on CDB (TP RM3.28, unchanged) and MARKET PERFORM on MAXIS (TP RM3.70, unchanged), both struck on 9.0x FY27F EV/EBITDA. CDB is named the preferred MNO play: at RM2.72 it trades at 21.3x base-case FY27F EPS, or -2SD of a 26.2x historical mean, against MAXIS at 18.1x versus a 19.7x mean. Scenario analysis gives CDB +37% upside against -26% downside, versus +21%/-20% for MAXIS. Kenanga books DNB associate losses of RM62m each for CDB and MAXIS in FY26 and an 8% earnings impact in FY27, with equity accounting of the three 33.3% stakes expected to begin in 4QFY26. The stated re-rating catalyst is emerging evidence of a long-term improvement in DNB's financial position.",
+   "quote": "We believe that 5GDN related developments are largely reflected in CDB's current valuation - with the stock trading at -2SD of its historical mean, and therefore offering greater downside protection. This, coupled with its more attractive risk-reward, makes CDB our preferred MNO play over MAXIS.",
+   "summary": [
+    "The call, and the one thing that has not changed in it. The sector stays NEUTRAL; CDB stays OUTPERFORM at an <i>unchanged</i> RM3.28 and MAXIS stays MARKET PERFORM at an <i>unchanged</i> RM3.70, both on 9.0x FY27F EV/EBITDA. So nothing in this note moves a number - it is an argument about whether an existing set of prices already discounts a known risk. The peer table puts CDB&rsquo;s upside at 20.6% and MAXIS&rsquo;s at 4.5%, against a six-stock sector on a 17.3x one-year forward core PER and a 5.4% net dividend yield. Three of the other four names in that table can be checked against this board&rsquo;s own record and all three agree exactly: TIMECOM at OUTPERFORM with a RM7.26 target (verified here on 28 August), AXIATA at MARKET PERFORM with RM1.95 and OCK at OUTPERFORM with RM0.550 (both verified on 1 September). TELEKOM MALAYSIA at OUTPERFORM with RM9.11 has no standalone Kenanga report on this board and is unverified.",
+    "What is actually being put on the books, and when. DNB&rsquo;s privatisation is expected to complete in 4QCY26, after which CDB, MAXIS and YTLPOWR each begin equity accounting for a 33.3% stake. Kenanga&rsquo;s base case has DNB&rsquo;s net loss narrowing to RM750m in FY25F and FY26F from RM1,213.3m in FY24, then to RM500m in FY27F - which it books as RM62m of associate losses for each of CDB and MAXIS in FY26, described as less than 5% of annual group PAT, rising to an 8% earnings impact for both in FY27F. The bull case has losses contracting to RM375m in FY26F and reaching breakeven in FY27F; the bear case has the RM1.2bn FY24 loss persisting through FY27F. The company behind those forecasts is thinly documented and Kenanga says so: its figures come from SSM filings showing FY24 revenue of RM341.2m, LAT of RM1,213.3m, retained losses of RM3,162.5m and negative shareholders&rsquo; equity of RM1,729.1m, and the note states that public visibility on DNB&rsquo;s profitability, operating cash flows, liquidity, debt obligations and future funding needs &lsquo;remains limited&rsquo;. Kenanga&rsquo;s own FY27F earnings sit 19% below consensus for CDB and 7% below for MAXIS, which it offers as evidence that the base case is conservative.",
+    "The comparison that produces the pick. CDB at RM2.72 trades at 21.3x base-case FY27F EPS, which the note identifies as -2SD of a 26.2x historical mean; MAXIS at RM3.54 trades at 18.1x against a 19.7x mean. Bull cases assume mean reversion, giving RM3.72 for CDB (+37%) and RM4.28 for MAXIS (+21%); bear cases assume sustained DNB losses plus a de-rating, giving RM2.02 for CDB (-26%) and RM2.82 for MAXIS (-20%). The asymmetry survives a deliberately unequal test - CDB is stressed to -3SD, MAXIS to -1SD - which is Kenanga&rsquo;s stated reason for confidence in it. The second leg is earnings momentum: consensus FY27E EPS downgrades for MAXIS inflected in Feb 2025 and the stock is up just 6.3% in the 18 months since, while CDB&rsquo;s downgrades are described as stabilising without a clear inflection. Kenanga expects that turn as CDB reaches steady-state post-merger cost savings of RM800m a year, driving a 5-6ppt EBIT margin expansion against pre-merger levels, and states that neither its own forecasts nor consensus fully reflect those savings.",
+    "The funding question, and why Kenanga is relaxed about it in the near term but not in principle. Each MNO has committed about RM880m to DNB to date: shareholders&rsquo; advances of RM233.2m (Jun 2024), RM116.7m (Aug 2025) and RM202.0m (Apr 2026), totalling RM552m, plus RM327.9m for MoF Inc.&rsquo;s stake including the assumption of its residual loan, with completion expected in 4QCY26. The advances are non-interest-bearing, not repayable on demand, carry one vote per ringgit and are treated as prepayments under the access agreements. Kenanga assumes <i>no</i> further advances in FY27F, and tests RM200m/RM500m scenarios: CDB&rsquo;s FY27F net debt/EBITDA would go to 2.17x/2.22x from 2.13x, against a 2.5x internal ceiling, leaving RM1.55b-RM1.85b of headroom versus RM2.05b in the base case; MAXIS&rsquo;s would go to 1.75x/1.82x from about 1.70x. Its conclusion is that a limited number of further cash calls would not materially affect dividend capacity - and that the real risk is the one it cannot size: &lsquo;if shareholder funding becomes recurrent over a prolonged period, we would be concerned&rsquo;, particularly if DNB&rsquo;s path to sustainable cash-flow breakeven takes longer than expected.",
+    "Why this row reads Positive, and what sits outside the note. The pick is declared in Kenanga&rsquo;s own words on page 1 - &lsquo;This, coupled with its more attractive risk-reward, makes CDB our preferred MNO play over MAXIS&rsquo; - and repeated in substance in the conclusion, which states Kenanga remains &lsquo;positive on CDB, where the potential upside materially outweighs the downside&rsquo;. Searching the 12 pages for this board&rsquo;s full conviction list returns that sentence for &lsquo;preferred&rsquo; and nothing for top pick, sector pick, our pick, most attractive, we like, favour or favourite; the Kenanga Signal therefore rests on a single sentence, which is quoted verbatim on this row. Note what the pick is <i>not</i>: it is relative, between two mobile operators, inside a sector Kenanga rates NEUTRAL, and it names no stock outside its own coverage. Two dating points are worth carrying. The note measures each stock from a different baseline - MAXIS from the Mar 2021 SWN announcement, CDB from its Dec 2022 post-merger listing - so the &lsquo;c.24%-31%&rsquo; regulatory drag it attributes to both is not measured over the same period. And the RM2.72 and RM3.54 prices used throughout predate this edition&rsquo;s own 11 September market data, on which the KLCI fell 1.10% to 1,686.7, its lowest close carried on this board."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "RHB Research",
+    "date": "18 Aug 2026",
+    "opp": false,
+    "note": "<b>No named house declares a pick on either stock in the most recent publicly retrievable coverage</b>, so this row&rsquo;s Analyst Signal reads <b>None stated</b>. On <b>CDB</b>, the latest dated calls follow the 2Q results: <b>RHB Research</b>, 18 August 2026 - BUY maintained, target price raised to RM3.70 from RM3.50, on &lsquo;the stronger realisation of operational expenditure savings fuelling double-digit earning per share growth&rsquo;; and <b>Hong Leong Investment Bank</b>, same date - BUY maintained, target price RM3.70, &lsquo;constructive on management&rsquo;s ongoing focus on cost discipline&rsquo;. RHB&rsquo;s earlier note, reported 7 July 2026 (analyst Jeffrey Tan), had BUY at RM3.50 with FY27 earnings growth of 18.4% - superseded by the August note under this board&rsquo;s most-recent-statement rule. Both point the same way as Kenanga&rsquo;s OUTPERFORM. On <b>MAXIS</b>, reporting dated 26 August 2026 carries <b>BIMB Research</b> at SELL with a RM3.30 target, <b>Phillip Capital Research</b> at HOLD with RM3.78, <b>UOB Kay Hian Research</b> at BUY with RM4.20, <b>Hong Leong Investment Bank</b> at BUY with RM4.45 and <b>MBSB Research</b> at RM4.31 with no rating stated in that report. HLIB&rsquo;s accompanying line - &lsquo;We like Maxis given its resilient postpaid momentum and disciplined cost management&rsquo; - is an investment case rather than a pick declaration, and is treated the same way this board treated Kenanga&rsquo;s own &lsquo;We like BAUTO for...&rsquo; sentence on 11 September. <b>Two of the nine houses this board searches</b> - RHB Investment Bank and Hong Leong Investment Bank - yielded dated, publicly retrievable calls during this run; CIMB Securities, Maybank Investment Bank, AmInvestment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang did not produce a dated September note on either stock. BIMB, Phillip Capital, UOB Kay Hian and MBSB sit outside those nine. <b>Read the dating carefully</b>: every non-Kenanga call above predates this 14 September thematic by two-and-a-half to three weeks and none of them responds to it, so they are coverage of the same stocks rather than reaction to this note. <b>On divergence</b>: HLIB and UOB Kay Hian rate MAXIS BUY against Kenanga&rsquo;s MARKET PERFORM, and BIMB rates it SELL - opposite directions in both directions at once. The marker is not set on this row because it carries no Kenanga rating of its own; the underlying calls are recorded here instead.",
+    "cites": [
+     [
+      "The Star, 18 Aug 2026 &mdash; &lsquo;Cost savings set to ramp up CelcomDigi 2H showing&rsquo; (RHB BUY TP RM3.70; HLIB BUY TP RM3.70)",
+      "https://www.thestar.com.my/business/business-news/2026/08/18/cost-savings-set-to-ramp-up-celcomdigi-2h-showing"
+     ],
+     [
+      "The Star, 26 Aug 2026 &mdash; &lsquo;Mixed outlook for Maxis on DNB equity accounting&rsquo; (BIMB SELL RM3.30; Phillip Capital HOLD RM3.78; UOB Kay Hian BUY RM4.20; HLIB BUY RM4.45; MBSB RM4.31)",
+      "https://www.thestar.com.my/business/business-news/2026/08/26/mixed-outlook-for-maxis-on-dnb-equity-accounting"
+     ],
+     [
+      "The Edge Malaysia via KLSE Screener, 7 Jul 2026 &mdash; &lsquo;CelcomDigi earnings seen accelerating in FY27 on post-merger cost savings&rsquo; (RHB BUY TP RM3.50, superseded)",
+      "https://www.klsescreener.com/v2/news/view/1750489/celcomdigi-earnings-seen-accelerating-in-fy27-on-post-merger-cost-savings"
+     ],
+     [
+      "Business Today, 14 Sep 2026 &mdash; &lsquo;Are Risks On DNB&rsquo;s Financial Reflected In Maxis And CelcomDigi&rsquo;s Valuation?&rsquo; (external reporting of this same Kenanga note; no non-Kenanga house call)",
+      "https://www.businesstoday.com.my/2026/09/14/are-risks-on-dnbs-financial-reflected-in-maxis-and-celcomdigis-valuation/"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/Telecommunication-260914-SU-Thematic-MNOs-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Three points of caution on this row. (1) <b>One sentence contradicts the note&rsquo;s own table.</b> The text reads &lsquo;The population outside the labour force <i>fell</i> (0.01%; Jun: 0.09%) to 7.110m&rsquo;, but Table 1 shows that population <i>rising</i> from 7,109.8k in June to 7,110.5k in July - an increase of about 0.01%, not a decrease. The table is the reading the rest of the document supports, since the labour force, employment and the participation rate all rose in the same month. Reported as printed. (2) <b>This note and the Distributive Trade note published in the same bundle describe the same GDP figure differently.</b> Here: &lsquo;we raised our 2026 GDP growth forecast to 5.3% (2025: 5.2%)&rsquo;. There: &lsquo;we maintain our 2026 GDP growth forecast at 5.3% (2025: 5.2%)&rsquo;. This board&rsquo;s 1 September Manufacturing PMI row already carried 5.3% as the standing house forecast, which supports &lsquo;maintain&rsquo;. The number is identical in all three places, so there is no numerical contradiction to resolve - only the framing differs, and both are reproduced as printed. (3) Several typographical slips in the retrieved text are carried as printed: the title reads &lsquo;Unemployment rate hold at 3.0%&rsquo;, and the body contains &lsquo;own-account workersup&rsquo;, &lsquo;for ther first time&rsquo;, &lsquo;Early September data warrant caution, The 3,128 cases...&rsquo; and &lsquo;the ongoing the global E&amp;E upcycle&rsquo;.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "MY Labour Market (Jul-26)",
+   "name": "Malaysia Labour Market (Jul-26): Unemployment rate hold at 3.0% - resilient, but easy gains are behind us",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "Unemployment held at 3.0% in July (Jun: 3.0%) on 520.3k unemployed, with employment growth edging up to +0.1% MoM and the labour force participation rate at a record 70.9% for a seventh straight month. Kenanga keeps its 2026 unemployment rate forecast at 2.9% (2025: 3.0%) on strong domestic activity, and states a 2026 GDP growth forecast of 5.3% (2025: 5.2%). The note's own caution is that forward indicators are two-sided: Loss of Employment cases fell in August but the early-September run-rate is higher, and job vacancies are rising faster than placements.",
+   "quote": "The unemployment rate held at 3.0% in July (Jun: 3.0%), reflecting a stable job market.",
+   "summary": [
+    "The headline held, but only because the denominator grew. Unemployment rose to 520.3k from 517.8k - a fourth consecutive monthly increase on Table 1 - while the labour force rose to 17,365.9k from 17,344.9k and employment to 16,845.6k from 16,827.1k. Those two figures give 520.3/17,365.9 = 3.00%, which is the reconciliation behind the unchanged rate and is arithmetic on the note&rsquo;s own table rather than a stated calculation. The year-on-year picture is where the direction of travel shows: the fall in unemployment has flattened to -0.2% YoY in July, from -0.7% in June and -5.8% in July 2025. Kenanga&rsquo;s own framing of the month is that growth in the unemployed <i>eased</i> - +0.5% MoM against +0.9% in June - which is a slower increase, not a decline.",
+    "Hiring picked up slightly and broadly. Employment growth edged up to +0.1% MoM from 0.0%. Services remained the main driver, led by arts, entertainment and recreation, accommodation and food and beverage services, and financial and insurance/takaful activities, with employment also growing in agriculture, mining and quarrying, manufacturing and construction. By status every category rose: employees +0.1% MoM (Jun: 0.0%), own-account workers +0.3% (Jun: 0.0%), employers +0.3% (Jun: 0.1%), and unpaid family workers +0.1% after six straight months of decline. Among the actively unemployed - those available and actively seeking work - the count rose 0.4% to 412.6k and their share of total unemployment eased to 79.3% from 79.4%.",
+    "Participation is at a record and has stopped moving. The labour force participation rate held at 70.9% for a seventh consecutive month, against 70.8% in July 2025. That is the statistical basis for the title&rsquo;s claim that the easy gains are behind us: with participation flat at a record and the labour force growing only 1.0% YoY, further falls in the unemployment rate have to come from employment growth outpacing labour-force growth, and in July the two grew at the same +0.1%. This is also where the note contradicts its own table - it describes the population outside the labour force as having fallen, while Table 1 shows it rising to 7,110.5k from 7,109.8k. See the flag on this row.",
+    "The forward indicators point both ways and Kenanga presents both. On the improving side, PERKESO&rsquo;s MYFutureJobs data show Loss of Employment cases falling to 7,526 in August from 9,013 in July, and active job vacancies rising to 368,642 at end-August from 242,434 - a jump of about 52%, computed here. On the deteriorating side, 3,128 LOE cases as of 10 September imply a monthly pace above August&rsquo;s if sustained (roughly 9,400 over a 30-day month on the same arithmetic, a figure derived here and not printed in the note), and job placements eased to 26,468 from 28,365 - which Kenanga reads as vacancies &lsquo;not fully turning into hires&rsquo;. Services accounted for the largest share of retrenchments, followed by manufacturing. Regionally, Japan&rsquo;s unemployment rate fell to 2.4% from 2.5%, its lowest in almost a year, and Taiwan&rsquo;s held at 3.3%.",
+    "The forecasts, and why the Kenanga Signal reads None stated. The 2026 unemployment rate forecast is kept at 2.9% against 3.0% in 2025, supported by firm domestic demand, stronger tourist arrivals under Visit Malaysia 2026 and the global electrical and electronics upcycle. The note then states a 2026 GDP growth forecast of 5.3% (2025: 5.2%) and describes it as raised - while the Distributive Trade Economic Viewpoint in the same bundle describes the same 5.3% as maintained, and this board&rsquo;s 1 September Manufacturing PMI row already carried 5.3%. The figure agrees everywhere; only the verb differs, and both are flagged on this row rather than reconciled. Searching the note for this board&rsquo;s full conviction list - top pick, sector pick, our pick, preferred, most attractive, we like, favour, favourite - returns nothing; an Economic Viewpoint carries no stock call, so the Kenanga Signal reads None stated and no Analyst Signal is sought."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/EV_Labour-Market_Jul26_260914-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Two points of caution on this row, both presentational rather than numerical - every figure quoted here reconciles against Table 1 of the note. (1) <b>The same GDP figure is framed differently in the two Economic Viewpoints published in this bundle.</b> This note says &lsquo;we maintain our 2026 GDP growth forecast at 5.3% (2025: 5.2%)&rsquo;; the Labour Market note says &lsquo;we raised our 2026 GDP growth forecast to 5.3% (2025: 5.2%)&rsquo;. This board&rsquo;s 1 September Manufacturing PMI row already carried 5.3% as the standing house forecast, which supports the &lsquo;maintain&rsquo; wording here. The number is the same in all three places, so nothing is in numerical conflict. (2) Typographical slips in the retrieved text, carried as printed: the title reads &lsquo;Spending loss steam&rsquo; (for loses steam), a bullet reads &lsquo;Broad-based moderation across sub-sector&rsquo;, a sentence closes without its bracket (&lsquo;See Economic Viewpoint: Malaysia Distributive Trade&rsquo;), the retail bullet runs two sentences together (&lsquo;(7.5%; Jun: 10.8%).Stronger sales...&rsquo;), and the page-2 footer repeats a contact line followed by a stray &lsquo;Head of Research&rsquo;.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "MY Distributive Trade (Jul-26)",
+   "name": "Malaysia Distributive Trade (Jul-26): Spending loss steam as 2H26 leans on labour and tourism",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "Distributive trade sales growth eased for a third straight month to 9.0% YoY in July (Jun: 10.1%), the slowest in five months, on sales value of RM170.5b. Retail trade slowed to 6.4%, wholesale to 11.7% and motor vehicles to 7.9% from 14.9%, while month-on-month growth rebounded to +1.2% after two straight contractions. Kenanga maintains its 2026 distributive trade growth forecast at 8.1% (2025: 5.6%) and its 2026 GDP growth forecast at 5.3% (2025: 5.2%), flagging upside risk from tourism, labour and export spillovers against three consecutive months of deceleration.",
+   "quote": "Distributive trade sales eased for the third straight month to 9.0% YoY in July (Jun: 10.1%), the slowest pace in five months.",
+   "summary": [
+    "The annual rate slowed while the month itself improved, and the note keeps the two apart. Year-on-year growth of 9.0% is the third consecutive moderation and the slowest in five months, down from an April peak of 15.3% on Table 1. But month-on-month growth rebounded to +1.2% after -1.6% in June and two straight contractions, and sales value of RM170.5b (Jun: RM168.5b) is a two-month high sitting above the year-to-date monthly average of RM167.2b. The RM170.5b against RM168.5b is +1.19%, consistent with the stated +1.2%.",
+    "Motor vehicles is where the deceleration is concentrated. The segment slowed to 7.9% YoY from 14.9%, with Sales of Motor Vehicles alone at 8.3% from 22.3% - a 14ppt fall, the largest of any line in the table, on a 6.2% share of the total. The note points out that this happened even as unit car sales <i>rose</i>, to 73.6k units from 70.1k in July 2025, and month-on-month growth held firm at +5.7%. Table 1 shows why Kenanga calls the segment volatile: the six monthly readings from February to July are -5.3%, -3.1%, +15.5%, -2.3%, +14.9% and +7.9%.",
+    "Wholesale remains the fastest-growing half and is decelerating from an extreme. It eased to 11.7% from 12.4%, weighed by machinery, equipment and supplies at 3.1% (Jun: 6.4%) and Other Specialised wholesale at 22.8% (Jun: 25.3%). That Other Specialised line is the single largest sub-sector in the table at 16.3% of distributive trade, and its own 2026 path - 3.7%, 32.0%, 52.0%, 42.6%, 25.3%, 22.8% from February to July - is what has driven most of the headline&rsquo;s rise and now most of its fall. Wholesale&rsquo;s month-on-month growth rebounded to +2.1% after -4.9%.",
+    "Retail is the steadiest line and the one with the weakest momentum underneath. It slowed only marginally, to 6.4% from 6.6%, with automotive fuel in specialised stores named as the drag at 7.5% from 10.8% and Other Goods in Specialised Stores partly offsetting at 7.6% from 7.0%. But retail&rsquo;s month-on-month growth turned negative at -1.0% from +0.2% - the only one of the three segments to do so in a month when the headline rebounded. Regional retail softened in the same month: Singapore at 1.5% from 4.0%, a six-month low on weaker food and department-store sales, and Hong Kong at 4.5% from 4.6%, an 11-month low on adverse weather and continued outbound travel by residents.",
+    "The forecasts are held with an explicitly two-sided justification, and the signal reads None stated. Kenanga maintains 2026 distributive trade growth at 8.1% (2025: 5.6%) and says retail and wholesale have moderated <i>less</i> than initially expected, pointing to reasonably firm domestic demand entering 2H26, with upside risk from stronger tourism-related spending, a resilient labour market and spillovers from export-oriented industries - then adds that three straight months of slower growth keep it cautious. The 2026 GDP growth forecast is maintained at 5.3% (2025: 5.2%), matching this board&rsquo;s 1 September Manufacturing PMI row, though the Labour Market note in this same bundle describes that figure as raised rather than maintained; see the flag. The two supports named here - labour and tourism - are the same two the Labour Market note leans on, and the two notes share the same four-economist byline. Searching the note for this board&rsquo;s full conviction list returns nothing, and an Economic Viewpoint carries no stock call, so the Kenanga Signal reads None stated and no Analyst Signal is sought."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/EV_Distributive-Trade_Jul26_260914-Kenanga.pdf"
+  }
+ ]
+}
