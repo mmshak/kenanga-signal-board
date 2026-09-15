@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T20:13:51.237Z",
+ "generatedAt": "2026-09-15T05:56:37.302Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -14,10 +14,11 @@
   "2026-09-09",
   "2026-09-10",
   "2026-09-11",
-  "2026-09-14"
+  "2026-09-14",
+  "2026-09-15"
  ],
- "rows": 99,
- "verified": 98,
+ "rows": 100,
+ "verified": 99,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -194,6 +195,12 @@
    "date": "2026-09-14",
    "row": "MY Distributive Trade (Jul-26)",
    "msg": "Two points of caution on this row, both presentational rather than numerical - every figure quoted here reconciles against Table 1 of the note. (1) <b>The same GDP figure is framed differently in the two Economic Viewpoints published in this bundle.</b> This note says &lsquo;we maintain our 2026 GDP growth forecast at 5.3% (2025: 5.2%)&rsquo;; the Labour Market note says &lsquo;we raised our 2026 GDP growth forecast to 5.3% (2025: 5.2%)&rsquo;. This board&rsquo;s 1 September Manufacturing PMI row already carried 5.3% as the standing house forecast, which supports the &lsquo;maintain&rsquo; wording here. The number is the same in all three places, so nothing is in numerical conflict. (2) Typographical slips in the retrieved text, carried as printed: the title reads &lsquo;Spending loss steam&rsquo; (for loses steam), a bullet reads &lsquo;Broad-based moderation across sub-sector&rsquo;, a sentence closes without its bracket (&lsquo;See Economic Viewpoint: Malaysia Distributive Trade&rsquo;), the retail bullet runs two sentences together (&lsquo;(7.5%; Jun: 10.8%).Stronger sales...&rsquo;), and the page-2 footer repeats a contact line followed by a stray &lsquo;Head of Research&rsquo;."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-15",
+   "row": "KGB",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The peer average behind the target price cannot be reproduced from the report's own table.</b> The TP is set at 37x FY27F PER, stated as a 10% discount to the average FY27 PER of 41.3x for local semiconductor front-end peers named as UWC, Frontken and Vitrox. But VITROX does not appear anywhere in the Malaysian Technology Peers Comparison on page 3, and the two named peers that do appear show two-year forward core PERs of 39.3x (UWC) and 31.7x (FRONTKEN), which average 35.5x rather than 41.3x. The 41.3x is therefore drawn from a peer set the document does not print. (2) <b>KGB's own ROE is given two ways.</b> The Financial Data & Ratios table on page 2 shows FY26F ROE of 24.5% and FY27F of 27.1%; the peer table on page 3 shows 27.8% for the one-year forward period, which every other column in that row (core EPS 21.7 sen, PBV 9.7x, net dividend 15.0 sen, yield 1.7%) identifies as FY26F. (3) <b>The exchange rate implied by the contract conversion is not the one in the same day's digest.</b> USD249.9m as c.RM1.01b and USD202.0m as c.RM817m both imply about RM4.04 to the dollar, against the 14 September USD/MYR fix of 4.0753 printed in Kenanga Today the same morning. (4) <b>Earnings growth and EPS growth diverge sharply and the report does not explain why.</b> Core net profit rises 30.6% in FY26F (RM151m to RM197m) while core EPS rises only 6.9% (20.3 sen to 21.7 sen), which implies the share base expands by roughly a fifth - about 744m shares implied for FY25A against about 908m for FY26F, versus 880.4m shares outstanding in the stock-information box. The report carries no note on share issuance, warrant conversion or dilution. This divergence is identified here, not in the report. (5) The 52-week range in Kenanga's own stock-information box (H RM9.20, L RM4.75) differs from the market data used in this row's range columns (stockanalysis.com: RM9.25 / RM4.70)."
   }
  ],
  "verdict": "PASS"

@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-15",
+ "schema": 1,
+ "daily": {
+  "klci": 1698.0,
+  "chg": 11.27,
+  "pct": 0.67,
+  "inst": -100.7,
+  "instPct": 41.3,
+  "retail": 50.2,
+  "retailPct": 28.0,
+  "foreign": 50.6,
+  "foreignPct": 30.7,
+  "ideas": "Company Update: KGB",
+  "news": [
+   {
+    "h": "Exsim Hospitality secures RM42.5m building works subcontract",
+    "body": "Exsim Hospitality Bhd has secured RM42.5m worth of subcontract works to supply, install, test and commission building services and carry out general building works. The group said its subsidiary Exsim Concepto Sdn Bhd, which specialises in specialised fit-out services for hospitality property assets, was awarded the contract by Taghill Projects Sdn Bhd. The group said that works will begin on Sept 15, 2026, and run for a duration of 24 months. (The Edge Malaysia)",
+    "takeaways": [
+     "The start date is the date of this edition. Works begin on Sept 15, 2026 and run 24 months, which puts completion around September 2028 and implies an average of about RM1.8m of work a month. Both the completion date and the monthly run-rate are arithmetic on the item's own two figures; neither is printed, and no margin, payment schedule or retention term is given.",
+     "This is a subcontract, so the direct counterparty is a private main contractor, Taghill Projects Sdn Bhd, rather than a project owner. The item names no end client, no parent project, no gross development value and no location, which is unusual for a construction item on this board - the four construction awards carried in the past week all identified at least the site.",
+     "The scope is building services plus general building works - supply, install, test and commission. That is mechanical-and-electrical work with a general-build component attached, and it is a different activity from the fit-out specialism the item attributes to the recipient.",
+     "The recipient is named rather than left as 'a wholly-owned unit': Exsim Concepto Sdn Bhd, described as specialising in specialised fit-out services for hospitality property assets. The item does not state Exsim Hospitality's ownership percentage in it, so the share of the RM42.5m that accrues to the group cannot be established from the retrieved source.",
+     "Against the company's own recent scale, this is meaningful but not transformative. This board's 24 August edition carried Exsim Hospitality's full-year result, in which the fit-out business generated RM213.0m of external revenue, up 53.8% from RM138.5m, on group revenue of RM281.2m and net profit of RM40.8m. RM42.5m is about a fifth of one year of that fit-out revenue, spread across two years - a ratio computed here from the two editions' figures, not stated in either. No report in the 15 September bundle covers Exsim Hospitality, construction or hospitality property."
+    ]
+   },
+   {
+    "h": "DSR Taiko, Pahang agency to create authenticity system for Musang King durians",
+    "body": "DSR Taiko Bhd has signed a deal with the Pahang State Development Corporation (PKNP) to establish a verified origin standard and export traceability for Pahang Musang King (PMSK) durians. The two parties have signed a memorandum of understanding to work together to create an authentication, certification and verification system, introducing the PMSK origin label as a mark of authenticity and quality, said DSR in a statement. (The Edge Malaysia)",
+    "takeaways": [
+     "Nothing is sized. It is a memorandum of understanding with no contract value, no volume, no fee structure, no duration and no commencement date, so it cannot be converted into revenue from the retrieved source. It is the only one of this edition's five corporate items that carries no ringgit figure at all.",
+     "What is being created is a label and a process, not a product: an authentication, certification and verification system, with the PMSK origin label introduced as a mark of authenticity and quality. The item does not say who pays for certification, who administers it, or whether use of the label is compulsory for Pahang growers.",
+     "The counterparty is a state agency, the Pahang State Development Corporation (PKNP), which places the arrangement at state rather than federal level. No federal body, certification standard or accreditation authority is named.",
+     "Export traceability is stated as an explicit objective alongside the origin standard, but no export market, buyer, importing-country requirement or volume is named anywhere in the item.",
+     "An MOU is the weakest form of commitment carried in this edition - the other four items are an awarded subcontract, a funded asset purchase, a released order and a filed quarterly result. No report in the 15 September bundle covers DSR Taiko, agriculture or consumer, and DSR Taiko carries no Kenanga rating anywhere on this board."
+    ]
+   },
+   {
+    "h": "NuEnergy to invest RM48.8m in rooftop solar project at govt agency",
+    "body": "NuEnergy Holdings Bhd said it is investing in solar photovoltaic (PV) facilities worth RM48.8m across 49 rooftop sites at the premises of a government agency. NuEnergy said its wholly-owned unit, IL Energy Sdn Bhd, will acquire and retain ownership of the solar PV systems, which will form part of the renewable energy group's portfolio of owned renewable energy assets. The development of the facilities with an aggregate capacity of 21 megawatt-peak (MWp) will be undertaken by the subsidiary of the government agency as the main engineering, procurement, construction and commissioning (EPCC) contractor. (The Edge Malaysia)",
+    "takeaways": [
+     "This is an asset purchase, not a contract win, and that distinction governs how the RM48.8m reads. IL Energy Sdn Bhd will acquire and retain ownership of the systems as part of an owned renewable-energy portfolio, so the figure is capital deployed rather than revenue booked, and the return arrives over the assets' operating life rather than over a construction period.",
+     "The implied cost is about RM2.3m per megawatt-peak, and the average site is about 430 kilowatt-peak - RM48.8m across an aggregate 21 MWp over 49 rooftops. Both figures are arithmetic here; neither is printed, and the item offers no comparable installed cost against which to judge them.",
+     "NuEnergy is not building it. The EPCC main contractor is a subsidiary of the government agency whose rooftops are being used, so the host, the landlord and the builder are the same group while NuEnergy supplies the capital and holds the asset. The item does not explain the structure or say how the construction risk is allocated.",
+     "The counterparty is unnamed, and so is everything that would determine the return: no government agency is identified, and no tariff, power purchase agreement, contract tenure, offtake commitment or expected generation yield appears. No payback period can be computed from the retrieved source.",
+     "It is the third energy-transition corporate item on this board in seven sessions, after Key Asic's green AI data centre memorandum on 7 September and Cape EMS's residential battery-storage distribution tie-up on 11 September - and the first of the three to attach a committed ringgit figure to owned assets. No report in the 15 September bundle covers NuEnergy, utilities or renewables."
+    ]
+   },
+   {
+    "h": "GFM bags additional RM37.4m contract for turnaround works at Pengerang Integrated Complex",
+    "body": "GFM Services Bhd said it has received an additional release order worth RM37.4m for major turnaround works at the Pengerang Integrated Complex in Johor. GFM said the additional works, awarded to its 60.0%-owned subsidiary Shapadu CR Asia Sdn Bhd (SCRA) by Pengerang Refining Company Sdn Bhd, raises the contract value to RM104.2m from RM66.8m. Meanwhile, the value of its other contract with PETRONAS Chemicals Isononanol Sdn Bhd - held via wholly-owned unit Highbase Strategic Sdn Bhd - remains unchanged at RM16.4m. (The Edge Malaysia)",
+    "takeaways": [
+     "The digest states the size of this award two ways, and only one of them reconciles. The News Highlights line on page 1 reads RM37.0m; the Corporate News body on page 2 reads RM37.4m, and RM37.4m is what the item's own contract values require - RM104.2m less RM66.8m is exactly RM37.4m. Both are reproduced as printed here, with the RM37.4m reading the one the arithmetic supports.",
+     "It is an extension of existing work, not a new contract. An additional release order raises the value of a live contract by 56% - RM37.4m on RM66.8m - which is a substantial uplift on a single order but tells nothing about new client relationships. Derived from the item's figures; the percentage is not printed.",
+     "GFM does not keep all of it. The work sits in 60.0%-owned Shapadu CR Asia Sdn Bhd, so roughly RM22.4m of the additional RM37.4m is attributable to GFM on the stated ownership share - arithmetic here, and before any margin, which the item does not disclose.",
+     "The item also confirms what has not moved: the separate contract with PETRONAS Chemicals Isononanol Sdn Bhd, held through wholly-owned Highbase Strategic Sdn Bhd, remains unchanged at RM16.4m. Total disclosed contract value across the two is RM120.6m - computed here from the item's own figures.",
+     "Turnaround work is scheduled maintenance at a plant already in operation, so it is recurring rather than new-build, and the awarder, Pengerang Refining Company Sdn Bhd, sits inside the refining and petrochemical complex this board's 1 September Oil & Gas sector note discussed in the context of the PRefChem stake transaction. The item gives no duration or completion date, and no report in the 15 September bundle covers GFM, facilities management or downstream oil and gas."
+    ]
+   },
+   {
+    "h": "Pioneer Heat logs RM2.8m net profit in 1Q",
+    "body": "ACE Market-bound Pioneer Heat Holdings Bhd recorded a net profit of RM2.8m for its first quarter ended June 30, 2026 (1QFY2027), on a revenue of RM29.7m. This was the group's first interim financial report announced under the Bursa Malaysia ACE Market Listing Requirements, and therefore no comparative figures were provided for the corresponding quarter or immediate preceding quarter, said the mechanical and civil engineering services provider in a bourse filing. No dividend was declared during the quarter under review. (The Edge Malaysia)",
+    "takeaways": [
+     "The net margin is about 9.4% - RM2.8m on RM29.7m of revenue. That is arithmetic here rather than a printed figure, and it is the only profitability measure the item permits, since no gross margin, order book or cost breakdown is given.",
+     "There is nothing to compare it against, and the item says so. This is the group's first interim financial report under the Bursa Malaysia ACE Market Listing Requirements, so no comparative figures were provided for either the corresponding quarter or the immediately preceding quarter. No growth rate, seasonality or trend can be established from the retrieved source.",
+     "The description is internally odd and is carried as printed: the company is called 'ACE Market-bound' while simultaneously filing its first interim report under the ACE Market Listing Requirements.",
+     "The fiscal calendar implies a March year-end. A quarter ended June 30, 2026 labelled 1QFY2027 puts the financial year end at March 2027 - an inference from the two dates in the item, not a statement in it.",
+     "No dividend was declared, which is unremarkable for a first reported quarter. The business is described only as a mechanical and civil engineering services provider, and this is the only earnings item among this edition's five corporate bits - the other four being a subcontract award, an asset investment, a release order and a memorandum of understanding. No report in the 15 September bundle covers Pioneer Heat or engineering services."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Germany to lobby EU on new China policy, may seek more tariffs - Bloomberg",
+    "region": "Global",
+    "body": "Germany is preparing a far-reaching package of economic-security measures to shield strategic industries from China that may include new tariffs on hybrid electric vehicles. (The Edge Malaysia)",
+    "takeaways": [
+     "Nothing has been decided. Germany is 'preparing' a package that 'may include' new tariffs; no value, no tariff rate, no legislative step, no EU process stage and no timetable appears, and the item does not say whether other member states support it.",
+     "Where the item is specific, it is narrow: hybrid electric vehicles are the single product category named, inside a package framed much more broadly as shielding strategic industries.",
+     "The framing is economic security rather than trade remedy - protection of strategic industries, not an anti-dumping or subsidy case. The distinction matters because it implies a different legal route, though the item names none.",
+     "It is the second measure aimed at China from the European side carried on this board in four sessions, after the 10 September item on the EU targeting China with 'Made in Europe' public-contract rules. The digest connects the two nowhere.",
+     "It is also one of only two Global items in this edition's nine macro bits, the other being the Fed rate-hike expectation. No report in the 15 September bundle carries a Kenanga view on Europe, China trade policy or autos - the bundle is a single Company Update on KGB."
+    ]
+   },
+   {
+    "h": "Global banks expect Fed rate hike after inflation surprises",
+    "region": "Global",
+    "body": "A growing number of brokerages expect the Federal Reserve to raise rates this week after stronger-than-expected inflation readings raised doubts that price pressures would ease without further tightening. (The Edge Malaysia)",
+    "takeaways": [
+     "This is an expectation about the coming week, not a decision. The item names no brokerage, no size of move, no vote expectation and no decision date beyond 'this week', so the strength of the consensus cannot be judged from the retrieved source.",
+     "The stated cause is data rather than guidance: stronger-than-expected inflation readings raising doubts that price pressures would ease without further tightening.",
+     "The thread has run continuously on this board. 1 September carried Fed Chair Warsh signalling that hikes may be needed; 7 September that the decision still hung on inflation; 11 September the August producer-price print; and 14 September both 'Fed rate-hike case builds as inflation fails to cool' and the August consumer inflation pick-up. This edition is where that sequence arrives at the meeting itself.",
+     "US equities fell on the session this edition reports - Dow Jones -0.29%, S&P 500 -0.48%, Nasdaq -0.56% - reversing the +0.98%/+0.86%/+0.96% that the 14 September edition carried for the previous session. The digest attributes the move to nothing.",
+     "Tightening is the direction in three of this edition's nine macro bits: this one, the ECB's Kazaks arguing for more, and the BOJ official warning on non-linear inflation spikes. No report in the 15 September bundle carries a Kenanga view on the Fed or on US monetary policy, and there is no Economic Viewpoint in the bundle at all."
+    ]
+   },
+   {
+    "h": "Malaysia to strengthen economic cooperation, trade and investment with Keralam",
+    "region": "Malaysia",
+    "body": "Prime Minister Datuk Seri Anwar Ibrahim and Keralam Chief Minister VD Satheesan on Monday discussed efforts to strengthen economic cooperation and facilitate greater trade and investment between Malaysia and India's southern state, Keralam, formerly known as Kerala. (The Edge Malaysia)",
+    "takeaways": [
+     "It is a discussion, and at sub-national level. The counterparty is a state chief minister, VD Satheesan of Keralam, not the Indian union government - so whatever follows would run through a state administration. No memorandum, sector, investment figure, company or timetable is named.",
+     "The most concrete fact in the item is the renaming: Keralam, formerly known as Kerala. Everything else is stated as intent.",
+     "'On Monday' is 14 September - the session whose market data this edition reports. The item does not make that connection; it is read here from the two dates.",
+     "It is one of two India items among this edition's four Malaysian macro bits, alongside MITI's follow-up on market access for Malaysian goods, and it extends the trail this board has carried since 11 September: the BRICS itinerary, then the Modi and Putin bilaterals on 14 September, now the state-level and ministry-level follow-ups.",
+     "India is also where the day's only Kenanga report points, though through an entirely different channel: KGB's record RM1.83b award is for a semiconductor wafer fab in Gujarat, a commercial contract in a different state, unrelated to these meetings. The digest draws no link between them and none should be inferred."
+    ]
+   },
+   {
+    "h": "Anwar: BRICS not about opposing other blocs, Malaysia seeks fairer global order",
+    "region": "Malaysia",
+    "body": "Malaysia has stressed that its participation in the 18th BRICS Leaders' Summit is not aimed at opposing any bloc, but rather at advocating a fairer international system and rules. (The Malaysian Reserve)",
+    "takeaways": [
+     "This is positioning, not policy. Nothing is proposed, signed, funded or scheduled - the content is a statement of what Malaysia's participation is not aimed at.",
+     "It is the third consecutive edition on this board to carry the same visit: 11 September reported the itinerary of high-level meetings with Modi and Putin, 14 September reported that both bilaterals had happened, and this edition supplies Malaysia's framing of why it attended.",
+     "The framing sits alongside a different one carried one session earlier. On 14 September this board recorded Xi Jinping unveiling initiatives to weld the 'Greater BRICS' into a practical platform for Global South development. 'Advocating a fairer international system and rules' is a narrower claim than that, and the digest does not reconcile the two.",
+     "The item is attributed to The Malaysian Reserve rather than The Edge Malaysia - one of three items in this edition from that publication, alongside the MITI market-access and MOF budget-tour bits. Four of the nine macro items in this edition come from sources other than The Edge.",
+     "No figure of any kind appears in this item, and no report in the 15 September bundle carries a Kenanga view on BRICS, trade blocs or foreign policy."
+    ]
+   },
+   {
+    "h": "MITI to follow up on efforts to widen market access for Malaysian goods in India, says Anwar",
+    "region": "Malaysia",
+    "body": "The Ministry of Investment, Trade and Industry (MITI) will follow up on efforts to widen access for Malaysian goods to the Indian market, said Prime Minister Datuk Seri Anwar Ibrahim. (The Malaysian Reserve)",
+    "takeaways": [
+     "What is committed is follow-up, not an outcome. MITI 'will follow up on efforts' - the item names no goods category, no tariff line, no non-tariff barrier, no target and no timetable, so there is nothing here that a later edition can measure against.",
+     "The instruction is reported second-hand, by the Prime Minister rather than by the ministry, and no MITI official is quoted. Nothing about the ministry's own workplan follows from the retrieved source.",
+     "It is the second of two India items among this edition's four Malaysian macro bits, and together with the Keralam discussion it makes India the most-referenced foreign market in the edition.",
+     "The channel is different from the one the day's single Kenanga report runs through. This item is about goods exports from Malaysia into India; KGB's RM1.83b Gujarat award is Malaysian engineering services delivered in India. They do not aggregate and the digest does not relate them.",
+     "The wider trade-access theme has been persistent on this board - Malaysia-Japan trade on 2 September, Malaysia-China and Malaysia-Indonesia bilateral trade on 4 September - but this is the first India-specific market-access item, and no report in the 15 September bundle carries a Kenanga view on trade policy."
+    ]
+   },
+   {
+    "h": "Amir Hamzah: MOF's budget tour to get industrial, NGO and people's input",
+    "region": "Malaysia",
+    "body": "The Ministry of Finance (MOF) is conducting a budget tour to gather views and suggestions from industry players, non-governmental organisations (NGOs) and members of the public nationwide as it prepares for Budget 2027. (The Malaysian Reserve)",
+    "takeaways": [
+     "It is a consultation process, not a measure. No policy, allocation, tax change or fiscal target appears, and the item gives no dates, no locations and no number of sessions for the nationwide tour.",
+     "The three constituencies named - industry players, NGOs and members of the public - are listed without any indication of how their input is weighted or whether submissions are published.",
+     "Budget 2027 is the destination, and the item states no tabling date for it, so the tour cannot be tracked to a decision point from the retrieved source.",
+     "It is the second Budget 2027 item on this board in three sessions. On 11 September the Digital Ministry was reported proposing that Budget 2027 include incentives for small businesses to adopt technology - one ministry asking another. This is the Finance Ministry collecting input rather than receiving an ask, so the two sit on opposite sides of the same process.",
+     "The Finance Minister II is named, which dates and attributes the statement. No report in the 15 September bundle carries a Kenanga view on fiscal policy or Budget 2027, and with no Economic Viewpoint in the bundle the most recent Kenanga macro notes on this board remain the 14 September pair on the labour market and distributive trade."
+    ]
+   },
+   {
+    "h": "BOJ executive saw need for vigilance to 'non-linear' inflation spikes",
+    "region": "Asia Pacific",
+    "body": "Japan saw inflation spike due to rising import costs and currency shocks, suggesting such price reactions needed to factor into monetary policy considerations, a central bank official was quoted as saying in conference notes released on Monday. (The Edge Malaysia)",
+    "takeaways": [
+     "The mechanism named is external, not domestic: rising import costs and currency shocks, rather than wages or domestic demand. That matters because it makes the exchange rate, not the labour market, the transmission channel being described.",
+     "'Non-linear' is the substance of the argument - that price reactions of this kind do not scale smoothly and so need to factor into monetary policy considerations. No threshold, model or policy rule is given.",
+     "The provenance is weak by design: an unnamed central bank official, quoted in conference notes released on Monday rather than in a policy statement or speech. It carries no institutional commitment.",
+     "The yen moved against Japan on the session reported. USD/YEN rose 0.62% to 154.57 from 153.61 - the largest move among the six currency pairs in this edition's table, larger than EUR/USD's -0.51% and USD/MYR's +0.12% - while the Nikkei 225 fell 0.81% to 63,493.0. A weaker yen is precisely the currency shock the item describes, though the digest does not join them.",
+     "The BOJ has been the most persistent Asia Pacific thread on this board: a possible hike on 1 September, Takata urging nimble hikes on 3 September, a reported preference for a quarter-point move on 4 September, the fastest wage growth since 1997 on 9 September and a warning on price risks that may trigger rapid hikes on 11 September. No report in the 15 September bundle carries a Kenanga view on Japan."
+    ]
+   },
+   {
+    "h": "Canada inflation holds at 3% amid slower gasoline price growth",
+    "region": "Americas",
+    "body": "Canada's inflation rate was unchanged at 3% last month, matching expectations as gasoline prices rose at a slower annual pace. (The Edge Malaysia)",
+    "takeaways": [
+     "The headline number did what was expected: unchanged at 3% and matching expectations, so the print carries no surprise element of its own.",
+     "The composition is where the movement is. Gasoline prices rose at a slower annual pace, which means the headline held steady only because an energy contribution eased; the item gives no core measure against which to check what the rest of the basket did.",
+     "It is the only hard data release among this edition's nine macro bits. The other eight are statements, expectations, discussions or preparations - this edition carries no Malaysian data print and no Kenanga Economic Viewpoint.",
+     "Canada has appeared on this board mainly through trade rather than prices - the Bank of Canada holding its key rate while saying multiple hikes might be needed on 3 September, retaliation against US tariffs on 8 and 9 September, and Trump's 'fairly soon' deal comment on 14 September. This is the first Canadian inflation print carried here.",
+     "The item states no policy implication, names no Bank of Canada decision or date, and no report in the 15 September bundle carries a Kenanga view on Canada or North American inflation."
+    ]
+   },
+   {
+    "h": "ECB's Kazaks sees growing case for more tightening",
+    "region": "Europe",
+    "body": "The European Central Bank (ECB) may need to gradually raise interest rates further to curb inflation before an Iran war-driven rise in fuel costs starts seeping through to wages and other prices, ECB policymaker Martins Kazaks told Reuters. (The Edge Malaysia)",
+    "takeaways": [
+     "The argument is about timing as much as direction: raise gradually, and do it before an Iran war-driven rise in fuel costs seeps through to wages and other prices. The case rests on pre-empting second-round effects rather than on current inflation.",
+     "It is one policymaker speaking to Reuters, named as Martins Kazaks, not a Governing Council decision. No meeting, rate path, terminal rate or size of move is given.",
+     "It builds on moves this board has already recorded. The ECB raised rates on 11 September as the Iran war fanned inflation fears, and on 14 September Lagarde was reported saying the current inflation shock will be longer lasting. Kazaks is arguing for more on top of a hike that has already happened.",
+     "The fuel premise is visible in this edition's own commodity table: Nymex crude oil rose 1.34% to USD101.4 a barrel, holding above USD100. Gold went the other way, down 1.30% to USD4,318.0 a troy ounce.",
+     "Europe was one of only three index gains on the session reported - FTSE-100 +0.44%, alongside HSI +0.45% and STI +0.39% - against falls in the Dow, S&P 500, Nasdaq, Nikkei 225, SHCOMP, KOSPI, TWSE, JCI and SET, with the KOSPI's -3.26% the largest move in the table by a wide margin. No report in the 15 September bundle carries a Kenanga view on the ECB or the euro area."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260915-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The peer average behind the target price cannot be reproduced from the report's own table.</b> The TP is set at 37x FY27F PER, stated as a 10% discount to the average FY27 PER of 41.3x for local semiconductor front-end peers named as UWC, Frontken and Vitrox. But VITROX does not appear anywhere in the Malaysian Technology Peers Comparison on page 3, and the two named peers that do appear show two-year forward core PERs of 39.3x (UWC) and 31.7x (FRONTKEN), which average 35.5x rather than 41.3x. The 41.3x is therefore drawn from a peer set the document does not print. (2) <b>KGB's own ROE is given two ways.</b> The Financial Data & Ratios table on page 2 shows FY26F ROE of 24.5% and FY27F of 27.1%; the peer table on page 3 shows 27.8% for the one-year forward period, which every other column in that row (core EPS 21.7 sen, PBV 9.7x, net dividend 15.0 sen, yield 1.7%) identifies as FY26F. (3) <b>The exchange rate implied by the contract conversion is not the one in the same day's digest.</b> USD249.9m as c.RM1.01b and USD202.0m as c.RM817m both imply about RM4.04 to the dollar, against the 14 September USD/MYR fix of 4.0753 printed in Kenanga Today the same morning. (4) <b>Earnings growth and EPS growth diverge sharply and the report does not explain why.</b> Core net profit rises 30.6% in FY26F (RM151m to RM197m) while core EPS rises only 6.9% (20.3 sen to 21.7 sen), which implies the share base expands by roughly a fifth - about 744m shares implied for FY25A against about 908m for FY26F, versus 880.4m shares outstanding in the stock-information box. The report carries no note on share issuance, warrant conversion or dilution. This divergence is identified here, not in the report. (5) The 52-week range in Kenanga's own stock-information box (H RM9.20, L RM4.75) differs from the market data used in this row's range columns (stockanalysis.com: RM9.25 / RM4.70).",
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 10.1,
+   "ticker": "KGB",
+   "name": "Kelington Group Bhd",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 10.1,
+   "price": 8.62,
+   "divYield": 1.37,
+   "high52": 9.25,
+   "low52": 4.7,
+   "mktSrc": "https://stockanalysis.com/quote/klse/KGB/",
+   "catalyst": "OUTPERFORM and a RM10.10 target price both maintained after KGB secured its largest-ever contract - a USD452m (c.RM1.83b) letter of award to act as main contractor for turnkey total facility ultra-high-purity tool hookup services at a semiconductor wafer fab in Gujarat, India, covering up to 886 tools across Modules 1 and 2 over 30 months to a February 2029 completion. Kenanga raises its FY26 new-contract-win assumption to RM4.0b from RM2.1b but leaves earnings forecasts unchanged, because the work is recognised over two to three years and part of it falls beyond the forecast horizon. The TP stands on an unchanged 37x FY27F PER, a stated 10% discount to local front-end peers, with no ESG adjustment on a 3-star rating. YTD2026 contract wins reach RM3.59b; outstanding order book is put at above RM3.0b and the tender book at over RM7b.",
+   "quote": "KGB's record RM1.83b semiconductor contract win in India materially strengthens its medium-term earnings visibility and reinforces its positioning as a direct proxy to front-end wafer fab expansion.",
+   "summary": [
+    "The award is a record, and the numbers behind it reconcile. The letter of award is USD452m (c.RM1.83b) for turnkey total facility ultra-high-purity tool hookup services at a wafer fab in Gujarat, India - Module 1 at USD249.9m (c.RM1.01b) and Module 2 at USD202.0m (c.RM817m), which sum to USD451.9m and RM1.827b. KGB is main contractor, responsible for the design, installation, connection, testing and handover of manufacturing, laboratory and support tools across both modules, covering up to 886 tools over 30 months to a February 2029 completion. The value is provisional: Kenanga states the final figure depends on the actual quantities of tools and services executed, so RM1.83b is a ceiling-shaped estimate rather than a fixed price.",
+    "Nothing in the forecasts moved, and Kenanga is explicit about why. The FY26 new-contract-win assumption is raised to RM4.0b from RM2.1b - a 90% increase - but earnings forecasts are left unchanged because the contracts are executed over two to three years with a meaningful portion of the contribution extending beyond the current forecast period. The report's own run-rate arithmetic gives c.RM730m of annualised revenue if execution were broadly even across the 30 months, which would be about 44% of the RM1,673m of FY26F revenue in its own table; that percentage is computed here, and the report cautions that actual recognition depends on project progress and milestone completion. So the call is a visibility argument, not an earnings upgrade.",
+    "The target price is unchanged at RM10.10 and the arithmetic behind it is straightforward - 37x applied to FY27F core EPS of 27.3 sen - but the peer benchmark it rests on is not fully visible in the document. The 37x is described as a 10% discount to the average FY27 PER of 41.3x for local semiconductor front-end peers named as UWC, Frontken and Vitrox. VITROX does not appear in the Malaysian Technology Peers Comparison printed on page 3, and the two named peers that do appear show two-year forward PERs of 39.3x and 31.7x, averaging 35.5x. That gap is recorded in this row's data-quality note rather than resolved. At RM8.62 the stock is on 39.7x FY26F and 31.5x FY27F, with the peer table putting upside at 17.2%.",
+    "The order pipeline is where the visibility claim is grounded, and it reconciles on the report's own components. YTD2026 new contract wins reach RM3.59b: RM1.23b secured in 1HFY26, RM538m in July-August and the RM1.83b award - which sums to RM3.595b using the unrounded RM1.827b contract value. Behind that sit an outstanding order book Kenanga puts at above RM3.0b and a tender book of over RM7b. Kenanga's second argument is positional rather than numerical: appointment as main contractor is described as a step-up in KGB's place in the semiconductor value chain that could open further wins as India builds out its domestic manufacturing ecosystem. No further contract is named, and that part of the case is explicitly forward-looking.",
+    "Two things to read carefully against the enthusiasm. First, Kenanga's own forecasts sit 12% below the consensus printed in its own summary table for FY27 - RM249m against RM283m - even as it raises the contract-win assumption; for FY26 it is 2% above (RM197m against RM193m). Second, core net profit grows 30.6% in FY26F while core EPS grows only 6.9%, which implies the share base expands by roughly a fifth, and the report offers no explanation for it; that divergence is identified in this row's data-quality note, not in the PDF. Named risks are a slowdown in wafer fab investment, a worsening Sino-US chip war and low utilisation of the LCO2 plants. On conviction language: the report's closest phrasing is an investment-case paragraph - 'We like KGB for' its position as a direct proxy to front-end wafer fab expansion, its order and tender books, its Malaysia-Singapore-India footprint and progressive margin expansion - which is not a declaration of a top pick or sector pick, so this row reads None stated."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "RHB Investment Bank",
+    "date": "15 Sep 2026",
+    "opp": false,
+    "note": "One of the nine houses searched yielded a dated, publicly retrievable call on KGB, and it moved on the same day as the Kenanga note beside it - so there is no date gap to explain. <b>RHB Research raised its target price to RM11.70 from RM10.50 while maintaining its Buy call</b>, following what it describes as the group's largest-ever contract win in India. That is <b>RM1.60 above Kenanga's RM10.10</b>, and it is the same direction as Kenanga's OUTPERFORM, so <b>the divergence marker is not set</b>. Against the RM8.62 close, RM11.70 implies about 36% upside versus Kenanga's 17.2% - arithmetic here, not printed. The two houses drew opposite conclusions about what the award should do to a valuation: Kenanga held its target because the revenue falls largely outside its forecast horizon, while RHB moved its target the same day on the same news. <b>Provenance, stated precisely:</b> the New Straits Times article was retrieved directly and returns HTTP 200, but its body is rendered client-side and could not be read; the rating, both target prices and the publication timestamp of 15 September 2026, 11:21 MYT come from the page's own title and meta description, which were read from the retrieved page. RHB's <i>prior</i> RM10.50 target is independently corroborated: The Edge Malaysia reported it on 6 August 2026, raised from RM9.10 and struck on 35x FY2027 earnings, and that article body was read in full. <b>No house used pick language.</b> RHB's retrievable notes on KGB run to valuation and thesis phrasing - being 'longer-term positive' on the maiden Indian air separation unit investment in the 10 August Star report, and seeing 'upside risks to dividends' on 6 August - neither of which is a top-pick or sector-pick declaration, so this row reads <b>None stated</b>. Of the nine houses searched, one yielded a dated, publicly retrievable call: RHB Investment Bank. CIMB Securities, Maybank Investment Bank, AmInvestment Bank Research, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang did not - no current, separately attributable KGB call from any of them was retrievable from permitted sources.",
+    "cites": [
+     [
+      "New Straits Times, 15 Sep 2026 - 'RHB Research ups Kelington target price to RM11.70 after record RM1.83bil India deal'",
+      "https://www.nst.com.my/business/corporate/2026/09/1533081/rhb-research-ups-kelington-target-price-rm1170-after-record"
+     ],
+     [
+      "The Edge Malaysia, 6 Aug 2026 - 'Analysts see further upside for Kelington on valuation expansion, strong chip demand'",
+      "https://theedgemalaysia.com/node/813540"
+     ],
+     [
+      "The Edge Malaysia, 15 Sep 2026 - 'Kelington secures RM1.83 bil job, its biggest ever'",
+      "https://theedgemalaysia.com/node/817966"
+     ],
+     [
+      "The Star, 10 Aug 2026 - 'Kelington forecast to benefit from global chip boom'",
+      "https://www.thestar.com.my/business/business-news/2026/08/10/kelingtonforecast-to-benefit-from-global-chip-boom"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/KGB-260915-CU-Kenanga.pdf"
+  }
+ ]
+}
