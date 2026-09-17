@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T19:31:08.287Z",
+ "generatedAt": "2026-09-17T05:56:42.990Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -15,10 +15,11 @@
   "2026-09-10",
   "2026-09-11",
   "2026-09-14",
-  "2026-09-15"
+  "2026-09-15",
+  "2026-09-17"
  ],
- "rows": 100,
- "verified": 99,
+ "rows": 102,
+ "verified": 101,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -201,6 +202,18 @@
    "date": "2026-09-15",
    "row": "KGB",
    "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The peer average behind the target price cannot be reproduced from the report's own table.</b> The TP is set at 37x FY27F PER, stated as a 10% discount to the average FY27 PER of 41.3x for local semiconductor front-end peers named as UWC, Frontken and Vitrox. But VITROX does not appear anywhere in the Malaysian Technology Peers Comparison on page 3, and the two named peers that do appear show two-year forward core PERs of 39.3x (UWC) and 31.7x (FRONTKEN), which average 35.5x rather than 41.3x. The 41.3x is therefore drawn from a peer set the document does not print. (2) <b>KGB's own ROE is given two ways.</b> The Financial Data & Ratios table on page 2 shows FY26F ROE of 24.5% and FY27F of 27.1%; the peer table on page 3 shows 27.8% for the one-year forward period, which every other column in that row (core EPS 21.7 sen, PBV 9.7x, net dividend 15.0 sen, yield 1.7%) identifies as FY26F. (3) <b>The exchange rate implied by the contract conversion is not the one in the same day's digest.</b> USD249.9m as c.RM1.01b and USD202.0m as c.RM817m both imply about RM4.04 to the dollar, against the 14 September USD/MYR fix of 4.0753 printed in Kenanga Today the same morning. (4) <b>Earnings growth and EPS growth diverge sharply and the report does not explain why.</b> Core net profit rises 30.6% in FY26F (RM151m to RM197m) while core EPS rises only 6.9% (20.3 sen to 21.7 sen), which implies the share base expands by roughly a fifth - about 744m shares implied for FY25A against about 908m for FY26F, versus 880.4m shares outstanding in the stock-information box. The report carries no note on share issuance, warrant conversion or dilution. This divergence is identified here, not in the report. (5) The 52-week range in Kenanga's own stock-information box (H RM9.20, L RM4.75) differs from the market data used in this row's range columns (stockanalysis.com: RM9.25 / RM4.70)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-17",
+   "row": "Market Strategy",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>One target price disagrees with this board's own earlier row.</b> The note prints CIMB as (OP; TP: RM8.30); this board's 1 September Results Note on CIMB, read from CIMB's own report PDF, carries OUTPERFORM with a target of RM8.35. The five-sen gap cannot be resolved from the retrieved sources and neither figure is used as this row's data - the row carries no rating or target of its own. (2) <b>The MGS baseline is given two ways on the same page.</b> Page 2 states that 10-year MGS yields 'had spiked from 3.7% to the current more than 4.1%' on BNM information, while the sensitivity analysis in the same section assumes yields 'rising to c4.1%, versus 3.6% as at end of 2Q26'. A 3.7% or a 3.6% starting point changes the size of the revaluation being estimated. (3) <b>The KLFIN decline is given two ways.</b> Page 1: the index 'has slipped more than 2% since end-August'. Page 2: 'almost 3% KLFIN dip since August'. Both are reproduced. (4) <b>The stated devaluation and the stated ringgit amount do not quite agree.</b> A 'c2% devaluation' applied to a RM126b FVTPL book is described as amounting to RM2.3b; RM2.3b on RM126b is 1.83%. The gap is within the note's own 'roughly estimate' framing but is identified here, not in the document. (5) <b>Two exhibit cross-references point at the wrong exhibits.</b> The text directs the reader to 'exhibit 1' for the December 2026, June 2027 and December 2027 futures contracts - that chart is Exhibit 10, while Exhibit 1 is the banks' fixed-income securities table - and to 'exhibit 4' for the technology sector's negative correlation with oil, which is Exhibit 12, while Exhibit 4 is the fixed-deposit maturity mix. (6) <b>The note quotes ratings and target prices for stocks that have no standalone report in this day's bundle</b> - MAYBANK, HLBANK, ABMB, CIMB, MISC, PCHEM, WPRTS, SUNREIT, PAVREIT and KPJ. Those figures are as quoted in this strategy piece and have not been independently verified against stock-specific reports today; where this board holds an earlier Kenanga row for the same stock the two agree, except for CIMB as set out in point (1)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-17",
+   "row": "US FOMC (Sep-26)",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>A forecast is maintained and qualified in the same sentence.</b> The note states 'We maintain our year-end USDMYR forecast of 3.95 but see 4.00 as the more realistic near-term anchor' - so the published forecast and the number the note actually expects are different, and the spot fix printed in the same morning's digest is 4.0857. Both are carried as printed. (2) <b>One rate forecast is acknowledged as already overtaken.</b> The end-2026 10-Y UST forecast of 4.80% is described in the note itself as sitting below spot and dependent on oil retracing, with risks 'clearly skewed higher' and a sustained break above 5.00% forcing a revision. It is carried here as the standing house number while the note itself flags it as under pressure. (3) <b>The house call for this meeting was wrong and the note says so.</b> Table 3 records the KIBB Research Outlook for the 15-16 September meeting as 'No change' against a Fed Funds futures reading of a 25bps hike and an actual 25bps hike, and the text states 'We expected a hold and were wrong on the meeting.' Recorded as printed; this is Kenanga's own correction, not a discrepancy identified here. (4) <b>Two different oil benchmarks appear across the day's bundle.</b> This note cites Brent above USD100; the same morning's digest prints Nymex crude oil at USD105.8 a barrel, up 4.38%. They are different contracts and are not in conflict, but they are not the same number and no Brent figure of its own is printed anywhere in the note."
   }
  ],
  "verdict": "PASS"
