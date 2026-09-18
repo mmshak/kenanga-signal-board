@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17T19:39:56.461Z",
+ "generatedAt": "2026-09-18T05:47:54.910Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -16,10 +16,11 @@
   "2026-09-11",
   "2026-09-14",
   "2026-09-15",
-  "2026-09-17"
+  "2026-09-17",
+  "2026-09-18"
  ],
- "rows": 102,
- "verified": 101,
+ "rows": 103,
+ "verified": 102,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -214,6 +215,12 @@
    "date": "2026-09-17",
    "row": "US FOMC (Sep-26)",
    "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>A forecast is maintained and qualified in the same sentence.</b> The note states 'We maintain our year-end USDMYR forecast of 3.95 but see 4.00 as the more realistic near-term anchor' - so the published forecast and the number the note actually expects are different, and the spot fix printed in the same morning's digest is 4.0857. Both are carried as printed. (2) <b>One rate forecast is acknowledged as already overtaken.</b> The end-2026 10-Y UST forecast of 4.80% is described in the note itself as sitting below spot and dependent on oil retracing, with risks 'clearly skewed higher' and a sustained break above 5.00% forcing a revision. It is carried here as the standing house number while the note itself flags it as under pressure. (3) <b>The house call for this meeting was wrong and the note says so.</b> Table 3 records the KIBB Research Outlook for the 15-16 September meeting as 'No change' against a Fed Funds futures reading of a 25bps hike and an actual 25bps hike, and the text states 'We expected a hold and were wrong on the meeting.' Recorded as printed; this is Kenanga's own correction, not a discrepancy identified here. (4) <b>Two different oil benchmarks appear across the day's bundle.</b> This note cites Brent above USD100; the same morning's digest prints Nymex crude oil at USD105.8 a barrel, up 4.38%. They are different contracts and are not in conflict, but they are not the same number and no Brent figure of its own is printed anywhere in the note."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-18",
+   "row": "KEYFIELD",
+   "msg": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>The day's published bundle is two reports short of the day's advertised line-up.</b> Both the digest's Ideas of the Day and Kenanga's own Kenanga Today page for 18 September name <i>Economic Viewpoint: Bond Market Weekly Outlook, Ringgit Weekly Outlook</i> alongside this Company Update and a Rating Summary - but the published bundle contains only the digest and this report. Both Economic Viewpoints returned HTTP 404 under every filename convention this board knows, including the exact patterns that worked for the same two titles on 28 August, 4 September and 7 September. They are excluded on the authority of the bundle contents, the same treatment given BIMB on 27 August. Rating Summary is excluded by specification. <b>This day therefore carries one report row, not three.</b> (2) <b>The headline discount is measured against book value, but the text applies it to the market.</b> Exhibit 1 compares realisable value of RM1,358.0m to a PPE carrying value of RM961.8m for a discount of 29.2% - which reconciles exactly. The text, however, says the market 'currently prices the stock at a 30% discount' and that 'the market is mispricing the company by 29.2% based on its fleet's realizable value alone'. Market capitalisation is RM1,083.0m in the note's own Stock Information box, which against RM1,358.0m is a 20.3% discount, not 29.2% - arithmetic here, and identified here rather than in the document. (3) <b>The payback claim does not reconcile to the PPE figure used elsewhere in the note.</b> The text states that on FY26F earnings of RM72m the group 'would be able to breakeven on its PPE value in 12 years'. RM72m into the RM961.8m of Exhibit 1 is 13.4 years; 12 years reconciles instead to the RM861m of FY2025 fixed assets in the note's own balance sheet. Both computations are arithmetic here. (4) <b>Two share prices appear in the same document.</b> The front page prints RM1.34, the peer table RM1.35 - and the peer table's other prices are stale against the same morning's digest, which reports MISC at RM8.06, PCHEM at RM4.86 and PETDAG at RM21.08 for the 17 September close against RM7.81, RM5.27 and RM20.76 in the table. The peer comparison is therefore drawn on an earlier session. This row uses the front-page RM1.34, which matches the price shown on stockanalysis.com. (5) <b>Two peer-table targets disagree with this board's own earlier rows.</b> The table shows VELESTO at OP with a RM0.320 target against RM0.30 read from VELESTO's own report PDF on 24 August, and UZMA at OP with a RM0.700 target against RM0.60 read from UZMA's own report PDF on 1 September - while showing UZMA's price as RM0.385, identical to the 1 September figure. Neither gap can be resolved from the retrieved sources and neither figure is used as data. The other peer entries agree with this board: DAYANG OP RM2.35 (24 Aug), PETDAG OP RM21.60 (26 Aug), MISC OP RM9.20 (28 Aug), WASCO OP RM1.02 (28 Aug), ARMADA MP RM0.35 (28 Aug) and PCHEM MP RM4.24 (17 Sep). (6) <b>The 52-week range differs between sources.</b> Kenanga's Stock Information box gives a high of RM1.76 and a low of RM1.32; stockanalysis.com shows RM1.780 and RM1.240. The market-data columns on this row use stockanalysis.com and are labelled as not from Kenanga; Kenanga's own figures are recorded here. (7) <b>Rounding in the narrative.</b> The text describes 'a whooping RM1.4b' of realisable value against 'the PPE value of RM962m' where Exhibit 1 shows RM1,358.0m and RM961.8m, and Kenanga states explicitly that its second-hand price estimates 'may not be fully accurate due to slight vessel age differences'."
   }
  ],
  "verdict": "PASS"
