@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22T19:39:40.039Z",
+ "generatedAt": "2026-09-23T05:42:19.044Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -19,10 +19,11 @@
   "2026-09-17",
   "2026-09-18",
   "2026-09-21",
-  "2026-09-22"
+  "2026-09-22",
+  "2026-09-23"
  ],
- "rows": 113,
- "verified": 112,
+ "rows": 114,
+ "verified": 113,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -283,6 +284,12 @@
    "date": "2026-09-22",
    "row": "MY Budget 2027 Preview",
    "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>This report is filed under a 21 September date but is carried here as a 22 September publication, and the reason matters.</b> The filename is <i>EV_MY-2027-Federal-Budget-Preview_260921.pdf</i> - without the usual <i>-Kenanga</i> suffix - and the PDF's own page header reads 21 September 2026; Kenanga's website lists it on the 21 September bundle page. But it appears nowhere in the 21 September Kenanga Today digest: a search of that document for the word 'budget' returns no hits. It is announced for the first time in the 22 September digest's Macro Bits, with the standard '(See Economic Viewpoint: Malaysia 2027 Federal Budget Preview)' pointer, while that edition's Ideas of the Day line names only GAMUDA. Under <i>rules/signals.md</i> &sect;1 the day's line-up is taken from the digest's own bundle contents rather than the Ideas of the Day line, precisely because that line omits macro publications - which is this case exactly. The row therefore sits on 22 September. Precedent for an irregular filename date is MBMR, filed as 260808 for a 28 August report. Identified here, and no existing date's file was altered. (2) <b>The nominal-GDP derivation in the second takeaway is inferred, not read.</b> It is computed from the note's own overall balance of -RM83.0b against deficit ratios printed to one decimal place, which leaves a wide rounding band - the implied 2027 nominal GDP growth of about 8.6% could be anywhere from roughly 5.6% to 11.6%. The direction of the argument survives that band; the magnitude does not. Nothing in the note states any nominal GDP figure. (3) <b>The note declares its own central commodity assumption stale.</b> Table 2 runs on average Brent of USD80/bbl for 2026 and USD74/bbl for 2027, and a footnote states the assumption is under review with the revision to be 'higher (around USD90/bbl average for 2026, USD80/bbl for 2027)', with the fiscal arithmetic to be updated once the new oil view is finalised. This edition's own commodity table shows Nymex crude at USD95.8/bbl on the 21 September session - above even the unpublished revision, computed here. Since the note attributes the 2027 revenue decline specifically to a <i>lower</i> Brent assumption, every revenue and deficit figure on this row is provisional on Kenanga's own statement. (4) <b>Typographical and editorial slips carried as printed</b>: the overview reads 'We project the 2026 deficit to edge up 3.8% of GDP' with a word missing; the political-economy section carries a duplicated, broken sentence - 'The latest reporting points to 2Q27 as the working assumption. Even that as the working assumption inside the coalition.'; the supply-side paragraph ends 'despite lingering global trade policy uncertainty over.'; and the fiscal outlook reads 'as the government prioritise domestic demand'. (5) This is an <b>Economic Viewpoint</b> and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-23",
+   "row": "IHH",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The sum-of-parts does not divide to the stated target price.</b> Page 3 prints hospitals at RM84,210m, Fortis at RM5,320.2m, the 32.9% Plife REIT stake at RM1,943.4m and net debt of -RM11,416.0m, which sum to exactly the RM80,057m total shown. Divided by the 8,836m shares in the same table that is <b>RM9.06</b>, not the RM9.10 target stated on page 1 and in the peer table - a gap of about 0.4%, computed here. The note states there is <i>no</i> ESG adjustment on a 3-star rating, so nothing in the document bridges the two. The RM9.10 Kenanga states is what this row carries. (2) <b>Singapore bed occupancy is given three different ways in one document.</b> The investment case says occupancy recovered 'to above 52% in August and September'; the highlights box says 'to 55% in July and August (against 51% in 2QFY26)'; the Singapore section says 'to &gt;52% in Aug-Sept (vs. 51% in 2QFY26 and 49% in 1QFY26)'. Different levels over different months, unreconciled. (3) <b>The retracement that justifies the upgrade is stated as 10% while the note's own header prints YTD stock price change of -8.6%.</b> Both appear on page 1. (4) <b>A table row is mislabelled.</b> The Türkiye table's row 'Türkiye Operations foreign patient revenue as a % of Turkiye and Europe revenue' prints 18%/15%/14%/13%/11% - but those figures divide foreign patient revenue by <i>Türkiye Operations</i> revenue, not by Türkiye and Europe revenue (FY23: 754/4,189 = 18%; 1H26: 408/3,712 = 11%). Against the regional total, 1H26 would be 8.6%. Arithmetic here; the prose repeats the label, describing medical tourism as a percentage of 'total regional revenue'. (5) <b>The growth block on page 4 labelled 'Net Profit /(loss)' tracks core net profit, not reported net profit.</b> It prints 32%/8%/22%/9% for FY2024A-FY2027F, which are the growth rates of the core series (1,685/1,818/2,216/2,409); the reported series (2,657/2,101/2,216/2,409) grows -20.9%/+5.5%/+8.7% over the same years. Computed here. (6) <b>The peer table's Rating column returned no values in the retrieved text layer</b>, so no peer ratings are used on this row; the target prices in that table were readable and do reconcile with this board's record."
   }
  ],
  "verdict": "PASS"
