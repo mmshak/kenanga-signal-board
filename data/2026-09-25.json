@@ -1,0 +1,356 @@
+{
+ "date": "2026-09-25",
+ "schema": 1,
+ "daily": {
+  "klci": 1672.3,
+  "chg": -4.12,
+  "pct": -0.25,
+  "inst": 17.2,
+  "instPct": 44.6,
+  "retail": 92.1,
+  "retailPct": 28.1,
+  "foreign": -109.3,
+  "foreignPct": 27.3,
+  "ideas": "Results Note: ECOWLD, UMCCA; Rating Summary; Economic Viewpoint: Bond Market Weekly Outlook, Ringgit Weekly Outlook",
+  "news": [
+   {
+    "h": "MNRB Holdings declares 15 sen final dividend for FY2026",
+    "body": "MNRB Holdings Bhd has declared a final dividend of 15 sen per ordinary share for the financial year ended March 31, 2026 (FY2026). The insurance company said its dividend reinvestment plan (DRP) would apply to 5.0 sen per MNRB share, representing 33.3% of the final dividend. It said the DRP was approved by shareholders at an extraordinary general meeting on Sept 25, 2019, while the authority for the board to allot and issue new MNRB shares under the DRP was approved at the annual general meeting on Sept 26, 2025. (The Edge Malaysia)",
+    "takeaways": [
+     "Only part of the dividend is cash by default. Of the 15 sen declared, 5.0 sen - the 33.3% stated in the item - is eligible for reinvestment into new MNRB shares; the remaining 10 sen is cash. The item does not say what issue price or discount applies to the reinvested portion.",
+     "The dividend is for a year that ended six months ago. FY2026 closed on 31 March 2026, so this is a final payout on already-reported results; the item gives no FY2026 earnings, payout ratio or comparison with the prior year's dividend, so the 15 sen cannot be sized against anything in this item.",
+     "No entitlement or payment date appears. The item names the dates the DRP was approved (25 September 2019) and the date the board's authority to issue DRP shares was renewed (26 September 2025), but not when shareholders must be on the register or when cash and shares are distributed.",
+     "The DRP mechanism is dilutive by design. Every shareholder who elects to reinvest receives new shares rather than cash, so the share count rises; the item gives no current share count, take-up assumption or dilution figure, and none is estimated here.",
+     "This board holds no Kenanga coverage of MNRB, and nothing in the 25 September bundle - two Results Notes on a property developer and a planter, plus two weekly Economic Viewpoints - covers insurance or reinsurance. This is digest context only."
+    ]
+   },
+   {
+    "h": "Infomina bags RM63.0m contract to provide tech refresh, maintenance for financial institution",
+    "body": "Infomina Bhd said that it accepted a RM63.0m contract to provide technology refresh supply and maintenance to a financial institution. The contract entails the supply, delivery, installation, configuration, integration, testing, commissioning, implementation, support, maintenance and other works and services applicable to the hardware, equipment, software and other items. Infomina did not disclose the name of the financial institution as \u201cthe customer did not provide consent for their name to be disclosed due to commercial reasons\u201d. (The Edge Malaysia)",
+    "takeaways": [
+     "The customer is unnamed by the customer's own choice. Infomina says consent to disclose was withheld 'due to commercial reasons', so a reader cannot tell whether this is a bank, an insurer or another type of financial institution, or whether it is an existing client.",
+     "RM63.0m is the only number given. There is no contract term, no split between the one-off hardware and software supply and the recurring maintenance, no margin and no start date - so how much of the value is booked upfront versus spread over years cannot be determined from the item.",
+     "The scope is end-to-end rather than a component sale: supply, delivery, installation, configuration, integration, testing, commissioning, implementation, support and maintenance. That breadth is the item's only indication of the nature of the work; nothing states whether Infomina is prime contractor or subcontractor to another vendor.",
+     "'Technology refresh' implies replacement of existing systems rather than a new build, but the item does not say what is being replaced, so this reading goes no further than the words used.",
+     "This board holds no Kenanga coverage of Infomina, and no report in the 25 September bundle covers IT services or financial-sector technology spending. Digest context only."
+    ]
+   },
+   {
+    "h": "UUE secures SGD9.3m power cable contracts in Singapore",
+    "body": "UUE Holdings Bhd's unit has secured four contracts worth a combined SGD9.3m (RM29.7m) for the supply and installation of 400-kilovolt (kV) power cables, auxiliary cables and accessories in Singapore. UUE's wholly-owned subsidiary, Konnection Engineering Pte Ltd, secured the awards from Hong Kong Stock Exchange-listed Wee Guan Group, according to UUE's bourse filing. The latest wins bring UUE's financial year-to-date contract wins to RM127.9m, which the group said would strengthen its order book and provide earnings visibility over the next two to three years. (The Edge Malaysia)",
+    "takeaways": [
+     "Four contracts, one customer. All four awards come from Wee Guan Group, a Hong Kong-listed company, and total SGD9.3m, translated in the item at RM29.7m - an implied rate of about RM3.19 per Singapore dollar, computed here. That sits close to the SGDMYR of 3.192 printed in Kenanga's Ringgit Weekly Outlook in the same bundle for 24 September.",
+     "These contracts are about 23% of the year's wins so far: RM29.7m out of RM127.9m financial year-to-date, computed here. The item does not say when UUE's financial year began, so the pace of order intake cannot be annualised.",
+     "400kV is transmission-grade cabling, and the scope includes auxiliary cables and accessories as well as supply and installation. The item gives no project name, end-client or completion date for the Singapore work.",
+     "The 'two to three years' of earnings visibility is the company's own statement, attached to the whole RM127.9m year-to-date book rather than to these four contracts; no order-book total, margin or recognition schedule is given to test it.",
+     "This board holds no Kenanga coverage of UUE, and no report in the 25 September bundle covers power cabling or Singapore infrastructure. Digest context only."
+    ]
+   },
+   {
+    "h": "HE Group bags RM124.0m electrical works subcontract for Johor data centre",
+    "body": "HE Group Bhd has secured a subcontract worth about RM124.0m to supply, install, test and commission the main electrical works for a data centre in Johor. The contract was awarded to its wholly owned unit Hexatech Engineering Sdn Bhd by an unnamed engineering, procurement and construction management (EPCM) company, the electrical engineering services firm said in a bourse filing. HE Group said the EPCM company is a Malaysian-incorporated private company that is foreign-owned and specialises in construction, civil engineering and offshore oil and gas. (The Edge Malaysia)",
+    "takeaways": [
+     "Two layers of the chain are unnamed. The data centre owner is not identified, and neither is the EPCM company that awarded the subcontract - described only as Malaysian-incorporated, privately held, foreign-owned and specialised in construction, civil engineering and offshore oil and gas.",
+     "This is a subcontract, so HE Group sits below the EPCM contractor. The scope is the main electrical works - supply, installation, testing and commissioning - and the value is 'about' RM124.0m; no duration, start date or data centre capacity in megawatts is given.",
+     "Johor data centre demand also runs through today's Kenanga bundle from another direction. Kenanga's ECOWLD Results Note says the group's September sale of 222 acres of industrial land to Tera Data Centers for RM1.01b was its sixth data centre deal. The note and this item do not refer to each other and nothing links the two projects; the grouping is made here.",
+     "This board carried a similar-shaped item on 23 September: OGX Group entering battery storage aimed at Malaysia's data centre market through a distributorship. Both are suppliers into the data centre build-out rather than owners of it; unlike OGX's arrangement, this one carries a contract value.",
+     "This board holds no Kenanga coverage of HE Group. Digest context only."
+    ]
+   },
+   {
+    "h": "Inta Bina bags RM221.1m construction contract in Klang from Mitraland",
+    "body": "Inta Bina Group Bhd said it has secured a RM221.1m contract to undertake the main building works for an apartment and office development in Klang. The contract was awarded by Prisma Melody Sdn Bhd, a wholly-owned subsidiary of Mitraland Holding (M) Sdn Bhd, which is part of the Mitraland Group. The project, the fourth phase of the Gravit8 (Novva) development, comprises a 39-storey serviced apartment tower housing 654 units and a 20-storey office tower. Construction is scheduled to commence on Sept 28, with the works divided into two sections. The first section is targeted to be completed by September 2028, and the second section by January 2029. (The Edge Malaysia)",
+    "takeaways": [
+     "The largest contract in today's corporate news by value: RM221.1m against HE Group's RM124.0m, Infomina's RM63.0m and UUE's RM29.7m.",
+     "The timetable is specific. Works start on 28 September 2026 - three days after this edition - in two sections, with the first due by September 2028 and the second by January 2029: roughly 24 and 28 months respectively, computed here.",
+     "What is being built: the fourth phase of Gravit8 (Novva), a 39-storey serviced apartment tower of 654 units plus a 20-storey office tower. The item does not split the RM221.1m between the two towers, so no cost per unit can be derived.",
+     "The counterparty is private. The award comes from Prisma Melody, wholly owned by Mitraland Holding (M) Sdn Bhd of the Mitraland Group; no listed developer is involved on the client side.",
+     "Klang is the second Klang property item on this board in three editions: on 23 September Maybulk proposed buying a RM35.5m freehold industrial property in Bandar Bukit Raja, Klang. That was industrial product; this is a high-rise residential-and-office scheme. This board holds no Kenanga coverage of Inta Bina. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Trump and Xi buy time on trade with neither able to afford a fight",
+    "region": "Global",
+    "body": "US President Donald Trump and his Chinese counterpart Xi Jinping agreed to maintain a trade truce until early 2027, with neither ready to upend relations between the world\u2019s biggest economies even as tensions persist over rare earths, technology curbs and Taiwan. (The Edge Malaysia)",
+    "takeaways": [
+     "The truce now runs to early 2027, per the item. No specific end date, tariff level or new commitment is given - only that it is maintained.",
+     "The unresolved issues are named: rare earths, technology curbs and Taiwan. Nothing in the item suggests progress on any of them; the truce is a deferral, as the headline says.",
+     "Kenanga's two Economic Viewpoints in today's bundle both use this development, and describe it differently. The Bond Market Weekly Outlook says the truce was extended 'to early 2027' and credits it with supporting global risk sentiment; the Ringgit Weekly Outlook refers to 'a two-month trade truce extension' offering 'a modest cushion for regional FX'. The two descriptions are reproduced as printed and not reconciled here.",
+     "On 21 September this board carried Kenanga's Bond Market Weekly naming the Trump-Xi meeting as a key focus for markets, alongside the US-Iran conflict. The outcome - a truce, not a breakthrough - arrived in a week when, per today's bond note, MGS yields fell and UST yields rose sharply.",
+     "The item gives no market reaction figures; this edition's own tables show SHCOMP down 1.22% and HSI down 0.29% on 24 September, so there was no visible relief rally in Chinese equities on the session."
+    ]
+   },
+   {
+    "h": "Malaysia, China agree on proposed ECRL extension to Rantau Panjang, says Anwar",
+    "region": "Malaysia",
+    "body": "Malaysia and China have agreed on the proposed extension of the East Coast Rail Link (ECRL) project from Kota Bharu to Rantau Panjang, Kelantan, said Prime Minister Datuk Seri Anwar Ibrahim. (The Edge Malaysia)",
+    "takeaways": [
+     "The extension runs from Kota Bharu to Rantau Panjang in Kelantan. No cost, length, contractor, funding structure or timeline appears in the item.",
+     "Kenanga's Bond Market Weekly Outlook in today's bundle names this directly as a driver of the week's MGS rally: the ECRL agreement 'strengthened expectations of better regional connectivity and long-term economic spillovers'. It is the only macro bullet in today's digest that a Kenanga report in the same bundle cites by name as moving a market.",
+     "'Agreed on the proposed extension' is agreement in principle as reported. The item does not say whether any contract has been awarded or signed.",
+     "No listed contractor is named in the item, so there is no stock read-across here and none is inferred.",
+     "This is one of two China-related Malaysia items in today's digest, alongside Anwar's statement on Chinese technology investment, which the same Kenanga bond note also cites."
+    ]
+   },
+   {
+    "h": "Anwar: Malaysia to stay open to China's investment in technology",
+    "region": "Malaysia",
+    "body": "Malaysia will continue to be open to China\u2019s investment in digital technology as well as cooperation, said Prime Minister Datuk Seri Anwar Ibrahim. (The Edge Malaysia)",
+    "takeaways": [
+     "A statement of policy stance rather than a transaction: no investment amount, company, project or sector beyond 'digital technology' is named.",
+     "Kenanga's Bond Market Weekly Outlook cites it as supporting MGS: 'Malaysia's pledge to stay open to Chinese investments in digital technology and strategic sectors also bolstered the medium-term growth story.' Note the Kenanga paraphrase adds 'strategic sectors', which the digest item does not contain.",
+     "It lands alongside the Trump-Xi truce item. The digest does not connect the two; the item gives no indication of how Malaysia would handle any US technology-curb constraints on Chinese investment.",
+     "The companion item on the ECRL extension makes this the second China-cooperation statement by the Prime Minister in the same edition.",
+     "No listed company is named, so there is no stock read-across and none is inferred."
+    ]
+   },
+   {
+    "h": "BNM governor: Financing for priority sectors still modest despite policy ambitions",
+    "region": "Malaysia",
+    "body": "Financing for catalytic priority sectors has remained relatively modest despite strong policy ambitions in national master plans, with lending approvals continuing to be concentrated in services, said Bank Negara Malaysia (BNM) governor Datuk Seri Abdul Rasheed Ghaffour. (The Edge Malaysia)",
+    "takeaways": [
+     "The central bank governor is saying policy ambition has not yet translated into lending. The item gives no loan figures, no sector breakdown and no target - only that approvals remain concentrated in services.",
+     "'Catalytic priority sectors' are not listed in the item, so which sectors are under-financed cannot be stated from it.",
+     "It sits in tension with the RM25.0m Penang semiconductor automation campus item in the same edition: the government is funding capability directly while the governor says bank financing to such sectors remains modest. The pairing is drawn here, not in the digest.",
+     "Kenanga's bond note in today's bundle keeps the OPR at 2.75% in every forecast period through Q2-27, so no policy-rate change is being positioned as the lever for this.",
+     "No policy measure is announced in the item; it is diagnosis, not action."
+    ]
+   },
+   {
+    "h": "Income, wages a priority in budget planning \u2014 economy minister",
+    "region": "Malaysia",
+    "body": "Income and wages must remain a priority in the planning of Budget 2027, alongside efforts to strengthen the capabilities of local companies in high-growth, high-value (HGHV) industries. (The Edge Malaysia)",
+    "takeaways": [
+     "Two priorities for Budget 2027 are named: income and wages, and building local company capability in high-growth, high-value industries. No measures or amounts are given.",
+     "Kenanga's Bond Market Weekly Outlook in today's bundle says that next week the focus shifts to 'further policy signals ahead of Budget 2027', so this is one of the signals that note says markets are watching.",
+     "This board carried Kenanga's Malaysia 2027 Federal Budget Preview on 22 September. This item does not state whether the minister's priorities match that preview and no comparison is drawn here beyond the fact that both concern Budget 2027.",
+     "The item does not name the minister beyond 'economy minister' in the headline.",
+     "No fiscal figures - deficit, spending envelope, subsidy changes - appear, so nothing here can be read into bond supply."
+    ]
+   },
+   {
+    "h": "RM25.0m federal funding for Penang tech development campus",
+    "region": "Malaysia",
+    "body": "The federal government is allocating RM25.0m to build a semiconductor-driven automation development facility in Batu Kawan, Penang. (The Edge Malaysia)",
+    "takeaways": [
+     "RM25.0m for a semiconductor-driven automation development facility in Batu Kawan, Penang. No operator, timeline or capacity is given.",
+     "It is a small allocation in isolation - the item gives no comparison and none is imputed here beyond noting that it is a single-facility grant rather than a programme.",
+     "It is an example of the direct state support the BNM governor's item in the same edition contrasts with modest bank financing for priority sectors; the pairing is drawn here.",
+     "No listed company is named as builder, tenant or beneficiary.",
+     "No Kenanga report in the 25 September bundle covers technology or semiconductors. Digest context only."
+    ]
+   },
+   {
+    "h": "China plans inclusion of new products to expand derivatives trading link with Hong Kong",
+    "region": "Asia Pacific",
+    "body": "China plans to expand a major derivatives trading link with Hong Kong by granting global investors access to two onshore interest-rate products with standardised contracts, according to people familiar with the matter. (The Edge Malaysia)",
+    "takeaways": [
+     "Sourced to 'people familiar with the matter', so this is a plan as reported, not an announcement.",
+     "Two onshore interest-rate products with standardised contracts would be opened to global investors via Hong Kong. The item does not name the products or give a start date.",
+     "Kenanga's Bond Market Weekly Outlook table puts China's 10-year government bond yield at 1.672% on 24 September, down 18.3bps year-to-date - the only market in the table's major-government-bond block where 10-year yields are lower than at the start of the year. The item does not refer to this; the context is added here.",
+     "The item gives no indication of any direct Malaysian impact.",
+     "Digest context only."
+    ]
+   },
+   {
+    "h": "US weekly jobless claims decrease as labour market regains footing",
+    "region": "Americas",
+    "body": "The number of Americans filing new claims for unemployment benefits fell last week, pointing to a firming labour market. (The Edge Malaysia)",
+    "takeaways": [
+     "No claims number is given in the digest item - only the direction.",
+     "Kenanga's Bond Market Weekly Outlook in today's bundle names falling initial jobless claims as one of the reasons UST yields 'surged higher', alongside September preliminary S&P Global PMIs beating expectations.",
+     "The weekly bond table has the 10-year UST at 5.198% on 24 September, up 26.7bps week-on-week, and the 2-year at 4.924%, up 26.0bps.",
+     "The next test is scheduled: Kenanga's Ringgit Weekly Outlook lists September non-farm payrolls on 2 October with a consensus of 100k against 162k previously, and the unemployment rate at 4.1% against a 4.1% consensus.",
+     "Read with the New York Fed item that follows: a firming labour market is part of the case officials are making for a further hike."
+    ]
+   },
+   {
+    "h": "New York Fed president says reasonable to see another rate hike this year",
+    "region": "Americas",
+    "body": "New York Federal Reserve (Fed) president John Williams said on Thursday it is reasonable to think that the US central bank might need to raise interest rates again before the end of the year to help bring down inflation risks. (The Edge Malaysia)",
+    "takeaways": [
+     "This moves Kenanga's own house view. On 21 September this board carried Kenanga's Bond Market Weekly base case that 'the latest Fed hike marks the end of the tightening cycle', with policy rates unchanged through end-2027. Today's Ringgit Weekly Outlook says: 'We are reviewing our view that the September Fed hike was the last'.",
+     "The Ringgit note names Goolsbee, Musalem and Barkin as the hawkish voices, and the Bond note names Barkin, Goolsbee and Collins; neither names Williams, whose remark is in the digest only. The two Kenanga notes also list different sets of officials from each other.",
+     "Kenanga's stated deciders are the August core PCE (30 September, consensus 0.3% MoM against 0.2% previously) and September payrolls (2 October, consensus 100k), per the Ringgit note's calendar.",
+     "The Ringgit note says upside surprises 'would push markets to price an October hike and extend the USD rally'.",
+     "Williams's framing is 'reasonable to think... might need to' - a conditional, not a commitment."
+    ]
+   },
+   {
+    "h": "Nordic central banks join global fight against war-led inflation",
+    "region": "Europe",
+    "body": "Norway's central bank raised interest rates on Thursday and Sweden's signalled it was likely to follow suit before the end of the year, as policymakers around the world grapple with rising inflation from a war-driven energy shock. (Reuters)",
+    "takeaways": [
+     "Norway raised rates; Sweden signalled it probably will before year-end. The item gives no rate levels or size of move.",
+     "The stated cause is a 'war-driven energy shock'. This edition's own commodity table has Nymex crude at US$94.6/bbl on 24 September, up 2.66% on the day.",
+     "It is the only item in today's digest sourced to Reuters rather than The Edge Malaysia.",
+     "Kenanga's bond table shows European 10-year yields rising on the week: euro area +12.3bps to 3.598% and UK +15.9bps to 5.381%.",
+     "Read with the New York Fed item: the digest groups two separate central-bank signals pointing the same way on the same day."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260925-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The file is misdated.</b> The PDF is filed as <i>ECOWLD-260924-3Q26-RN-Kenanga.pdf</i> but is dated 25 September 2026 on every page and appears in the 25 September digest's line-up; it is carried on 25 September. Add this to the known irregularities alongside MBMR. (2) <b>The QoQ revenue direction in the text is the opposite of the table.</b> The text says '3QFY26 revenue fell by 22%'; the results table prints 3QFY26 revenue of RM971.5m against RM797.4m in 2QFY26, <i>up</i> 21.8%. The 13% weaker bottom line matches the table (RM112.2m against RM129.1m). (3) <b>Net gearing is given four incompatible ways.</b> The text says it eased to 0.21x from 0.28x in October 2025; the results table prints 0.25x for both 3QFY26 and 2QFY26 and 0.53x for 3QFY25; the summary earnings table prints 0.62x for FY2025A and 0.52x/0.48x for FY26F/FY27F. Not reconciled. (4) <b>The peer table does not match the summary table.</b> Peer table: core EPS 17.9/18.1 sen, PER 10.9x/10.7x, net dividend 10.0 sen, yield 5.2%. Summary table: core EPS 17.1/17.3 sen, PER 11.3x/11.2x, NDPS 8.0 sen, yield 4.1%. This row uses the summary table. (5) <b>'10M FY26' sales include a September sale.</b> The note calls RM5.06b '10M FY26 data' and says it includes the September Tera Data Centers land sale; The Star reports RM4.05b for the ten months to 31 August plus the RM1.01b Tera agreement signed 22 September, so the RM5.06b spans more than ten months.",
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 2.35,
+   "ticker": "ECOWLD",
+   "name": "Eco World Development Group Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 2.35,
+   "price": 1.94,
+   "divYield": 4.12,
+   "high52": 2.3,
+   "low52": 1.87,
+   "mktSrc": "https://stockanalysis.com/quote/klse/ECOWLD/",
+   "catalyst": "Results within expectations, with the story in sales rather than earnings. 9MFY26 core net profit of RM397.7m, up 34% YoY, made up 73% of both Kenanga's and consensus full-year forecasts, and a 2 sen dividend took year-to-date DPS to 6 sen (9MFY25: 5 sen). Cumulative sales reached RM5.06b, above the RM4.0b FY26 target and the RM4.55b of FY25, including the September sale of 222 acres of industrial land to Tera Data Centers for RM1.01b - the group's sixth data centre deal. Kenanga lifts its FY26 sales assumption to RM5.6b from close to RM5.0b, but net earnings change only about 1% because it lowers JV and associate contributions. OUTPERFORM and the RM2.35 RNAV-based target are maintained, with the stock trading at -0.6 standard deviations below its five-year mean PE, which Kenanga calls an accumulation opportunity.",
+   "quote": "Industrial sales momentum play remains strong and recent share price weakness to now trading at -0.6sd on 5-year average PE presents an accumulation opportunity.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/ECOWLD-260924-3Q26-RN-Kenanga.pdf",
+   "summary": [
+    "Nothing moved, and both previous values reconcile. This board carried ECOWLD at OUTPERFORM with a RM2.35 target on 21 September, from Kenanga's Company Update on the Singapore land tender; this note maintains both. The share price has slipped to RM1.94 from RM1.96 on that date. Upside to target is 21.1%, matching the peer table, and adding the 4.1% FY26F net yield from the summary table gives about 25.2% expected total return. Computed here. The target is a sum-of-parts that divides exactly: RM7,568.9m (a 40% discount to RM11,769.3m RNAV, plus RM529.0m for the data centre DCF) over 3,225.3m shares is RM2.35. The KLCI of 1,672.31 on page 1 matches today's digest.",
+    "The nine months, from the table rather than the headline. Revenue rose 43.3% to RM3,122.5m on industrial land sale completions; gross margin fell to 27.6% from 29.3%. Operating profit rose 33.7% to RM662.3m, but JV contributions fell 54.7% to RM20.5m. 9MFY25 had one-offs in both directions - a RM174.0m deemed-disposal gain, a RM91.0m associate disposal loss and a RM68.0m JV impairment - which is why core growth (+34%) is quoted rather than reported. The quarter was softer: 3QFY26 net profit fell 13.2% QoQ to RM112.2m on a lower gross margin (27.2% against 31.3%) and smaller Eco Horizon and BBCC contributions. The text says quarterly revenue fell 22%; the table says it rose 21.8% - see the flag. Core profit is 72.3% of Kenanga's RM550m FY26F and 73.0% of the RM545m consensus, computed here; the note rounds both to 73%.",
+    "Sales are where the note puts the spotlight. RM5.06b of cumulative sales already exceeds the RM4.0b FY26 target and FY25's RM4.55b. Industrial sales of RM2.3b in ten months are close to double FY25's RM1.2b, and RM1.96b of that came from Eco Business Park VIII. The Tera deal was 222 acres for RM1.01b. Kenanga lifts its FY26 sales assumption to RM5.6b. Recurring income is the other leg: the Pearl Computing data centre lease is worth RM4.8b over 20 years, or RM240m a year, with construction completion targeted for end-FY27. Cash conversion improved, with net cash from operations doubling to RM1.86b.",
+    "Singapore is still a blank. The note says there are no details yet on the maiden Singapore project or its GDV, but management guides that typical margins there are 10-15%, below Malaysia's, and that ECOWLD plans no partnership. That margin range is consistent with the 12-15% pre-tax margin in Maybank Investment Bank's pre-result scenario, which this board recorded on 21 September. At home, the group is moving from its Duduk series to a more premium high-rise product, Versione WKND in Iskandar.",
+    "Why both signals read None stated, and where the other houses sit. Searching all five pages for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite returns only 'margins are less favourable' and 'the stock is attractive being...'. Neither is a pick declaration; the second is investment-case language, which this board treats as None stated. The other houses are split. RHB Investment Bank remains at Buy with a RM2.66 target, and CGS International at Add with a RM2.63 target (23 September). Two houses sit at Neutral against Kenanga's OUTPERFORM: Public Investment Bank at RM2.10 (21 September) and MBSB Investment Bank, which cut its target to RM1.97 from RM2.09 on 25 September on a weaker margin outlook. Those two Neutral calls set the divergence marker."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "MBSB Investment Bank",
+    "date": "25 Sep 2026",
+    "opp": true,
+    "note": "<b>No named non-Kenanga house declares a pick on ECOWLD in a dated, publicly retrievable note read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. <b>Same-day coverage, per the New Straits Times via KLSE Screener on 25 September 2026:</b> <b>MBSB Investment Bank</b> is at <b>Neutral with a target cut to RM1.97 from RM2.09</b>: 'We revise our target price for Eco World to RM1.97 from RM2.09 as we widen our revised net asset value discount to 20 per cent from 15 per cent, in view of the weaker margin outlook.' <b>RHB Investment Bank</b> is at <b>Buy, RM2.66</b>, the same target this board recorded from its 21 September note, and says earnings prospects are supported by Pearl Computing rental income and 'brisk industrial land and property sales'. Two days earlier, on 23 September, <b>CGS International</b> kept <b>Add at RM2.63</b> and estimated RM110m-RM167m of incremental pre-tax profit from the Tera land sale, 13-19% of its FY27 pre-tax forecast. It called ECOWLD one of the 'leading industrial park developers', which is not a pick declaration. <b>Public Investment Bank</b> was at <b>Neutral, RM2.10</b>, on 21 September, as recorded on this board that day. <b>The divergence marker is set on MBSB's Neutral (25 Sep) and Public Investment Bank's Neutral (21 Sep) against Kenanga's OUTPERFORM</b> - named houses and dated calls, read from reporting of their notes, not inferred from prices. MBSB and CGS International are not among the nine houses this board searches. Of the nine, <b>two</b> have retrievable current calls: RHB Investment Bank and Public Investment Bank. Named-house targets now run from RM1.97 (MBSB) to RM2.66 (RHB) around Kenanga's RM2.35, a spread of about 35% of the lowest (computed here). <b>None stated means no conviction language was found in accessible sources - not that no house holds a view.</b>",
+    "cites": [
+     [
+      "New Straits Times via KLSE Screener, 25 Sep 2026 - 'Eco World shares up after Q3 net profit rises to RM112.16mil' (MBSB Neutral TP RM1.97 from RM2.09; RHB Buy TP RM2.66)",
+      "https://www.klsescreener.com/v2/news/view/1797745/eco-world-shares-up-after-q3-net-profit-rises-to-rm112-16mil"
+     ],
+     [
+      "New Straits Times via KLSE Screener, 23 Sep 2026 - 'EcoWorld set for RM167mil profit boost from data centre land sale: CGS International' (Add, TP RM2.63)",
+      "https://www.klsescreener.com/v2/news/view/1796259/ecoworld-set-for-rm167mil-profit-boost-from-data-centre-land-sale-cgs-international"
+     ],
+     [
+      "New Straits Times via KLSE Screener, 21 Sep 2026 - Public Investment Bank Neutral TP RM2.10; RHB Buy TP RM2.66",
+      "https://www.klsescreener.com/v2/news/view/1794753/ecoworld-039-s-singapore-land-buy-seen-bearing-fruit-from-fy29"
+     ]
+    ]
+   },
+   "crossCheck": {
+    "note": "<b>The press reports a higher profit figure than Kenanga, and the gap is fully explained.</b> The Star reports 3QFY26 profit after tax of RM120.8m, up 20% YoY, and nine-month PAT of RM424.3m, up 36%. Kenanga's table shows net profit of RM112.2m (+10.9%) and RM397.7m (+27.7%). The difference is exactly Kenanga's 'Minority Interests &amp; Sukuk' line: 112.2 + 8.6 = 120.8, and 397.7 + 26.6 = 424.3 (computed here). Kenanga's figure is after sukuk payments and minorities. The press figure is before them. Neither is wrong. The Star also puts the Tera sale at 221.665 acres in <b>Eco Business Park VII</b>, and gives sales of RM4.05b for the ten months to 31 August, with the Tera agreement signed later. Kenanga's text rounds the sale to 222 acres and runs it in the same paragraph as its EBP VIII sales figure. The note does not say which park the Tera land is in.",
+    "cites": [
+     [
+      "The Star, 25 Sep 2026 - 'EcoWorld Malaysia sales surpass RM5bil'",
+      "https://www.thestar.com.my/business/business-news/2026/09/25/ecoworld-malaysia-sales-surpass-rm5bil"
+     ]
+    ]
+   }
+  },
+  {
+   "verified": true,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The result is not labelled.</b> The note never says 'below expectations', 'within expectations' or 'above expectations'; it says 1QFY27 core net profit accounts 'for just 11% of Kenanga and 16% of consensus full year estimates' and titles the note 'Poor 1Q'. This board does not infer a verdict the note does not state, so the result field is left empty. (2) <b>The 16% of consensus does not reconcile to the FY27 consensus the note prints.</b> RM19.9m against the RM148.0m FY27 consensus in the summary table is 13.4%; against the RM123.3m <i>FY28</i> consensus it is 16.1%. The 11% of Kenanga reconciles to the pre-cut FY27 forecast (88.5 sen x 209.8m shares = about RM185.7m; 19.9/185.7 = 10.7%). All computed here; which base Kenanga used for 16% is not stated. (3) <b>FY28 core EPS is printed three ways</b>: 68.8 sen in the summary table and peer table, '68.68 sen' in the Forecasts paragraph, and the peer table's 1-year-forward EPS reads 79.6 sen against 79.7 sen elsewhere. (4) <b>The Malaysian FFB decline is 37% in the summary paragraph but -32% YoY in the results table</b> (72,814 MT against 107,635 MT). The table and The Star's report of the company's filing both say 32%. (5) <b>The 52-week range differs by source</b>: Kenanga prints RM5.45-RM6.08; stockanalysis.com shows RM5.50-RM6.10. The market-data columns on this row carry stockanalysis.com's figures, which are not from Kenanga.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 7.0,
+   "ticker": "UMCCA",
+   "name": "United Malacca Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 7.0,
+   "price": 5.96,
+   "divYield": 3.36,
+   "high52": 6.1,
+   "low52": 5.5,
+   "mktSrc": "https://stockanalysis.com/quote/klse/UMCCA/",
+   "catalyst": "A weak quarter met with a forecast cut, an unchanged target and an unchanged call. 1QFY27 core net profit fell 32% QoQ and 45% YoY to RM19.9m, after adjusting out an RM11.2m unrealised FX gain, a RM0.7m fair value gain and a RM0.1m disposal gain from reported net profit of RM31.8m. Malaysian FFB fell 32% YoY and a RM12.6m realised FX loss hit the quarter; excluding that loss, Kenanga puts core profit at RM31.0m. Kenanga cuts FY27 core EPS 10% to 79.7 sen on a lower FFB harvest forecast (0.456m MT from 0.502m MT) and 15% higher fertiliser costs, while raising its CPO price assumption to RM4,700/MT from RM4,450 for FY27 on an expected severe El Nino, and nudges FY28 core EPS up 2%. Target price stays at RM7.00 on 0.9x calendarised PBV, with Kenanga explicitly declining for now to raise the multiple to 1.1x on a potential El Nino re-rating. No ESG adjustment on a 3-star rating.",
+   "quote": "Maintain OUTPERFORM as we see deep value in UMCCA as its Indonesian estates matures into higher yielding bracket.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/UMCCA-260925-1Q27-RN-Kenanga.pdf",
+   "summary": [
+    "Nothing moved at the top line of the call. Rating and target are both maintained - OUTPERFORM, RM7.00, each marked unchanged on page 1 - and this board has no earlier UMCCA row to reconcile against, so the previous values are taken from the note's own arrows. At RM5.96 the upside is 17.4%, matching the peer table, and adding the 5.0% FY27F dividend yield gives about 22.4% expected total return, clearing the 'more than 10%' OUTPERFORM threshold on page 4. Both computed here. The KLCI of 1,672.31 printed on page 1 matches this edition's digest.",
+    "The quarter, split cleanly by the note's own tables. Group FFB was 112,359 MT, up 3% QoQ but down 17% YoY; within that, Malaysia fell to 72,814 MT (-32% YoY) while Indonesia rose to 39,545 MT (+43% YoY). Malaysian realised CPO rose 13% YoY to RM4,512/MT, yet Malaysian plantation profit fell 48% YoY to RM24.3m, while Indonesian profit rose to RM20.0m from RM3.6m. Indonesia now contributes about 45% of plantation segment profit (20.0 of 44.3), against about 7% a year ago (3.6 of 50.3) - computed here.",
+    "Where the profit went between reported and core. Reported net profit of RM31.8m (-16% YoY) is flattered by an RM11.2m unrealised FX gain; core net profit is RM19.9m. Separately, a RM12.6m <i>realised</i> FX loss sits inside core; Kenanga says excluding it, core would be RM31.0m, up 7% QoQ and down 14% YoY. So unrealised and realised FX roughly offset at the reported line (11.2 against 12.6), which is why reported profit looks steadier than the business. Net cash rose 9% QoQ to RM311m from RM286m. No dividend was declared, which the note says is in line with past practice; FY27/FY28 DPS forecasts stay at 30 and 20 sen.",
+    "The forecast change is a volume-versus-price trade, and the company's own guidance is more optimistic on volume. Kenanga raises its FY27 CPO assumption to RM4,700/MT from RM4,450 and FY28 to RM4,500 from RM4,400, but cuts FY27 FFB to 0.456m MT from 0.502m MT - about 9%, computed here - citing the weak quarter and expected El Nino yield damage. The company, per The Star's 24 September report of its filing, expects FFB production to 'remain stable' for FY2027 on a better age profile, while noting a super El Nino could affect the second half. Even after the cut, Kenanga's FY27 core profit of RM167.1m is about 12.9% above the RM148.0m consensus it prints - computed here. FY28 core EPS is forecast to fall 13.6%, making UMCCA the only stock in Kenanga's plantation peer table with negative two-year-forward EPS growth.",
+    "Why both signals read None stated. Searching the four pages for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite returns nothing; the closest language is 'we see deep value in UMCCA', which is investment-case wording, not a pick declaration. On the peer table UMCCA carries the lowest 1-year-forward PER in Kenanga's plantation coverage at 7.5x and a 5.0% yield. For other houses: CIMB Securities kept a Buy with a target lifted to RM6.93 in June 2026, per a New Straits Times headline; the article body was not retrievable in this run, so no pick language could be checked and no more recent CIMB note was found. No other named house call on UMCCA surfaced in the permitted sources."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "CIMB Securities",
+    "date": "Jun 2026",
+    "opp": false,
+    "note": "<b>No named non-Kenanga house declares a pick on UMCCA in a dated, publicly retrievable note read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. <b>One of the nine houses this board searches has a retrievable call</b>: a New Straits Times headline from June 2026 reads 'CIMB Securities keeps \u2018Buy\u2019 on United Malacca, lifts target price to RM6.93'. The article body did not load in this run, so the exact date of the note and any pick language could not be read; the call is recorded from the headline only. It points the same way as Kenanga's OUTPERFORM, about 1% below Kenanga's RM7.00, and predates this results note by roughly three months, so it does not reflect the weak 1QFY27. Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank Research, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang yielded no retrievable 2026 call. <b>None stated means no conviction language was found in accessible sources - not that no house holds a view.</b>",
+    "cites": [
+     [
+      "New Straits Times, Jun 2026 - 'CIMB Securities keeps Buy on United Malacca, lifts target price to RM6.93' (headline only)",
+      "https://www.nst.com.my/business/corporate/2026/06/1475672/cimb-securities-keeps-buy-united-malacca-lifts-target-price"
+     ]
+    ]
+   },
+   "crossCheck": {
+    "note": "The company's own figures, as reported by The Star on 24 September 2026, agree with Kenanga's table: net profit down 15.8% to RM31.8m, revenue down 6% to RM180.1m, pre-tax profit down 12% to RM45.2m, Malaysian FFB down 32% to 72,814 tonnes, and Malaysian plantation profit down 48% to RM24.3m. The Star also carries the company's outlook, which Kenanga's note does not quote: FFB production is expected to 'remain stable' for FY2027 on a better age profile and improving efficiency, with a super El Nino a risk to the second half, and 'satisfactory results' are expected if CPO prices and FX stay at current levels. Kenanga's 9% FFB forecast cut is the more cautious of the two views.",
+    "cites": [
+     [
+      "The Star, 24 Sep 2026 - 'United Malacca 1QFY27 weighed by weaker FFB production'",
+      "https://www.thestar.com.my/business/2026/09/24/united-malacca-1qfy27-weighed-by-weaker-ffb-production"
+     ]
+    ]
+   }
+  },
+  {
+   "verified": true,
+   "flag": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>The week's MGS rally overlaps last week's by one session.</b> Table 3 compares 24 September with <i>17</i> September (10-year MGS 4.126% to 3.952%, -17.4bps). This board's 21 September row recorded Kenanga's previous weekly note putting the 10-year MGS at 3.917% on 18 September. Measured from that close, the 10-year MGS <i>rose</i> 3.5bps over the four sessions to 24 September - computed here. Both notes are consistent only if the 10-year fell about 21bps on 18 September alone. That session is not independently verified here, so both figures are carried as printed. (2) <b>The Bursa foreign-flow figure is a week old.</b> The note says foreign investors 'returned to Bursa Malaysia with RM127.0m of net equity inflows, ending a six-week selling streak'. RM127m matches the week to <i>18</i> September: BIMB's figure and this board's own sum (RM126.9m), both recorded on 21 September. For the week this note covers, Kenanga's own digests record foreign net flows of -RM20.7m (21 Sep), +RM20.4m (22 Sep), -RM230.7m (23 Sep) and -RM109.3m (24 Sep), a net <b>outflow of about RM340.3m</b> - computed here. The 23 September session figure is from Kenanga's 24 September digest, which is not on this board. The streak count also conflicts: Kenanga's 18 September note described four weeks of selling, not six. (3) <b>The 21 September note's RM160.3m foreign outflow</b>, which this board declined to use as data, is now effectively replaced in Kenanga's own words by an RM127.0m inflow for the same week. (4) <b>Typographical slips as printed</b>: 'we expect MGS yields are expected to stay', 'privately placement', a 26.0bps rise described as 'edged up', and page headers reading '6 S' and 'ENANGA INVESTMENT BANK BERHAD'. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "MY Bond Market Weekly",
+   "name": "Bond Market Weekly Outlook: MGS shrugs off late-Sep UST rout, but a 125bps gap leaves no room for complacency",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "MGS and GII yields fell across the curve by 5.1bps to 19.3bps in the week to 24 September. The 10-year MGS fell 17.4bps to 3.952% and the 10-year GII fell 16.6bps to 3.956%. Kenanga credits confidence in Malaysia's growth and investment outlook - the ECRL extension to Rantau Panjang agreed with China, openness to Chinese technology investment, and tourism - plus RM2.7b of foreign inflows into Malaysian bonds. US Treasuries went the other way, rising 19.3bps to 28.0bps across the curve, with the 10-year up 26.7bps to 5.198%. The drivers were strong data, higher oil and hawkish Fed speakers. Kenanga expects MGS to stay broadly stable and rangebound and UST yields to stay biased higher. It names the widening MGS-UST gap as the key risk.",
+   "quote": "However, the widening gap with USTs is a key risk, and any reversal in foreign flows could push local yields higher.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/EV_Bond-Market-Weekly-Outlook_260925-Kenanga.pdf",
+   "summary": [
+    "The divergence is the headline, and the title's 125bps checks out. The 10-year UST at 5.198% against the 10-year MGS at 3.952% is a gap of 124.6bps, computed here from Table 3. On this board's 21 September row the same gap was about 107.9bps, so it has widened by roughly 17bps in a week. That comparison mixes the two notes' different base days - see the flag. Every UST tenor in the table rose by 19.25bps to 27.98bps on the week; every MGS and GII tenor fell by 5.1bps to 19.3bps.",
+    "The drivers Kenanga names, and which of them appear in today's digest. For MGS: the ECRL extension to Rantau Panjang, Malaysia's openness to Chinese technology investment (both in today's Macro Bits), tourism cooperation with the UAE and GCC, and RM2.7b of foreign bond inflows 'last week'. For UST: falling initial jobless claims (also in today's digest), September preliminary S&P Global PMIs beating in both manufacturing and services, higher oil, and hawkish remarks from Barkin, Goolsbee and Collins. The note also cites the US-China trade truce 'to early 2027' as improving the trade outlook - the same wording as the digest's lead global item.",
+    "The forecast table is unchanged from 21 September, and spot is sitting on the Q3 number. Table 1 again gives the 10-year MGS at 3.95% for Q3-26, 3.88% for Q4-26, 3.87% for Q1-27 and 3.78% for Q2-27. The UST path is 4.85%, 4.80%, 4.75% and 4.69%, USDMYR is 4.05, 3.95, 4.00 and 4.02, and the OPR is 2.75% throughout - identical to the table this board recorded on 21 September. With a week of the quarter left, the 10-year MGS at 3.952% is on the 3.95% Q3 forecast. The 10-year UST at 5.198% is about 35bps above its 4.85% Q3 forecast. Computed here.",
+    "The year-to-date picture is still a bear market everywhere except China. The 10-year MGS is up 46.0bps in 2026 and the 10-year UST is up 103.1bps. The 10-year JGB is up 101.4bps to 3.080%, now 87.2bps below the 10-year MGS (computed here). This board last recorded that premium at 92.8bps on 18 September; the Malaysia-Japan spread was the subject of a Japanese-fund outflow risk item on 18 September. China's 10-year at 1.672% is the only major government bond in the table with yields lower than on 1 January (-18.3bps).",
+    "Supply and the week ahead. The 7-year MGS 4/33 reopening on 21 September raised RM5.0b at an average 3.983% with a bid-to-cover of 2.17x, which Kenanga calls moderate demand. Next is the 30-year MGII reopening, with RM3.0b on tender plus RM2.0b by private placement. Locally, the focus shifts to PPI and PMI data and further signals ahead of Budget 2027. Abroad, markets will watch core PCE, JOLTS, ADP, payrolls (consensus around 100k), GDP and ISM manufacturing. Kenanga says progress in US-Iran talks to reopen the Strait of Hormuz could cap UST yields."
+   ]
+  },
+  {
+   "verified": true,
+   "flag": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>Table 2's 'Last Month' column is dated 28/04/26</b>, not a date about a month before 24 September. Its 'mom' column (USDMYR +3.37% from 3.953) therefore measures about five months, not one. (2) <b>The trade truce is described differently from the rest of the bundle.</b> This note calls it 'a two-month trade truce extension'; the Bond Market Weekly Outlook and the digest both say the truce runs to early 2027. Not reconciled. (3) <b>Two ringgit reference points are used side by side.</b> The text says MYR 'closed Thursday at 4.086/USD from 4.082 last Friday' - a slight weakening. Table 2 compares with 4.099 on Thursday 17 September and shows the ringgit 0.31% stronger week-on-week. Both are correct for their own base dates. The 4.082 Friday figure matches the 4.0817 in this board's 21 September digest, and 4.086 matches today's digest forex table (4.0860). This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Ringgit Weekly",
+   "name": "Ringgit Weekly Outlook: On hold as August PCE and September payrolls tests whether the Fed is truly done",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "The ringgit closed Thursday at 4.086/USD from 4.082 last Friday, as hawkish Fed speakers kept the dollar bid and DXY moved back above 101.0. Kenanga says it is <b>reviewing its view that the September Fed hike was the last</b>, with August core PCE, September payrolls and US-Iran talks deciding the odds of another. It expects the ringgit to firm toward 4.07 next week, with risks on both sides, and keeps its 3.95 year-end forecast. Technical support is at 4.079 and resistance at 4.090, with momentum neutral.",
+   "quote": "We are reviewing our view that the September Fed hike was the last, as core PCE, payrolls and US-Iran will decide the odds of another.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/EV_Ringgit-Weekly-Outlook_260925-Kenanga.pdf",
+   "summary": [
+    "The house view on the Fed is now under review, and that is the most important line in the bundle. On 21 September this board recorded Kenanga's base case that 'the latest Fed hike marks the end of the tightening cycle', with policy rates unchanged through end-2027. This note says Kenanga is reviewing that view. The note names hawkish remarks from Goolsbee, Musalem and Barkin, with Barkin warning 'one hike may not be enough'. It says upside surprises in the coming data 'would push markets to price an October hike and extend the USD rally'. Today's digest adds New York Fed president Williams saying another hike this year is reasonable, which the note does not cite.",
+    "Kenanga reads the dollar as a Fed story, not an oil story. The note says front-end US yields held firm even as Brent briefly slipped below US$100/bbl, and that strong PMIs and rebounding oil lifted DXY above 101.0. Its conclusion: 'The dollar's resilience to softer oil shows that Fed pricing, not energy, now drives USD demand.' It expects Brent to stay elevated and range-bound until US-Iran talks firm up. It notes Iran wants the US back in the MoU before the midterms, which keeps talks alive.",
+    "The ringgit's week, from Table 2. USDMYR was 4.086 on 24 September, 0.31% lower than 4.099 on 17 September, 0.79% higher year-to-date and 3.05% lower year-on-year. Against other majors the ringgit strengthened on the week: GBPMYR -1.54%, AUDMYR -1.42%, EURMYR -1.16% and JPYMYR -2.24%. Among regional peers, IDR (+0.92%), THB (+0.35%), SGD (+0.30%) and CNY (+0.12%) all weakened against the dollar on the week; the ringgit did not. USDJPY rose 1.99% to 158.74, matching the 158.74 in today's digest forex table.",
+    "The forecast path is unchanged at the year-end point. Table 1 gives USDMYR at 4.05 for Q3-26, 3.95 for Q4-26, then 4.00, 4.02 and 3.95 through Q3-27, with a bearish long-term USD trend. That matches the Q3-26 to Q2-27 path in Kenanga's 21 September bond note; this board's 4 September Ringgit Weekly row had Q3-26 at 4.03. The 3.95 year-end figure would need the ringgit to strengthen about 3.3% from 4.086 in a little over three months, computed here. The note's own near-term target is 4.07.",
+    "The data calendar that will settle the review. JOLTS on 29 September (consensus 7.225m against 7.271m); China NBS manufacturing PMI on 29 September (49.8 previously). On 30 September: August core PCE (consensus 0.3% MoM against 0.2%), ADP employment (58k against 38k) and Q2 GDP (1.5% against 2.1%). ISM manufacturing PMI on 1 October (55.0 against 54.6). Then September non-farm payrolls on 2 October (100k against 162k) and the unemployment rate (4.1% against 4.1%). On the technicals, RSI-7 is 61.7 with the 5-day EMA at 4.083. Support is at 4.079 and 4.072, and resistance at 4.090 and 4.093."
+   ]
+  }
+ ]
+}

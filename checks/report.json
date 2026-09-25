@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T05:51:28.914Z",
+ "generatedAt": "2026-09-25T05:56:54.219Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -20,10 +20,11 @@
   "2026-09-18",
   "2026-09-21",
   "2026-09-22",
-  "2026-09-23"
+  "2026-09-23",
+  "2026-09-25"
  ],
- "rows": 114,
- "verified": 113,
+ "rows": 118,
+ "verified": 117,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -290,6 +291,30 @@
    "date": "2026-09-23",
    "row": "IHH",
    "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The sum-of-parts does not divide to the stated target price.</b> Page 3 prints hospitals at RM84,210m, Fortis at RM5,320.2m, the 32.9% Plife REIT stake at RM1,943.4m and net debt of -RM11,416.0m, which sum to exactly the RM80,057m total shown. Divided by the 8,836m shares in the same table that is <b>RM9.06</b>, not the RM9.10 target stated on page 1 and in the peer table - a gap of about 0.4%, computed here. The note states there is <i>no</i> ESG adjustment on a 3-star rating, so nothing in the document bridges the two. The RM9.10 Kenanga states is what this row carries. (2) <b>Singapore bed occupancy is given three different ways in one document.</b> The investment case says occupancy recovered 'to above 52% in August and September'; the highlights box says 'to 55% in July and August (against 51% in 2QFY26)'; the Singapore section says 'to &gt;52% in Aug-Sept (vs. 51% in 2QFY26 and 49% in 1QFY26)'. Different levels over different months, unreconciled. (3) <b>The retracement that justifies the upgrade is stated as 10% while the note's own header prints YTD stock price change of -8.6%.</b> Both appear on page 1. (4) <b>A table row is mislabelled.</b> The Türkiye table's row 'Türkiye Operations foreign patient revenue as a % of Turkiye and Europe revenue' prints 18%/15%/14%/13%/11% - but those figures divide foreign patient revenue by <i>Türkiye Operations</i> revenue, not by Türkiye and Europe revenue (FY23: 754/4,189 = 18%; 1H26: 408/3,712 = 11%). Against the regional total, 1H26 would be 8.6%. Arithmetic here; the prose repeats the label, describing medical tourism as a percentage of 'total regional revenue'. (5) <b>The growth block on page 4 labelled 'Net Profit /(loss)' tracks core net profit, not reported net profit.</b> It prints 32%/8%/22%/9% for FY2024A-FY2027F, which are the growth rates of the core series (1,685/1,818/2,216/2,409); the reported series (2,657/2,101/2,216/2,409) grows -20.9%/+5.5%/+8.7% over the same years. Computed here. (6) <b>The peer table's Rating column returned no values in the retrieved text layer</b>, so no peer ratings are used on this row; the target prices in that table were readable and do reconcile with this board's record."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-25",
+   "row": "ECOWLD",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The file is misdated.</b> The PDF is filed as <i>ECOWLD-260924-3Q26-RN-Kenanga.pdf</i> but is dated 25 September 2026 on every page and appears in the 25 September digest's line-up; it is carried on 25 September. Add this to the known irregularities alongside MBMR. (2) <b>The QoQ revenue direction in the text is the opposite of the table.</b> The text says '3QFY26 revenue fell by 22%'; the results table prints 3QFY26 revenue of RM971.5m against RM797.4m in 2QFY26, <i>up</i> 21.8%. The 13% weaker bottom line matches the table (RM112.2m against RM129.1m). (3) <b>Net gearing is given four incompatible ways.</b> The text says it eased to 0.21x from 0.28x in October 2025; the results table prints 0.25x for both 3QFY26 and 2QFY26 and 0.53x for 3QFY25; the summary earnings table prints 0.62x for FY2025A and 0.52x/0.48x for FY26F/FY27F. Not reconciled. (4) <b>The peer table does not match the summary table.</b> Peer table: core EPS 17.9/18.1 sen, PER 10.9x/10.7x, net dividend 10.0 sen, yield 5.2%. Summary table: core EPS 17.1/17.3 sen, PER 11.3x/11.2x, NDPS 8.0 sen, yield 4.1%. This row uses the summary table. (5) <b>'10M FY26' sales include a September sale.</b> The note calls RM5.06b '10M FY26 data' and says it includes the September Tera Data Centers land sale; The Star reports RM4.05b for the ten months to 31 August plus the RM1.01b Tera agreement signed 22 September, so the RM5.06b spans more than ten months."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-25",
+   "row": "UMCCA",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The result is not labelled.</b> The note never says 'below expectations', 'within expectations' or 'above expectations'; it says 1QFY27 core net profit accounts 'for just 11% of Kenanga and 16% of consensus full year estimates' and titles the note 'Poor 1Q'. This board does not infer a verdict the note does not state, so the result field is left empty. (2) <b>The 16% of consensus does not reconcile to the FY27 consensus the note prints.</b> RM19.9m against the RM148.0m FY27 consensus in the summary table is 13.4%; against the RM123.3m <i>FY28</i> consensus it is 16.1%. The 11% of Kenanga reconciles to the pre-cut FY27 forecast (88.5 sen x 209.8m shares = about RM185.7m; 19.9/185.7 = 10.7%). All computed here; which base Kenanga used for 16% is not stated. (3) <b>FY28 core EPS is printed three ways</b>: 68.8 sen in the summary table and peer table, '68.68 sen' in the Forecasts paragraph, and the peer table's 1-year-forward EPS reads 79.6 sen against 79.7 sen elsewhere. (4) <b>The Malaysian FFB decline is 37% in the summary paragraph but -32% YoY in the results table</b> (72,814 MT against 107,635 MT). The table and The Star's report of the company's filing both say 32%. (5) <b>The 52-week range differs by source</b>: Kenanga prints RM5.45-RM6.08; stockanalysis.com shows RM5.50-RM6.10. The market-data columns on this row carry stockanalysis.com's figures, which are not from Kenanga."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-25",
+   "row": "MY Bond Market Weekly",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>The week's MGS rally overlaps last week's by one session.</b> Table 3 compares 24 September with <i>17</i> September (10-year MGS 4.126% to 3.952%, -17.4bps). This board's 21 September row recorded Kenanga's previous weekly note putting the 10-year MGS at 3.917% on 18 September. Measured from that close, the 10-year MGS <i>rose</i> 3.5bps over the four sessions to 24 September - computed here. Both notes are consistent only if the 10-year fell about 21bps on 18 September alone. That session is not independently verified here, so both figures are carried as printed. (2) <b>The Bursa foreign-flow figure is a week old.</b> The note says foreign investors 'returned to Bursa Malaysia with RM127.0m of net equity inflows, ending a six-week selling streak'. RM127m matches the week to <i>18</i> September: BIMB's figure and this board's own sum (RM126.9m), both recorded on 21 September. For the week this note covers, Kenanga's own digests record foreign net flows of -RM20.7m (21 Sep), +RM20.4m (22 Sep), -RM230.7m (23 Sep) and -RM109.3m (24 Sep), a net <b>outflow of about RM340.3m</b> - computed here. The 23 September session figure is from Kenanga's 24 September digest, which is not on this board. The streak count also conflicts: Kenanga's 18 September note described four weeks of selling, not six. (3) <b>The 21 September note's RM160.3m foreign outflow</b>, which this board declined to use as data, is now effectively replaced in Kenanga's own words by an RM127.0m inflow for the same week. (4) <b>Typographical slips as printed</b>: 'we expect MGS yields are expected to stay', 'privately placement', a 26.0bps rise described as 'edged up', and page headers reading '6 S' and 'ENANGA INVESTMENT BANK BERHAD'. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-25",
+   "row": "Ringgit Weekly",
+   "msg": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>Table 2's 'Last Month' column is dated 28/04/26</b>, not a date about a month before 24 September. Its 'mom' column (USDMYR +3.37% from 3.953) therefore measures about five months, not one. (2) <b>The trade truce is described differently from the rest of the bundle.</b> This note calls it 'a two-month trade truce extension'; the Bond Market Weekly Outlook and the digest both say the truce runs to early 2027. Not reconciled. (3) <b>Two ringgit reference points are used side by side.</b> The text says MYR 'closed Thursday at 4.086/USD from 4.082 last Friday' - a slight weakening. Table 2 compares with 4.099 on Thursday 17 September and shows the ringgit 0.31% stronger week-on-week. Both are correct for their own base dates. The 4.082 Friday figure matches the 4.0817 in this board's 21 September digest, and 4.086 matches today's digest forex table (4.0860). This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
   }
  ],
  "verdict": "PASS"
