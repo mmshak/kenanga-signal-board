@@ -1,0 +1,265 @@
+{
+ "date": "2026-09-28",
+ "schema": 1,
+ "daily": {
+  "klci": 1671.6,
+  "chg": -0.69,
+  "pct": -0.04,
+  "inst": 164.5,
+  "instPct": 41.4,
+  "retail": -31.7,
+  "retailPct": 32.0,
+  "foreign": -132.8,
+  "foreignPct": 26.6,
+  "ideas": "Market Strategy: Fair Play for Fair Pay; Results Note: KENERGY; Weekly Technical Review: DJIA, KLCI",
+  "news": [
+   {
+    "h": "Kinergy plans 10.0% share placement to raise RM79.8m for Perlis power plant, debt repayment",
+    "body": "Energy and engineering solutions provider Kinergy Advancement Bhd, formerly known as Kejuruteraan Asastera Bhd, plans to place out up to 10.0% of its issued shares to third-party investors to raise up to RM79.8m to finance its Perlis power plant and repay debts. The private placement will involve up to 218.5m shares, Kinergy said in a bourse filing. The estimated proceeds is based on an illustrative issue price of 36.5 sen per share - a discount of nearly 9.0% to its five-day volume weighted average market price of KAB shares up to Sept 18. (The Edge Malaysia)",
+    "takeaways": [
+     "Do not confuse this company with today's Results Note. Kinergy Advancement Bhd, formerly Kejuruteraan Asastera Bhd and referred to in the item as KAB, is a different listed company from Kawan Renergy Bhd (Bursa: KENERGY), which Kenanga downgrades in today's bundle. The names are similar, and by coincidence the 36.5 sen illustrative placement price here equals the RM0.365 last price for KENERGY in Kenanga's peer table.",
+     "The arithmetic reconciles: 218.5m shares at 36.5 sen is about RM79.8m, and 218.5m shares being up to 10.0% implies roughly 2.19 billion shares in issue before the placement. Both computed here.",
+     "The pricing is illustrative, not fixed: 36.5 sen is a discount of nearly 9.0% to the five-day VWAP up to 18 September. The final price, and therefore the proceeds, can differ.",
+     "Proceeds serve two purposes - the Perlis power plant and debt repayment - but the item gives no split between them, no plant capacity and no debt figure.",
+     "Placees are unnamed third-party investors. This board holds no Kenanga coverage of Kinergy Advancement. Digest context only."
+    ]
+   },
+   {
+    "h": "Vantris Energy unit secures RM1.8b offshore work orders",
+    "body": "Vantris Energy Bhd said its unit has secured two offshore transportation and installation work orders with a combined value of about RM1.8b. The work orders were awarded to VTEB Offshore Sdn Bhd, formerly known as Sapura Offshore Sdn Bhd, an indirect wholly owned subsidiary of Vantris Energy. The first work order was awarded by PETRONAS Carigali Sdn Bhd for the transportation and installation (T&I) of offshore facilities for the SK316 NC3/NC8 Trunkline 7 FAC project under an existing contract. Separately, VTEB Offshore secured another work order from PTTEP HK Offshore Ltd and PTTEP Sarawak Oil Ltd under an existing contract for offshore T&I services for PTTEP development projects. (The Edge Malaysia)",
+    "takeaways": [
+     "Two work orders, about RM1.8b combined; the item does not split the value between them.",
+     "Both are call-outs under existing contracts rather than new contract awards - one from PETRONAS Carigali for SK316 NC3/NC8 Trunkline 7, one from PTTEP HK Offshore and PTTEP Sarawak Oil for PTTEP development projects.",
+     "The awarding subsidiary, VTEB Offshore, was formerly Sapura Offshore Sdn Bhd, per the item. No execution period or margin is given.",
+     "Both clients sit in Sarawak offshore upstream activity (SK316 and PTTEP Sarawak Oil), as named in the item; no timeline for the T&I campaigns is provided.",
+     "This board holds no Kenanga report on Vantris Energy, and nothing in the 28 September bundle covers oil and gas services. Digest context only."
+    ]
+   },
+   {
+    "h": "Insas plans to sell entire remaining 5.7% stake in Inari Amertron worth RM580.0m",
+    "body": "Insas Bhd is planning to dispose of its entire remaining 5.7% stake in Inari Amertron Bhd, valued at roughly RM580.0m, to raise cash for working capital and repay credit facilities. Insas is seeking shareholders' mandate for the planned sale at a general meeting to be called, as the deal crosses major transaction thresholds under Bursa Malaysia's Main Market listing rules. The stake, comprising 218.1m shares in the outsourced semiconductor assembly and test provider, is to be sold in the open market or via direct business transactions to third-party buyers yet to be identified over a 12-month period, Insas said. (The Edge Malaysia)",
+    "takeaways": [
+     "RM580.0m for 218.1m shares implies about RM2.66 per Inari share - computed here; the item does not state the reference price.",
+     "This is a potential overhang on INARI, not a block trade: shares are to be sold in the open market or via direct business transactions over 12 months, to buyers not yet identified.",
+     "It needs Insas shareholders' approval first, because it crosses major-transaction thresholds; no meeting date is given.",
+     "Insas's stated uses are working capital and repaying credit facilities - the seller's needs, not a view on Inari stated in the item.",
+     "This board carried Kenanga notes on INARI on 28 August (Results Note) and 1 September (Company Update); no INARI report is in today's bundle, and none of those figures is restated here."
+    ]
+   },
+   {
+    "h": "Favelle Favco bags contracts worth RM88.8m to supply cranes",
+    "body": "Heavy machinery specialist Favelle Favco Bhd said it has secured three contracts worth RM88.8m to supply cranes. The group said the first two contracts were awarded by Saipem Offshore Construction and Malaysia Marine and Heavy Engineering Sdn Bhd, with delivery expected by the end of 2027. The third contract was awarded by OceanMight Sdn Bhd and is scheduled for delivery in the third quarter of 2027. (The Edge Malaysia)",
+    "takeaways": [
+     "Three contracts, RM88.8m combined, with no split by customer given.",
+     "Customers are Saipem Offshore Construction, Malaysia Marine and Heavy Engineering and OceanMight - all offshore or marine fabrication names.",
+     "Delivery runs to 2027: end-2027 for the first two, 3Q27 for the OceanMight contract, so revenue recognition is spread rather than immediate.",
+     "The item does not state crane types, margins or the size of Favelle Favco's existing order book.",
+     "This board holds no Kenanga coverage of Favelle Favco. Digest context only."
+    ]
+   },
+   {
+    "h": "Taghill enters joint venture to develop Kelantan land with estimated RM192.0m GDV",
+    "body": "Construction firm Taghill Holdings Bhd signed a joint-venture agreement on Friday to develop a residential project on a Malay reservation land in Kelantan, with an estimated gross development value (GDV) of RM191.7m. Taghill said its wholly-owned unit Taghill Aman Sdn Bhd entered into the deal with the property's registered proprietor, and beneficial owner SBJ Binajaya Development Sdn Bhd. Taghill said the development on the 7.94-acre freehold land in the Kota Bharu district will comprise two apartment blocks totalling 639 units. (The Edge Malaysia)",
+    "takeaways": [
+     "The headline rounds the GDV to RM192.0m; the body gives RM191.7m. Both are as printed.",
+     "639 units at RM191.7m GDV averages about RM300,000 per unit - computed here; the item gives no unit mix or pricing.",
+     "The land is 7.94 acres, freehold, Malay reservation land in Kota Bharu district, owned by SBJ Binajaya Development; the item does not state the landowner's entitlement under the JV.",
+     "Taghill, described as a construction firm, is taking a developer role through Taghill Aman; no launch date or construction timeline is given.",
+     "This board holds no Kenanga coverage of Taghill. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "China says consensus reached with US includes USD30.0b tariff cut, AI dialogue",
+    "region": "Global",
+    "body": "China said on Saturday it had agreed with the US on a USD30.0b (RM122 billion) reciprocal tariff-reduction arrangement and on launching a dialogue on artificial intelligence (AI), under an eight-point consensus reached during President Xi Jinping's visit to Washington. (The Edge Malaysia)",
+    "takeaways": [
+     "USD30.0b is described as a reciprocal tariff-reduction arrangement; the item does not say which goods or tariff lines it covers.",
+     "The RM122b conversion implies about RM4.07 per US dollar, in line with the USD/MYR of 4.0740 printed in this edition's forex table for 25 September. Computed here.",
+     "It is China's account of an eight-point consensus; the item carries no US statement confirming the terms.",
+     "This board carried on 25 September an item on Trump and Xi keeping a trade truce to early 2027. Today's item adds a dollar figure and an AI dialogue; whether it changes the truce's end date is not stated.",
+     "No Kenanga report in today's bundle addresses trade. Digest context only."
+    ]
+   },
+   {
+    "h": "Govt to announce firm measures under Budget 2027 for fair wages - PM",
+    "region": "Malaysia",
+    "body": "The government will announce more decisive measures to ensure graduates secure jobs that match their qualifications and receive fair wages in Budget 2027, which will be tabled on Oct 9. (The Edge Malaysia)",
+    "takeaways": [
+     "Budget 2027 is tabled on 9 October, per the item.",
+     "The focus in this item is graduates - jobs matching qualifications and fair wages - rather than the minimum wage specifically.",
+     "This is the premise of today's Kenanga Market Strategy note, 'Fair Play for Fair Pay', which says that with no details yet, the pressure on listed firms to raise wages looks manageable.",
+     "This board carried on 25 September the economy minister's statement that income and wages must be a Budget 2027 priority; today's item is the Prime Minister's version of the same theme.",
+     "No measure, amount or mechanism is given, so no earnings impact can be drawn from the item alone."
+    ]
+   },
+   {
+    "h": "Steven Sim: RM10.0b channelled to 270,000 entrepreneurs as of August",
+    "region": "Malaysia",
+    "body": "The Ministry of Entrepreneur and Cooperatives Development has channelled nearly RM10 billion through various support and financing programmes under the 'Power Up 10K' initiative to about 270,000 entrepreneurs nationwide as of the end of August. (The Edge Malaysia)",
+    "takeaways": [
+     "The headline says RM10.0b; the body says 'nearly RM10 billion'.",
+     "Averaged across about 270,000 entrepreneurs, that is roughly RM37,000 each - computed here; the item gives no distribution.",
+     "It mixes support and financing programmes, so the figure is not all grants and not all loans; no split is given.",
+     "The cut-off is end-August; no start date for the 'Power Up 10K' initiative is stated.",
+     "No listed company is named. Digest context only."
+    ]
+   },
+   {
+    "h": "Budget 2027: Liam calls for 8% service tax exemption, review of reinsurers' tax treatment",
+    "region": "Malaysia",
+    "body": "The Life Insurance Association of Malaysia (Liam) has called on the government to exempt group employee insurance schemes from the eight per cent service tax under Budget 2027. (The Edge Malaysia)",
+    "takeaways": [
+     "The request is narrow: exempt group employee insurance schemes from the 8% service tax.",
+     "The headline also mentions a review of reinsurers' tax treatment, but the body carries no detail of it.",
+     "This is an industry proposal, not a government decision.",
+     "It ties to the wage theme in the same edition only indirectly: group schemes are an employer cost, a link drawn here rather than in the item.",
+     "No Kenanga report in today's bundle covers insurers. Digest context only."
+    ]
+   },
+   {
+    "h": "Govt to cover postal delivery costs for medicines from Oct 1, says Fahmi",
+    "region": "Malaysia",
+    "body": "The Communications Ministry, through the Malaysian Communications and Multimedia Commission (MCMC), will help the Health Ministry (MOH) provide free postal delivery of medicines to patients who opt for the service from Oct 1. (The Edge Malaysia)",
+    "takeaways": [
+     "Free postal delivery of medicines starts 1 October for patients who opt in.",
+     "The cost sits with the Communications Ministry through MCMC, supporting the Health Ministry.",
+     "No budget, volume estimate or delivery operator is named.",
+     "It is an opt-in service, so take-up is unknown.",
+     "No listed company is named. Digest context only."
+    ]
+   },
+   {
+    "h": "Growth minister says Japan has exited reflationary phase",
+    "region": "Asia Pacific",
+    "body": "Japan no longer needs a reflationary policy of aggressive monetary easing and nimble fiscal spending, according to Growth Strategy Minister Minoru Kiuchi, one of the Cabinet's most aggressive reflationists. (The Edge Malaysia)",
+    "takeaways": [
+     "The weight of the remark comes from the speaker: Minoru Kiuchi is described as one of the Cabinet's most aggressive reflationists.",
+     "It refers to both monetary easing and fiscal spending, not just the Bank of Japan.",
+     "It is a minister's view, not a policy decision; the item gives no BoJ response.",
+     "This edition's forex table shows USD/JPY at 157.28 on 25 September, down 0.92% on the day. The item does not link the two.",
+     "This board carried Kenanga's BoJ Monetary Policy Decision note on 21 September; no Japan report is in today's bundle."
+    ]
+   },
+   {
+    "h": "US Fed plans to raise bank oversight thresholds - Reuters",
+    "region": "Americas",
+    "body": "The US Federal Reserve is working on a plan to raise the asset thresholds that trigger stricter oversight of big banks, four people with knowledge of the matter said, which would allow some lenders to avoid costly additional regulation and potentially spur consolidation. (The Edge Malaysia)",
+    "takeaways": [
+     "Sourced to four people with knowledge of the matter; it is a plan in progress, not an announcement.",
+     "No new threshold levels are given.",
+     "The stated effects are that some lenders avoid costlier regulation and that consolidation could follow.",
+     "This is a supervisory change, separate from interest-rate policy.",
+     "No Malaysian read-across is stated. Digest context only."
+    ]
+   },
+   {
+    "h": "US to finalise sharply lower vehicle fuel economy standards",
+    "region": "Americas",
+    "body": "The US Transportation Department on Monday will finalise sharply lower vehicle fuel economy standards through 2031, reversing a push by the Biden administration to force automakers to build more electric vehicles, officials said on Saturday. (The Edge Malaysia)",
+    "takeaways": [
+     "The standards run through 2031 and are to be finalised on Monday, per officials speaking on Saturday.",
+     "It reverses Biden-era rules meant to push automakers toward electric vehicles.",
+     "No new numerical standard is given.",
+     "This edition's commodity table has Nymex crude at US$92.4/bbl on 25 September, down 2.33%; the item does not connect the two.",
+     "No Malaysian company is named. Digest context only."
+    ]
+   },
+   {
+    "h": "France can't count on ECB to fix debt woes, central bank chief says",
+    "region": "Europe",
+    "body": "France must do everything possible to avoid a sovereign debt crisis as its presidential election next year approaches, Bank of France Governor Emmanuel Moulin said on Friday, adding that it would be misguided to expect the European Central Bank to ride to the rescue. (Reuters)",
+    "takeaways": [
+     "The warning comes from France's own central bank governor, Emmanuel Moulin.",
+     "He frames the risk around next year's presidential election.",
+     "He explicitly rules out expecting the ECB to rescue France.",
+     "No deficit, debt or yield figures appear in the item.",
+     "It is the only item in today's digest sourced to Reuters rather than The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260928-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>The new rating is named two ways.</b> The page-1 header reads MARKET PERFORM with a down arrow; the text says 'Downgrade to NEUTRAL' on pages 1 and 2. NEUTRAL is a <i>sector</i> rating in Kenanga's own definitions page, not a stock rating. This row uses MARKET PERFORM from the header; the expected total return of about 7.4% (5.6% upside plus the 1.8% FY26F net yield, computed here) falls within Kenanga's MARKET PERFORM band. (2) <b>The previous rating is not printed in the note.</b> The note gives the previous target (RM0.57) and the downgrade arrow but does not name the prior rating. OUTPERFORM is taken from The Edge Malaysia's 1 July 2026 report of Kenanga's post-2Q note (Outperform, target cut to 57 sen from 73 sen); this board has no earlier KENERGY row. (3) <b>'34% of our full-year forecast' does not reconcile.</b> The summary table prints FY26F core net profit of RM12.1m after a -34.7% revision, implying a pre-cut forecast of about RM18.5m, against which RM8.9m is about 48%; 34% would imply about RM26m. The 55% of consensus reconciles (RM8.9m / RM16.2m). All computed here. (4) <b>The exceptional-item adjustment does not match the table.</b> The text adjusts for 'RM0.2m exceptional items'; the table shows 3QFY26 net profit of RM1.5m against core of RM2.0m, a RM0.5m gap. (5) <b>The results table is headed 'FYE Mar'</b>; the summary earnings table says FYE Oct and the peer table 10/2026. (6) <b>The peer table is stale in places.</b> It still lists KENERGY at OP, and its figures for other stocks differ from this board's latest rows: SAMAIDEN target RM2.90 (board: RM2.50, 27 Aug), SWIFT OP at RM0.47 (board: MP at RM0.40, 28 Aug), KEEMING RM2.00 (board: RM2.84, 4 Sep). These may reflect later changes this board did not carry; not reconciled. (7) <b>Price and range differ by source.</b> Header price is RM0.36; the peer table and market cap (RM200.8m / 550.0m shares) imply RM0.365, which is also stockanalysis.com's 25 September close. Kenanga's 52-week range is RM0.35-RM0.81; stockanalysis.com shows RM0.345-RM0.83. This row carries Kenanga's RM0.36 as price and stockanalysis.com's range and yield, which are not from Kenanga.",
+   "result": "miss",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 0.57,
+   "ticker": "KENERGY",
+   "name": "Kawan Renergy Berhad",
+   "type": "Results Note",
+   "rating": "MP",
+   "tp": 0.38,
+   "price": 0.36,
+   "divYield": 2.74,
+   "high52": 0.83,
+   "low52": 0.345,
+   "mktSrc": "https://stockanalysis.com/quote/klse/KENERGY/",
+   "catalyst": "A results miss plus a slow order book, answered with a downgrade. 3QFY26 core net profit was RM2.0m, taking 9MFY26 to RM8.9m, which the note puts at 34% of Kenanga's full-year forecast and 55% of consensus, below expectations. The quarter recovered 177% QoQ as cost overruns on the Sabah power plant project eased and project mix improved, but was 75% lower YoY on those overruns, higher transport, labour and material costs, and SST absorbed after the tax's scope widened in September 2025. YTD order wins are only RM72m and the outstanding order book is RM92m. Kenanga cuts its FY26F-FY27F order book assumptions to RM105m/RM165m (from RM135m/RM170m), lowers margins across all segments, and cuts earnings 35%/9%. It lowers the target PER to 9x from 12x, taking the target to RM0.38 from RM0.57 on FY27F EPS, and downgrades - to MARKET PERFORM per the header, 'NEUTRAL' per the text (see flag). Better order replenishment is named as the re-rating catalyst.",
+   "quote": "An improvement in order replenishment will be re-rating catalyst.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/KENERGY-RISE260928-RN-Kenanga.pdf",
+   "summary": [
+    "What moved, and how far. The target falls to RM0.38 from RM0.57, down 33%, because the multiple drops to 9x from 12x and FY27 earnings fall 9%. 9x on FY27F core EPS of 4.3 sen is 38.7 sen, rounded down to RM0.38 (computed here). The note says 9x is in line with the stock's 8.8x forward PER. On 1 July, The Edge Malaysia reported that Kenanga had cut the target to 57 sen from 73 sen while keeping Outperform. So the target has fallen from 73 sen to 38 sen in two consecutive results notes, about 48% (computed here). At RM0.36, upside is 5.6%; adding the 1.8% FY26F net yield gives about 7.4% expected total return (computed here). The share price is down 45.5% year to date.",
+    "The quarter, from the results table. Revenue was RM46.5m, up 1% QoQ and 33% YoY. Gross profit was RM6.3m against RM12.1m a year earlier, and GP margin fell to 13.6% from about 34%. Tax took a large share of what was left: RM2.3m on a pre-tax profit of RM3.9m, and the table prints a 61% effective rate. Net profit was RM1.5m and core net profit RM2.0m. Over nine months, revenue is up 43% to RM136.7m but core net profit is down 52% to RM8.9m. Kenanga's new FY26F of RM12.1m implies about RM3.2m of core profit in 4Q, above 3Q's RM2.0m (computed here). That fits the note's expectation that recovery continues into 4QFY26.",
+    "Why margins collapsed. The note gives three causes. First, cost overruns on the Sabah power plant project, from extra scope of works and more manpower brought in to limit delays. Second, higher transport, labour and material costs as freight, fuel and wages rose. Third, SST that the group absorbed after the tax's scope widened in September 2025. The QoQ improvement came from easing Sabah overruns and a better mix, with more from industrial process equipment and from RE and co-generation projects. By segment, industrial process equipment rose 46% QoQ to RM19.4m, while RE and co-generation fell 27% QoQ to RM18.5m but was up 130% YoY. Management is talking to the main contractor about recovering the extra Sabah costs. The note calls this possible upside; it is not presented as part of the forecasts.",
+    "The order book is the thesis now. Outstanding orders are RM92m and YTD wins RM72m. Kenanga cuts its FY26F-FY27F order book assumptions to RM105m/RM165m from RM135m/RM170m. The note does not define whether 'order book assumptions' means new wins or year-end order book. FY27F core net profit of RM23.5m would be a 93% rebound on FY26F's RM12.1m, so the 9x multiple rests on that recovery. The listed risks are key-man risk (Lim Thou Lai holds 66.2%, and free float is 22%), order replenishment, margin compression, and project execution and delay.",
+    "Why both signals read None stated, and where the other houses sit. A search of all four pages for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite found only 'a more favourable project mix', which is not a pick declaration. The most recent named-house call found is Public Investment Bank at Neutral, reported on 1 July 2026 after the 2Q results, three months before this note. That is the same direction as Kenanga's new MARKET PERFORM, so the divergence marker is not set. Do not confuse this stock with Kinergy Advancement Bhd (formerly Kejuruteraan Asastera), whose RM79.8m placement appears in today's digest. It is a different company."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "Public Investment Bank",
+    "date": "1 Jul 2026",
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on KENERGY in a dated, publicly retrievable note read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. <b>The most recent retrievable named-house call is three months old.</b> The Edge Malaysia reported on 1 July 2026 that <b>Public Investment Bank</b> maintained <b>Neutral</b> after the 2QFY26 results, warning of a 'structural margin impact' from the expanded SST and saying it was uncertain whether the company would recover Sabah project costs. No target price was given in the report as read. That call predates this 3Q note by about three months and does not respond to it. The same article recorded Kenanga at Outperform with a target cut to 57 sen, which is the previous rating and target used on this row. <b>What could not be read:</b> a New Straits Times article headlined 'Kawan Renergy margins set to rebound in Q3' (September 2026) returned no article text when fetched, so any house call in it is not used or cited. Aggregator 'consensus' targets were seen in search results and deliberately not used. <b>Of the nine houses this board searches, one</b> - Public Investment Bank - yielded a dated, publicly retrievable call. <b>On divergence:</b> Neutral and Kenanga's new MARKET PERFORM point the same way, so the marker is not set.",
+    "cites": [
+     [
+      "The Edge Malaysia, 1 Jul 2026 - 'Kawan Renergy falls to over three-month low as earnings disappoint' (Kenanga Outperform, TP cut to 57 sen from 73 sen; Public Investment Bank Neutral)",
+      "https://theedgemalaysia.com/node/808992"
+     ]
+    ]
+   },
+   "crossCheck": null
+  },
+  {
+   "verified": true,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>Two exhibits are numbered 'Exhibit 3'</b>: 'YoY Change In Employees' on page 2 and the consumer earnings-impact table on page 3. (2) <b>Exhibit 1 supports the construction point on one basis but not the 'other sectors have' point on every basis.</b> The text says construction is the key sector where real wages have yet to match productivity gains, while other sectors have. On 2025 YoY that holds: construction real wages +9.5% against productivity +11.4%, and services +4.0% against +3.8%. On the four-year CAGR in the same exhibit, services real wages (+2.7%) also trail services productivity (+3.9%). Comparison drawn here from the exhibit. (3) <b>The table's 'previous hike guidance' remarks do not scale cleanly to its RM100 column.</b> FFB: RM2.2m p.a. in the remark against RM0.7m per RM100, about 3.1x. F&N: RM5.7m against RM1.2m, about 4.8x. The note says recent minimum-wage changes were around RM200-300, which would imply 2-3x. Computed here and not reconciled. The table's own RM100 arithmetic reconciles for all six quantified names. (4) <b>The planters' Malaysian exposure is printed as 'respectively 55%/50% and 80% for SDG, KLK and IOICORP'</b>. It is reproduced as written. (5) <b>The note quotes ratings and targets for stocks with no standalone report in today's bundle</b>: NESTLE (OP; RM106), 99SMART (MP; RM3.80), AEON (OP; RM1.18), TOPGLOV (MP; RM0.71), HARTA (MP; RM1.14) and KOSSAN (OP; RM1.50). They have not been verified against stock reports today. AEON matches this board's 24 August row (OUTPERFORM, RM1.18). This row carries no rating or target of its own.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Market Strategy",
+   "name": "Fair Play for Fair Pay: Examining Wage Boost Impact Ahead of Budget 2027",
+   "type": "Market Strategy",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "A sensitivity note written ahead of Budget 2027 (tabled 9 October), after the Prime Minister signalled stronger wage measures. It changes no rating, target or index target. Kenanga's conclusion is that pressure on listed firms to raise wages looks manageable, for three reasons. First, wage cost per employee at sampled listed firms grew about 6% (median), slightly above Malaysia's 5.3% median wage growth in 2025. Second, wage growth has caught up with labour productivity in most sectors, with construction the exception. Third, some sectors, notably technology, have historically passed costs through. Consumer names and glovemakers are seen as more exposed to a higher wage floor, and planters sit in between. Within consumers it names NESTLE, PADINI and 99SMART as relatively insulated, flags AEON as potentially most affected, and names KOSSAN as the least affected glovemaker.",
+   "quote": "While there are no details of these wage boosting measures, we assess that the pressure for listed firms to raise wages as being manageable.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/Market-Strategy-260928-Fair-Play-for-Fair-Pay-Kenanga.pdf",
+   "summary": [
+    "Read what this note is. It is a sensitivity exercise ahead of a budget whose measures are unknown. The note says outright that 'it is unclear to us whether what mechanism to increase wages which could be announced during Budget 2027'. The reference points it gives are the RM1,700 private-sector minimum wage, the RM3,100 bar set for government-linked investment companies, and the Malaysian Trade Union Congress's call to raise the minimum wage to RM3,100, which employers have resisted. Today's digest carries the Prime Minister's pledge of 'decisive measures' on graduate jobs and fair wages, and on 25 September this board carried the economy minister's statement on the same theme.",
+    "The macro case uses DOSM data. The 2025 median monthly wage rose 5.3% to RM2,940. The 13th Malaysia Plan targets labour productivity growth of 3.6% a year for 2026-2030, and 2Q26 came in at 4.9% YoY per employee. In Exhibit 1, construction is the outlier on 2025 YoY: real wages rose 9.5% against productivity growth of 11.4%. On the four-year view the gap is wider, 4.4% against 9.5%. Kenanga measures productivity per employee rather than per hour and says the per-hour measure would show a larger gap. Services also trails on the four-year CAGR; see the flag.",
+    "The consumer table is the most concrete part, and its RM100 arithmetic checks out. Each RM100 rise in the wage floor would cut earnings by 0.13% at 99SMART, where fewer than 3% of staff earn the minimum. The hit is 0.30% at F&N, 0.50% at FFB, 0.75% at MRDIY and 0.92% at QL, rising to 2.74% at AEON, where Kenanga itself estimates that 40% of the workforce is affected. NESTLE and PADINI show no quantified impact because staff already earn above the minimum. Each figure recomputes from employees x share affected x RM1,200 a year, divided by one-year-forward earnings (computed here). Past hikes of around RM200-300 translated into a 1-2% earnings impact. The note adds that higher minimum wages may lift spending: MRDIY saw 1-2% extra revenue after the last hike.",
+    "Gloves and planters. Assuming no cost pass-through, an extra RM100 a month would cut earnings at TOPGLOV by 5%, HARTA by 4% and KOSSAN by 3%. Labour is about 10-13% of glove production costs. The note estimates that a USD0.20 per 1,000 pieces increase in selling price would offset each RM100, and says glovemakers passed on earlier hikes. HARTA has cut its workforce to 6,000-6,500 from 7,500 over 15 months through automation. For planters, only Malaysian operations count, because Indonesia already has annual minimum-wage increases. Kenanga puts the effect at costs up about 2% and pre-tax profit down about 3%. Technology (especially EMS), REITs and the industrials WPRTS and SIME are seen as relatively insulated, with plastics and packaging flagged as a risk.",
+    "Why the Kenanga Signal reads None stated. A full-text search for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite found none of these terms. The note does say NESTLE, PADINI and 99SMART are 'relatively insulated' ('most insulated' on page 3) and that KOSSAN is 'least impacted'. These describe sensitivity to wage costs, not pick declarations, so no row reads Positive. No non-Kenanga coverage search was run for this row, because it declares no conviction and carries no rating of its own."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "This is a multi-stock sensitivity note with no Kenanga pick declaration, rating or target of its own. <b>No non-Kenanga coverage search was performed for this row during this run</b>, following the daily procedure, which reserves that search for Kenanga-Positive rows and stocks with notable results. The Analyst Signal therefore reads <b>None stated</b>, meaning <b>not searched</b>. It does not mean no house holds a view. The divergence marker is not set.",
+    "cites": []
+   },
+   "crossCheck": null
+  }
+ ]
+}

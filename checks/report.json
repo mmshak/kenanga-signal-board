@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-25T19:55:57.374Z",
+ "generatedAt": "2026-09-28T06:22:38.759Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -21,10 +21,11 @@
   "2026-09-21",
   "2026-09-22",
   "2026-09-23",
-  "2026-09-25"
+  "2026-09-25",
+  "2026-09-28"
  ],
- "rows": 118,
- "verified": 117,
+ "rows": 120,
+ "verified": 119,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -315,6 +316,18 @@
    "date": "2026-09-25",
    "row": "Ringgit Weekly",
    "msg": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>Table 2's 'Last Month' column is dated 28/04/26</b>, not a date about a month before 24 September. Its 'mom' column (USDMYR +3.37% from 3.953) therefore measures about five months, not one. (2) <b>The trade truce is described differently from the rest of the bundle.</b> This note calls it 'a two-month trade truce extension'; the Bond Market Weekly Outlook and the digest both say the truce runs to early 2027. Not reconciled. (3) <b>Two ringgit reference points are used side by side.</b> The text says MYR 'closed Thursday at 4.086/USD from 4.082 last Friday' - a slight weakening. Table 2 compares with 4.099 on Thursday 17 September and shows the ringgit 0.31% stronger week-on-week. Both are correct for their own base dates. The 4.082 Friday figure matches the 4.0817 in this board's 21 September digest, and 4.086 matches today's digest forex table (4.0860). This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-28",
+   "row": "KENERGY",
+   "msg": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>The new rating is named two ways.</b> The page-1 header reads MARKET PERFORM with a down arrow; the text says 'Downgrade to NEUTRAL' on pages 1 and 2. NEUTRAL is a <i>sector</i> rating in Kenanga's own definitions page, not a stock rating. This row uses MARKET PERFORM from the header; the expected total return of about 7.4% (5.6% upside plus the 1.8% FY26F net yield, computed here) falls within Kenanga's MARKET PERFORM band. (2) <b>The previous rating is not printed in the note.</b> The note gives the previous target (RM0.57) and the downgrade arrow but does not name the prior rating. OUTPERFORM is taken from The Edge Malaysia's 1 July 2026 report of Kenanga's post-2Q note (Outperform, target cut to 57 sen from 73 sen); this board has no earlier KENERGY row. (3) <b>'34% of our full-year forecast' does not reconcile.</b> The summary table prints FY26F core net profit of RM12.1m after a -34.7% revision, implying a pre-cut forecast of about RM18.5m, against which RM8.9m is about 48%; 34% would imply about RM26m. The 55% of consensus reconciles (RM8.9m / RM16.2m). All computed here. (4) <b>The exceptional-item adjustment does not match the table.</b> The text adjusts for 'RM0.2m exceptional items'; the table shows 3QFY26 net profit of RM1.5m against core of RM2.0m, a RM0.5m gap. (5) <b>The results table is headed 'FYE Mar'</b>; the summary earnings table says FYE Oct and the peer table 10/2026. (6) <b>The peer table is stale in places.</b> It still lists KENERGY at OP, and its figures for other stocks differ from this board's latest rows: SAMAIDEN target RM2.90 (board: RM2.50, 27 Aug), SWIFT OP at RM0.47 (board: MP at RM0.40, 28 Aug), KEEMING RM2.00 (board: RM2.84, 4 Sep). These may reflect later changes this board did not carry; not reconciled. (7) <b>Price and range differ by source.</b> Header price is RM0.36; the peer table and market cap (RM200.8m / 550.0m shares) imply RM0.365, which is also stockanalysis.com's 25 September close. Kenanga's 52-week range is RM0.35-RM0.81; stockanalysis.com shows RM0.345-RM0.83. This row carries Kenanga's RM0.36 as price and stockanalysis.com's range and yield, which are not from Kenanga."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-28",
+   "row": "Market Strategy",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>Two exhibits are numbered 'Exhibit 3'</b>: 'YoY Change In Employees' on page 2 and the consumer earnings-impact table on page 3. (2) <b>Exhibit 1 supports the construction point on one basis but not the 'other sectors have' point on every basis.</b> The text says construction is the key sector where real wages have yet to match productivity gains, while other sectors have. On 2025 YoY that holds: construction real wages +9.5% against productivity +11.4%, and services +4.0% against +3.8%. On the four-year CAGR in the same exhibit, services real wages (+2.7%) also trail services productivity (+3.9%). Comparison drawn here from the exhibit. (3) <b>The table's 'previous hike guidance' remarks do not scale cleanly to its RM100 column.</b> FFB: RM2.2m p.a. in the remark against RM0.7m per RM100, about 3.1x. F&N: RM5.7m against RM1.2m, about 4.8x. The note says recent minimum-wage changes were around RM200-300, which would imply 2-3x. Computed here and not reconciled. The table's own RM100 arithmetic reconciles for all six quantified names. (4) <b>The planters' Malaysian exposure is printed as 'respectively 55%/50% and 80% for SDG, KLK and IOICORP'</b>. It is reproduced as written. (5) <b>The note quotes ratings and targets for stocks with no standalone report in today's bundle</b>: NESTLE (OP; RM106), 99SMART (MP; RM3.80), AEON (OP; RM1.18), TOPGLOV (MP; RM0.71), HARTA (MP; RM1.14) and KOSSAN (OP; RM1.50). They have not been verified against stock reports today. AEON matches this board's 24 August row (OUTPERFORM, RM1.18). This row carries no rating or target of its own."
   }
  ],
  "verdict": "PASS"
