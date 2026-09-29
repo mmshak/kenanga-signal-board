@@ -1,0 +1,248 @@
+{
+ "date": "2026-09-29",
+ "schema": 1,
+ "daily": {
+  "klci": 1670.0,
+  "chg": -1.6,
+  "pct": -0.1,
+  "inst": -33.6,
+  "instPct": 39.7,
+  "retail": 175.6,
+  "retailPct": 32.3,
+  "foreign": -142.1,
+  "foreignPct": 28.0,
+  "ideas": "Company Update: GAMUDA; IPO Note: ECOSYS",
+  "news": [
+   {
+    "h": "Hap Seng Consolidated to sell Singapore listed unit Hafary for SGD140.0m",
+    "body": "Hap Seng Consolidated Bhd said it plans to sell its Singapore-listed building materials unit for about SGD140.0m (RM447.0m) following a takeover offer. 23 Capital Pte Ltd is offering cash per share of SGD0.64, or RM2.04, to take private Hafary Holdings Ltd and Hap Seng Consolidated has agreed to accept the offer for its 50.8% stake. 23 Capital is a vehicle owned by the Hafary founding family. The proposed disposal will allow Hap Seng Consolidated to realise its investment in Hafary at a premium over its initial cost of just SGD0.24 per share, as well as above market and historical trading prices, the company said. (The Edge Malaysia)",
+    "takeaways": [
+     "This is Hap Seng accepting a take-private offer, not running its own sale process. The bidder, 23 Capital, is a vehicle of Hafary's founding family, and Hap Seng has agreed to tender its 50.8% stake.",
+     "The offer is SGD0.64 a share against Hap Seng's initial cost of SGD0.24, about 2.7 times cost (computed here). The item does not give Hap Seng's carrying value, so the accounting gain cannot be worked out from it.",
+     "SGD140.0m for the 50.8% stake implies roughly 219m Hafary shares held, and about 430m shares in issue overall (computed here from the SGD0.64 offer price). The item does not state either figure.",
+     "The RM447.0m conversion implies about RM3.19 per Singapore dollar, and the item's RM2.04 per share agrees with that rate (computed here).",
+     "No use of the proceeds and no completion timeline is stated. This board holds no Kenanga coverage of Hap Seng Consolidated. Digest context only."
+    ]
+   },
+   {
+    "h": "AYER Holdings to acquire Jalan Kuchai Lama land for RM138.0m cash",
+    "body": "Property developer AYER Holdings Bhd has proposed to acquire for RM138.0m cash two parcels of contiguous freehold land along Jalan Kuchai Lama here, with a combined area of 9.11 acres, for future development projects. AYER said its wholly-owned subsidiary, Kuchai Urban Development Sdn Bhd had entered into a conditional sale and purchase agreement with vendor Bukit Cemerlang Sdn Bhd on Sept 28. The transaction is a related-party transaction because the Lim family are substantial shareholders of AYER and Bukit Cemerlang. The AYER stake is held through their interests in Bee Guan Sdn Bhd and Twin Trees Holdings Sdn Bhd. (The Edge Malaysia)",
+    "takeaways": [
+     "RM138.0m for 9.11 acres works out to about RM15.1m an acre, or roughly RM348 per sq ft (computed here). The item gives no valuer's figure to compare it with.",
+     "It is a related-party transaction: the Lim family are substantial shareholders of both the buyer, AYER, and the vendor, Bukit Cemerlang. Expect the usual independent-adviser and minority-approval process. The item does not spell that out.",
+     "The sale and purchase agreement is conditional, and the item does not list the conditions.",
+     "The land is two contiguous freehold parcels for 'future development projects'. No GDV, product type or launch timing is given.",
+     "The deal is all cash, and the item does not say how it will be funded. This board holds no Kenanga coverage of AYER Holdings. Digest context only."
+    ]
+   },
+   {
+    "h": "KKB Engineering bags RM462.0m in jobs from Sarawak Shell, 2 other firms",
+    "body": "KKB Engineering Bhd said that it has secured RM462.0m contracts from Sarawak Shell Bhd and two other companies. KKB said its unit OceanMight Sdn Bhd received a letter of award from Sarawak Shell for the provision of engineering, procurement and construction (EPC) of fixed offshore structure works for the SK 408 Teja & Populus (TePu) and Temu & Inai (TuNai) field development project. The engineering group also received supply orders from Hock Seng Lee Bhd and Bumia Sdn Bhd. (The Edge Malaysia)",
+    "takeaways": [
+     "The RM462.0m total covers three customers: Sarawak Shell, Hock Seng Lee and Bumia. The item does not split it, so the size of the Shell EPC award cannot be isolated.",
+     "The Shell job is EPC of fixed offshore structures for the SK 408 TePu and TuNai field developments. It went through KKB's unit OceanMight Sdn Bhd.",
+     "OceanMight also appeared in yesterday's digest as the customer on one of Favelle Favco's three crane contracts, with delivery due in 3Q27. That link comes from this board's 28 September digest item, not from today's.",
+     "The Hock Seng Lee and Bumia awards are supply orders, not EPC work, and the item gives no values or product types for them.",
+     "No duration, margin or order-book figure is given. This board holds no Kenanga coverage of KKB Engineering. Digest context only."
+    ]
+   },
+   {
+    "h": "Sunsuria to sell Sepang land to Amazon's local unit for RM316.8m cash",
+    "body": "Property developer Sunsuria Bhd is selling a piece of freehold commercial land in Sepang, Selangor, for RM316.8m cash to Amazon Data Services Malaysia Sdn Bhd. The company said its 99.99%-owned subsidiary, Sunsuria City Sdn Bhd, entered into a conditional sale and purchase agreement with the buyer on Monday (Sept 28). Amazon Data Services Malaysia is a wholly-owned unit of A100 Row Inc, which is in turn owned by Amazon.com Inc. The buyer plans to use the 183,973 sq metre (45.46-acre) plot for data centre and digital infrastructure operations. (The Edge Malaysia)",
+    "takeaways": [
+     "RM316.8m for 45.46 acres is about RM6.97m an acre, or roughly RM160 per sq ft (computed here from the 183,973 sq m stated).",
+     "The buyer is Amazon's Malaysian data-centre entity, which intends to use the plot for data centre and digital infrastructure operations. This is another sign of hyperscaler land demand in Selangor.",
+     "The sale and purchase agreement is conditional, and the conditions are not stated. The item gives no book value, so any gain cannot be computed from it.",
+     "The seller is Sunsuria City Sdn Bhd, 99.99% owned by Sunsuria. The land is freehold and zoned commercial.",
+     "This board holds no Kenanga coverage of Sunsuria. Digest context only."
+    ]
+   },
+   {
+    "h": "Willowglen unit lands RM108.0m deal in Singapore amid ongoing divestment",
+    "body": "Willowglen MSC Bhd has secured a RM108.0m contract through its Singapore subsidiary Willowglen Services Pte Ltd - an operating unit it is currently in the process of divesting. The engineering and industrial automation solutions provider said wholly-owned subsidiary Willowglen Services Pte Ltd had on Monday received the contract for the supply, installation, testing and commissioning of the systems. It did not disclose the identity of the customer, citing confidentiality obligations under its agreement. The contract duration is eight years and 11 months. It commenced on Aug 19, 2026. (The Edge Malaysia)",
+    "takeaways": [
+     "The contract sits in a unit Willowglen is in the process of divesting. Whether the award stays with the group depends on that divestment, and the item does not say how the contract is treated in the sale.",
+     "Spread evenly over eight years and 11 months, RM108.0m is about RM12.1m a year (computed here). The item gives no billing profile.",
+     "The customer is not named, and the company cites confidentiality obligations.",
+     "The contract commenced on 19 August 2026, before it was formally received on Monday, 28 September, as stated.",
+     "The scope is supply, installation, testing and commissioning of 'the systems', which are not specified further. This board holds no Kenanga coverage of Willowglen. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "China, US agree tariff cuts on USD60b of goods including agriculture, household items",
+    "region": "Global",
+    "body": "China and the United States have agreed to cut tariffs imposed on USD60 billion (RM245 billion) worth of goods imported from each other, on an array of products ranging from US corn to cosmetics, and from Chinese household appliances to toys. (The Edge Malaysia)",
+    "takeaways": [
+     "USD60b of goods is covered, and the cuts run both ways: US corn and cosmetics into China, Chinese appliances and toys into the US.",
+     "On 28 September this board carried China's account of a USD30.0b reciprocal tariff-reduction arrangement. Today's USD60b may be the same deal counted as USD30b each way, but the item does not say so. Not reconciled.",
+     "The RM245b conversion implies about RM4.08 per US dollar, in line with the 4.0825 USD/MYR in this edition's forex table (computed here).",
+     "The item gives no tariff rates, before or after, and no effective date.",
+     "No Kenanga report in today's bundle addresses trade. Digest context only."
+    ]
+   },
+   {
+    "h": "PM urges Malaysian companies to expand in Saudi Arabia",
+    "region": "Malaysia",
+    "body": "Prime Minister Datuk Seri Anwar Ibrahim has urged more Malaysian companies to expand their presence in Saudi Arabia and pursue collaborations that benefit both countries. (The Edge Malaysia)",
+    "takeaways": [
+     "This is an exhortation, not a policy measure. No incentive, agreement or funding is mentioned.",
+     "No companies or sectors are named.",
+     "The item gives no trade or investment figures for Malaysia-Saudi Arabia.",
+     "The item does not say where or when the remarks were made.",
+     "No listed company is named. Digest context only."
+    ]
+   },
+   {
+    "h": "Bank Negara: Solid fundamentals keep Malaysia's financial markets stable amid global headwinds",
+    "region": "Malaysia",
+    "body": "Malaysia's financial markets adjusted in an orderly manner despite external pressures, and conditions remain conducive for corporates to raise funds, Bank Negara Malaysia's Financial Markets Committee (FMC) said. (The Edge Malaysia)",
+    "takeaways": [
+     "The source is BNM's Financial Markets Committee, not a Monetary Policy Committee rate decision.",
+     "The assessment is qualitative: markets adjusted 'in an orderly manner', and conditions remain conducive for corporate fundraising. No figures are given.",
+     "The 'external pressures' are not specified in the item.",
+     "For context, this edition's forex table shows USD/MYR weakening 0.21% to 4.0825 on 28 September. That comparison is drawn here, not by the committee.",
+     "No listed company is named. Digest context only."
+    ]
+   },
+   {
+    "h": "Akmal: RM2,000 minimum wage decision rests with Budget 2027",
+    "region": "Malaysia",
+    "body": "Any decision on a possible increase in the minimum wage to RM2,000 should be left to Prime Minister Datuk Seri Anwar Ibrahim's announcement when tabling Budget 2027, Economy Minister Akmal Nasrullah Mohd Nasir said. (The Edge Malaysia)",
+    "takeaways": [
+     "RM2,000 is the figure now under discussion. The Economy Minister defers the decision to the Budget 2027 speech and does not endorse the number.",
+     "This board's 28 September Market Strategy note, 'Fair Play for Fair Pay', cited the current RM1,700 private-sector minimum. RM2,000 would be RM300 higher, at the top of the RM200-300 range of past hikes that note referred to (computed here).",
+     "That note's sensitivity table put each RM100 increase at a 2.74% earnings hit for AEON and 3-5% for glovemakers, before any pass-through. Those figures are Kenanga's from 28 September, not from this item.",
+     "The same 28 September note gives Budget 2027's tabling date as 9 October. This item gives no date.",
+     "No Kenanga report in today's bundle addresses wages. Digest context only."
+    ]
+   },
+   {
+    "h": "Budget 2027: MAA proposes personal income tax rebate to boost electrified vehicle adoption, old car scrapping",
+    "region": "Malaysia",
+    "body": "The Malaysian Automotive Association (MAA) is proposing that the government provide a personal income tax rebate for the purchase of electrified vehicles (xEVs) and voluntarily scrapping of old vehicles in Budget 2027. (The Edge Malaysia)",
+    "takeaways": [
+     "This is an industry wish-list item from the MAA, not a government commitment.",
+     "Two measures are proposed: a personal income tax rebate for buying electrified vehicles (xEVs), and one for voluntarily scrapping old vehicles.",
+     "No rebate amount, eligibility threshold or cost to government is given.",
+     "The term used is 'electrified vehicles (xEVs)', which is broader than battery EVs. The item does not define it.",
+     "No Kenanga automotive report is in today's bundle. Digest context only."
+    ]
+   },
+   {
+    "h": "Mining lifts Malaysia's PPI local production by 10.7% in August",
+    "region": "Malaysia",
+    "body": "Malaysia's Producer Price Index (PPI) local production rose by 10.7% in August 2026, compared to a 9.7% increase in July 2026, said the Department of Statistics Malaysia (DOSM). (The Edge Malaysia)",
+    "takeaways": [
+     "Producer prices accelerated to 10.7% in August from 9.7% in July. The headline attributes the rise to mining.",
+     "The item does not state whether these are year-on-year rates, though that is the usual PPI basis. Treat the basis as unconfirmed.",
+     "No sector breakdown beyond the mining attribution is given.",
+     "For context, this edition's key-stats table shows Nymex crude at USD92.6/bbl and tin at USD53,678/mt. That comparison is drawn here, not by DOSM.",
+     "No listed company is named. Digest context only."
+    ]
+   },
+   {
+    "h": "China's industrial profit growth slows further as economic imbalances deepen",
+    "region": "Asia Pacific",
+    "body": "China's industrial profit growth slowed further in August as strength in technology manufacturing amid the AI boom was outweighed by persistently weak domestic demand. (The Edge Malaysia)",
+    "takeaways": [
+     "Profit growth is still positive but slowing further, according to the item. No growth rate is given.",
+     "The split is technology manufacturing strong on AI demand, against weak domestic demand, which dominated.",
+     "The headline calls it 'economic imbalances deepen'. That is the item's framing, not a figure.",
+     "No year-to-date or sector figures are provided.",
+     "No listed Malaysian company is named. Digest context only."
+    ]
+   },
+   {
+    "h": "Bank of Japan debated need for faster rate hikes, July minutes show",
+    "region": "Asia Pacific",
+    "body": "Many Bank of Japan (BOJ) policymakers saw the need to focus on mounting inflation risks, with some calling for faster interest rate increases, minutes of their July meeting showed, cementing the case for further hikes to still-low borrowing costs. (The Edge Malaysia)",
+    "takeaways": [
+     "These are the July meeting's minutes, so they are backward-looking. The item does not state the current policy rate.",
+     "'Many' policymakers focused on inflation risks, and 'some' called for faster hikes. The item gives no vote split.",
+     "The item says the minutes cement the case for further hikes to 'still-low' borrowing costs.",
+     "This edition's forex table shows USD/JPY at 157.03, down 0.16% on the day.",
+     "No listed Malaysian company is named. Digest context only."
+    ]
+   },
+   {
+    "h": "Trump to unveil planned USD15.0b Iowa steel project",
+    "region": "Americas",
+    "body": "President Donald Trump will announce on Monday a Minnesota company's plan to build a USD15 billion (RM61.3 billion) steel mill in Iowa, a White House official said, a major investment that the administration is highlighting as it seeks to promote domestic manufacturing ahead of the November mid-term elections. (The Edge Malaysia)",
+    "takeaways": [
+     "The developer is described only as a Minnesota company. The item does not name it.",
+     "USD15b is a planned investment in a steel mill in Iowa. No capacity or timeline is given.",
+     "The RM61.3b conversion implies about RM4.09 per US dollar (computed here).",
+     "The item places it in a political context: domestic manufacturing ahead of the November mid-term elections.",
+     "No listed Malaysian company is named. Digest context only."
+    ]
+   },
+   {
+    "h": "ECB's Lagarde sticking to measured steps to quell inflation",
+    "region": "Europe",
+    "body": "This year's inflation surge has yet to generate dangerous second-round effects across the euro zone, so a moderate policy response from the European Central Bank remains appropriate, ECB chief Christine Lagarde said on Monday. (Reuters)",
+    "takeaways": [
+     "Lagarde's position is that there are no dangerous second-round effects yet, so a moderate policy response remains appropriate.",
+     "The item refers to 'this year's inflation surge' but gives no inflation rate.",
+     "No rate level or next-meeting date is given.",
+     "This item is sourced to Reuters in the digest, not to The Edge Malaysia.",
+     "No listed Malaysian company is named. Digest context only."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260929-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The outstanding order book falls a week after a RM908m win, despite a new RM2.28b one.</b> Kenanga's 22 September note put it at a record RM62.5b with YTD FY27 wins of RM10.2b. Today's note gives YTD wins of RM12.5b, which equals RM10.2b plus the c.RM2.28b Mortlake award, but an order book of RM61.2b. On Kenanga's own figures the book would be about RM64.8b; the RM3.6b gap is not explained (computed here). The Star (29 Sep 2026) also prints RM61.2b 'as at September 2026', but gives YTD FY27 wins of <b>RM10.5b</b>, not RM12.5b. Neither figure is resolved here; both are recorded as printed. This board carries no order-book figure as data, and the row's rating, target and price do not depend on it. (2) <b>The OUTPERFORM rating depends on which price is used.</b> The header price is RM4.84, the same as the 22 September note's header. The page-4 peer table prices GAMUDA at RM4.91, the digest's 28 September close, and shows 7.9% upside. At RM4.91, adding the 2.0% net yield gives about 9.9% expected total return, just below the more-than-10% OUTPERFORM threshold in Kenanga's own definitions. At RM4.84 it is 9.5% plus 2.1%, or about 11.6% (both computed here). The summary table's PERs (27.5x and 21.0x) also imply a price of about RM4.91. This row carries the header RM4.84. (3) <b>The share counts still differ.</b> The Stock Information box gives 6,049.8m shares and a RM29,341.6m market cap (about RM4.85 a share). The SoP uses 5,929.0m issued shares, and RM29,927.8m / 5,929.0m = RM5.05. Computed here. (4) <b>The KLCI printed in the stock box (1,656.91) does not match this edition's 28 September close of 1,670.0.</b> (5) <b>Page 3 still prints ROA above ROE</b> (FY27F ROE 4.8%, ROA 10.6%). The DuPont block below gives ROE of 10.2%. As flagged on 22 September. (6) <b>The valuation paragraph refers to 'Pages 6'</b>, but the note has five pages. The 52-week range (RM3.70-RM5.63) matches stockanalysis.com's; the dividend yield shown is stockanalysis.com's 2.04%, not Kenanga's.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 5.3,
+   "ticker": "GAMUDA",
+   "name": "Gamuda Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 5.3,
+   "price": 4.84,
+   "divYield": 2.04,
+   "high52": 5.63,
+   "low52": 3.7,
+   "mktSrc": "https://stockanalysis.com/quote/klse/GAMUDA/",
+   "catalyst": "A maiden Victoria win, with nothing else moved. Gamuda Engineering Pty Ltd, GAMUDA's wholly owned Australian unit, was awarded an AUD790m (c.RM2.28b) EPC contract by MEH SubCo Pty Ltd for Stage 1 of the Mortlake Energy Hub. That is a 300MW hybrid renewable facility of 435MWp solar and a 1,449MWh BESS, connecting to the existing 500kV network via the Mortlake Terminal Station. The contract runs about two years, with completion targeted by January 2029. A separate AUD45m (c.RM130m) O&M contract is expected within a month. It was let under 'Contractor-Led Design and Procurement' terms: design is at 80% maturity and 80% of procurement costs are locked in. Kenanga therefore calls this fixed-price job high-certainty, with an expected PBT margin of 5%. Preliminary work on a similar-sized Stage 2 is underway and slated to proceed within a year, and Kenanga says Stage 1 gives GAMUDA a head start in that tender. Per the note, the win lifts FY27 YTD job replenishment to RM12.5b and the outstanding order book to a record RM61.2b (see flag). Forecasts, the SoP target of RM5.30 and OUTPERFORM are all maintained.",
+   "quote": "Consequently, this fixed-price EPC contract carries high earnings certainty, with an expected PBT margin of 5%.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/GAMUDA-260929-CU-Kenanga.pdf",
+   "summary": [
+    "What moved and what did not. Nothing moved. OUTPERFORM and the RM5.30 target are both marked unchanged. That matches GAMUDA's rows on this board on 1, 7 and 22 September, each at OUTPERFORM and RM5.30. Forecasts are explicitly maintained: job-win assumptions of RM22b (FY26) and RM27b (FY27), property sales of RM4b and RM5b, and core net profit of RM1,057m and RM1,388m. The SoP is unchanged: construction at 22x CY27 PER is RM21,879.0m, and total SoP is RM29,927.8m on 5,929.0m shares, or RM5.05. Adding the RM0.25 (5%) premium for a 4-star ESG rating gives RM5.30. The note still benchmarks against IJM (OP; RM3.35) and SUNCON (OP; RM9.70). Both match this board's last rows for those stocks (27 and 26 August).",
+    "The contract, sized. AUD790m is stated as c.RM2.28b, which implies about RM2.89 per Australian dollar (computed here). The 22 September note's figures implied about RM2.91. At the 5% PBT margin Kenanga expects, RM2.28b of revenue is roughly RM114m of pre-tax profit over about two years, or about RM57m a year. That is around 3% of FY27F PBT of RM1,820m (all computed here; the note does not phase it). The margin is the same 5% as the 22 September NSW road job. There, rise-and-fall provisions protected it; here, locked-in procurement does. The note calls this 'significantly mitigating exposure to cost inflation'.",
+    "Why it matters beyond the number, in Kenanga's words. The note calls this a 'key breakthrough project' for GEA because it is its first in Victoria. It says Stage 1 gives GEA a head start for Stage 2, which is 'similar in size, capacity, and project value' and slated to proceed within a year. Kenanga lists 'inroads into the renewable energy space' as the fourth leg of its investment case. The pipeline it names is unchanged from 22 September: frontrunner status at the Springhill data centre campus (all four contracts awarded since April won), the Northern Perak water project, a 'high probability' Taiwan job by 2HCY26, and shortlistings in Brisbane and for New Zealand's Northland Corridor Highway.",
+    "The order-book arithmetic does not bridge, and that is the one open question on this row. YTD FY27 wins of RM12.5b reconcile exactly with 22 September's RM10.2b plus this RM2.28b award (computed here). The outstanding order book, though, is RM61.2b, down from the RM62.5b Kenanga printed a week ago. The note does not explain the roughly RM3.6b gap, which could be billings, a restatement or something else. Press coverage (The Star, 29 Sep) matches the RM61.2b but gives YTD wins of RM10.5b. Either way, the book is well above GAMUDA's RM50b end-2026 target, which the note says it will 'comfortably' exceed. Separately, 12.5b against the RM27b full-year assumption is about 46% reached two months into a July financial year (computed here).",
+    "Why the Kenanga Signal reads None stated, and the price question. A search of all five pages for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite returns only 'We continue to like GAMUDA for...' in the investment case. This board treats that as investment-case language rather than a pick declaration, as it did for GAMUDA on 22 September, so the signal reads None stated. On price: the header says RM4.84, but the peer table and this edition's close say RM4.91, and at RM4.91 the expected total return is about 9.9%, marginally inside MARKET PERFORM territory (computed here; see flag). The Star reported the stock at RM4.87 in early trade on 29 September. The peer table's other targets (IJM RM3.35, KERJAYA RM3.80, KIMLUN RM1.50, SUNCON RM9.70, all OUTPERFORM) match this board's latest rows for each."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "CGS International",
+    "date": "29 Sep 2026",
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on GAMUDA in a dated, publicly retrievable note read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. <b>The most recent dated calls found are same-day.</b> The Star reported on <b>29 September 2026</b> that <b>CGS International</b> has an 'add' call with a <b>RM6.05</b> target, and expects contract-win momentum to remain strong. It reported that <b>MBSB Research</b> has a 'buy' call at <b>RM5.60</b>, expecting the order book to stay at RM60b or above by end-2026. No pick language was found in the article as retrieved. Neither house is among the nine this board searches, and both are recorded for the record only. <b>Of the nine houses this board searches, none yielded a new dated, publicly retrievable call since this board's 22 September GAMUDA row.</b> The latest from the nine remains TA Research's 'buy' at RM5.42 (The Star, 2 September 2026), as recorded on 22 September and not re-read this run. <b>On divergence:</b> add, buy and TA's buy all sit on the same side as Kenanga's OUTPERFORM, so the marker is not set. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b> Aggregator consensus figures surfaced in search and were deliberately not used.",
+    "cites": [
+     [
+      "The Star, 29 Sep 2026 &mdash; &lsquo;Gamuda shares ease in early trade after RM2.28bil contract win&rsquo; (CGS International: add, TP RM6.05; MBSB Research: buy, TP RM5.60; order book RM61.2bil, YTD FY27 wins RM10.5bil)",
+      "https://www.thestar.com.my/business/business-news/2026/09/29/gamuda-shares-ease-in-early-trade-after-rm228bil-contract-win"
+     ],
+     [
+      "The Star, 28 Sep 2026 &mdash; &lsquo;Gamuda bags RM2.28bil contract for Australia renewable energy project&rsquo; (contract to January 2029; A$45mil O&amp;M contract)",
+      "https://www.thestar.com.my/business/business-news/2026/09/28/gamuda-bags-rm228bil-contract-for-australia-renewable-energy-project"
+     ],
+     [
+      "The Star, 2 Sep 2026 &mdash; &lsquo;Gamuda&rsquo;s data centre push to power earnings&rsquo; (TA Research: buy, TP RM5.42 &mdash; carried from this board&rsquo;s 22 Sep row)",
+      "https://www.thestar.com.my/business/business-news/2026/09/02/gamudas-data-centre-push-to-power-earnings"
+     ]
+    ]
+   },
+   "crossCheck": null
+  }
+ ]
+}

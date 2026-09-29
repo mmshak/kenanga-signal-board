@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-28T21:43:05.973Z",
+ "generatedAt": "2026-09-29T06:38:18.141Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -22,10 +22,11 @@
   "2026-09-22",
   "2026-09-23",
   "2026-09-25",
-  "2026-09-28"
+  "2026-09-28",
+  "2026-09-29"
  ],
- "rows": 120,
- "verified": 119,
+ "rows": 121,
+ "verified": 120,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -328,6 +329,12 @@
    "date": "2026-09-28",
    "row": "Market Strategy",
    "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>Two exhibits are numbered 'Exhibit 3'</b>: 'YoY Change In Employees' on page 2 and the consumer earnings-impact table on page 3. (2) <b>Exhibit 1 supports the construction point on one basis but not the 'other sectors have' point on every basis.</b> The text says construction is the key sector where real wages have yet to match productivity gains, while other sectors have. On 2025 YoY that holds: construction real wages +9.5% against productivity +11.4%, and services +4.0% against +3.8%. On the four-year CAGR in the same exhibit, services real wages (+2.7%) also trail services productivity (+3.9%). Comparison drawn here from the exhibit. (3) <b>The table's 'previous hike guidance' remarks do not scale cleanly to its RM100 column.</b> FFB: RM2.2m p.a. in the remark against RM0.7m per RM100, about 3.1x. F&N: RM5.7m against RM1.2m, about 4.8x. The note says recent minimum-wage changes were around RM200-300, which would imply 2-3x. Computed here and not reconciled. The table's own RM100 arithmetic reconciles for all six quantified names. (4) <b>The planters' Malaysian exposure is printed as 'respectively 55%/50% and 80% for SDG, KLK and IOICORP'</b>. It is reproduced as written. (5) <b>The note quotes ratings and targets for stocks with no standalone report in today's bundle</b>: NESTLE (OP; RM106), 99SMART (MP; RM3.80), AEON (OP; RM1.18), TOPGLOV (MP; RM0.71), HARTA (MP; RM1.14) and KOSSAN (OP; RM1.50). They have not been verified against stock reports today. AEON matches this board's 24 August row (OUTPERFORM, RM1.18). This row carries no rating or target of its own."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-29",
+   "row": "GAMUDA",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The outstanding order book falls a week after a RM908m win, despite a new RM2.28b one.</b> Kenanga's 22 September note put it at a record RM62.5b with YTD FY27 wins of RM10.2b. Today's note gives YTD wins of RM12.5b, which equals RM10.2b plus the c.RM2.28b Mortlake award, but an order book of RM61.2b. On Kenanga's own figures the book would be about RM64.8b; the RM3.6b gap is not explained (computed here). The Star (29 Sep 2026) also prints RM61.2b 'as at September 2026', but gives YTD FY27 wins of <b>RM10.5b</b>, not RM12.5b. Neither figure is resolved here; both are recorded as printed. This board carries no order-book figure as data, and the row's rating, target and price do not depend on it. (2) <b>The OUTPERFORM rating depends on which price is used.</b> The header price is RM4.84, the same as the 22 September note's header. The page-4 peer table prices GAMUDA at RM4.91, the digest's 28 September close, and shows 7.9% upside. At RM4.91, adding the 2.0% net yield gives about 9.9% expected total return, just below the more-than-10% OUTPERFORM threshold in Kenanga's own definitions. At RM4.84 it is 9.5% plus 2.1%, or about 11.6% (both computed here). The summary table's PERs (27.5x and 21.0x) also imply a price of about RM4.91. This row carries the header RM4.84. (3) <b>The share counts still differ.</b> The Stock Information box gives 6,049.8m shares and a RM29,341.6m market cap (about RM4.85 a share). The SoP uses 5,929.0m issued shares, and RM29,927.8m / 5,929.0m = RM5.05. Computed here. (4) <b>The KLCI printed in the stock box (1,656.91) does not match this edition's 28 September close of 1,670.0.</b> (5) <b>Page 3 still prints ROA above ROE</b> (FY27F ROE 4.8%, ROA 10.6%). The DuPont block below gives ROE of 10.2%. As flagged on 22 September. (6) <b>The valuation paragraph refers to 'Pages 6'</b>, but the note has five pages. The 52-week range (RM3.70-RM5.63) matches stockanalysis.com's; the dividend yield shown is stockanalysis.com's 2.04%, not Kenanga's."
   }
  ],
  "verdict": "PASS"
