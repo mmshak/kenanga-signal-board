@@ -1,0 +1,289 @@
+{
+ "date": "2026-09-30",
+ "schema": 1,
+ "daily": {
+  "klci": 1644.0,
+  "chg": -26.06,
+  "pct": -1.56,
+  "inst": -5.8,
+  "instPct": 41.2,
+  "retail": 178.2,
+  "retailPct": 29.7,
+  "foreign": -172.4,
+  "foreignPct": 29.1,
+  "ideas": "Thematic: Technology; Results Note: GAMUDA; Economic Viewpoint: BNM - Taking Back the Insurance",
+  "news": [
+   {
+    "h": "UMS Integration seeks to raise RM450.0m via placement for Penang, Vietnam and Singapore expansion",
+    "body": "UMS Integration Ltd is seeking to raise up to RM450.0m through a placement representing 5.63% of its enlarged share capital, to fund projects in Penang, Malaysia, as well as expansion in Vietnam and Singapore. It plans to issue up to 52.9m new shares at RM8.50 each, the dual-listed integrated high-precision engineering and manufacturing firm said in a filing with Bursa Malaysia. The shares will only be offered and sold in Malaysia, UMS Integration, which is primarily listed in Singapore, said. The issue price is a 1.1% discount to the volume weighted average price on Sept 28, 2026 of RM8.595 a share. (The Edge Malaysia)",
+    "takeaways": [
+     "52.9m new shares at RM8.50 comes to about RM449.7m, which matches the 'up to RM450.0m' headline (computed here).",
+     "If 52.9m shares are 5.63% of the enlarged capital, the enlarged base is about 940m shares, or roughly 887m before the placement (computed here). The item does not state either figure.",
+     "The RM8.50 price is a 1.1% discount to the 28 September VWAP of RM8.595. That is a narrow discount for a placement.",
+     "Proceeds go to projects in Penang plus expansion in Vietnam and Singapore. The item gives no split between them.",
+     "UMS is primarily listed in Singapore, and the shares will be offered only in Malaysia. This board holds no Kenanga coverage of UMS Integration. Digest context only."
+    ]
+   },
+   {
+    "h": "Crescendo's 2Q net profit surges over fourfold to RM70.6m, declares 2 sen dividend",
+    "body": "Crescendo Corp Bhd's net profit more than quadrupled in the second quarter due to the sale of two parcels of land in Johor to data centre developers. The property developer said the sale of the parcels in Kota Cemerlang Industrial Park (KCIP) and Nusa Cemerlang Industrial Park (NCIP) made up a bulk of its net profit for the quarter under review. For the three months ended July 31, 2026 (2QFY2027), net profit surged to RM70.6m from RM15.2m a year earlier. Crescendo declared a dividend of two sen per share for the quarter under review payable on Nov 12. (The Edge Malaysia)",
+    "takeaways": [
+     "RM70.6m against RM15.2m is about 4.6 times the year-earlier quarter (computed here).",
+     "The company says land sales to data-centre developers in KCIP and NCIP made up the bulk of the quarter's profit. That makes this a disposal-driven quarter, not a run-rate.",
+     "The item gives no split between land-sale gains and operating profit, so recurring earnings cannot be isolated from it.",
+     "A 2 sen dividend is payable on 12 November. The item gives no payout ratio.",
+     "The quarter ended 31 July 2026 is labelled 2QFY2027. This board holds no Kenanga coverage of Crescendo. Digest context only."
+    ]
+   },
+   {
+    "h": "Sern Kou to wind down loss-making plywood manufacturing unit",
+    "body": "Sern Kou Resources Bhd said that it will wind down its plywood manufacturing unit due to continuous quarterly losses since the financial year ended June 30, 2024 (FY2024). The wood products manufacturer said there was no reasonable expectation that the financial performance of Sern Kou Plywood Sdn Bhd (SKPW), its 51.0%-owned subsidiary, will improve in the foreseeable future. The group estimated an impairment of RM338,000 arising from the review of SKPW's property, plant and equipment (PPE), which may be leased or disposed of. (The Edge Malaysia)",
+    "takeaways": [
+     "The unit, Sern Kou Plywood Sdn Bhd, is 51.0%-owned and has posted quarterly losses continuously since FY2024.",
+     "The estimated impairment is small, at RM338,000 on the unit's property, plant and equipment.",
+     "The PPE may be leased or disposed of. No buyer or timeline is named.",
+     "The item gives no revenue or loss figures for the unit, so the earnings uplift from closing it cannot be sized.",
+     "The digest prints the name as 'Sern Kou Resources Bud'; this board reads that as a typo for Bhd. No Kenanga coverage of Sern Kou is on this board. Digest context only."
+    ]
+   },
+   {
+    "h": "Apollo Food 1Q profit up nearly 10.0% on strong sales",
+    "body": "Confectioner Apollo Food Holdings Bhd posted a 9.5% increase in net profit for its first quarter as stronger sales helped offset higher costs. For the three months ended July 31, 2026 (1QFY2027), net profit rose to RM7.0m from RM6.4m the previous year, while revenue grew 13.4% to RM73.8m from RM65.1m, driven by higher export sales, particularly in its core Indonesian market. No dividend was declared for the quarter. (The Edge Malaysia)",
+    "takeaways": [
+     "Revenue grew 13.4%, faster than net profit's 9.5%, so margins narrowed. The item puts that down to higher costs.",
+     "Net margin works out to about 9.5% against 9.8% a year earlier (computed here from the rounded figures).",
+     "The rounded RM7.0m and RM6.4m give about 9.4%, close to the stated 9.5%. The gap is rounding.",
+     "Export sales drove the growth, particularly into Indonesia, which the item calls the core market.",
+     "No dividend was declared for the quarter. This board holds no Kenanga coverage of Apollo Food. Digest context only."
+    ]
+   },
+   {
+    "h": "Careplus plans rights issue to raise up to RM29.8m to fund energy vehicle hub",
+    "body": "Careplus Group Bhd plans to raise up to RM29.8m through a rights issue to help fund the ongoing construction of the group's energy vehicle manufacturing hub in Chembong, Negeri Sembilan. This marks the cash-strapped group's second attempt to raise funds via a rights issue to finance the construction of the hub. The first attempt to raise RM55.0m last year did not materialise after its share prices fell below the intended issue price. Careplus said part of the funds raised will be used for the expansion of its automotive dealership business and for working capital requirements. (The Edge Malaysia)",
+    "takeaways": [
+     "This is a second attempt. Last year's RM55.0m rights issue failed after the share price fell below the intended issue price.",
+     "The new target of up to RM29.8m is about 54% of the failed attempt's size (computed here).",
+     "The item itself calls the group cash-strapped.",
+     "Proceeds are split between the Chembong energy-vehicle hub, dealership expansion and working capital. No amounts are given for each.",
+     "No issue price or entitlement ratio is given. This board holds no Kenanga coverage of Careplus. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Qatari mediators press peace deal between US and Iran",
+    "region": "Global",
+    "body": "Qatar said on Tuesday it hopes that shuttle diplomacy between Iran and the US can lead to a breakthrough despite US President Donald Trump's denial of media reports that he was willing to ease sanctions and release frozen funds in exchange for Iranian concessions on its nuclear program. (Reuters)",
+    "takeaways": [
+     "This is Qatar stating a hope. No agreement or timetable is reported.",
+     "Trump denies reports that he would ease sanctions or release frozen funds in exchange for nuclear concessions.",
+     "Today's BNM Economic Viewpoint names 'a US-Iran deal that pulls Brent lower' as one of the things that would ease pressure on its rate-hike timing. The link is drawn in that note, not in this item.",
+     "This edition's key-stats table shows Nymex crude down 3.48% to USD89.4/bbl. The item does not connect the two.",
+     "The item is sourced to Reuters in the digest. Digest context only."
+    ]
+   },
+   {
+    "h": "Ageing White Paper must turn blueprint into measurable action - PM",
+    "region": "Malaysia",
+    "body": "The planned National Ageing White Paper in 2027 must translate Malaysia's National Ageing Blueprint 2025-2045 into coordinated and measurable action, according to Prime Minister Datuk Seri Anwar Ibrahim. (The Edge Malaysia)",
+    "takeaways": [
+     "The White Paper is planned for 2027. It is not yet published.",
+     "It is meant to turn the existing National Ageing Blueprint 2025-2045 into measurable action.",
+     "No targets, budget or agencies are named in the item.",
+     "The PM's point is about execution, not new policy.",
+     "No listed company is named. Digest context only."
+    ]
+   },
+   {
+    "h": "GLICs, GLCs to catalyse economy with RM120b investments under GEAR-uP over 2024-2028 - Amir Hamzah",
+    "region": "Malaysia",
+    "body": "Government-linked investment companies (GLICs) and government-linked companies (GLCs) are stepping up their role in developing the domestic economy, backed by an additional RM120 billion under the GEAR-uP initiative over 2024-2028. (The Edge Malaysia)",
+    "takeaways": [
+     "RM120b is described as additional investment by GLICs and GLCs over 2024-2028.",
+     "Spread evenly, that is about RM24b a year (computed here). The item gives no annual phasing.",
+     "The window started in 2024, so part of it has already passed. The item does not say how much has been deployed.",
+     "No sectors or recipient companies are named.",
+     "The source is Second Finance Minister Amir Hamzah, per the headline. Digest context only."
+    ]
+   },
+   {
+    "h": "BNM considering greater risk-taking to support energy transition",
+    "region": "Malaysia",
+    "body": "Bank Negara Malaysia (BNM) is considering allowing financial institutions more room to take on higher risks responsibly as part of efforts to support the energy transition, governor Datuk Seri Abdul Rasheed Ghaffour said. (The Edge Malaysia)",
+    "takeaways": [
+     "BNM is 'considering' it. No regulatory change has been announced.",
+     "The idea is to give banks more room to take higher risks 'responsibly' on energy-transition lending.",
+     "No capital, risk-weight or limit changes are specified.",
+     "Today's BNM Economic Viewpoint cites BNM's stress test keeping the banking system's total capital ratio above 15.0% against an 8.0% minimum. That context comes from the note, not from this item.",
+     "No listed bank is named. Digest context only."
+    ]
+   },
+   {
+    "h": "S&P affirms Malaysia's A- sovereign rating, outlook stable",
+    "region": "Malaysia",
+    "body": "S&P Global Ratings maintained Malaysia's sovereign rating at A- with a stable outlook on expectations of steady fiscal performance over the next two to three years. (The Edge Malaysia)",
+    "takeaways": [
+     "It is an affirmation: A-, stable outlook. There is no change.",
+     "S&P's stated basis is steady fiscal performance expected over the next two to three years.",
+     "The item gives no deficit or debt figures.",
+     "It comes ahead of Budget 2027, which this board's 28 September Market Strategy row dated to 9 October. That date is from the earlier note, not this item.",
+     "No listed company is named. Digest context only."
+    ]
+   },
+   {
+    "h": "China signals economic stimulus to counter worsening slowdown",
+    "region": "Asia Pacific",
+    "body": "China has given its strongest signal yet that it will move with greater urgency to counter a deepening slowdown, as the government promised to introduce new measures to support the economy and study policies to stabilise the reeling property market. (The Edge Malaysia)",
+    "takeaways": [
+     "The government has promised new measures and a study of property-market policies. No specific measures or sizes are given.",
+     "The item describes the slowdown as deepening and the property market as reeling.",
+     "Today's Technology thematic reports Huatai's view that China faces strong supply but weak demand, and that liquidity alone may not produce a durable recovery. That view is Huatai's, reported by Kenanga, not part of this item.",
+     "Yesterday's digest carried slowing Chinese industrial profit growth. That is from this board's 29 September row.",
+     "No listed Malaysian company is named. Digest context only."
+    ]
+   },
+   {
+    "h": "US job openings fall in August; layoffs remain low",
+    "region": "Americas",
+    "body": "Job openings, a measure of labour demand, had dropped by 256,000 to 7.079 million by the last day of August, the Labor Department's Bureau of Labor Statistics said in its Job Openings and Labor Turnover Survey, or Jolts report, on Tuesday. (The Edge Malaysia)",
+    "takeaways": [
+     "Openings fell 256,000 to 7.079 million, which implies about 7.335 million in July (computed here).",
+     "The headline says layoffs remain low. The body gives no layoff figure.",
+     "Today's BNM Economic Viewpoint expects one more 25bps Fed hike in 4Q26. The item does not discuss the Fed.",
+     "A softer labour-demand reading bears on the 'one-and-done Fed' scenario that the same note says would ease BNM's timing. The link is drawn here, not in the item.",
+     "No listed Malaysian company is named. Digest context only."
+    ]
+   },
+   {
+    "h": "Canada's economic growth unchanged in July, August likely to expand 0.2%",
+    "region": "Americas",
+    "body": "Canada's economic growth was flat in July, data showed on Tuesday, in line with expectations and signaling a slower start to the third quarter after a solid growth in the prior three months quarter. (Reuters)",
+    "takeaways": [
+     "Growth was flat in July, in line with expectations.",
+     "The headline puts an early August estimate at +0.2%.",
+     "The item reads it as a slower start to 3Q after solid growth in the prior quarter.",
+     "The item gives no annualised or year-on-year rate.",
+     "The item is sourced to Reuters in the digest. No listed Malaysian company is named. Digest context only."
+    ]
+   },
+   {
+    "h": "BoE's Taylor casts doubt on practicality of single rate hike",
+    "region": "Europe",
+    "body": "Bank of England policymaker Alan Taylor said on Tuesday it was unclear that it would be practical for the BoE to do a single rate hike to tame inflation without fuelling unwarranted market speculation of further increases. (Reuters)",
+    "takeaways": [
+     "Taylor's concern is signalling: a single hike could fuel market speculation of more.",
+     "He does not say whether he favours hiking. The item gives no rate level.",
+     "Today's BNM Economic Viewpoint argues the opposite case for Malaysia: one hike to 3.00%, then a long hold. That comparison is drawn here.",
+     "The item gives no inflation figure.",
+     "The item is sourced to Reuters in the digest. No listed Malaysian company is named. Digest context only."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-260930-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Eight points of caution on this row, reported as printed rather than resolved. (1) <b>Kenanga's FY26 job-win figure does not match the company's.</b> The note says GE 'secured RM35b in job wins for FY26 (vs. RM25b in FY25)'. The Star (30 Sep 2026), reporting the company's results, gives new awards of <b>RM25.1b for FY26</b> and RM12.3b for FY27 to date, RM37.4b in total. Kenanga's RM35b sits between the company's FY26 figure and its combined total. Its 'RM25b in FY25' is close to the company's FY26 figure. This board cannot tell which basis Kenanga used, and does not resolve it. Kenanga's own 29 September note gave YTD FY27 wins of RM12.5b; the company's figure is RM12.3b. (2) <b>The 4Q profit jump comes below the tax line.</b> Profit after tax rose only 7% QoQ, and fell 4% YoY, to RM326.2m. Net profit rose 36% to RM349.7m because minority interest swung from -RM46.9m in 3Q to +RM23.5m in 4Q (from the note's income statement; the reading is drawn here). The 4Q effective tax rate was 34.4%, against 21.5% in 3Q. (3) <b>Net gearing is stated two ways.</b> The text gives 72% as of July 2026, which The Star also reports. The summary table shows 0.70x for FY26A. (4) <b>DT Infrastructure is said to have won 47 contracts 'worth AUD3.47m' in 2026.</b> That is implausibly small next to DTI's RM7.5b renewable-energy order book on page 3, and may be meant as AUD3.47b. This board does not assume either. (5) <b>The segmental table is headed 'FY Dec'</b>, while the income statement and summary table use FY Jul. (6) <b>EPS is printed three ways:</b> 17.4 sen on the income statement, 17.5 sen on the summary table, and 17.80 sen as reported by the company per The Star. The share basis differs. The SoP now uses 6,049.0m shares, against 5,929.0m on 29 September; that difference was flagged on that row. (7) <b>The peer table's KERJAYA price is RM3.68</b>, while this edition's overbought list shows RM3.730. At RM3.68, KERJAYA's OUTPERFORM rests on 3.3% upside plus a 3.8% yield, about 7.1% expected total return. That is below the more-than-10% OUTPERFORM threshold in Kenanga's own definitions (computed here). (8) The 52-week range in Kenanga's stock box (RM3.73-RM5.55) differs from stockanalysis.com's (RM3.70-RM5.63), which this row carries. The dividend yield is stockanalysis.com's 2.01%, not Kenanga's. Resolved since 29 September: the header price (RM4.98) now matches the peer table and this edition's 29 September close, and the stock box's KLCI (1,643.96) matches the digest.",
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 5.3,
+   "ticker": "GAMUDA",
+   "name": "Gamuda Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 5.9,
+   "price": 4.98,
+   "divYield": 2.01,
+   "high52": 5.63,
+   "low52": 3.7,
+   "mktSrc": "https://stockanalysis.com/quote/klse/GAMUDA/",
+   "catalyst": "FY26 net profit rose 5% to RM1.05b, in line at 100% of Kenanga's forecast and 101% of consensus. 4QFY26 net profit rose 36% QoQ to RM349.7m on a 30% revenue rise, led by Gamuda Land, whose pre-tax profit more than doubled to RM215.5m. At the briefing, management raised construction revenue guidance to RM24b for FY27 (from RM21b) and RM29b for FY28 (from RM25b), and set RM35b for FY29. Gamuda Land is targeting RM9.7b of launches in FY27. Kenanga leaves FY27 forecasts intact, raises FY28 by 9.8%, and lifts its SoP target to <b>RM5.90 from RM5.30</b>. OUTPERFORM is maintained. No dividend was declared for the quarter, as expected.",
+   "quote": "GAMUDA's FY26 net profit of RM1.05b (+5% YoY) was in line with expectations, making up 100% and 101% of our and consensus full-year forecasts, respectively.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/GAMUDA-260930-4Q26-RN-Kenanga.pdf",
+   "summary": [
+    "The target moved, not the rating. TP rises 11.3% to RM5.90 from RM5.30 (computed here); OUTPERFORM is maintained. The prior RM5.30 and OUTPERFORM match this board's 29 September row. The SoP now totals RM33,965.3m on 6,049.0m shares, or RM5.62, plus a RM0.28 premium (5%) for a 4-star ESG rating. The construction piece is still valued at 22x CY27F PER but rises to RM25,525.5m from RM21,879.0m on 29 September, about 17% higher (computed here), as the FY28 upgrade feeds into calendar 2027. At the RM4.98 price the new target implies 18.5% upside plus a 2.0% net yield, well above the 10% OUTPERFORM threshold.",
+    "The results were in line, and the quarter was property-led. FY26 revenue rose 14% and net profit 5%. GE earned RM939.6m (+17%) on 18% revenue growth, led by domestic data-centre work. GL rose 5% on Vietnam quick-turnaround projects. In 4Q, GL's pre-tax profit more than doubled QoQ to RM215.5m while GE's slipped 1% to RM281.5m. The headline 36% QoQ jump in net profit relies partly on a swing in minority interests; after-tax profit grew 7% (see flag). The Star reports the same RM349.7m quarterly and RM1.05b full-year net profit.",
+    "Kenanga is deliberately below management's guidance. Management now guides construction revenue of RM24b for FY27 and RM29b for FY28. Kenanga lifts its own assumptions to RM21b (from RM18b) and RM25b (from RM22b), about 88% and 86% of guidance (computed here). It also cuts FY27 property revenue to RM3.5b from RM5.0b, which is why FY27 earnings are unchanged at RM1,388m. FY28 goes to RM1,780m, against consensus of RM1,783m. The job-win assumption for FY27 rises to RM30b from RM27b; FY28 stays at RM25b. The 2027-28 upside therefore rests on execution, not on new wins alone.",
+    "The pipeline, as Kenanga reports it. GEA tendered more than AUD15b of jobs in FY26 and is one of three shortlisted for the NSW high-speed rail project. It expects early-completion bonuses in FY27 on Sydney Metro West, Coffs Harbour Bypass and the M1 Pacific Motorway extension. On 29 September GAMUDA, SD Guthrie and Gentari signed a CRESS agreement with a US-based technology firm for a 680MWac renewable project in Perak, with over RM10b of gross revenue. Kenanga estimates an EPCC value of RM3.0b-3.5b, likely to go to GAMUDA, and two more CRESS projects worth RM6b-7b. The order-book table totals RM61.2b, the same as 29 September; the book reconciles by region (computed here). GL missed its FY26 sales target by RM800m, closing at RM3.2b.",
+    "Why the Kenanga Signal reads None stated, and the balance-sheet point. A search of all six pages for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite returns only 'We continue to like GAMUDA for...' in the investment case. As on 22 and 29 September, this board treats that as investment-case language, not a pick declaration. On gearing: net gearing rose to 72% at end-July, temporarily above the group's 70% internal ceiling, after land buying in Singapore and Vietnam. Management expects it to normalise through FY27 as construction cash flow strengthens and Vietnam handovers start. Separately, Kenanga's FY26 job-win figure of RM35b does not match the company's RM25.1b (see flag)."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "Hong Leong Investment Bank",
+    "date": "23 Sep 2026",
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on GAMUDA in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. <b>No post-results (30 September) house note was retrievable at the time of this run.</b> The Star's 30 September results story carries no house calls. <b>The most recent dated calls found are a week old:</b> The Star reported on <b>23 September 2026</b>, after the Mortlake award, that <b>RHB Research</b> kept a RM6.20 target, and <b>CIMB Research</b>, BIMB Research, <b>TA Research</b> and <b>HLIB Research</b> kept RM6.00, RM5.91, RM5.42 and RM5.27. That article states targets but no ratings, and no pick language. HLIB's rating was last seen as BUY at RM5.27 (The Edge Malaysia, 26 Jun 2026). The 29 September row recorded CGS International at 'add' with RM6.05 (The Star, 29 Sep). This board cannot reconcile that with The Star's 23 September 'CIMB Research' at RM6, and records both. <b>Four of the nine houses this board searches</b> (RHB, CIMB, TA, HLIB) yielded a dated, publicly retrievable target in September; the other five did not. All those calls predate today's results note by a week and do not respond to it. <b>On divergence:</b> no retrieved call rates GAMUDA opposite to Kenanga's OUTPERFORM, so the marker is not set. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b> Aggregator consensus figures surfaced in search and were deliberately not used. <b>Material context from outside the report (rules/signals.md &sect;5):</b> The Star (30 Sep 2026) reports the company's figures as FY26 revenue RM18.33b (+14.8%), net profit RM1.05b (+4.9%), EPS 17.80 sen and a 10 sen full-year dividend. It gives 4Q revenue of RM5.76b and net profit of RM349.7m (+5.3% YoY), and FY26 new awards of <b>RM25.1b</b> plus RM12.3b for FY27 to date. It puts the order book at RM61b, unbilled property sales at RM7.6b and net gearing at 72% (53% a year earlier). Kenanga's 4Q revenue of RM5,826.8m includes JVs, so it differs from RM5.76b by basis. Kenanga's RM35b FY26 job-win figure is not reconciled with the company's RM25.1b (see flag).",
+    "cites": [
+     [
+      "The Star, 23 Sep 2026 &mdash; &lsquo;Aussie contract win fuels Gamuda momentum&rsquo; (RHB RM6.20; CIMB RM6; BIMB RM5.91; TA RM5.42; HLIB RM5.27; no ratings stated)",
+      "https://www.thestar.com.my/business/business-news/2026/09/23/aussie-contract-win-fuels-gamuda-momentum"
+     ],
+     [
+      "The Edge Malaysia, 26 Jun 2026 &mdash; &lsquo;Gamuda outperforms broader selldown, analysts shrug off weaker-than-expected results&rsquo; (HLIB BUY RM5.27)",
+      "https://theedgemalaysia.com/node/808406"
+     ],
+     [
+      "The Star, 30 Sep 2026 &mdash; &lsquo;Gamuda's FY26 revenue at record high&rsquo; (company figures; no house calls)",
+      "https://www.thestar.com.my/business/business-news/2026/09/30/gamudas-fy26-revenue-at-record-high"
+     ]
+    ]
+   },
+   "crossCheck": null
+  },
+  {
+   "verified": true,
+   "flag": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>Page 1 labels four stocks 'OW'</b> (UWC, AMBEST, FRONTKN, KGB). OVERWEIGHT is a sector rating in Kenanga's own definitions. The peer table rates all four OUTPERFORM. (2) <b>FRONTKN's target is printed two ways:</b> RM5.70 on page 1, RM5.72 in the peer table. The table's 14.9% upside matches RM5.72 at RM4.98 (computed here). (3) <b>Several peer-table ratings sit outside Kenanga's own return bands at the 29 September prices</b> (all computed here from the table's upside and net yield). UWC is OUTPERFORM on about 2.9% expected total return. D&amp;O is MARKET PERFORM on about -21.0%. PIE is MARKET PERFORM on -10.1%. OPPSTAR is UNDERPERFORM on +8.7%. (4) <b>OPPSTAR is shown as UNDERPERFORM at RM0.75.</b> This board's last OPPSTAR row (27 Aug) carried MARKET PERFORM at the same RM0.75. No downgrade note appears on this board in between. Not reconciled. (5) The peer table's market-cap total is printed as RM65,849.0m, but the sixteen rows sum to RM66,562.8m. The difference is almost exactly AMBEST's RM714.0m (computed here). (6) UWC's 'Current FYE' is printed as 07/2026, a year-end that has already passed. Exhibits 1 and 2, described as photos of the Huatai forum, are sourced to 'SEMI'. (7) This is filed as a <b>Sector Update</b> although the document is headed 'Thematic', because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). It carries no rating, target or share price of its own, so those columns are empty by design. Much of the note reports <b>Huatai Securities'</b> views from its Shanghai forum. This row attributes each view to Huatai or to Kenanga as the note does. No non-Kenanga analyst search was run for this row, since it has no Kenanga-Positive signal and no result (rules/daily-run.md step 8).",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Technology",
+   "name": "Technology Thematic: AI's Next Leg: From Narrative to Execution (Huatai Securities investment forum)",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "NEUTRAL maintained on Technology after Kenanga attended Huatai Securities' investment forum in Shanghai. Huatai's case, as reported: AI enters a 'second inning' in 2026, as inference and AI agents broaden demand beyond GPUs. Its advice is to follow bottlenecks across compute, storage, optical, power and equipment, and to favour volume-led capacity growth over price-led growth. Kenanga reads this through to Malaysia. It says Huatai's view 'reinforces our positive view on NATGATE' (OUTPERFORM, TP RM2.14), whose targeted production start in November 2026 it calls the key catalyst. It names UWC (RM7.00), AMBEST (RM1.80), FRONTKN and KGB (RM10.10) as capacity-expansion beneficiaries.",
+   "quote": "We maintain our NEUTRAL sector stance and continue to favour front-end exposed companies with visible volume growth, utilization improvement and earnings conversion over thematic AI exposure alone.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/Technology-260930-Thematic-Huatai-Conference-Kenanga.pdf",
+   "summary": [
+    "What the note is. It is mostly a conference report: Kenanga relaying Huatai Securities' framework, with a Malaysian read-through at the end. The sector stays NEUTRAL, and no rating or target changes. The targets cited match this board's latest rows for each: NATGATE RM2.14 (24 Aug), AMBEST RM1.80 (11 Sep), KGB RM10.10 (15 Sep), INARI RM2.77 (1 Sep), MPI RM43.70 (24 Aug) and D&amp;O RM0.44 (27 Aug). UWC and FRONTKN have no earlier row on this board.",
+    "Huatai's framework, in its own terms. It places AI in a long 'Kondratieff' technology cycle. It calls 2023-2025 the training-led 'first inning' and 2026 the start of a 'second inning' of inference, AI agents and applications. Its stock-selection rules are that 'capacity expansion beats price increases'; that investors should track leading indicators (orders, customer qualification, equipment installation, utilisation, lead times, power availability) rather than lagging earnings; and that they should own 'toll-road' bottlenecks. It flags power as possibly the critical constraint, and argues that cost per completed task may matter more than cost per token. These are Huatai's views as Kenanga reports them.",
+    "The Malaysian read-through is Kenanga's own. Kenanga suggests screening local names from AI exposure through customer qualification, capacity expansion, utilisation and revenue to margin and ROIC. It warns that 'AI exposure without meaningful customer orders, utilisation or earnings conversion may increasingly struggle to support elevated valuations.' On NATGATE it cites Huatai's view that optical-transceiver demand 'continues to far exceed supply'. It notes NATGATE's move into CoC/CoS packaging, TOSA/ROSA/TROSA assembly and optical testing. The peer table shows NATGATE's EPS rising to 10.3 sen in FY27 from 1.8 sen, taking PER from 97.5x to 17.3x.",
+    "The macro overlay, again reported from Huatai. China faces strong supply and weak domestic demand, and a durable recovery needs household income and confidence rather than liquidity alone. Separately, US restrictions could broaden from chips into AI IP, research, talent and visas, raising risk premiums for firms dependent on cross-border R&amp;D. This edition's digest carries China 'signalling economic stimulus'. That link is drawn here, not in the note.",
+    "Why the Kenanga Signal reads None stated. A search of all eight pages for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite finds four candidates. 'Continue to favour front-end exposed companies' is a style preference, and borderline 'continue to favour' language is not a pick declaration under this board's rules. 'Reinforces our positive view on NATGATE' contains no pick term. 'The more attractive Malaysian beneficiaries' refers to a category of names, not one stock, and says more, not most. 'Huatai's preferred framework' belongs to Huatai and is not a stock call. No stock is named a top pick or sector pick."
+   ]
+  },
+  {
+   "verified": true,
+   "flag": "Four points of caution on this row. (1) <b>Household debt-to-GDP is given two ways for two periods.</b> The text says 84.4% at end-1Q26; Table 2 says 84.8% for 2025. The periods differ, so there is no contradiction, but the table is the one used for the five-year change (-8.4 ppt). (2) <b>Table 3 gives BNM's 2004-06 response as '+80 bps (3 hikes)'</b>, which is not a multiple of 25bps. Reported as printed. (3) <b>This is a change of call, and the note says so.</b> This board's 4, 8, 17 and 21 September rows carried Kenanga's call for the OPR to stay at 2.75% through 2026. Today's note still has a hold on 5 November, but adds a 25bps hike to 3.00% in 1Q27. The note says: 'We held a no-hike view until September.' The two are consistent for 2026. The year-end USDMYR forecast moves to 4.00 from the 3.95 carried on 17 and 25 September, and the 10-year MGS forecast stays at 3.88%. The Fed view moves from 'one-and-done' (17 Sep) and 'reviewing' (25 Sep) to one more 25bps hike in 4Q26. (4) Model odds (80% by end-1Q27; 90% with market pricing) are Kenanga's own model outputs and cannot be checked from the note. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "BNM OPR outlook",
+   "name": "BNM: Taking Back the Insurance - Growth has outlasted the insurance cut; one hike to 3.00% in 1Q27, then a long hold",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "Kenanga now expects BNM to hold the OPR at 2.75% on 5 November and then <b>hike once, by 25bps to 3.00%, in 1Q27</b>, followed by a long hold. It frames this as 'normalisation, not tightening': growth of 5.7% in 1H26 has outlasted the reason for the pre-emptive July 2025 cut. It says the change of call was prompted by the prospect of back-to-back Fed hikes, not by inflation or imbalances. House odds are about 15% for November, 55% by end-1Q27 and 75% by end-2Q27. Kenanga's own model is more hawkish, at 80% by end-1Q27. It lifts its end-2026 USDMYR target to 4.00 from 3.95 and keeps the end-2026 10-year MGS forecast at 3.88%.",
+   "quote": "We expect BNM to hold the OPR at 2.75% on 5 November and deliver one 25 bps hike to 3.00% in 1Q27.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/09/EV_BNM_Taking-Back-the-Insurance_260930-Kenanga.pdf",
+   "summary": [
+    "The case rests on 'permission, not pressure'. Growth was 5.7% in 1H26 (1Q 5.4%, 2Q 6.0%). Headline CPI is 1.9% and core 1.7% in August, which match this board's 21 September CPI row. Kenanga says neither inflation nor financial imbalances call for tighter policy. Its point is that the insurance cut has done its job. It notes that 3.00% is where the OPR sat from May 2023 to July 2025, so a hike would return the rate to that level rather than start a cycle.",
+    "No imbalance to correct, on the note's own figures. Household debt is RM1.73t, or 84.4% of GDP at end-1Q26, which implies nominal GDP of about RM2.05t (computed here). It grew 5.6% in 2025, in line with the 2015-19 average. The ratio fell 8.4 ppt over the five years to 2025, against a 25.7 ppt rise before the 2014 hike. The median debt-service ratio is 33.0%. Riskier borrowers took 7.9% of new approvals in 2H25. BNM's stress test keeps the banking system's total capital ratio above 15.0% even with 100bps of hikes and a deep recession. Kenanga notes that BNM's last three normalisation hikes (2014, 2018, 2023) each came with imbalance language, and its September 2026 statement has none.",
+    "The Fed sets the timing. The Fed hiked to 3.75-4.00% in September, and Kenanga now expects one more 25bps in 4Q26. The OPR-Fed gap is 125bps and would widen to 150bps. That arithmetic reconciles with a 2.75% OPR (computed here). Kenanga notes that BNM held through a 250bps gap in 2023-24, and stopped at one hike in 2018 while the Fed kept going. It calls late 2018 the model's clearest false alarm. A Taylor-rule cross-check puts neutral at 3.00%, and the rule gives 2.85-3.05% on 1.7% core inflation. The arithmetic reconciles (computed here).",
+    "What would change the call. Hawkish: two Fed hikes in 4Q26, Brent above USD110 with local pass-through, or repricing in local rates would pull the hike forward to January. A November hike would need KLIBOR up about 30bps and the 3-year MGS up about 25bps, and Kenanga sees none of that yet. Dovish: fading growth, a one-and-done Fed, or a US-Iran deal lowering Brent. If GE16 falls before the hike window, the hike could slip to 2Q27. Kenanga treats further RON95 subsidy reform as a 2028 story, so it sees no case for a second hike next year.",
+    "Markets. USDMYR year-end moves to 4.00 from 3.95, against spot of about 4.08; this edition's forex table shows 4.0820. Support cited: a 2.0%-of-GDP current account surplus over the four quarters to 2Q26, a RM198.7b January-August trade surplus, RM15.9b of foreign bond inflows in August, and RM336.8b of foreign-currency deposits. On rates: 3-month KLIBOR at 3.53% sits 78bps over the OPR, and the 1-year NDIRS at 3.74% prices roughly one hike. The 10-year MGS at about 4.09% would need to fall about 21bps to meet the unchanged 3.88% year-end forecast (computed here)."
+   ]
+  }
+ ]
+}

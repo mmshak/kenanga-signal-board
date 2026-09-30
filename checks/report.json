@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29T20:34:38.523Z",
+ "generatedAt": "2026-09-30T06:23:29.953Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -23,10 +23,11 @@
   "2026-09-23",
   "2026-09-25",
   "2026-09-28",
-  "2026-09-29"
+  "2026-09-29",
+  "2026-09-30"
  ],
- "rows": 121,
- "verified": 120,
+ "rows": 124,
+ "verified": 123,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -335,6 +336,24 @@
    "date": "2026-09-29",
    "row": "GAMUDA",
    "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The outstanding order book falls a week after a RM908m win, despite a new RM2.28b one.</b> Kenanga's 22 September note put it at a record RM62.5b with YTD FY27 wins of RM10.2b. Today's note gives YTD wins of RM12.5b, which equals RM10.2b plus the c.RM2.28b Mortlake award, but an order book of RM61.2b. On Kenanga's own figures the book would be about RM64.8b; the RM3.6b gap is not explained (computed here). The Star (29 Sep 2026) also prints RM61.2b 'as at September 2026', but gives YTD FY27 wins of <b>RM10.5b</b>, not RM12.5b. Neither figure is resolved here; both are recorded as printed. This board carries no order-book figure as data, and the row's rating, target and price do not depend on it. (2) <b>The OUTPERFORM rating depends on which price is used.</b> The header price is RM4.84, the same as the 22 September note's header. The page-4 peer table prices GAMUDA at RM4.91, the digest's 28 September close, and shows 7.9% upside. At RM4.91, adding the 2.0% net yield gives about 9.9% expected total return, just below the more-than-10% OUTPERFORM threshold in Kenanga's own definitions. At RM4.84 it is 9.5% plus 2.1%, or about 11.6% (both computed here). The summary table's PERs (27.5x and 21.0x) also imply a price of about RM4.91. This row carries the header RM4.84. (3) <b>The share counts still differ.</b> The Stock Information box gives 6,049.8m shares and a RM29,341.6m market cap (about RM4.85 a share). The SoP uses 5,929.0m issued shares, and RM29,927.8m / 5,929.0m = RM5.05. Computed here. (4) <b>The KLCI printed in the stock box (1,656.91) does not match this edition's 28 September close of 1,670.0.</b> (5) <b>Page 3 still prints ROA above ROE</b> (FY27F ROE 4.8%, ROA 10.6%). The DuPont block below gives ROE of 10.2%. As flagged on 22 September. (6) <b>The valuation paragraph refers to 'Pages 6'</b>, but the note has five pages. The 52-week range (RM3.70-RM5.63) matches stockanalysis.com's; the dividend yield shown is stockanalysis.com's 2.04%, not Kenanga's."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-30",
+   "row": "GAMUDA",
+   "msg": "Eight points of caution on this row, reported as printed rather than resolved. (1) <b>Kenanga's FY26 job-win figure does not match the company's.</b> The note says GE 'secured RM35b in job wins for FY26 (vs. RM25b in FY25)'. The Star (30 Sep 2026), reporting the company's results, gives new awards of <b>RM25.1b for FY26</b> and RM12.3b for FY27 to date, RM37.4b in total. Kenanga's RM35b sits between the company's FY26 figure and its combined total. Its 'RM25b in FY25' is close to the company's FY26 figure. This board cannot tell which basis Kenanga used, and does not resolve it. Kenanga's own 29 September note gave YTD FY27 wins of RM12.5b; the company's figure is RM12.3b. (2) <b>The 4Q profit jump comes below the tax line.</b> Profit after tax rose only 7% QoQ, and fell 4% YoY, to RM326.2m. Net profit rose 36% to RM349.7m because minority interest swung from -RM46.9m in 3Q to +RM23.5m in 4Q (from the note's income statement; the reading is drawn here). The 4Q effective tax rate was 34.4%, against 21.5% in 3Q. (3) <b>Net gearing is stated two ways.</b> The text gives 72% as of July 2026, which The Star also reports. The summary table shows 0.70x for FY26A. (4) <b>DT Infrastructure is said to have won 47 contracts 'worth AUD3.47m' in 2026.</b> That is implausibly small next to DTI's RM7.5b renewable-energy order book on page 3, and may be meant as AUD3.47b. This board does not assume either. (5) <b>The segmental table is headed 'FY Dec'</b>, while the income statement and summary table use FY Jul. (6) <b>EPS is printed three ways:</b> 17.4 sen on the income statement, 17.5 sen on the summary table, and 17.80 sen as reported by the company per The Star. The share basis differs. The SoP now uses 6,049.0m shares, against 5,929.0m on 29 September; that difference was flagged on that row. (7) <b>The peer table's KERJAYA price is RM3.68</b>, while this edition's overbought list shows RM3.730. At RM3.68, KERJAYA's OUTPERFORM rests on 3.3% upside plus a 3.8% yield, about 7.1% expected total return. That is below the more-than-10% OUTPERFORM threshold in Kenanga's own definitions (computed here). (8) The 52-week range in Kenanga's stock box (RM3.73-RM5.55) differs from stockanalysis.com's (RM3.70-RM5.63), which this row carries. The dividend yield is stockanalysis.com's 2.01%, not Kenanga's. Resolved since 29 September: the header price (RM4.98) now matches the peer table and this edition's 29 September close, and the stock box's KLCI (1,643.96) matches the digest."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-30",
+   "row": "Technology",
+   "msg": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>Page 1 labels four stocks 'OW'</b> (UWC, AMBEST, FRONTKN, KGB). OVERWEIGHT is a sector rating in Kenanga's own definitions. The peer table rates all four OUTPERFORM. (2) <b>FRONTKN's target is printed two ways:</b> RM5.70 on page 1, RM5.72 in the peer table. The table's 14.9% upside matches RM5.72 at RM4.98 (computed here). (3) <b>Several peer-table ratings sit outside Kenanga's own return bands at the 29 September prices</b> (all computed here from the table's upside and net yield). UWC is OUTPERFORM on about 2.9% expected total return. D&amp;O is MARKET PERFORM on about -21.0%. PIE is MARKET PERFORM on -10.1%. OPPSTAR is UNDERPERFORM on +8.7%. (4) <b>OPPSTAR is shown as UNDERPERFORM at RM0.75.</b> This board's last OPPSTAR row (27 Aug) carried MARKET PERFORM at the same RM0.75. No downgrade note appears on this board in between. Not reconciled. (5) The peer table's market-cap total is printed as RM65,849.0m, but the sixteen rows sum to RM66,562.8m. The difference is almost exactly AMBEST's RM714.0m (computed here). (6) UWC's 'Current FYE' is printed as 07/2026, a year-end that has already passed. Exhibits 1 and 2, described as photos of the Huatai forum, are sourced to 'SEMI'. (7) This is filed as a <b>Sector Update</b> although the document is headed 'Thematic', because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). It carries no rating, target or share price of its own, so those columns are empty by design. Much of the note reports <b>Huatai Securities'</b> views from its Shanghai forum. This row attributes each view to Huatai or to Kenanga as the note does. No non-Kenanga analyst search was run for this row, since it has no Kenanga-Positive signal and no result (rules/daily-run.md step 8)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-09-30",
+   "row": "BNM OPR outlook",
+   "msg": "Four points of caution on this row. (1) <b>Household debt-to-GDP is given two ways for two periods.</b> The text says 84.4% at end-1Q26; Table 2 says 84.8% for 2025. The periods differ, so there is no contradiction, but the table is the one used for the five-year change (-8.4 ppt). (2) <b>Table 3 gives BNM's 2004-06 response as '+80 bps (3 hikes)'</b>, which is not a multiple of 25bps. Reported as printed. (3) <b>This is a change of call, and the note says so.</b> This board's 4, 8, 17 and 21 September rows carried Kenanga's call for the OPR to stay at 2.75% through 2026. Today's note still has a hold on 5 November, but adds a 25bps hike to 3.00% in 1Q27. The note says: 'We held a no-hike view until September.' The two are consistent for 2026. The year-end USDMYR forecast moves to 4.00 from the 3.95 carried on 17 and 25 September, and the 10-year MGS forecast stays at 3.88%. The Fed view moves from 'one-and-done' (17 Sep) and 'reviewing' (25 Sep) to one more 25bps hike in 4Q26. (4) Model odds (80% by end-1Q27; 90% with market pricing) are Kenanga's own model outputs and cannot be checked from the note. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
   }
  ],
  "verdict": "PASS"
