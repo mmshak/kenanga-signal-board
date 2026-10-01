@@ -1,0 +1,336 @@
+{
+ "date": "2026-10-01",
+ "schema": 1,
+ "daily": {
+  "klci": 1651.2,
+  "chg": 7.21,
+  "pct": 0.44,
+  "inst": 236.1,
+  "instPct": 40.4,
+  "retail": -7.7,
+  "retailPct": 25.6,
+  "foreign": -228.4,
+  "foreignPct": 34.0,
+  "ideas": "Results Note: ASTRO, UWC; Company Update: AEONCR",
+  "news": [
+   {
+    "h": "Exsim Hospitality bags construction subcontracts from Taghill",
+    "body": "Exsim Hospitality Bhd said that it has secured three subcontracts worth RM27.0m for construction works. The group said its subsidiary Exsim Concepto Sdn Bhd, which specialises in fit-out services for hospitality property assets, was awarded the subcontracts by Taghill Projects Sdn Bhd, a wholly-owned unit of Taghill Holdings Bhd. The first subcontract, valued at RM5.4m, is for the supply and installation of aluminium and glazing works in Kuala Lumpur. The second, worth RM8.6m in Pahang, and the third, amounting to RM13.0m in Petaling Jaya, both cover reinforced concrete works. (The Edge Malaysia)",
+    "takeaways": [
+     "The three pieces, RM5.4m, RM8.6m and RM13.0m, add up to the RM27.0m headline (computed here).",
+     "The awarding party is Taghill Projects Sdn Bhd, a wholly-owned unit of Taghill Holdings Bhd.",
+     "Two of the three jobs, worth RM21.6m together, are reinforced-concrete works (computed here). That is outside the fit-out work the subsidiary is described as specialising in.",
+     "The item gives no contract durations and no margin, so the earnings effect cannot be sized from it.",
+     "This board holds no Kenanga coverage of Exsim Hospitality. Digest context only."
+    ]
+   },
+   {
+    "h": "KIP REIT adds 20th property with RM435.0m Setapak Central Mall purchase, eyes 7.2% yield",
+    "body": "KIP Real Estate Investment Trust acquired its 20th property with the completion of its RM435.0m acquisition of Setapak Central Mall, which delivers an attractive yield of 7.2%. The new addition lifted its total net lettable area by approximately 16.0% to 3.8m sq ft and boosted the REIT's total assets under management to RM2.2b, surpassing its RM2.0b target for 2027. Following the completion of the acquisition, Setapak Central Mall has been officially renamed KIPMall Setapak. (The Edge Malaysia)",
+    "takeaways": [
+     "The acquisition is completed, not proposed. The mall is renamed KIPMall Setapak.",
+     "A 7.2% yield on RM435.0m is about RM31m a year (computed here). The item does not say whether the yield is measured on net property income.",
+     "A 16.0% rise to 3.8m sq ft implies roughly 3.3m sq ft before the deal (computed here).",
+     "Assets under management reach RM2.2b, ahead of the RM2.0b target the REIT had set for 2027.",
+     "The item does not say how the purchase was funded. This board holds no Kenanga coverage of KIP REIT. Digest context only."
+    ]
+   },
+   {
+    "h": "PTT Synergy buys industrial land in Klang from Sime Darby Property",
+    "body": "Industrial construction and automated logistics company PTT Synergy Group Bhd is acquiring four parcels of land with a combined area of 8,778 square metres in Bandar Bukit Raja, Klang for RM32.0m in cash. PTT Synergy is buying the freehold industrial properties from Sime Darby Property (Bukit Raja) Sdn Bhd, a wholly-owned subsidiary of Sime Darby Property Bhd. Each parcel comes with a detached factory, either already built or to be built. The group intends to use the properties for its business operations and to accommodate future expansion. (The Edge Malaysia)",
+    "takeaways": [
+     "The deal is RM32.0m in cash for four freehold parcels totalling 8,778 square metres.",
+     "That is about RM3,650 per square metre, or roughly RM339 per square foot (computed here). The price includes the factories, so it is not a bare land price.",
+     "Some of the factories are still to be built, so not all of the space is usable on completion.",
+     "The properties are for PTT Synergy's own operations and expansion, not for investment.",
+     "The seller is a unit of Sime Darby Property. This board holds no Kenanga coverage of PTT Synergy. Digest context only."
+    ]
+   },
+   {
+    "h": "Willowglen unit scores second win this week with RM24.9m in Singapore deals amid divestment",
+    "body": "Willowglen MSC Bhd has secured RM24.9m in contracts, its second win within a week, through its soon-to-be divested Singapore subsidiary Willowglen Services Pte Ltd. Willowglen Services has been awarded two contracts by SP PowerAssets Ltd to maintain supervisory control and data acquisition (SCADA) systems in cable tunnels in Singapore. SP PowerAssets owns and manages Singapore's electricity grid. The project commenced on Sept 29 and is scheduled for completion on Sept 28, 2031. (The Edge Malaysia)",
+    "takeaways": [
+     "The work runs from 29 September 2026 to 28 September 2031, about five years. Spread evenly, that is roughly RM5m a year (computed here).",
+     "The client is SP PowerAssets, the owner and manager of Singapore's power grid.",
+     "The contracts sit in a subsidiary that Willowglen is about to divest. The item does not say whether Willowglen keeps any of the value after the sale.",
+     "It is described as the second win within a week. The first is not detailed in this item.",
+     "This board holds no Kenanga coverage of Willowglen. Digest context only."
+    ]
+   },
+   {
+    "h": "Divfex wins RM120.1m data centre equipment jobs in Penang",
+    "body": "Divfex Bhd said it has secured two contracts worth RM120.1m to supply equipment for a 15MW data centre fit-out in Penang. Its wholly owned subsidiary Diversified Gateway Bhd will supply generator sets, transformers, switchgear and low-voltage equipment worth RM84.4m, while 51.0%-owned Excel Commerce Solutions Sdn Bhd will supply RM35.7m worth of cables. The purchaser is a leading Malaysian-incorporated data centre company, whose identity was not disclosed due to a confidentiality agreement. (The Edge Malaysia)",
+    "takeaways": [
+     "RM84.4m and RM35.7m add up to the RM120.1m headline (computed here).",
+     "The RM35.7m cable portion goes through a 51.0%-owned unit, so about RM17.5m of it belongs to minorities (computed here).",
+     "These are equipment-supply contracts for a 15MW fit-out, not construction.",
+     "The customer is not named because of a confidentiality agreement.",
+     "The item gives no delivery schedule or margin. This board holds no Kenanga coverage of Divfex. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "China extends two trade barrier probes into US till Dec 27",
+    "region": "Global",
+    "body": "China's commerce ministry has decided to extend two probes into US trade practices it launched in March by three months until Dec 27, according to ministry statements. (The Edge Malaysia)",
+    "takeaways": [
+     "The probes were launched in March and now run three months longer, to 27 December.",
+     "This is an extension of existing probes, not a new measure or tariff.",
+     "The item does not say which US practices are under investigation.",
+     "No outcome or penalty has been announced.",
+     "The item is sourced to The Edge Malaysia in the digest. Digest context only."
+    ]
+   },
+   {
+    "h": "China adds 55.0% tariff to Brazil beef as imports hit quota",
+    "region": "Global",
+    "body": "China will start collecting an additional 55.0% tariff on Brazil's beef shipments on Oct 1 after the South American country reached its annual quota of 1.1 million metric tons, the commerce ministry said on Wednesday. (The Edge Malaysia)",
+    "takeaways": [
+     "The extra 55.0% tariff applies from 1 October.",
+     "It is triggered by Brazil reaching its annual quota of 1.1 million tonnes, not by a new dispute.",
+     "It applies to shipments above the quota for the rest of the quota year. The item does not say when the quota resets.",
+     "No Malaysian link is drawn in the item.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "MSMEs temporarily exempted from new minimum wage hike, says minister",
+    "region": "Malaysia",
+    "body": "Micro, small and medium enterprises (MSMEs) will be temporarily exempted from any new minimum wage increase, Entrepreneur and Cooperatives Development Minister Steven Sim Chee Keong said on Wednesday. (The Edge Malaysia)",
+    "takeaways": [
+     "The exemption is temporary. No end date is given.",
+     "It covers any new minimum-wage increase, not the current minimum wage.",
+     "The item gives neither the size of the coming increase nor its start date.",
+     "The next item reports FMM asking for clarity on how the exemption will work.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "FMM wants clarity, implementation support on MSME minimum wage relief",
+    "region": "Malaysia",
+    "body": "The Federation of Malaysian Manufacturing (FMM) wants the government to clarify the exemption of micro, small, and medium enterprises (MSMEs) from an upcoming minimum wage increase and provide support for its implementation. (The Edge Malaysia)",
+    "takeaways": [
+     "FMM is asking for clarification, not opposing the exemption.",
+     "The item confirms the minimum-wage increase is upcoming.",
+     "It gives no detail of what FMM finds unclear.",
+     "It follows the minister's statement in the previous item.",
+     "Digest context only; the digest prints the name as 'Federation of Malaysian Manufacturing'."
+    ]
+   },
+   {
+    "h": "Bank Negara seeks feedback on proposed tighter rules on insurance and takaful sales pitches",
+    "region": "Malaysia",
+    "body": "Bank Negara Malaysia (BNM) is seeking feedback on proposed new rules on insurance and takaful providers meant to strengthen protections on policy owners. (The Edge Malaysia)",
+    "takeaways": [
+     "This is a consultation on proposed rules, not final regulation.",
+     "The aim stated is stronger protection for policy owners.",
+     "The item gives no consultation deadline and no detail of the rules.",
+     "Insurers and takaful operators are the affected firms.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Noraini: Malaysia aims to grow exports of higher-value palm oil products to India",
+    "region": "Malaysia",
+    "body": "Malaysia is looking to grow exports of higher-value palm oil products to India as vegetable oil demand remains strong in the top importing country. (The Edge Malaysia)",
+    "takeaways": [
+     "The aim is higher-value palm products, not more crude palm oil.",
+     "India is described as the top importing country for vegetable oil.",
+     "No target volume, value or date is given.",
+     "This edition's key-stats table shows CPO down 0.30% to RM4,610 a tonne. The item does not connect the two.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Indonesia's August trade surplus expected to widen, September inflation seen higher: Reuters poll",
+    "region": "Asia Pacific",
+    "body": "Indonesia was expected to record a larger trade surplus of about USD630 million in August, while its inflation rate for September was projected to rise slightly, according to a Reuters poll of economists. (Reuters)",
+    "takeaways": [
+     "These are poll forecasts, not released data.",
+     "The expected August surplus is about USD630 million.",
+     "September inflation is expected to rise slightly. No figure is given in the item.",
+     "The item does not give the previous month's surplus, so the size of the widening cannot be checked.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "US inflation rises less than expected in August; consumer spending surges",
+    "region": "Americas",
+    "body": "US inflation increased less than expected in August, which could see financial markets further reduce the odds of another interest rate increase from the Federal Reserve next month. (The Edge Malaysia)",
+    "takeaways": [
+     "The item gives no inflation or spending figures.",
+     "It says softer inflation could lower market odds of another Fed hike next month.",
+     "The headline says consumer spending surged, which pulls the other way. The body does not reconcile the two.",
+     "This board's 30 September BNM Economic Viewpoint row recorded Kenanga's expectation of one more 25bps Fed hike in 4Q26. The link is drawn here, not in the item.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US private payrolls growth picks up in September, ADP says",
+    "region": "Americas",
+    "body": "US private payrolls growth accelerated in September, the ADP National Employment Report showed on Wednesday. (The Edge Malaysia)",
+    "takeaways": [
+     "The source is the ADP private-sector report, not the official payrolls release.",
+     "Growth accelerated in September.",
+     "The item gives no number of jobs added.",
+     "A firmer labour market would weigh against the softer-inflation reading in the previous item. That reading is drawn here.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Inflation jumps across eurozone, raising pressure on ECB to hike",
+    "region": "Europe",
+    "body": "Inflation rose far quicker than expected in some of the eurozone's biggest economies this month due to the energy-price shock of the Iran war, increasing pressure on the European Central Bank to raise interest rates again. (The Edge Malaysia)",
+    "takeaways": [
+     "The rise is in some of the largest eurozone economies, which the item does not name, for September.",
+     "The cause given is the energy-price shock from the Iran war.",
+     "The item says pressure on the ECB to raise rates 'again', so a hike has already been made.",
+     "No inflation figures are given.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-261001-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>Core net profit for 2Q is stated two ways.</b> The text builds 2QFY27 core net profit of <b>RM4.6m</b> (headline loss of RM25.8m, plus a net forex loss of RM24.2m, plus RM6.2m of net impairments). The results table shows <b>RM1.4m</b>. The table's 1H figure of RM8.7m equals RM1.4m plus 1Q's RM7.3m, so the text's RM4.6m does not tie to the RM8.7m headline (computed here). (2) <b>The segment table's totals differ from the results table</b> for two periods: 1QFY27 revenue is RM659.2m against RM659.6m, and 2QFY26 is RM703.0m (-10% YoY) against RM683.2m (-7.2%). The 2QFY26 segment lines sum to about RM683.6m, so the RM703.0m total looks misprinted (computed here). (3) <b>The summary earnings table appears to swap EBIT and EBITDA</b>: FY26 'EBIT' is RM823.3m and 'EBITDA' RM116.5m. The core EPS line in the results table (0.0003 sen etc.) is not meaningful as printed. (4) <b>The share price, RM0.055, sits below the stock box's 52-week low of RM0.06.</b> At two decimal places a RM0.055 low would print as 0.06, so this is likely rounding. stockanalysis.com gives RM0.050-RM0.155, which this row carries. (5) Core PER is 17.0x for FY27 in the summary table and 16.0x in the peer table. (6) Kenanga calls 1H core profit 'above consensus' expectations'. On the consensus FY27 figure in the same table (RM17.4m), 1H's RM8.7m is 50% of the year (computed here). No dividend yield is shown, as stockanalysis.com lists none.",
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "MP",
+   "prevTp": 0.06,
+   "ticker": "ASTRO",
+   "name": "Astro Malaysia Holdings Berhad",
+   "type": "Results Note",
+   "rating": "MP",
+   "tp": 0.06,
+   "price": 0.055,
+   "divYield": null,
+   "high52": 0.155,
+   "low52": 0.05,
+   "mktSrc": "https://stockanalysis.com/quote/klse/ASTRO/",
+   "catalyst": "1HFY27 core net profit rose 26% YoY to RM8.7m, within Kenanga's expectations. The quarter swung to a <b>RM25.8m headline net loss</b> on RM58.4m of unrealised forex losses on USD-denominated transponder lease liabilities, partly offset by a RM34.2m hedging gain. Kenanga strips this out as non-cash. TV subscription revenue fell 8.1% in 1H as ARPU dropped to RM93.7 and the TV customer base shrank 3.8% YoY to 5.09m. Advertising fell 7%, with digital up 8%. Cost savings in content, depreciation, staff and marketing, plus tax credits, lifted core profit. Kenanga trims FY27 earnings by 5% and keeps <b>MARKET PERFORM with a RM0.06 target</b>.",
+   "quote": "ASTRO's 1HFY27 core net profit of RM8.7m (+26% YoY) was within our expectations but above consensus' expectations.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/ASTRO-261001-2QFY27-RN-Kenanga.pdf",
+   "summary": [
+    "Nothing moved. MARKET PERFORM and the RM0.06 target are both unchanged, still on 0.25x FY27F P/B with no ESG adjustment for a 3-star rating. FY27 core earnings are trimmed 5% to RM16.9m for weaker adex and subscriber net adds. At RM0.055 the target implies 9.1% upside and no dividend, inside Kenanga's MARKET PERFORM band of -5% to 10%. The share price is down 45.0% year to date, against -1.7% for the KLCI.",
+    "The headline loss is a currency effect, on Kenanga's reading. A weaker ringgit inflated the MYR value of RM1.23b of USD transponder lease liabilities, producing an unrealised RM58.4m forex loss. Kenanga estimates roughly half the liabilities are hedged; the hedge gained RM34.2m, leaving a net RM24.2m loss. It treats this as non-cash and reversible. The Edge Malaysia (30 Sep) reports the same RM25.80m net loss and calls it Astro's first quarterly loss since late 2023. Core profit for the quarter is stated as RM4.6m in the text and RM1.4m in the table (see flag).",
+    "The top line keeps shrinking. 1H revenue fell 6.7% to RM1.29b. TV subscription, about 82% of revenue (computed here), fell 8.1% to RM1,059.6m. Residential pay-TV ARPU slipped to RM93.7 from RM96.3 a year earlier, and the TV customer base fell to 5.089m from 5.288m. Kenanga ties the ARPU fall to a deliberate push into cheaper packages: Astro One and X3 start at RM39.99 a month. Radio adex fell 31.5% QoQ in 2Q and TV adex 25.0% YoY. Digital adex rose 8% in 1H to RM27.0m.",
+    "Profit came from costs, not growth. 1H EBIT rose 38.5% to RM88.8m even as EBITDA fell 5.2%, because depreciation dropped 13.0% to RM313.6m. Content costs fell 9.1% to RM451m. Net finance costs nearly doubled, to RM88.6m from RM45.7m. 1H tax was a RM4.3m credit, against a RM12.0m charge a year earlier. Kenanga names tax credits as one driver of the core-profit rise. Set-top box costs rose.",
+    "Why the Kenanga Signal reads None stated, and the case both ways. A search of all pages for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite returns no match. Kenanga sees upside from regional syndication and international streaming of Astro's IP. It notes several Astro titles in Netflix Malaysia's Top 10, Astro Shaw's 52% share of local box office year to date (RM59.7m), and the new set-top-box-free X3 product. Against that it lists global OTT competition, illegal TV boxes, long-term transponder lease payments to MEASAT, and AI-driven music streaming as a threat to radio."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on ASTRO in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. The Edge Malaysia's 30 September results story and its 1 October 'Companies in the News' item carry no house calls. The Edge Malaysia (20 Feb 2026) cited Bloomberg data of four analysts covering Astro, with two hold and two sell calls and an average target of 8.3 sen; it names no house, so it is not used as a call here. <b>None of the nine houses this board searches yielded a dated, named, publicly retrievable call on ASTRO during this run.</b> Aggregator consensus figures surfaced in search and were deliberately not used. <b>On divergence:</b> no verified call rates ASTRO opposite to Kenanga's MARKET PERFORM, so the marker is not set. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Edge Malaysia, 30 Sep 2026 &mdash; &lsquo;Forex losses, lower subscription revenue pull Astro into the red&rsquo; (company figures; no house calls)",
+      "https://theedgemalaysia.com/node/819995"
+     ],
+     [
+      "The Edge Malaysia, 20 Feb 2026 &mdash; &lsquo;Astro Malaysia jumps from record low, trading volume hits seven-year high&rsquo; (two hold, two sell per Bloomberg; no house named)",
+      "https://theedgemalaysia.com/node/793416"
+     ]
+    ]
+   },
+   "crossCheck": null
+  },
+  {
+   "verified": true,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>EBITDA equals EBIT</b> in both 4Q26 (RM44.7m) and 3Q26 (RM29.6m) in the results table, which implies no depreciation in either quarter. Full-year EBITDA (RM119.6m) does exceed EBIT (RM112.1m). (2) <b>FY28 BVPS is printed as RM0.00</b> in the summary table, alongside a 9.8x PBV. (3) Core EPS for FY28 is 19.5 sen in the summary table and 19.6 sen in the peer table; core PER for FY27 is 44.5x and 44.4x. (4) FY26 core PER is printed as 76.2x. On the FY26 EPS of 8.5 sen and the RM7.07 price, PER is about 83x; on core profit of RM103.1m over 1,103.3m shares it is about 76x (computed here). The table appears to use core EPS. (5) <b>The OUTPERFORM call rests on a narrow margin.</b> At RM7.07 the target implies 10.7% upside and no dividend, just over Kenanga's 10% threshold. Resolved since 30 September: that day's Technology Thematic row flagged UWC as OUTPERFORM on about 2.9% expected return at the old RM7.00 target, and its 'Current FYE' as 07/2026. Today's peer table shows FYE 07/2027 and the new RM7.83 target. No dividend yield is shown, as stockanalysis.com lists none.",
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 7.0,
+   "ticker": "UWC",
+   "name": "UWC Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 7.83,
+   "price": 7.07,
+   "divYield": null,
+   "high52": 7.12,
+   "low52": 3.51,
+   "mktSrc": "https://stockanalysis.com/quote/klse/UWC/",
+   "catalyst": "FY26 net profit rose 131% to RM93.8m, in line at 100% of Kenanga's forecast and 97% of consensus. Excluding forex, core net profit of RM103m would have been above expectations, at 109%. Revenue rose 54% to RM595m as semiconductor revenue nearly doubled (+95%), offsetting a 39% fall in life science and medical. 4Q net profit rose 43% QoQ to RM37.6m. The order book rose 30% QoQ to RM350m on a record RM267m of new orders in the quarter. Kenanga keeps FY27 forecasts, introduces FY28, and rolls valuation to CY27, lifting its target to <b>RM7.83 from RM7.00</b> on an unchanged 45x PER. OUTPERFORM is reiterated.",
+   "quote": "UWC's FY26 net profit came in at RM93.8m, accounting for 100%/97% of our and consensus full-year estimates.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/UWC-261001-4QFY26-RN-Kenanga.pdf",
+   "summary": [
+    "The target moved on a valuation roll, not a forecast change. TP rises 11.9% to RM7.83 (computed here), on the same 45x PER, now applied to CY27. Blending FY27 (15.9 sen) and FY28 (19.5 sen) EPS for a calendar 2027 gives about 17.4 sen, and 45x that is about RM7.83, so the target reconciles (computed here). Kenanga says 45x is about one standard deviation above UWC's historical forward PER. The prior RM7.00 and OUTPERFORM match the UWC entries in this board's 30 September Technology row.",
+    "Semiconductors carried the year. Semiconductor revenue rose to RM458.5m from RM235.4m, 77% of the total against 61% a year earlier. Life science and medical fell to RM45.9m from RM75.4m. FY26 PBT rose 149% to RM109.8m, and the PBT margin widened to 19% from 12%. Kenanga credits operating leverage from higher customer loadings, and expects it to persist.",
+    "A strong fourth quarter. 4Q revenue rose 23% QoQ to RM186.2m, with semiconductors up 15% and life science and medical up 16%. PBT rose 49% to RM43.7m, helped by lower operating expenses and raw-material costs. 4Q core PATMI of RM32.5m sits below reported RM37.6m, while for the year core (RM103.1m) is above reported (RM93.8m). Forex therefore helped the fourth quarter and hurt the year. The Edge Malaysia (1 Oct) reports the same RM37.6m quarter and calls FY26 a record year. No dividend was declared.",
+    "Visibility from the order book. Outstanding orders rose to RM350m from RM270m. Opening book plus RM267m of new orders, less RM186.2m of quarterly revenue, gives about RM351m, so the figures reconcile (computed here). On the front end, Kenanga expects wafer-fab equipment spending to run into CY2027, citing capacity plans at TSMC, SpaceX's Terafab initiative, SK Hynix and Samsung. On the back end it expects the new manipulator programme to normalise after order volumes more than doubled, with AI test intensity a further driver. UWC is adding capacity and new clean rooms.",
+    "Why the Kenanga Signal reads None stated. A search of all pages for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite returns one sentence: 'We like UWC for its: (i) meaningful exposure to the front-end semiconductor value chain...'. As with GAMUDA's 'we continue to like' on 22, 29 and 30 September, this board treats that as investment-case language, not a pick declaration. The note does not name UWC a top pick, sector pick or most attractive stock. Risks Kenanga lists: delays in ramp-up or yield, supply-chain shortages, and a weaker semiconductor cycle."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "CGS International",
+    "date": "23 Sep 2026",
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on UWC in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. <b>The most recent dated call found predates the results:</b> The Star reported on <b>23 September 2026</b> that <b>CGS International (CGSI) Research</b> keeps an <b>'add'</b> call with an unchanged <b>RM9.13</b> target. That is also based on 45x PER, applied to FY27-FY28. CGSI expected 4Q26 profit of RM31m-RM40m. The reported RM37.6m is inside that range (computed here). The article carries no pick language. <b>No post-results (1 October) house note was retrievable at the time of this run.</b> The Edge Malaysia's 1 October item carries no house calls. CGS International is not one of the nine houses this board searches by name, and this board does not treat it as CIMB Securities (see the 29-30 September GAMUDA rows). <b>None of the nine houses this board searches</b> yielded a dated, publicly retrievable call on UWC during this run. <b>On divergence:</b> CGSI's 'add' is in the same direction as Kenanga's OUTPERFORM, so the marker is not set. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b> Aggregator consensus figures surfaced in search and were deliberately not used.",
+    "cites": [
+     [
+      "The Star, 23 Sep 2026 &mdash; &lsquo;Client ramp-ups to bolster UWC earnings in 4Q26&rsquo; (CGSI add, RM9.13)",
+      "https://www.thestar.com.my/business/business-news/2026/09/23/client-ramp-ups-to-bolster-uwc-earnings-in-4q26"
+     ],
+     [
+      "The Edge Malaysia, 1 Oct 2026 &mdash; &lsquo;Companies in the News&rsquo; (company figures; no house calls)",
+      "https://theedgemalaysia.com/node/820046"
+     ]
+    ]
+   },
+   "crossCheck": null
+  },
+  {
+   "verified": true,
+   "flag": "Eight points of caution on this row, reported as printed rather than resolved. (1) <b>The share price is stated three ways.</b> Kenanga's note uses RM5.05. The Edge Malaysia (1 Oct) reports a 30 September close of RM5.02, after an intraday low of RM5.00, which stockanalysis.com also carries. This edition's own oversold list shows RM4.970, beside a 30-day low of RM5.000, which is inconsistent within that table. This row keeps Kenanga's RM5.05. (2) <b>The stock box looks stale.</b> It shows the KLCI at 1,696.31 (+1.0% YTD), while the digest and today's other notes show 1,651.2 (-1.7% YTD). Its market cap of RM2,895.2m implies about RM5.67 a share (computed here); the peer table shows RM2,726.7m. Its 52-week low of RM4.85 differs from stockanalysis.com's RM5.00, which this row carries. (3) <b>The peer table does not match the new forecasts.</b> It shows EPS of 78.2 and 86.5 sen, DPS of 31.5 sen and ROE of 12.7%. The summary table shows RM0.69 and RM0.81, 30.0 sen and 11.3%. (4) <b>Cost-to-income is stated two ways.</b> The text says CIR was 'at 27%'; the results table shows 39.8% for 2Q and 36.4% for 1H. CIMB's assumption of a 28% 'pre-provision cost-to-income ratio' (NST, 30 Sep) suggests a different definition, but the note does not say. (5) <b>'Operating profit before impairments was flat QoQ (+0.8%)'</b> does not follow from the table. Total income less operating expenses falls to RM354.3m from RM384.6m, about -7.9%, because opex rose 24.7% (computed here). (6) The text cites a '7.4% PE' for FY27; the table shows 7.3x. A 29 sen dividend at RM5.05 is about 5.7%, not the 6.0% stated; the table's 30 sen gives 5.9% (computed here). (7) <b>The document is filed as a Company Update</b> but pages 2-4 are headed 'Results Note'. Its forecast section opens 'Resuming coverage', although it gives a previous target (RM6.25) and an unchanged rating. (8) This board has no earlier AEONCR row, so RM6.25 and OUTPERFORM are taken from today's note.",
+   "result": "miss",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 6.25,
+   "ticker": "AEONCR",
+   "name": "AEON Credit Service (M) Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 5.6,
+   "price": 5.05,
+   "divYield": 5.73,
+   "high52": 6.13,
+   "low52": 5.0,
+   "mktSrc": "https://stockanalysis.com/quote/klse/AEONCR/",
+   "catalyst": "1HFY27 net profit of RM154.5m (+3.1% YoY) was <b>below</b> Kenanga's expectations. Its earlier full-year forecast was RM399m. 2Q net profit fell 38% QoQ to RM59.3m, as high write-offs pushed net credit cost to 5.0% and losses from the AEON Bank associate rose. Loan growth held up: receivables rose 9.1% YoY and 2Q total income 6.2%. A 13 sen interim DPS was declared. Kenanga raises its net credit-cost assumption to 4.85% from 4.5%, cuts FY27 earnings by 11.8%, and lowers its sustainable ROE to 11% from 12%. The target falls to <b>RM5.60 from RM6.25</b>. OUTPERFORM is kept, mainly for an expected 30 sen dividend, about a 6% yield.",
+   "quote": "But the main reason for keeping Outperform is dividend yield at current share price is attractive as AEONCR is endeavouring to keep DPS comparable to last year's at c 29sen, implying yield of 6.0%, and a margin of safety given a 7.4% PE for FY27.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/AEONCR-261001-CU-Kenanga.pdf",
+   "summary": [
+    "The target fell; the rating did not. TP drops 10.4% to RM5.60 from RM6.25 (computed here), on a GGM-derived 0.91x P/B, using 11.0% ROE (from 12.0%) and 1.5% growth. Applied to FY27F book value of RM6.19 a share, 0.91x gives about RM5.63 (computed here). At RM5.05 the target implies 10.9% upside. With the 30 sen FY27 dividend Kenanga forecasts (5.9% yield), expected return is about 17% (computed here), above the 10% OUTPERFORM threshold. Kenanga says the dividend is the main reason for keeping the call.",
+    "Why it missed. 1H profit was RM154.5m, about 39% of Kenanga's old RM399m full-year forecast and 44% of the new RM352m (computed here). The new figure is 11.8% below the old one, as the summary table states. In 2Q, impairment allowances rose 5.0% QoQ to RM247.8m, operating expenses rose 24.7% to RM234.4m, and associate losses rose to RM21.7m. Net credit cost reached 5.00% in 2Q and 5.27% for 1H. Kenanga names the Klang Valley and southern region, in used cars and personal financing.",
+    "The credit picture is mixed. The NPL ratio eased to 2.55% from 2.6% in 1Q, and loan-loss coverage rose to 199%. Pre-NPL delinquency is described as relatively stable. Write-offs are the problem. Annualised ROE fell to 7.5% in 2Q and 10.0% for 1H, against management's 12% guidance. Management expects write-offs to improve in 2H through early reminders, pre-NPL management and AI-assisted tele-collection, which Kenanga understands handles about a third of that work.",
+    "Growth is intact, and forecasts include a rate hike. Gross receivables rose 9.1% YoY to RM16.5b, led by the payment business (+11.3%). New-loan transactions rose 8.4% YoY in 2Q. Management's FY27 loan-growth guidance is 8%, and Kenanga keeps 8%. Kenanga's FY28 cut mainly reflects higher interest costs from its house view of one 25bps OPR hike. That matches the 1Q27 hike Kenanga's 30 September Economic Viewpoint introduced. Kenanga expects Budget 2027 wage measures to help collections. AEON Bank is on track for its RM75m full-year loss guidance, with no strategy change under new leadership.",
+    "Why the Kenanga Signal reads None stated. A search of all pages for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite returns no match. The note calls the dividend yield 'attractive', which is not a pick declaration and does not compare AEONCR with peers. Two named houses moved the other way after the same results: CIMB Securities to Reduce and RHB Research to Neutral (see Analyst Signal). The Edge Malaysia (1 Oct) reports that the stock closed at RM5.02 on 30 September, down 3.3%, near a one-year low."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "CIMB Securities, RHB Research",
+    "date": "30 Sep 2026",
+    "opp": true,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on AEONCR in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. <b>Two named houses rate AEONCR the opposite way to Kenanga, after the same results, so the divergence marker is set.</b> New Straits Times reported on <b>30 September 2026</b> that <b>CIMB Securities</b> downgraded AEONCR to <b>'Reduce' from 'Buy'</b> and cut its target to <b>RM4.90 from RM6.50</b>. CIMB said 1H accounted for only 36% of its forecast and 39% of consensus, and it cut FY27-FY29 earnings by 22.1%, 21.3% and 25.5%. It gives net credit cost of 501bps for 1H and 538bps for 2Q, against management's guidance of about 400bps. Those differ from Kenanga's 5.27% and 5.00%; the bases are not stated. The Edge Malaysia reported on <b>1 October 2026</b> that <b>RHB Research</b> cut its call to <b>'neutral' from 'buy'</b>, saying 'the combination of higher credit costs and weaker yields warrants a more cautious stance'. No RHB target was given. Kenanga's OUTPERFORM at RM5.60 sits between them: above CIMB's RM4.90 and the RM5.02 close. <b>Read the date:</b> both calls respond to the same 2Q results as today's Kenanga note, a day earlier. <b>Two of the nine houses this board searches</b> (CIMB, RHB) yielded a dated, publicly retrievable call; the other seven did not. Neither carries pick language. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b> A Bloomberg average target of RM6.25 quoted in The Edge, and aggregator figures, were not used as house calls.",
+    "cites": [
+     [
+      "New Straits Times, 30 Sep 2026 &mdash; &lsquo;CIMB Securities downgrades Aeon Credit on deteriorating asset quality&rsquo; (Reduce, RM4.90)",
+      "https://www.nst.com.my/business/corporate/2026/09/1544521/cimb-securities-downgrades-aeon-credit-deteriorating-asset"
+     ],
+     [
+      "The Edge Malaysia, 1 Oct 2026 &mdash; &lsquo;AEON Credit closes in on one-year low as 2Q results underwhelm investors, analysts&rsquo; (CIMB reduce; RHB neutral)",
+      "https://theedgemalaysia.com/node/819902"
+     ]
+    ]
+   },
+   "crossCheck": null
+  }
+ ]
+}

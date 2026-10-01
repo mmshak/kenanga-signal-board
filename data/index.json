@@ -120,6 +120,11 @@
    "date": "2026-09-30",
    "reports": 3,
    "verified": 3
+  },
+  {
+   "date": "2026-10-01",
+   "reports": 3,
+   "verified": 3
   }
  ]
 }

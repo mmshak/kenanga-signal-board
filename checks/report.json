@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T20:40:29.771Z",
+ "generatedAt": "2026-10-01T06:54:21.053Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -24,10 +24,11 @@
   "2026-09-25",
   "2026-09-28",
   "2026-09-29",
-  "2026-09-30"
+  "2026-09-30",
+  "2026-10-01"
  ],
- "rows": 124,
- "verified": 123,
+ "rows": 127,
+ "verified": 126,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -354,6 +355,24 @@
    "date": "2026-09-30",
    "row": "BNM OPR outlook",
    "msg": "Four points of caution on this row. (1) <b>Household debt-to-GDP is given two ways for two periods.</b> The text says 84.4% at end-1Q26; Table 2 says 84.8% for 2025. The periods differ, so there is no contradiction, but the table is the one used for the five-year change (-8.4 ppt). (2) <b>Table 3 gives BNM's 2004-06 response as '+80 bps (3 hikes)'</b>, which is not a multiple of 25bps. Reported as printed. (3) <b>This is a change of call, and the note says so.</b> This board's 4, 8, 17 and 21 September rows carried Kenanga's call for the OPR to stay at 2.75% through 2026. Today's note still has a hold on 5 November, but adds a 25bps hike to 3.00% in 1Q27. The note says: 'We held a no-hike view until September.' The two are consistent for 2026. The year-end USDMYR forecast moves to 4.00 from the 3.95 carried on 17 and 25 September, and the 10-year MGS forecast stays at 3.88%. The Fed view moves from 'one-and-done' (17 Sep) and 'reviewing' (25 Sep) to one more 25bps hike in 4Q26. (4) Model odds (80% by end-1Q27; 90% with market pricing) are Kenanga's own model outputs and cannot be checked from the note. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-01",
+   "row": "ASTRO",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>Core net profit for 2Q is stated two ways.</b> The text builds 2QFY27 core net profit of <b>RM4.6m</b> (headline loss of RM25.8m, plus a net forex loss of RM24.2m, plus RM6.2m of net impairments). The results table shows <b>RM1.4m</b>. The table's 1H figure of RM8.7m equals RM1.4m plus 1Q's RM7.3m, so the text's RM4.6m does not tie to the RM8.7m headline (computed here). (2) <b>The segment table's totals differ from the results table</b> for two periods: 1QFY27 revenue is RM659.2m against RM659.6m, and 2QFY26 is RM703.0m (-10% YoY) against RM683.2m (-7.2%). The 2QFY26 segment lines sum to about RM683.6m, so the RM703.0m total looks misprinted (computed here). (3) <b>The summary earnings table appears to swap EBIT and EBITDA</b>: FY26 'EBIT' is RM823.3m and 'EBITDA' RM116.5m. The core EPS line in the results table (0.0003 sen etc.) is not meaningful as printed. (4) <b>The share price, RM0.055, sits below the stock box's 52-week low of RM0.06.</b> At two decimal places a RM0.055 low would print as 0.06, so this is likely rounding. stockanalysis.com gives RM0.050-RM0.155, which this row carries. (5) Core PER is 17.0x for FY27 in the summary table and 16.0x in the peer table. (6) Kenanga calls 1H core profit 'above consensus' expectations'. On the consensus FY27 figure in the same table (RM17.4m), 1H's RM8.7m is 50% of the year (computed here). No dividend yield is shown, as stockanalysis.com lists none."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-01",
+   "row": "UWC",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>EBITDA equals EBIT</b> in both 4Q26 (RM44.7m) and 3Q26 (RM29.6m) in the results table, which implies no depreciation in either quarter. Full-year EBITDA (RM119.6m) does exceed EBIT (RM112.1m). (2) <b>FY28 BVPS is printed as RM0.00</b> in the summary table, alongside a 9.8x PBV. (3) Core EPS for FY28 is 19.5 sen in the summary table and 19.6 sen in the peer table; core PER for FY27 is 44.5x and 44.4x. (4) FY26 core PER is printed as 76.2x. On the FY26 EPS of 8.5 sen and the RM7.07 price, PER is about 83x; on core profit of RM103.1m over 1,103.3m shares it is about 76x (computed here). The table appears to use core EPS. (5) <b>The OUTPERFORM call rests on a narrow margin.</b> At RM7.07 the target implies 10.7% upside and no dividend, just over Kenanga's 10% threshold. Resolved since 30 September: that day's Technology Thematic row flagged UWC as OUTPERFORM on about 2.9% expected return at the old RM7.00 target, and its 'Current FYE' as 07/2026. Today's peer table shows FYE 07/2027 and the new RM7.83 target. No dividend yield is shown, as stockanalysis.com lists none."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-01",
+   "row": "AEONCR",
+   "msg": "Eight points of caution on this row, reported as printed rather than resolved. (1) <b>The share price is stated three ways.</b> Kenanga's note uses RM5.05. The Edge Malaysia (1 Oct) reports a 30 September close of RM5.02, after an intraday low of RM5.00, which stockanalysis.com also carries. This edition's own oversold list shows RM4.970, beside a 30-day low of RM5.000, which is inconsistent within that table. This row keeps Kenanga's RM5.05. (2) <b>The stock box looks stale.</b> It shows the KLCI at 1,696.31 (+1.0% YTD), while the digest and today's other notes show 1,651.2 (-1.7% YTD). Its market cap of RM2,895.2m implies about RM5.67 a share (computed here); the peer table shows RM2,726.7m. Its 52-week low of RM4.85 differs from stockanalysis.com's RM5.00, which this row carries. (3) <b>The peer table does not match the new forecasts.</b> It shows EPS of 78.2 and 86.5 sen, DPS of 31.5 sen and ROE of 12.7%. The summary table shows RM0.69 and RM0.81, 30.0 sen and 11.3%. (4) <b>Cost-to-income is stated two ways.</b> The text says CIR was 'at 27%'; the results table shows 39.8% for 2Q and 36.4% for 1H. CIMB's assumption of a 28% 'pre-provision cost-to-income ratio' (NST, 30 Sep) suggests a different definition, but the note does not say. (5) <b>'Operating profit before impairments was flat QoQ (+0.8%)'</b> does not follow from the table. Total income less operating expenses falls to RM354.3m from RM384.6m, about -7.9%, because opex rose 24.7% (computed here). (6) The text cites a '7.4% PE' for FY27; the table shows 7.3x. A 29 sen dividend at RM5.05 is about 5.7%, not the 6.0% stated; the table's 30 sen gives 5.9% (computed here). (7) <b>The document is filed as a Company Update</b> but pages 2-4 are headed 'Results Note'. Its forecast section opens 'Resuming coverage', although it gives a previous target (RM6.25) and an unchanged rating. (8) This board has no earlier AEONCR row, so RM6.25 and OUTPERFORM are taken from today's note."
   }
  ],
  "verdict": "PASS"
