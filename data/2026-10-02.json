@@ -1,0 +1,226 @@
+{
+ "date": "2026-10-02",
+ "schema": 1,
+ "daily": {
+  "klci": 1630.4,
+  "chg": -20.81,
+  "pct": -1.26,
+  "inst": 69.6,
+  "instPct": 34.5,
+  "retail": 118.3,
+  "retailPct": 30.7,
+  "foreign": -187.9,
+  "foreignPct": 34.8,
+  "ideas": "Thematic Report: Technology; Rating Summary; Economic Viewpoint: Ringgit Weekly Outlook",
+  "news": [
+   {
+    "h": "EcoSys IPO oversubscribed by 206.7 times ahead of Oct 14 ACE Market debut",
+    "body": "The public portion of EcoSys (Malaysia) Bhd's initial public offering (IPO) has been oversubscribed by 206.7 times ahead of its Oct 14 debut on the ACE Market of Bursa Malaysia. The industrial solutions provider said in a statement Thursday that it received 31,734 applications for 5.93b shares, against the 28.6m new shares made available for public subscription. (The Edge Malaysia)",
+    "takeaways": [
+     "The oversubscription applies to the public portion only: 28.6m new shares, against 5.93b shares applied for.",
+     "5.93b over 28.6m is about 207 times the shares on offer, which squares with 206.7 times oversubscribed once the rounding of the two inputs is allowed for (computed here).",
+     "31,734 applications for 5.93b shares is roughly 187,000 shares per application on average (computed here). The item gives no IPO price, so the ringgit value of demand cannot be stated.",
+     "Listing is on the ACE Market on 14 October. Kenanga published an IPO Note on ECOSYS on 29 September, per that day's digest. IPO notes sit outside this board's five report types, so it carries no ECOSYS row.",
+     "The item does not give the size of the institutional or bumiputera tranches. Digest context only."
+    ]
+   },
+   {
+    "h": "Hextar Capital unit bags RM60m Sarawak roadworks subcontract",
+    "body": "Hextar Capital Bhd subsidiary Legacy Core Sdn Bhd has secured a RM60m subcontract from Doland (M) Sdn Bhd to upgrade a road in Sibu, Sarawak. According to a bourse filing on Thursday, the subcontract covers road works, drainage and services relocation on Jalan Oya in Sibu. (The Edge Malaysia)",
+    "takeaways": [
+     "The award is RM60m, through subsidiary Legacy Core Sdn Bhd.",
+     "It is a subcontract from Doland (M) Sdn Bhd, not a direct government award.",
+     "Scope is road works, drainage and services relocation on Jalan Oya, Sibu.",
+     "The item gives no duration and no margin, so the earnings effect cannot be sized from it.",
+     "This board holds no Kenanga coverage of Hextar Capital. Digest context only."
+    ]
+   },
+   {
+    "h": "Ajiya sells Puchong factory at 45% premium for RM58m cash",
+    "body": "Building materials manufacturer Ajiya Bhd is selling its freehold industrial land and factory in Puchong, Selangor for RM58m cash, about 45% above its latest market valuation of RM40m. Its wholly-owned subsidiary, Ajiya Safety Glass Sdn Bhd, signed a sale and purchase agreement with healthcare products manufacturer Esprit Care Sdn Bhd on Thursday, according to a Bursa Malaysia filing. (The Edge Malaysia)",
+    "takeaways": [
+     "RM58m against a RM40m market valuation is a 45% premium, which matches the headline (computed here).",
+     "The premium is measured against market valuation, not book value. The item gives no book value, so the accounting gain cannot be computed.",
+     "The seller is wholly-owned Ajiya Safety Glass Sdn Bhd. The buyer is healthcare products maker Esprit Care Sdn Bhd.",
+     "The item does not say whether Ajiya will relocate the operations housed in the factory, or what it will do with the cash.",
+     "This board holds no Kenanga coverage of Ajiya. Digest context only."
+    ]
+   },
+   {
+    "h": "KKB Engineering secures RM517m contract for water infrastructure upgrade in Sarawak",
+    "body": "KKB Engineering Bhd said on Thursday it has secured a government contract for water infrastructure upgrade in Sarawak worth RM517m. This marks the group's second major win within a week. In a bourse filing, the engineering group said the three-year contract was awarded through the Regional Corridor Development Authority (Recoda), the state agency managing the development plan for the Sarawak Corridor of Renewable Energy (Score). (The Edge Malaysia)",
+    "takeaways": [
+     "RM517m over three years is roughly RM172m a year if spread evenly (computed here).",
+     "The award came through Recoda, the state agency managing the Score development plan. It is a government contract.",
+     "The 'second major win within a week' fits the RM462.0m of jobs from Sarawak Shell and two other firms in this board's 29 September digest item. That link is drawn here, not in today's item. Together the two come to about RM979m (computed here).",
+     "The item gives no margin, so the earnings effect cannot be sized from it.",
+     "This board holds no Kenanga coverage of KKB Engineering. Digest context only."
+    ]
+   },
+   {
+    "h": "Tien Wah Press unit to buy Indonesian factory from BAT for RM34m, secures three supply deals",
+    "body": "Tien Wah Press Holdings Bhd said its unit plans to buy a factory in Malang, Indonesia, which it currently leases, for 150b rupiah (RM34.1m) from British American Tobacco (BAT) Group's PT Bentoel Prima. The five parcels of land, measuring 5.78 acres, are currently used by Tien Wah's 51%-owned unit, PT Bintang Pesona Jagat (BPJ), for its tobacco packaging printing operations. (The Edge Malaysia)",
+    "takeaways": [
+     "Tien Wah already leases the factory, so this converts a lease into ownership rather than adding capacity.",
+     "150b rupiah for RM34.1m implies about 4,400 rupiah to the ringgit (computed here).",
+     "The site is five parcels totalling 5.78 acres, used by 51%-owned PT Bintang Pesona Jagat for tobacco packaging printing.",
+     "The seller, PT Bentoel Prima, is part of BAT Group. The headline's 'three supply deals' are not described in the digest's excerpt.",
+     "This board holds no Kenanga coverage of Tien Wah Press. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations — Reuters",
+    "region": "Global",
+    "body": "The Trump administration has been taking steps to turn China's dependence on US aviation suppliers into leverage for trade negotiations, according to people familiar with the matter. (The Edge Malaysia)",
+    "takeaways": [
+     "The source is people familiar with the matter, not an official announcement.",
+     "The aim given is leverage in trade negotiations with China.",
+     "The item does not name the measures, the parts affected, or the companies involved.",
+     "It follows the 1 October digest item on China extending two trade-barrier probes into the US to 27 December. That link is drawn here, not in today's item.",
+     "Digest context only; the digest sources it to The Edge Malaysia, citing Reuters."
+    ]
+   },
+   {
+    "h": "Trump unveils USD200.0b South Korean investment in US; Seoul hedges on Alaska pipeline",
+    "region": "Global",
+    "body": "US President Donald Trump unveiled plans on Wednesday for South Korea to invest some USD200 billion in US projects, but Seoul quickly suggested one key element, a USD54 billion pipeline for an LNG project in Alaska, was not yet set in stone. (The Edge Malaysia)",
+    "takeaways": [
+     "The USD200b figure was announced by the US side.",
+     "Seoul has suggested the USD54b Alaska LNG pipeline element is not yet settled.",
+     "That element is about 27% of the headline (computed here).",
+     "The item does not list the other projects or a timetable.",
+     "No Malaysian link is drawn in the item. Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Budget 2027: Govt to review cost pressures faced by small enterprises, says Anwar",
+    "region": "Malaysia",
+    "body": "The government will study the cost pressures in procurement and operations faced by small enterprises following the global supply crisis when formulating Budget 2027, said Prime Minister Datuk Seri Anwar Ibrahim. (The Edge Malaysia)",
+    "takeaways": [
+     "This is a commitment to study cost pressures, not an announced measure.",
+     "The pressures named are in procurement and operations, linked to the global supply crisis.",
+     "It follows the 1 October digest items on MSMEs being temporarily exempted from a new minimum-wage rise. That link is drawn here, not in today's item.",
+     "The item gives no date for the Budget. Kenanga's Budget 2027 preview is on this board's 22 September date.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Monthly Sara aid credited starting Thursday — MOF",
+    "region": "Malaysia",
+    "body": "The monthly Sumbangan Asas Rahmah (Sara) aid has been credited into the MyKad accounts of eligible recipients starting Thursday. (The Edge Malaysia)",
+    "takeaways": [
+     "Crediting started on Thursday, 1 October.",
+     "The aid goes into recipients' MyKad accounts.",
+     "The item gives neither the amount per recipient nor the number of recipients.",
+     "It is described as the monthly payment, not a new programme.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysia, Singapore can work together to boost intra-Asean trade — Johari Ghani",
+    "region": "Malaysia",
+    "body": "Malaysia and Singapore can collaborate to enhance business connectivity within Asean and boost intra-Asean trade by leveraging their strengths in supply chains, the digital economy, and key industries. (The Edge Malaysia)",
+    "takeaways": [
+     "This is a ministerial statement of intent, not an agreement.",
+     "The areas named are supply chains, the digital economy and key industries.",
+     "The item names no specific project, target or timetable.",
+     "The aim given is intra-Asean trade and business connectivity, not bilateral trade alone.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysia manufacturing PMI slips into contraction in September",
+    "region": "Malaysia",
+    "body": "Malaysia's manufacturing sector slipped into contraction in September, with the S&P Global Malaysia Manufacturing Purchasing Managers' Index (PMI) falling to 49.9 from 50.2 in August. (The Star)",
+    "takeaways": [
+     "The PMI fell 0.3 points to 49.9, just below the 50 line that separates expansion from contraction.",
+     "August's 50.2 matches Kenanga's own Economic Viewpoint on this board's 1 September date. That note called August the third straight month above 50, so September ends that run.",
+     "The item gives no breakdown into output, new orders or employment.",
+     "Kenanga's own note on the September PMI is not in today's bundle.",
+     "Digest context only; this item is sourced to The Star."
+    ]
+   },
+   {
+    "h": "Japan to detail first five years of Takaichi investment plan",
+    "region": "Asia Pacific",
+    "body": "Japanese Prime Minister Sanae Takaichi's government plans to hammer out the detailed costs associated with the first five years of its USD2.3 trillion (RM9.4 trillion), 14-year investment initiative, a first step towards clearing up uncertainty surrounding the sweeping programme. (The Edge Malaysia)",
+    "takeaways": [
+     "The plan is USD2.3 trillion over 14 years. Only the first five years are being costed now.",
+     "Spread evenly, that is about USD164b a year (computed here). The item does not say how the spending is phased.",
+     "The RM9.4 trillion conversion implies about RM4.09 to the US dollar (computed here), close to the digest's USD/MYR of 4.0852.",
+     "The item frames this as a step towards reducing uncertainty about the programme, not as new spending.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "China eyes more targeted fiscal support after growth slowdown",
+    "region": "Asia Pacific",
+    "body": "China is mulling additional fiscal policies to reach its growth target for 2026, according to the country's finance minister, as the world's No 2 economy contends with a slowdown. (The Edge Malaysia)",
+    "takeaways": [
+     "The source is China's finance minister.",
+     "Additional fiscal policies are being considered, not announced.",
+     "The aim given is reaching the 2026 growth target. The item does not state the target.",
+     "The item gives no size or timing for any measure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US weekly jobless claims fall; layoffs drop in September",
+    "region": "Americas",
+    "body": "New applications for US unemployment benefits fell last week and layoffs decreased in September, suggesting that labour market stability persisted even as employers remained cautious about boosting hiring. (The Edge Malaysia)",
+    "takeaways": [
+     "Initial jobless claims fell last week.",
+     "Layoffs decreased in September.",
+     "The item reads this as labour-market stability, with employers still cautious about hiring.",
+     "No figures are given for either series.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "ECB focuses on inflation, not bond spreads, Nagel says",
+    "region": "Europe",
+    "body": "European Central Bank policymaker Joachim Nagel said on Thursday the ECB's debt-buying tools are designed to safeguard price stability, not target specific sovereign bond spreads, as a selloff in French government debt fuelled speculation about possible intervention. (Reuters)",
+    "takeaways": [
+     "Nagel's point is that the ECB's debt-buying tools serve price stability, not specific bond spreads.",
+     "The backdrop is a selloff in French government debt and talk of intervention.",
+     "The item gives no spread or yield figures.",
+     "It follows the 1 October digest item on faster eurozone inflation adding pressure on the ECB to hike. That link is drawn here, not in today's item.",
+     "Digest context only; this item is sourced to Reuters."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-261002-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Eight points of caution on this row, reported as printed rather than resolved. (1) <b>The peer table's price column is headed 'Last Price @ 12 Jun'.</b> The prices are not June prices: every one differs from the 30 September table's '@ 29 Sep' column (AMBEST RM1.40 to RM1.37, UWC RM6.80 to RM7.10), and UWC already carries the RM7.83 target and 07/2027 year-end from its 1 October results note. The header looks stale. The actual pricing date is not stated, and that it is a recent session is inferred, not read. (2) <b>The market-cap total is printed as RM65,868.9m</b> (labelled Sector Aggregate), but the sixteen rows sum to RM66,567.4m. The gap, RM698.5m, is almost exactly AMBEST's RM698.7m (computed here). The 30 September table showed the same pattern. (3) <b>Several ratings sit outside Kenanga's own return bands at the table's prices</b> (all computed here from upside plus net yield). D&amp;O is MARKET PERFORM on about -15.1%. PIE is MARKET PERFORM on -7.9%. PENTAMASTER is MARKET PERFORM on about +11.1%. INFOMINA is OUTPERFORM on about +9.0%. OPPSTAR is UNDERPERFORM on +12.8%. (4) <b>Two entries disagree with this board's own earlier rows.</b> OPPSTAR is UNDERPERFORM at RM0.75; this board's 27 August OPPSTAR row carried MARKET PERFORM at the same RM0.75, and no downgrade note appears on this board in between. SKP Resources is UNDERPERFORM at RM0.27; this board's 1 September SKPRES row, read from SKPRES's own PDF, carried RM0.26. Neither gap can be resolved from the retrieved sources, and neither figure is used as data. (5) <b>SKYECHIP shows a 70.0 sen net dividend, a 24.2% yield</b>, against 1-year forward core EPS of 3.6 sen. The arithmetic of the yield is consistent at RM2.89, and the 30 September table printed the same 70.0 sen, but the note does not explain it. Not used. (6) UWC's 2-year forward core EPS is 19.6 sen here and 19.5 sen in the summary table of its 1 October results note (also flagged on that row). (7) <b>The day's line-up is one report short of the advertised one.</b> The digest's Ideas of the Day and Kenanga's own Kenanga Today page for 2 October name a Rating Summary and <i>Economic Viewpoint: Ringgit Weekly Outlook</i> alongside this note, but the published bundle contains only the digest and this note. The Rating Summary is excluded by specification (rules/signals.md &sect;6). The Ringgit Weekly Outlook returned HTTP 404 under EV_Ringgit-Weekly-Outlook_261002-Kenanga.pdf, the pattern that worked on 4 and 25 September, and under three variants. It is excluded on the authority of the bundle contents, as on 18 September. This run took place intraday, so Kenanga may still upload it later. (8) This is filed as a <b>Sector Update</b> although the document is headed 'Thematic', because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). It carries no rating, target or share price of its own, so those columns are empty by design. ViTrox, CPETECH and JCY are named in the text but are not in the peer table, and the note gives no rating or target for them. No non-Kenanga analyst search was run for this row, since it has no Kenanga-Positive signal and no result (rules/daily-run.md step 8).",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Technology",
+   "name": "Technology Thematic: Key Takeaways from Our Recent Tech Visits",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "NEUTRAL maintained on Technology after several weeks of meetings in Penang and Johor with listed and non-listed equipment, precision-engineering and machining companies. Kenanga reports that the companies it met collectively expect <b>orderbooks to grow 20-40% QoQ</b>, that demand is broadening across semiconductor equipment, inspection, storage and data-centre infrastructure, and that capacity, not demand, is now the constraint. Equipment lead times run <b>6-12 months</b>. It calls CY27 'a key ramp year', with execution the differentiator. It names ViTrox, CPETECH, AMBEST and JCY. No rating or target changes.",
+   "quote": "Importantly, the message across our meetings was broadly consistent: 2027 is shaping up to be a stronger year than 2026, as new capacity comes online and customer programmes move into volume production.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Tech-261002-Key-Takeaways-from-Tech-Visits-Kenanga.pdf",
+   "summary": [
+    "What the note is. A field-trip report, not a call change. The sector stays NEUTRAL (unchanged). The sixteen ratings and targets in the peer table are identical to the 30 September Technology thematic's, except UWC, now OUTPERFORM at RM7.83 as in its 1 October results note. They also match this board's latest rows for AMBEST RM1.80 (11 Sep), INARI RM2.77 (1 Sep), KGB RM10.10 (15 Sep), MPI RM43.70 (24 Aug), NATGATE RM2.14 (24 Aug) and D&amp;O RM0.44 (27 Aug). OPPSTAR and SKPRES do not match (see flag).",
+    "Management confidence, in Kenanga's account. The companies met collectively expect orderbooks to grow 20-40% QoQ. One non-listed vision-inspection equipment maker called this the strongest upcycle it has seen. ViTrox described the cycle as unprecedented and said deliveries could have been considerably higher without material and supply-chain bottlenecks. CPETECH said orders flooded in over the past three to six months and its capacity is fully taken up. Kenanga notes that these comments 'do not tell us exactly how much earnings will grow'.",
+    "Demand is broadening. Kenanga sees stronger activity across semiconductor equipment, inspection, storage and data-centre infrastructure. CPETECH and AMBEST see stronger requirements for precision components used in front-end semiconductor equipment, ViTrox is benefiting from demand for inspection systems, and JCY is winning new customers and programmes in storage, data-centre cooling and wafer-fab equipment components. Kenanga reads this as a broader equipment and infrastructure upcycle rather than one driven by a handful of programmes.",
+    "Capacity is the constraint, and expansion is the response. Demand has filtered down to the point where even subcontractors are seeing capacity tighten, which puts a premium on capacity already installed and qualified. All four non-listed companies visited are expanding in response to existing demand. AMBEST is adding equipment ahead of a stronger ramp next year, backed by customer forecasts and commitments. Some customers push suppliers to commission new equipment within a month of delivery. The bottleneck is getting machines: lead times stretch 6-12 months, which Kenanga names as the key risk.",
+    "Why the Kenanga Signal reads None stated. A search of all four pages for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite returns no match, including with line breaks removed. Exhibit 1 is an image, a word cloud of themes such as 'strong order momentum', 'capacity expansion' and 'FY27 ramp-up'; read directly, it contains no pick language either. No stock is singled out. Kenanga's forward view is that several management teams see mid- to high-double-digit growth next year as achievable, and that how quickly equipment is installed and qualified, programmes reach volume, and utilisation ramps 'will ultimately determine how much of the current opportunity converts into earnings in CY27'."
+   ]
+  }
+ ]
+}

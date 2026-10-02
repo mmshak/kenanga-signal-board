@@ -125,6 +125,11 @@
    "date": "2026-10-01",
    "reports": 3,
    "verified": 3
+  },
+  {
+   "date": "2026-10-02",
+   "reports": 1,
+   "verified": 1
   }
  ]
 }
