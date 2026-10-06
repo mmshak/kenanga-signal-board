@@ -1,0 +1,235 @@
+{
+ "date": "2026-10-06",
+ "schema": 1,
+ "daily": {
+  "klci": 1631.8,
+  "chg": 0.88,
+  "pct": 0.05,
+  "inst": 109.4,
+  "instPct": 38.1,
+  "retail": -29.8,
+  "retailPct": 33.2,
+  "foreign": -79.6,
+  "foreignPct": 28.8,
+  "ideas": "Sector Update: Healthcare (4QCY26 Strategy)",
+  "news": [
+   {
+    "h": "Alpha IVF targets Main Market transfer in 4Q",
+    "body": "Alpha IVF Group is planning to transfer from the ACE Market to the Main Market of Bursa Malaysia, with completion expected sometime in the fourth quarter this year. The fertility care group said the transfer will be through the accelerated transfer process under the Securities Commission Malaysia's Equity Guidelines, with shareholder approval required at a general meeting. (The Edge Malaysia)",
+    "takeaways": [
+     "The move is from the ACE Market to the Main Market, with completion targeted for 4Q this year.",
+     "It uses the accelerated transfer process under the Securities Commission's Equity Guidelines.",
+     "Shareholder approval at a general meeting is still required.",
+     "The reasons the board gives are credibility, recognition among institutional investors, and the shares' marketability. The item gives no financial figures.",
+     "This board holds no Kenanga coverage of Alpha IVF. Digest context only."
+    ]
+   },
+   {
+    "h": "Citaglobal unit secures RM29.0m portion of Thai waste-to-energy contract",
+    "body": "Citaglobal Bhd said its indirect unit LAWI Engineering GmbH (LAWI Germany) has secured a RM29.0m share of a RM52.1m contract for a waste-to-energy (WTE) project in Thailand. LAWI Germany, together with an unnamed consortium partner, was awarded the contract by Siam Power Co Ltd for the engineering, procurement and construction of a steam boiler plant for the Siam Power Naklang WTE project in Nakhon Ratchasima Province. (The Edge Malaysia)",
+    "takeaways": [
+     "LAWI Germany's RM29.0m is about 56% of the RM52.1m contract (computed here). The rest goes to an unnamed consortium partner.",
+     "The scope is EPC of a steam boiler plant for the Siam Power Naklang WTE project in Nakhon Ratchasima, Thailand.",
+     "Citaglobal holds LAWI Germany indirectly: 55.0% through a 56.1%-owned subsidiary, an effective interest of about 30.9% (computed here). Its attributable share of the contract is therefore smaller than the headline.",
+     "The item gives no duration or margin.",
+     "This board holds no Kenanga coverage of Citaglobal. Digest context only."
+    ]
+   },
+   {
+    "h": "Jati Tinggi bags two TNB contracts worth RM15.7m",
+    "body": "Jati Tinggi Group Bhd has secured two contracts from Tenaga Nasional Bhd (TNB) worth a combined RM15.7m for underground cable works in Selangor and a submarine power cable monitoring system in Perlis. The larger contract, worth RM13.4m, covers 11kV underground cables for TNB's distribution network in Selangor and runs for 365 days from the start-work notice. (The Edge Malaysia)",
+    "takeaways": [
+     "The two TNB contracts total RM15.7m.",
+     "The larger, RM13.4m, covers 11kV underground cable installation, testing and commissioning in Selangor, through wholly owned Jati Tinggi Holding Sdn Bhd.",
+     "It runs for 365 days from the start-work notice.",
+     "That leaves about RM2.3m for the Perlis submarine power cable monitoring system (computed here). The item does not state that figure separately.",
+     "This board holds no Kenanga coverage of Jati Tinggi. Digest context only."
+    ]
+   },
+   {
+    "h": "Go Hub Capital bags RM65.0m contract from KTMB unit",
+    "body": "Information technology solutions provider Go Hub Capital Bhd has secured a five-year service contract worth RM65.0m from Keretapi Tanah Melayu (KTMB) unit Tenang Capital Bhd, via its wholly owned NSS IT Solution Sdn Bhd, to provide maintenance and support services for KTMB's Integrated Ticketing System from Oct 1 this year to Sept 30, 2031. (The Edge Malaysia)",
+    "takeaways": [
+     "The contract is RM65.0m over five years, about RM13.0m a year if spread evenly (computed here).",
+     "The work is maintenance and support for KTMB's Integrated Ticketing System, for KTMB unit Tenang Capital Bhd.",
+     "The letter of acceptance went to wholly owned NSS IT Solution Sdn Bhd on 30 September.",
+     "The term runs from 1 October 2026 to 30 September 2031, unless terminated earlier.",
+     "This board holds no Kenanga coverage of Go Hub Capital. Digest context only."
+    ]
+   },
+   {
+    "h": "West River secures RM17.5m electrical, solar works for Selangor logistics park",
+    "body": "West River Bhd has secured a RM17.5m subcontract for electrical, security and solar panel system works at the E-Metro Logistic Park in Bandar Bukit Raja 2, Selangor, awarded by Al-Ambia Sdn Bhd to its wholly owned West River Engineering Sdn Bhd. (The Edge Malaysia)",
+    "takeaways": [
+     "The award is a RM17.5m subcontract, not a main contract.",
+     "It came from Al-Ambia Sdn Bhd to wholly owned West River Engineering Sdn Bhd.",
+     "The scope covers electrical and extra-low-voltage systems, telephone services, security works and solar panel systems.",
+     "The site is the E-Metro Logistic Park in Bandar Bukit Raja 2, Selangor. The item gives no duration or margin.",
+     "This board holds no Kenanga coverage of West River. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "US, India officials signal trade deal talks at an impasse",
+    "region": "Global",
+    "body": "Top officials in the US and India signalled that negotiations over a trade deal have reached an impasse that is making it difficult to clinch an agreement. (The Edge Malaysia)",
+    "takeaways": [
+     "The signal comes from top officials on both sides.",
+     "The talks are described as at an impasse, not ended.",
+     "The item does not name the sticking points.",
+     "It gives no timetable or tariff figures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "BNM: Household financial position remains resilient amid West Asia risks",
+    "region": "Malaysia",
+    "body": "The financial position of households has remained generally resilient, supported by Malaysia's stable labour market conditions, according to Bank Negara Malaysia (BNM). (The Edge Malaysia)",
+    "takeaways": [
+     "The source is Bank Negara Malaysia.",
+     "The support cited is stable labour-market conditions.",
+     "The backdrop named is West Asia risks.",
+     "The item gives no household debt or debt-service figures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Economy Ministry receives almost 10,000 new, extension project proposals for 2027",
+    "region": "Malaysia",
+    "body": "The Economy Ministry has received 9,955 new and extension project proposals totalling RM944.0b for 2027. The ministry said RM80.4 billion is required as the 2027 development expenditure ceiling for consideration under the development planning process. (The Edge Malaysia)",
+    "takeaways": [
+     "The proposals number 9,955 and total RM944.0b.",
+     "The ministry puts the required 2027 development expenditure ceiling at RM80.4b.",
+     "That ceiling is about 8.5% of the value proposed (computed here), so most proposals cannot be funded in 2027.",
+     "The item does not split new projects from extensions.",
+     "Digest context only; sourced to The Edge Malaysia. Budget 2027 context: Kenanga's preview is on this board's 22 September date."
+    ]
+   },
+   {
+    "h": "Govt to boost high-value commodity exports, reduce reliance on food imports — minister",
+    "region": "Malaysia",
+    "body": "The government remains committed to strengthening the nation's agrifood sector by driving higher production and exports of high-value commodities such as pineapples and durians, while narrowing the country's food trade gap. (The Edge Malaysia)",
+    "takeaways": [
+     "This is a ministerial statement of commitment, not a new measure.",
+     "The commodities named are pineapples and durians.",
+     "The aims are higher production and exports, and a narrower food trade gap.",
+     "The item gives no trade-gap figure or target.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "AG's report: Govt's 2025 subsidy spending down 40% on petroleum subsidy cuts; welfare grants quadruple",
+    "region": "Malaysia",
+    "body": "The federal government's subsidy spending fell 40.1% to RM23.43b in 2025 from RM39.10b a year earlier, mainly because of a drop in petroleum subsidies, according to the latest Auditor General's report released on Monday. (The Edge Malaysia)",
+    "takeaways": [
+     "Subsidy spending fell to RM23.43b from RM39.10b, a RM15.67b reduction (computed here). That checks to the 40.1% stated.",
+     "The main driver named is lower petroleum subsidies.",
+     "The headline says welfare grants quadrupled, but the item gives no figures for them.",
+     "The source is the Auditor General's report released on Monday, 5 October.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Japan service sector activity slows from five-month high, PMI shows",
+    "region": "Asia Pacific",
+    "body": "Japan's service sector expanded at a weaker pace in September as business activity and new orders grew more slowly and earthquake disruption dampened demand, a business survey showed on Monday. (The Edge Malaysia)",
+    "takeaways": [
+     "The sector still expanded in September, but more slowly.",
+     "Business activity and new orders both grew more slowly.",
+     "Earthquake disruption is cited as dampening demand.",
+     "The item gives no PMI reading.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US services sector activity slows in September as price pressures mount",
+    "region": "Americas",
+    "body": "US services sector activity slowed in September, with strong domestic demand stretching supply chains and raising prices paid by businesses for inputs, indicating that inflation could remain high into next year. (The Edge Malaysia)",
+    "takeaways": [
+     "Activity slowed in September.",
+     "Strong domestic demand is described as stretching supply chains.",
+     "Prices paid for inputs rose.",
+     "The item reads this as inflation possibly staying high into next year. It gives no index readings.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "UK services firms suffer surge in costs, raise prices, PMI shows",
+    "region": "Europe",
+    "body": "British services firms reported stronger cost pressures last month as fuel prices surged due to the Middle East conflict and a measure of prices charged by companies hit its highest since May, according to a survey published on Monday. (Reuters)",
+    "takeaways": [
+     "Cost pressures strengthened in September.",
+     "The cause named is a fuel-price surge linked to the Middle East conflict.",
+     "The prices-charged measure hit its highest since May.",
+     "The item gives no index readings.",
+     "Digest context only; this item is sourced to Reuters."
+    ]
+   },
+   {
+    "h": "ECB's Nagel: high inflation not yet setting off second-round effects",
+    "region": "Europe",
+    "body": "Euro zone inflation is high and upward risks dominate but expensive energy has yet to feed through to wages and other prices, Bundesbank President Joachim Nagel said on Monday. (Reuters)",
+    "takeaways": [
+     "Nagel describes euro-zone inflation as high, with upside risks dominating.",
+     "His point is that expensive energy has not yet fed through to wages and other prices.",
+     "The item gives no inflation figure.",
+     "It follows the 2 October digest item quoting Nagel on the ECB's debt-buying tools. That link is drawn here, not in today's item.",
+     "Digest context only; this item is sourced to Reuters."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-261006-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Nine points of caution on this row, reported as printed rather than resolved. (1) <b>IHH's year-to-date share-price fall is given two ways.</b> Page 1's summary says a '9% YTD share price retracement'; the body directly below says 'A 11% YTD share price retracement'. (2) <b>KPJ's pullback is also given two ways.</b> The summary has '16% share price pullback over the past two months'; the body has 'a 19% share price pullback over the past month'. (3) <b>IHH Singapore's bed occupancy is given three ways.</b> Page 1 has '52%-55% in August and September'. Page 2 first has '55% in July and August (against 51% in 2QFY26)', then '&gt;52% in Aug&ndash;Sept (vs. 51% in 2QFY26 and 49% in 1QFY26)'. The months and levels cannot all be right, and this row does not choose between them. (4) <b>KPJ's valuation multiple does not match the note's own tables.</b> The text says KPJ trades at '10x EV/EBITDA (~1.0 SD below its 5-year historical mean)', and the summary prints '-1.0 SD'. The Private Healthcare Peers Table gives KPJ 16.3x 1-year-forward EV/EBITDA, and the historical table gives 15.4x for CY25. The basis of the 10x is not stated. (5) <b>'Operational losses halved' in Greater China is not what the stated figures give.</b> Net losses of RM56m in 1HFY26 against RM90m in 1HFY25 is a 38% narrowing (computed here), not half. The two may be on different bases, operational versus net, but the note does not say so. (6) <b>Two peer-table ratings sit outside Kenanga's own return bands</b>, printed on page 6 (computed here as upside plus net yield). SCOMNET is MARKET PERFORM on 19% upside and a 4.8% yield, about 23.8%. PHARMANIAGA is MARKET PERFORM on 12% upside and 1.9%, about 13.9%. Both are above the 10% OUTPERFORM line. (7) <b>The two market-cap columns do not reconcile.</b> The Private Healthcare Peers Table gives IHH USD19,976m and KPJ USD3,827m. The Peer Table Comparison gives RM68,569m and RM11,465m, which at the digest's USD/MYR of 4.0868 are about USD16,778m and USD2,805m (computed here). The pricing date of the USD table is not stated. (8) <b>The healthcare top pick has changed, and the note does not say so.</b> This board's 28 August DPHARMA row quotes Kenanga calling DPHARMA 'our Top Pick for the healthcare sector'. Today IHH is named the top sector pick, and DPHARMA appears only as OUTPERFORM at an unchanged RM1.72. That it is a switch is inferred by comparing this board's two rows. Kenanga does not state it. (9) Filed as a <b>Sector Update</b>. It carries no ticker-level rating, target or share price of its own, so those columns are empty by design. The sector call is OVERWEIGHT, upgraded from NEUTRAL; the rating field takes stock ratings only, so it is recorded in the text. For the same reason the divergence marker is not set (see the analyst note).",
+   "result": null,
+   "conviction": "\"Our top sector pick is IHH Healthcare.\"",
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Healthcare",
+   "name": "Healthcare Sector Update (4QCY26 Strategy): A Healthy Diagnosis in Private Healthcare",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "Kenanga <b>upgrades Healthcare to OVERWEIGHT from NEUTRAL</b>, anchored by OUTPERFORM on IHH (TP RM9.10) and KPJ (TP RM3.05). Both targets match this board's earlier rows: IHH upgraded on 23 September, KPJ on 9 September. It names <b>IHH as its top sector pick</b>, citing the share-price retracement, a Singapore trough already passed and a faster-than-expected narrowing of losses in Greater China. It keeps a contrarian <b>UNDERPERFORM on SUNMED</b> (TP RM1.75). It expects the DRG pricing due in CY2027 to have minimal impact, since the first roll-out targets uncomplicated, high-volume, lower-value treatments.",
+   "quote": "We upgrade our call on the Healthcare sector to OVERWEIGHT from NEUTRAL, anchored by OUTPERFORM ratings on both IHH Healthcare (OP; TP: RM9.10) and KPJ Healthcare (OP; TP: RM3.05).",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Healthcare-261006-4QCY26-Strategy-SU-Kenanga.pdf",
+   "summary": [
+    "The call, checked against this board's own record. The sector moves to OVERWEIGHT from NEUTRAL. The peer table's eight ratings and targets match every earlier row on this board for the same stocks. IHH is OUTPERFORM at RM9.10, as upgraded on 23 September. KPJ is OUTPERFORM at RM3.05 (9 September). DPHARMA is OUTPERFORM at RM1.72 (28 August). KOTRA is MARKET PERFORM at RM3.88 (28 August). SCOMNET is MARKET PERFORM at RM0.57 (24 August). SUNMED (UNDERPERFORM, RM1.75), PHARMANIAGA (MARKET PERFORM, RM1.15) and NOVA (MARKET PERFORM, RM0.38) have no earlier row here. Nothing in this note moves a rating or target. The peer table prices IHH at RM7.76, 17% below target, and KPJ at RM2.59, 18% below. The upgrade is a valuation call on pullbacks: IHH had traded at RM8.00 in this board's 23 September row.",
+    "IHH: the case for the top pick. Kenanga describes IHH as having market-leading positions across four core regions. The group says the worst is over in Singapore, which Kenanga reads as largely priced in. It expects 2HFY26 earnings there to beat 1HFY26 on second-half seasonality and the ramp-up of the renovated Mount Elizabeth Novena Hospital. In T&uuml;rkiye and Europe it expects 2HFY26 to outpace 1HFY26 on dynamic pricing and integration of acquired hospitals. In India, Fortis now manages five of the six Gleneagles hospitals, and the group targets lifting Gleneagles India's EBITDA margin from about 10% to 18-19%; Kenanga assumes 19%. Greater China is the named re-rating catalyst. Net losses narrowed to RM56m in 1HFY26 from RM90m, Gleneagles Hong Kong posted a sixth consecutive month of net profit, and its EBITDA margin reached 19% in 1HFY26, against 14% in 2QFY25. The occupancy and 'halved' figures are inconsistent within the note (see flag).",
+    "KPJ and SUNMED: same sector, opposite calls. KPJ is OUTPERFORM. The search for a new MD continues, but Kenanga says the 5-year plan remains intact under the officer-in-charge. In 1HFY26 KPJ Bandar Dato Onn turned profitable at the bottom line, and all key gestating hospitals (DSH2, Perlis, Batu Pahat, Miri) remain EBITDA-positive. KPJ is building towards 15 centres of excellence. Its revenue per bed of RM1.13m is 8-15% below peers. Its record 2QFY26 revenue per inpatient of RM8,656 (+7% YoY) is still 30-35% below the peer average, which Kenanga presents as room to grow. SUNMED is UNDERPERFORM at 30x FY27F EV/EBITDA. Its RM1.75 target applies a 15% discount to the Indian operators' 27x average, roughly 23x (computed here). This is despite forecast net-profit growth of 12% in FY26 and 43% in FY27, and 177 completed beds awaiting licensing. Kenanga says an upgrade hinges on stronger-than-expected new-hospital performance.",
+    "The structural case and the DRG risk. Malaysia has two hospital beds per 1,000 people, against 4.6 in developed markets. Industry estimates put private bed capacity growth at a 4-5% CAGR over 2023-2028. IHH, KPJ and SUNMED plan to expand beds by 53%, 43% and over 70%, to 4,978, 6,000 and 3,330, between CY2028 and CY2032. Kenanga calls the planned DRG fee-for-service hybrid 'a step in the right direction'. The hybrid blends bundled DRG baseline caps with adjusted itemised billing, and the note says the reforms aim to change how costs are borne, not to reduce demand. Implementation is expected in CY2027. Its historical table shows Malaysian operators trading at a 26% EV/EBITDA discount to Asia-Pacific and ASEAN peers in CY25, within the 20-40% range in its exhibit title. In health supplements, DPHARMA expects recombinant human insulin to start contributing in 2HFY26. KOTRA faces higher input and energy costs, and NOVA faces price discounting.",
+    "Why this row reads Positive. Page 1 of the note states 'Our top sector pick is IHH Healthcare.' A search of all six pages for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite, with line breaks removed, finds only that sentence. The only 'favour' hit is 'favourable second-half seasonality', which is not pick language. The note has no image exhibits beyond logo and header bars. The Kenanga Signal therefore rests on that one sentence, quoted on this row. KPJ is OUTPERFORM and an anchor of the upgrade, but is not named a pick. The note is silent on DPHARMA, the healthcare Top Pick on this board's 28 August row (see flag). A named house independently names IHH a preferred pick today; see the analyst note."
+   ],
+   "analyst": {
+    "v": "positive",
+    "house": "Phillip Capital Research",
+    "date": "6 Oct 2026",
+    "opp": false,
+    "note": "<b>A named house names Kenanga's top pick, IHH, among its own preferred picks, so the Analyst Signal reads Positive.</b> The Star reported on <b>6 October 2026</b>, the same day as this Kenanga note, that <b>Phillip Capital Research</b> keeps an <b>'overweight'</b> stance on healthcare. The article states verbatim: 'Its preferred picks are IHH Healthcare Bhd with a target price of RM11.03, and KPJ Healthcare Bhd at RM3.80'. Those targets are 21% and 25% above Kenanga's RM9.10 and RM3.05 (computed here). <b>Three qualifications.</b> First, the article does not give the date of Phillip Capital's own note. The 6 October date is the reporting date, and the gap to it is zero days on that basis only. Second, the pick reaches this board as reported speech in The Star, not read from Phillip Capital's note itself. Third, <b>Phillip Capital is not one of the nine houses this board searches</b>, the same position BIMB Securities held on the 21 September Automotive row. <b>Among the nine houses</b>, the most recent dated call read in this run is <b>RHB Investment Bank Research</b>. The Edge Malaysia Weekly (Capital, 21-27 September 2026 issue) reports that 'In a Sept 7 note, RHB Research upgraded IHH to 'buy' from 'neutral' and raised its target price to RM9.54 from RM9.30'. It carries no pick language, and the article contains no pick language for any house. <b>CIMB Securities'</b> 28 July 2026 call naming IHH and KPJ its top picks (Buy, TP RM10.30 on IHH) is recorded on this board's 23 September IHH row. It was not re-read in this run. Two Business Today pages reported to carry Hong Leong Investment Bank calls on KPJ and SUNMED returned HTTP 403, so <b>their contents are not used</b>. The same Edge feature quotes Bloomberg consensus counts and targets. These are an anonymous aggregate and are not used (rules/signals.md &sect;1). <b>Of the nine houses this board searches, one yielded a dated, publicly retrievable call read in this run: RHB.</b> CIMB Securities, Maybank Investment Bank, AmInvestment Bank, Hong Leong, Public Investment Bank, TA Securities, MIDF and Affin Hwang did not. <b>On divergence:</b> no named house found rates IHH or KPJ opposite to Kenanga's OUTPERFORM, and the marker is not set in any case, because this row carries no Kenanga stock rating of its own.",
+    "cites": [
+     [
+      "The Star, 6 Oct 2026 &mdash; &lsquo;Healthcare sector forecast to remain resilient&rsquo; (Phillip Capital Research: overweight; preferred picks IHH TP RM11.03, KPJ TP RM3.80)",
+      "https://www.thestar.com.my/business/business-news/2026/10/06/healthcare-sector-forecast-to-remain-resilient"
+     ],
+     [
+      "The Edge Malaysia (Capital, The Edge Malaysia Weekly, 21&ndash;27 Sep 2026) &mdash; &lsquo;Healthcare stocks enter 2H with strong earnings, but limited upside ahead&rsquo; (RHB Research, 7 Sep note: IHH upgraded to buy, TP RM9.54 from RM9.30)",
+      "https://theedgemalaysia.com/node/819005"
+     ],
+     [
+      "The Star, 28 Jul 2026 &mdash; &lsquo;Private healthcare growth reliant on funding&rsquo; (CIMB Research: overweight, top picks IHH and KPJ; recorded on this board's 23 Sep IHH row)",
+      "https://www.thestar.com.my/business/business-news/2026/07/28/private-healthcare-growth-reliant-on-funding"
+     ]
+    ]
+   }
+  }
+ ]
+}
