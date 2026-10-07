@@ -1,0 +1,268 @@
+{
+ "date": "2026-10-07",
+ "schema": 1,
+ "daily": {
+  "klci": 1633.4,
+  "chg": 1.6,
+  "pct": 0.1,
+  "inst": 51.4,
+  "instPct": 38.3,
+  "retail": -45.0,
+  "retailPct": 32.5,
+  "foreign": -6.4,
+  "foreignPct": 29.2,
+  "ideas": "Results Note: TOPGLOV",
+  "news": [
+   {
+    "h": "Elridge Energy invests RM45.0m to venture into activated carbon business",
+    "body": "Elridge Energy Holdings Bhd is investing RM45.0m to venture into the manufacturing and the sale of activated carbon business for use across water treatment, industrial purification and related filtration. This marks Elridge's move further downstream from its existing palm kernel shell biomass operations. Elridge said its wholly owned subsidiary Lumeria Power Sdn Bhd (LP) had accepted a quotation from United Equipment Services (M) Sdn Bhd for the acquisition, installation and commissioning of six integrated activated carbon production chains for RM45.0m in cash. (The Edge Malaysia)",
+    "takeaways": [
+     "The investment is RM45.0m in cash, for six integrated activated carbon production chains.",
+     "The buyer is wholly owned Lumeria Power Sdn Bhd, and the supplier is United Equipment Services (M) Sdn Bhd. The deal was done by accepting a quotation.",
+     "The end uses named are water treatment, industrial purification and related filtration.",
+     "The digest calls it a move further downstream from Elridge's palm kernel shell biomass business. The item gives no capacity, start-up date or revenue target.",
+     "This board holds no Kenanga coverage of Elridge Energy. Digest context only."
+    ]
+   },
+   {
+    "h": "Insights Analytics secures contract for Suai water treatment plant in Miri",
+    "body": "Insights Analytics Bhd, which mainly provides asset management systems to water utilities, has secured a RM14.4m subcontract to construct a water treatment plant in Sarawak's Miri division. Its wholly owned subsidiary Insights Analytics Technologies Sdn Bhd accepted the letter of award from main contractor K J S Capital Sdn Bhd on Tuesday (Oct 6). The contract involves the construction, operation and maintenance of the Suai water treatment plant, which will have a capacity of seven million litres per day, as part of a project aimed at addressing acute water supply shortages in the Suai area. (The Edge Malaysia)",
+    "takeaways": [
+     "The award is a RM14.4m subcontract, not a main contract.",
+     "It came from main contractor K J S Capital Sdn Bhd to wholly owned Insights Analytics Technologies Sdn Bhd, which accepted it on 6 October.",
+     "The scope covers construction, operation and maintenance of the Suai water treatment plant in Miri, Sarawak.",
+     "Plant capacity is seven million litres per day. The project is aimed at acute water shortages in the Suai area. The item gives no duration or margin.",
+     "This board holds no Kenanga coverage of Insights Analytics. Digest context only."
+    ]
+   },
+   {
+    "h": "Willowglen bags RM17.8m MRT Kajang Line display system upgrade job",
+    "body": "Willowglen MSC Bhd has secured a RM17.8m contract from Malaysia Rapid Transit Corporation Sdn Bhd (MRT Corp) to upgrade the public address/passenger information display system (PAPIDS) for the MRT Kajang Line. The engineering and industrial automation solutions provider said the contract was awarded to its wholly-owned subsidiary Willowglen (Malaysia) Sdn Bhd on Oct 2. The contract commenced on Oct 2 and is scheduled to be completed by Oct 1, 2028. (The Edge Malaysia)",
+    "takeaways": [
+     "The contract is worth RM17.8m and comes from MRT Corp.",
+     "The scope is an upgrade of the public address/passenger information display system on the MRT Kajang Line.",
+     "It went to wholly owned Willowglen (Malaysia) Sdn Bhd on 2 October.",
+     "It runs from 2 October 2026 to 1 October 2028, about two years, or roughly RM8.9m a year if spread evenly (computed here).",
+     "This board holds no Kenanga coverage of Willowglen. Its Singapore contract wins appeared as digest items on 29 September and 1 October. Digest context only."
+    ]
+   },
+   {
+    "h": "Mesiniaga wins two-year RM32.3m contract extension from Customs Dept",
+    "body": "Mesiniaga Bhd has won a RM32.3m contract from the Royal Malaysian Customs Department (RMCD) for the maintenance and licence renewal of its MyGST System. The contract marks a continuation of the information technology product and service provider's earlier MyGST system agreement with RMCD that first started in November 2023. The new extension, which takes effect from Oct 16, 2026, will run until Oct 15, 2028. According to the company's bourse filing, the agreement does not include an automatic renewal clause. (The Edge Malaysia)",
+    "takeaways": [
+     "The contract is worth RM32.3m, about RM16.2m a year over two years (computed here).",
+     "The scope is maintenance and licence renewal of the Customs Department's MyGST System.",
+     "It continues an earlier MyGST agreement that began in November 2023, so it is an extension, not new work.",
+     "The term runs from 16 October 2026 to 15 October 2028. The filing says there is no automatic renewal clause.",
+     "This board holds no Kenanga coverage of Mesiniaga. Digest context only."
+    ]
+   },
+   {
+    "h": "Wil-Key gets Bursa approval for ACE Market listing",
+    "body": "Civil and environmental engineering services provider Wil-Key Bhd has received Bursa Malaysia Securities Bhd's approval to list on the ACE Market. The company's initial public offering (IPO) will comprise a public issue of 88.5m new shares and an offer for sale of 38.3m existing shares. The 126.7m shares represent 28.2% of Wil-Key's enlarged share capital of 450.0m shares upon listing. (The Edge Malaysia)",
+    "takeaways": [
+     "Bursa Malaysia Securities has approved Wil-Key's ACE Market listing.",
+     "The IPO has two parts: 88.5m new shares and an offer for sale of 38.3m existing shares.",
+     "The digest totals these at 126.7m shares. The two parts as printed sum to 126.8m (computed here), so the gap is presumably rounding.",
+     "The offer is 28.2% of the enlarged 450.0m shares. The item gives no offer price or proceeds.",
+     "Wil-Key serves waste management, renewable energy, water and wastewater, agriculture and public infrastructure. Not covered by Kenanga on this board. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Germany and France drive EU to get tough on Chinese trade",
+    "region": "Global",
+    "body": "A joint call from France and Germany for new measures to curb Chinese imports will strengthen the European Commission's position as it tries to rebalance trade ties with Beijing. (Bloomberg)",
+    "takeaways": [
+     "France and Germany have jointly called for new measures to curb Chinese imports.",
+     "The item says this strengthens the European Commission's hand.",
+     "The Commission's aim is described as rebalancing trade ties with Beijing.",
+     "The item does not name specific measures or sectors.",
+     "Digest context only; this item is sourced to Bloomberg."
+    ]
+   },
+   {
+    "h": "World Bank urges Malaysia to adjust SME tax structure in Budget 2027",
+    "region": "Malaysia",
+    "body": "Malaysia could simplify the income tax structure for smaller businesses by consolidating its current multiple rate structure into a consolidated single corporate tax rate, the World Bank said. (The Edge Malaysia)",
+    "takeaways": [
+     "The suggestion comes from the World Bank, ahead of Budget 2027.",
+     "It proposes replacing Malaysia's multiple SME income-tax rates with a single corporate tax rate.",
+     "The stated aim is simplification.",
+     "The item gives no proposed rate.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "World Bank flags AI correction risk as it lifts Malaysia's 2026 growth outlook to 5.1%",
+    "region": "Malaysia",
+    "body": "The World Bank has flagged the risk of a slowdown from a correction in global artificial intelligence (AI)-related activity, even as it raised Malaysia's 2026 growth outlook to 5.1% from 4.4% previously, driven by surging AI-related spending. (The Edge Malaysia)",
+    "takeaways": [
+     "The World Bank raises Malaysia's 2026 growth forecast to 5.1% from 4.4%, a 0.7-point upgrade (computed here).",
+     "The upgrade is attributed to surging AI-related spending.",
+     "The same driver is the named risk: a correction in global AI-related activity could slow growth.",
+     "The item gives no 2027 forecast.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "World Bank supports Malaysia's possible integration of GST elements into SST",
+    "region": "Malaysia",
+    "body": "The World Bank has agreed that certain elements of the goods and services tax (GST) should be implemented into Malaysia's sales and service tax (SST) to address its distortionary features. (The Edge Malaysia)",
+    "takeaways": [
+     "The World Bank backs bringing certain GST elements into the SST.",
+     "Its stated reason is the SST's distortionary features.",
+     "This is support for a possibility, not an announced policy.",
+     "The item does not say which GST elements.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Chow: Penang sees positive investment prospects from US mission",
+    "region": "Malaysia",
+    "body": "Penang has identified positive investment prospects in the United States (US), particularly in sectors driven by the rapid expansion of artificial intelligence (AI) technology and data centres, said Chief Minister Chow Kon Yeow. (The Malaysian Reserve)",
+    "takeaways": [
+     "The source is Penang Chief Minister Chow Kon Yeow, after a US mission.",
+     "The prospects named are in AI technology and data centres.",
+     "They are described as prospects, not committed investments.",
+     "The item gives no investment values or company names.",
+     "Digest context only; this item is sourced to The Malaysian Reserve."
+    ]
+   },
+   {
+    "h": "ECRL fare announcement expected this month, ticket sales in November",
+    "region": "Malaysia",
+    "body": "Malaysia Rail Link Sdn Bhd (MRL) expects East Coast Rail Link (ECRL) fares to be announced this month, with ticket sales targeted to begin in November ahead of commercial operations in mid-December. (The Edge Malaysia)",
+    "takeaways": [
+     "MRL expects ECRL fares to be announced in October.",
+     "Ticket sales are targeted to begin in November.",
+     "Commercial operations are targeted for mid-December.",
+     "The item gives no fare levels.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Thai inflation accelerates again with floods adding price risk",
+    "region": "Asia Pacific",
+    "body": "Thailand's inflation accelerated for a second straight month in September, moving closer to the central bank's upper limit as severe flooding adds to the risk of higher food prices. (The Edge Malaysia)",
+    "takeaways": [
+     "Thai inflation accelerated in September, the second straight monthly rise.",
+     "It is moving closer to the central bank's upper limit.",
+     "Severe flooding is named as a risk to food prices.",
+     "The item gives no inflation figure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US yields fall from 2002 high as oil dips, Bessent vows on debt",
+    "region": "Americas",
+    "body": "US bond yields fell from their highest levels since 2002 as oil prices retreated below USD100 a barrel and Treasury Secretary Scott Bessent insisted the government's debt load can be tamed. (Bloomberg)",
+    "takeaways": [
+     "US bond yields eased from their highest since 2002.",
+     "The item links the fall to oil retreating below USD100 a barrel.",
+     "Treasury Secretary Bessent said the government's debt load can be tamed.",
+     "The item gives no yield levels. The digest's own table shows Nymex crude at USD89.4/bbl on 6 October.",
+     "Digest context only; this item is sourced to Bloomberg."
+    ]
+   },
+   {
+    "h": "ECB's Rehn: High yields to dampen energy price pass-through",
+    "region": "Europe",
+    "body": "Rapid energy inflation across the euro zone has not yet spread to other goods and services, and the recent rise in bond yields is likely to dampen price pressures as it weighs on growth, European Central Bank policymaker Olli Rehn said on Tuesday. (Reuters)",
+    "takeaways": [
+     "Rehn says euro-zone energy inflation has not yet spread to other goods and services.",
+     "He expects the recent rise in bond yields to dampen price pressures.",
+     "The mechanism he names is yields weighing on growth.",
+     "The item gives no inflation or yield figures.",
+     "Digest context only; this item is sourced to Reuters."
+    ]
+   },
+   {
+    "h": "High inflation has become embedded in Britain, Bank of England's Mann says",
+    "region": "Europe",
+    "body": "Inflation running above the Bank of England's 2% target appears to have become embedded in the British economy and risks getting further entrenched in wage negotiations early next year, BoE policymaker Catherine Mann said on Tuesday. (Reuters)",
+    "takeaways": [
+     "Mann says above-target inflation appears to have become embedded in the UK economy.",
+     "The target she refers to is 2%.",
+     "The named risk is further entrenchment through wage negotiations early next year.",
+     "The item gives no current inflation figure.",
+     "Digest context only; this item is sourced to Reuters."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-261007-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Ten points of caution on this row, reported as printed rather than resolved. (1) <b>'Rose 5-fold' matches neither profit line in Kenanga's own table.</b> The text twice says FY26 net profit 'rose 5-fold to RM308m'. The results table has reported PATAMI up 192.4% (RM105.3m to RM308.0m, about 2.9x) and core PATAMI up 549.1% (RM47.4m to RM308.0m, about 6.5x) (computed here). The Edge Malaysia reports FY26 net profit as having 'nearly tripled'. (2) <b>The 4Q profit jump comes below the pre-tax line.</b> PBT rose 28.4% QoQ, but PATAMI rose 94.6%, because the tax line swung from a RM20.1m charge in 3Q to a RM29.9m credit in 4Q (effective rate -23.1%). Kenanga attributes the credit to prior years' unutilised tax losses, keeps it inside core profit, and expects the remaining balance to be booked in FY27. The FY26 effective tax rate is 1.2%, against 17.1% in FY25. Kenanga explains the beat against its forecast by margins; how much of the beat the tax credit accounts for is not stated, and this board does not estimate it. (3) <b>The table's 4Q EPS QoQ change is printed as 14.0%</b>, while the EPS shown is 2.0 sen against 1.0 sen. (4) <b>The QoQ revenue drivers do not multiply out.</b> ASP +19% and volume -7% give about +11% (computed here), against the +14% revenue rise stated. Mix or currency may explain it; the note does not say. (5) <b>The gas-tariff timing and size differ by source.</b> Kenanga writes of a '20-30% higher gas tariff in end CY26' and 'toward the end of 4QCY26'. The Edge Malaysia (6 Oct) reports the company citing a scheduled increase 'effective Oct 1' and a 30% hike. Maybank IB (The Edge, 11 Sep) and Public Investment Bank (The Star, 22 Jun) put it at more than 40% and about 40% from October. (6) <b>ASP guidance is reported more narrowly than the company's briefing.</b> Kenanga gives management guidance of +USD2.00-3.00 per 1,000 pieces. The Edge Malaysia (6 Oct) quotes the executive chairman as adjusting prices for October and November 'by about two to three dollars or even four dollars'. (7) <b>Management's FY27 outlook is more upbeat than Kenanga's forecast.</b> The Edge Malaysia (6 Oct) quotes the executive chairman expecting profit or sales growth of about 10% and saying it is 'very likely that we will do better than FY2026'. Kenanga's FY27F net profit of RM307m is 0.3% below FY26. Kenanga is not wrong to differ; its note gives its reasons (oversupply, gas tariffs, minimum wage). The note does not mention this guidance. (8) <b>The price is printed two ways:</b> RM0.87 in the header and RM0.875 in the peer table. The Edge Malaysia and stockanalysis.com both give a 6 October close of 87.5 sen. This row carries the header's RM0.87. (9) <b>The dividend yield shown is stockanalysis.com's 0.55%, not Kenanga's.</b> Kenanga's own table gives net yields of 1.7% for FY26 and 2.1% for FY27F. The 1.5 sen final DPS on an 87 sen price alone is about 1.7% (computed here). The basis of stockanalysis.com's figure is not stated. The 52-week range (RM0.53-RM0.88) is the same in both sources. (10) <b>Market capitalisation is given two ways.</b> Kenanga has RM7,015.9m on 8,018.1m shares, which reconciles to the 87.5 sen close (computed here). The Edge Malaysia gives RM7.19b (and RM7.2b in a second article). The share basis behind The Edge's figure is not stated.",
+   "result": "beat",
+   "conviction": null,
+   "prevRating": "MP",
+   "prevTp": 0.71,
+   "ticker": "TOPGLOV",
+   "name": "Top Glove Corporation Bhd",
+   "type": "Results Note",
+   "rating": "MP",
+   "tp": 0.82,
+   "price": 0.87,
+   "divYield": 0.55,
+   "high52": 0.88,
+   "low52": 0.53,
+   "mktSrc": "https://stockanalysis.com/quote/klse/TOPGLOV/",
+   "catalyst": "FY26 core net profit rose to <b>RM308m, 54% above Kenanga's forecast and 30% above consensus</b>, on a sudden surge in ASPs in 2HFY26. 4QFY26 PATAMI nearly doubled QoQ to RM157.6m, helped by a RM29.9m tax credit from prior years' unutilised tax losses. Kenanga raises FY27F net profit 50% on a higher ASP assumption (USD23 from USD20 per 1,000 pieces) and lifts its target to <b>RM0.82 from RM0.71</b> on an unchanged 22x FY27F PER. It reiterates <b>MARKET PERFORM</b>, saying the 17% 4Q EBITDA margin, a pre-pandemic peak, is unsustainable given oversupply, higher gas tariffs and possible minimum-wage increases. A 1.5 sen final DPS was declared.",
+   "quote": "TOPGLOV\u2019s FY26 reported core net profit rose 5-fold to RM308m which came in 54% and 30% above our and consensus full-year net profit forecasts.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/TOPGLOV-261007-4Q26-RN-Kenanga.pdf",
+   "summary": [
+    "The target moved, not the rating. Kenanga raises its target 15.5% to <b>RM0.82 from RM0.71</b> (computed here) and keeps <b>MARKET PERFORM</b>. The previous RM0.71 and MARKET PERFORM match the TOPGLOV figures quoted in this board's 28 September Market Strategy row; this is the board's first standalone TOPGLOV row. The target is 22x FY27F EPS, below the stock's 24x historical 1-year forward average, with a 3-star ESG rating that leaves it unchanged. On 3.7 sen of FY27F EPS that is about 81.4 sen (computed here). At the RM0.87 header price the target is 5.7% below, and the 1.87 sen FY27F dividend adds about 2.1% (computed here). The expected total return of about -3.6% sits inside Kenanga's -5% to 10% MARKET PERFORM band.",
+    "The results beat, partly below the operating line. Kenanga puts FY26 core net profit at RM308m, 54% above its own forecast and 30% above consensus, and attributes the gap to a sudden surge in ASPs in 2HFY26. The company's figure of RM307.96m, as reported by The Edge Malaysia and The Star, matches. FY26 revenue rose 21% to RM4,232.1m, on sales volume up 28% and ASP down 7%. EBITDA margin was 15.2%, against 11.4% in FY25. In 4Q, revenue rose 14% QoQ to RM1,248.3m and PATAMI 94.6% to RM157.6m. The tax line swung to a RM29.9m credit, which lifted PATAMI more than pre-tax profit (see flag). The 1.5 sen final DPS was in line.",
+    "Why Kenanga is cautious despite the beat. Kenanga does not expect the 4QFY26 EBITDA margin of 17% (16.8% in its table; 17.0% in 3Q) to be sustainable. It calls this a pre-pandemic peak last seen in FY19. It names persistent oversupply, a 20-30% gas tariff rise and a possible minimum-wage increase. On its own estimates, a RM100/month rise in the minimum wage across about 8,000 workers would cut net profit by about 5% without pass-through. A USD0.20 per 1,000 pieces ASP rise would offset it. A 30% gas tariff rise would cut earnings by 2-3% without pass-through; about a 1% ASP rise would neutralise it. Kenanga also warns that current margins depend on ASPs that could prove temporary if crude oil weakens.",
+    "The forecasts, and the near-term tailwind. Kenanga raises FY27F net profit by 50%, lifting its ASP assumption to USD23 from USD20 per 1,000 pieces. It introduces FY28F. FY27F is RM307m, flat on FY26, and FY28F RM311m. These are about 30% and 13% above consensus of RM237m and RM276m (computed here). Near term, utilisation fell to 71% in 4Q from 81%, and volume fell 7% QoQ. Customers pre-bought noticeably in September ahead of October-November price hikes, so management expects 1QFY27 volume above 4QFY26. Brent rose from a USD90/bbl August average to USD108-109/bbl in September, and nitrile prices from USD950/MT to USD1,100/MT. Management guides nitrile ASPs up USD2.00-3.00 to USD22.00-23.00 per 1,000 pieces. For 1QFY27 it targets low single-digit volume growth.",
+    "Why the Kenanga Signal reads None stated. A search of all five pages for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite, with line breaks removed, finds no pick language. The only 'favour' hit is 'unfavourable changes in tariffs' in the risks list, and the only 'pick' hit is 'pre-buying activity picked up'. Neither is a pick declaration. Key risks Kenanga names are predatory pricing by Chinese glove makers, weaker-than-expected glove demand, and unfavourable tariff changes for Malaysian glove makers. The peer table's other ratings match this board's 28 September Market Strategy row: HARTA MARKET PERFORM at RM1.14 and KOSSAN OUTPERFORM at RM1.50. SUPERMX is UNDERPERFORM at RM0.24. Management expects FY27 to be better than FY26; Kenanga forecasts it flat (see flag)."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "Maybank Investment Bank",
+    "date": "11 Sep 2026",
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on TOPGLOV in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. <b>No post-results (6-7 October) house note was retrievable from a permitted source at the time of this run.</b> The Edge Malaysia's and The Star's 6 October results stories carry no house calls. A search-engine summary attributed 7 October calls on TOPGLOV to PublicInvest and CIMB, but no permitted source carrying them was found, so <b>they are not used</b>. <b>The most recent dated call found is about four weeks old:</b> The Edge Malaysia reported on <b>11 September 2026</b> that <b>Maybank Investment Bank</b> raised its target for Top Glove while keeping a 'neutral' sector view. The article states neither the new target nor the stock rating. Maybank's last stated rating was <b>'sell'</b>, downgraded from 'hold' in a 10 June preview note (The Edge Malaysia, 10 Jun 2026). The Edge reported on 10 September that <b>Affin Hwang Investment Bank</b>, in a note on Tuesday 8 September, upgraded the glove sector to overweight from underweight and raised its Top Glove forecasts. The article states no stock rating or target. The Edge reported on <b>19 June 2026</b>, after 3QFY26, that <b>CIMB Securities</b> downgraded to <b>'reduce'</b> from 'hold' and <b>Public Investment Bank</b> lowered the stock to <b>'underperform'</b>. The Star (22 Jun 2026) reports <b>RHB Research</b> cutting FY27-FY28 earnings by 10-11% and <b>TA Research</b> raising FY26, both with no rating stated. The same 10 September Edge article quotes an analyst with a 'sell' on Top Glove who named Hartalega and Kossan as top picks. That analyst's house is not named, so it is not used (rules/signals.md &sect;3). <b>Of the nine houses this board searches, six (Maybank, Affin Hwang, CIMB, Public Investment Bank, RHB, TA) yielded dated, publicly retrievable commentary; three of those stated a rating.</b> Hong Leong and AmInvestment Bank yielded none read in this run, and neither did MIDF. All of these calls predate today's results note and do not respond to it. <b>On divergence:</b> the named 'reduce', 'underperform' and 'sell' calls are more bearish than Kenanga's MARKET PERFORM. Under the rule, though, an opposite direction to MARKET PERFORM means Buy/Add/Outperform, so the marker is not set. Bloomberg consensus averages quoted in the articles are an anonymous aggregate and were deliberately not used. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b> <b>Material context from outside the report (rules/signals.md &sect;5):</b> The Edge Malaysia (6 Oct) reports the executive chairman expecting FY27 profit or sales growth of about 10% and results 'very likely' better than FY26. It reports the joint MD putting a 30% gas tariff hike from 1 October at a 2-3% rise in cost per 1,000 pieces, and running capacity rising 8% to 78b pieces in FY27. It also reports that a minimum-wage rise from RM1,700 to RM1,900 would add about 1% to cost per carton. Kenanga's flat FY27F and its 20-30% 'end CY26' gas assumption differ from this (see flag). These are management statements, not house calls.",
+    "cites": [
+     [
+      "The Edge Malaysia, 11 Sep 2026 &mdash; &lsquo;Glove stocks extend gains as selling prices recover&rsquo; (Maybank IB raised TOPGLOV target; sector neutral; new target and rating not stated)",
+      "https://theedgemalaysia.com/node/817707"
+     ],
+     [
+      "The Edge Malaysia, 10 Sep 2026 &mdash; &lsquo;Rubber glove stocks rally as Brent crude tops US$100&rsquo; (Affin Hwang 8 Sep note: sector upgraded to overweight, TOPGLOV forecasts raised; unnamed analyst&rsquo;s sell call not used)",
+      "https://theedgemalaysia.com/node/817650"
+     ],
+     [
+      "The Edge Malaysia, 19 Jun 2026 &mdash; &lsquo;Top Glove extends losing streak, analysts see moderating earnings after recent beat&rsquo; (CIMB Securities: reduce; Public Investment Bank: underperform)",
+      "https://theedgemalaysia.com/node/807491"
+     ],
+     [
+      "The Edge Malaysia, 10 Jun 2026 &mdash; &lsquo;Top Glove&rsquo;s earnings windfall could be short-lived, Maybank says in downgrade to &lsquo;sell&rsquo;&rsquo;",
+      "https://theedgemalaysia.com/node/806464"
+     ],
+     [
+      "The Star, 22 Jun 2026 &mdash; &lsquo;Top Glove margins under scrutiny on rising costs&rsquo; (RHB, TA, Public Investment Bank forecast changes; no ratings stated)",
+      "https://www.thestar.com.my/business/business-news/2026/06/22/top-glove-margins-under-scrutiny-on-rising-costs"
+     ],
+     [
+      "The Edge Malaysia, 6 Oct 2026 &mdash; &lsquo;Top Glove says ready for storms ahead as 4Q net profit jumps nearly five times&rsquo; (company figures; no house calls)",
+      "https://theedgemalaysia.com/node/820701"
+     ],
+     [
+      "The Edge Malaysia, 6 Oct 2026 &mdash; &lsquo;Top Glove expects an even better FY2027 after strong FY2026&rsquo; (management outlook; no house calls)",
+      "https://theedgemalaysia.com/node/820766"
+     ],
+     [
+      "The Edge Malaysia, 6 Oct 2026 &mdash; &lsquo;Top Glove eyes higher output but says manpower remains key hurdle&rsquo; (capacity and wage-cost guidance; no house calls)",
+      "https://theedgemalaysia.com/node/820764"
+     ]
+    ]
+   },
+   "crossCheck": null
+  }
+ ]
+}

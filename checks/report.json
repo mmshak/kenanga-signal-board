@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T20:51:58.168Z",
+ "generatedAt": "2026-10-07T06:58:30.135Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -27,10 +27,11 @@
   "2026-09-30",
   "2026-10-01",
   "2026-10-02",
-  "2026-10-06"
+  "2026-10-06",
+  "2026-10-07"
  ],
- "rows": 129,
- "verified": 128,
+ "rows": 130,
+ "verified": 129,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -387,6 +388,12 @@
    "date": "2026-10-06",
    "row": "Healthcare",
    "msg": "Nine points of caution on this row, reported as printed rather than resolved. (1) <b>IHH's year-to-date share-price fall is given two ways.</b> Page 1's summary says a '9% YTD share price retracement'; the body directly below says 'A 11% YTD share price retracement'. (2) <b>KPJ's pullback is also given two ways.</b> The summary has '16% share price pullback over the past two months'; the body has 'a 19% share price pullback over the past month'. (3) <b>IHH Singapore's bed occupancy is given three ways.</b> Page 1 has '52%-55% in August and September'. Page 2 first has '55% in July and August (against 51% in 2QFY26)', then '&gt;52% in Aug&ndash;Sept (vs. 51% in 2QFY26 and 49% in 1QFY26)'. The months and levels cannot all be right, and this row does not choose between them. (4) <b>KPJ's valuation multiple does not match the note's own tables.</b> The text says KPJ trades at '10x EV/EBITDA (~1.0 SD below its 5-year historical mean)', and the summary prints '-1.0 SD'. The Private Healthcare Peers Table gives KPJ 16.3x 1-year-forward EV/EBITDA, and the historical table gives 15.4x for CY25. The basis of the 10x is not stated. (5) <b>'Operational losses halved' in Greater China is not what the stated figures give.</b> Net losses of RM56m in 1HFY26 against RM90m in 1HFY25 is a 38% narrowing (computed here), not half. The two may be on different bases, operational versus net, but the note does not say so. (6) <b>Two peer-table ratings sit outside Kenanga's own return bands</b>, printed on page 6 (computed here as upside plus net yield). SCOMNET is MARKET PERFORM on 19% upside and a 4.8% yield, about 23.8%. PHARMANIAGA is MARKET PERFORM on 12% upside and 1.9%, about 13.9%. Both are above the 10% OUTPERFORM line. (7) <b>The two market-cap columns do not reconcile.</b> The Private Healthcare Peers Table gives IHH USD19,976m and KPJ USD3,827m. The Peer Table Comparison gives RM68,569m and RM11,465m, which at the digest's USD/MYR of 4.0868 are about USD16,778m and USD2,805m (computed here). The pricing date of the USD table is not stated. (8) <b>The healthcare top pick has changed, and the note does not say so.</b> This board's 28 August DPHARMA row quotes Kenanga calling DPHARMA 'our Top Pick for the healthcare sector'. Today IHH is named the top sector pick, and DPHARMA appears only as OUTPERFORM at an unchanged RM1.72. That it is a switch is inferred by comparing this board's two rows. Kenanga does not state it. (9) Filed as a <b>Sector Update</b>. It carries no ticker-level rating, target or share price of its own, so those columns are empty by design. The sector call is OVERWEIGHT, upgraded from NEUTRAL; the rating field takes stock ratings only, so it is recorded in the text. For the same reason the divergence marker is not set (see the analyst note)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-07",
+   "row": "TOPGLOV",
+   "msg": "Ten points of caution on this row, reported as printed rather than resolved. (1) <b>'Rose 5-fold' matches neither profit line in Kenanga's own table.</b> The text twice says FY26 net profit 'rose 5-fold to RM308m'. The results table has reported PATAMI up 192.4% (RM105.3m to RM308.0m, about 2.9x) and core PATAMI up 549.1% (RM47.4m to RM308.0m, about 6.5x) (computed here). The Edge Malaysia reports FY26 net profit as having 'nearly tripled'. (2) <b>The 4Q profit jump comes below the pre-tax line.</b> PBT rose 28.4% QoQ, but PATAMI rose 94.6%, because the tax line swung from a RM20.1m charge in 3Q to a RM29.9m credit in 4Q (effective rate -23.1%). Kenanga attributes the credit to prior years' unutilised tax losses, keeps it inside core profit, and expects the remaining balance to be booked in FY27. The FY26 effective tax rate is 1.2%, against 17.1% in FY25. Kenanga explains the beat against its forecast by margins; how much of the beat the tax credit accounts for is not stated, and this board does not estimate it. (3) <b>The table's 4Q EPS QoQ change is printed as 14.0%</b>, while the EPS shown is 2.0 sen against 1.0 sen. (4) <b>The QoQ revenue drivers do not multiply out.</b> ASP +19% and volume -7% give about +11% (computed here), against the +14% revenue rise stated. Mix or currency may explain it; the note does not say. (5) <b>The gas-tariff timing and size differ by source.</b> Kenanga writes of a '20-30% higher gas tariff in end CY26' and 'toward the end of 4QCY26'. The Edge Malaysia (6 Oct) reports the company citing a scheduled increase 'effective Oct 1' and a 30% hike. Maybank IB (The Edge, 11 Sep) and Public Investment Bank (The Star, 22 Jun) put it at more than 40% and about 40% from October. (6) <b>ASP guidance is reported more narrowly than the company's briefing.</b> Kenanga gives management guidance of +USD2.00-3.00 per 1,000 pieces. The Edge Malaysia (6 Oct) quotes the executive chairman as adjusting prices for October and November 'by about two to three dollars or even four dollars'. (7) <b>Management's FY27 outlook is more upbeat than Kenanga's forecast.</b> The Edge Malaysia (6 Oct) quotes the executive chairman expecting profit or sales growth of about 10% and saying it is 'very likely that we will do better than FY2026'. Kenanga's FY27F net profit of RM307m is 0.3% below FY26. Kenanga is not wrong to differ; its note gives its reasons (oversupply, gas tariffs, minimum wage). The note does not mention this guidance. (8) <b>The price is printed two ways:</b> RM0.87 in the header and RM0.875 in the peer table. The Edge Malaysia and stockanalysis.com both give a 6 October close of 87.5 sen. This row carries the header's RM0.87. (9) <b>The dividend yield shown is stockanalysis.com's 0.55%, not Kenanga's.</b> Kenanga's own table gives net yields of 1.7% for FY26 and 2.1% for FY27F. The 1.5 sen final DPS on an 87 sen price alone is about 1.7% (computed here). The basis of stockanalysis.com's figure is not stated. The 52-week range (RM0.53-RM0.88) is the same in both sources. (10) <b>Market capitalisation is given two ways.</b> Kenanga has RM7,015.9m on 8,018.1m shares, which reconciles to the 87.5 sen close (computed here). The Edge Malaysia gives RM7.19b (and RM7.2b in a second article). The share basis behind The Edge's figure is not stated."
   }
  ],
  "verdict": "PASS"
