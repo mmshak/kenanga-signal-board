@@ -1,0 +1,372 @@
+{
+ "date": "2026-10-08",
+ "schema": 1,
+ "daily": {
+  "klci": 1611.8,
+  "chg": -21.57,
+  "pct": -1.32,
+  "inst": -130.1,
+  "instPct": 40.5,
+  "retail": 193.6,
+  "retailPct": 30.5,
+  "foreign": -63.4,
+  "foreignPct": 29.1,
+  "ideas": "Market Strategy: 4QCY26 Outlook; Sector Update: Consumer (4QCY26 Strategy); Economic Viewpoint: BNM International Reserves, Bond Flows",
+  "news": [
+   {
+    "h": "Datasonic axes RM28.5m property deal after Fire Dept condition unmet",
+    "body": "Datasonic Group Bhd has terminated its proposed acquisition of a RM28.5m industrial property in Petaling Jaya after failing to get Fire and Rescue Department approval for fire safety equipment. The termination notice was issued by Datasonic Technologies Sdn Bhd (DTSB), the group's wholly-owned subsidiary, to the vendor Pixio Sdn Bhd on Tuesday, according to Datasonic's bourse filing. Under the termination, Pixio is required to refund the RM2.9m deposit paid towards the purchase price to DTSB or its solicitors within 14 days of receiving the termination notice. (The Edge Malaysia)",
+    "takeaways": [
+     "Datasonic has terminated a proposed RM28.5m purchase of an industrial property in Petaling Jaya.",
+     "The stated reason is that Fire and Rescue Department approval for fire safety equipment was not obtained.",
+     "The notice went from wholly owned Datasonic Technologies Sdn Bhd to the vendor, Pixio Sdn Bhd, on Tuesday (6 October).",
+     "Pixio must refund the RM2.9m deposit, about 10% of the price (computed here), within 14 days of receiving the notice.",
+     "This board holds no Kenanga coverage of Datasonic. Digest context only."
+    ]
+   },
+   {
+    "h": "Northern Solar bags RM34.0m solar plant contract a day after Main Market transfer",
+    "body": "Northern Solar Holdings Bhd has secured a RM34.0m engineering, procurement, construction, and commissioning (EPCC) contract to develop a 9.5MW large-scale solar photovoltaic plant. The latest award follows RM119.4m worth of large-scale solar contracts secured in March 2026, bringing the amount of jobs it has secured this year to about RM153.4m, said the rooftop panel specialist in a statement. Northern Solar's unbilled order book stood at RM189.3m as at end-June 2026. The award comes a day after Northern Solar transferred from Bursa Malaysia's ACE Market to the Main Market. (The Edge Malaysia)",
+    "takeaways": [
+     "The award is a RM34.0m EPCC contract for a 9.5MW large-scale solar photovoltaic plant, about RM3.6m per MW (computed here).",
+     "It follows RM119.4m of large-scale solar contracts won in March 2026. The two add to the RM153.4m year-to-date total the company gives (computed here).",
+     "The unbilled order book was RM189.3m at end-June 2026, before this award.",
+     "The award came a day after the company moved from the ACE Market to the Main Market. The item does not name the client or give a completion date.",
+     "This board holds no Kenanga coverage of Northern Solar. Digest context only."
+    ]
+   },
+   {
+    "h": "PJBumi gets Bursa's nod for proposed one-into-five share split",
+    "body": "Bursa Malaysia Securities Bhd has approved PJBumi Bhd's proposed share split, expected to boost trading liquidity and attract a broader investor base by lowering trading prices. PJBumi said Bursa Securities' approval for the proposed share split is subject to several conditions, including full compliance with the relevant provisions of the Main Market Listing Requirements (Main LR) governing the exercise. The group said it is also required to notify Bursa Securities upon completion of the proposed share split and submit a certified true copy of the shareholders' resolution approving the exercise before the listing and quotation of the subdivided shares. (The Edge Malaysia)",
+    "takeaways": [
+     "Bursa Malaysia Securities has approved PJBumi's proposed one-into-five share split.",
+     "The stated aims are better trading liquidity and a broader investor base through a lower share price.",
+     "The approval carries conditions, including full compliance with the Main Market Listing Requirements.",
+     "A certified copy of the shareholders' resolution approving the split must be filed before the new shares are listed. The item gives no timetable.",
+     "Today's digest lists PJBumi among overbought stocks, at RM4.240 with a 14-day RSI of 77.00. Split five ways, that price would be about RM0.85 (computed here). This board holds no Kenanga coverage of PJBumi. Digest context only."
+    ]
+   },
+   {
+    "h": "Aemulus secures RM15.8m orders for data centre, AI test systems from Singapore customer",
+    "body": "ACE Market-listed Aemulus Holdings Bhd has secured new orders worth USD3.9m (RM15.8m) from an undisclosed Singapore customer for test systems used in the data centre and artificial intelligence (AI) market. The orders were secured by its wholly-owned subsidiary Aemulus Corporation Sdn Bhd and are expected to be fulfilled within 12 months, the automated test equipment provider said in a Bursa Malaysia filing. Revenue from the orders will be recognised progressively as the systems are delivered, Aemulus added. (The Edge Malaysia)",
+    "takeaways": [
+     "The orders are worth USD3.9m, given as RM15.8m.",
+     "The customer is in Singapore and is not named.",
+     "The systems are test systems for the data centre and AI market. The orders went to wholly owned Aemulus Corporation Sdn Bhd.",
+     "Delivery is expected within 12 months, with revenue recognised as systems are delivered. The item gives no margin.",
+     "This board holds no Kenanga coverage of Aemulus. Digest context only."
+    ]
+   },
+   {
+    "h": "MMM Group to be delisted on Oct 12 as Bursa Malaysia dismisses appeal",
+    "body": "Bursa Malaysia Securities has dismissed MMM Group Bhd's appeal against the rejection of its proposed regularisation plan, paving the way for the company to be delisted on Oct 12. The Practice Note 17 (PN17) company said Bursa's Listing Committee, after considering all facts and circumstances as well as written representations submitted by the company, decided that the grounds raised in its appeal did not justify departing from its decision previously. Accordingly, the Listing Committee dismissed the appeal and upheld Bursa's July 10 decision to reject MMM Group's regularisation plan to exit its PN17 status. (The Edge Malaysia)",
+    "takeaways": [
+     "Bursa's Listing Committee has dismissed MMM Group's appeal.",
+     "The 10 July decision to reject its plan to exit PN17 status stands.",
+     "The committee said the grounds raised did not justify departing from that decision.",
+     "Delisting is set for 12 October. The item does not say what happens to shareholders' holdings after that.",
+     "This board holds no Kenanga coverage of MMM Group. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Hawkish Fed triggers emerging market outflows in September",
+    "region": "Global",
+    "body": "Foreign investors pulled USD26.3b out of emerging market stocks and bonds in September, the first monthly outflow since June, as a hawkish US Federal Reserve drove up yields and the dollar, a report by the Institute of International Finance showed. (Reuters)",
+    "takeaways": [
+     "Foreign investors took USD26.3b out of emerging-market stocks and bonds in September, per the Institute of International Finance.",
+     "It was the first monthly outflow since June.",
+     "The cause given is a hawkish Fed pushing up yields and the dollar.",
+     "Malaysia fits the pattern. Kenanga's Bond Flows note in today's bundle has September foreign outflows of RM1.8b from bonds and RM1.7b from equities. The link is drawn here, not in today's item.",
+     "Digest context only; this item is sourced to Reuters."
+    ]
+   },
+   {
+    "h": "Anwar: Budget 2027 based on 'clear resolve' to strengthen economy, translate growth into better life",
+    "region": "Malaysia",
+    "body": "Prime Minister Datuk Seri Anwar Ibrahim said the fifth Madani budget is based on a clear resolve to strengthen the nation's economy and translate growth into a better life for the people. (The Edge Malaysia)",
+    "takeaways": [
+     "The Prime Minister describes Budget 2027 as the fifth Madani budget.",
+     "His stated aims are a stronger economy and turning growth into a better life for the people.",
+     "The item gives no measures or figures.",
+     "Kenanga's Bond Flows note in today's bundle says the budget is to be tabled on 9 October.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Anwar set to boost budget spending as election speculation grows",
+    "region": "Malaysia",
+    "body": "Malaysian Prime Minister Datuk Seri Anwar Ibrahim is expected to tackle rising living costs in potentially his government's last budget before he calls national elections. (The Edge Malaysia)",
+    "takeaways": [
+     "The headline says spending is set to rise.",
+     "The focus is expected to be rising living costs.",
+     "The item calls this potentially the government's last budget before a general election.",
+     "It gives no spending figures or election date.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Higher corporate tax, SST receipts lift first-half collection to RM129.6b, Dewan Rakyat told",
+    "region": "Malaysia",
+    "body": "Tax collection in Malaysia rose to RM129.6b in the first half of 2026 from RM119.1b a year earlier, supported by higher corporate income tax and sales and service tax (SST) receipts, the Dewan Rakyat heard on Wednesday. (The Edge Malaysia)",
+    "takeaways": [
+     "Tax collection reached RM129.6b in 1H26, against RM119.1b a year earlier.",
+     "That is RM10.5b more, or about 8.8% (computed here).",
+     "Higher corporate income tax and SST receipts are named as the drivers.",
+     "The item does not split the total by tax type.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "MOF: Govt loan arrears at RM8.084b as of December 2025",
+    "region": "Malaysia",
+    "body": "Outstanding loan arrears owed to the federal government totalled RM8.084b as at Dec 31, 2025, said Deputy Finance Minister Liew Chin Tong. He said companies accounted for the largest share of borrowers at 62%, followed by state governments at 32%. (The Edge Malaysia)",
+    "takeaways": [
+     "Loan arrears owed to the federal government were RM8.084b at 31 December 2025.",
+     "The figure comes from Deputy Finance Minister Liew Chin Tong.",
+     "Companies are the largest share of borrowers at 62%, and state governments 32%.",
+     "That leaves about 6% unattributed in the item (computed here).",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Budget 2027: More funds needed to address Sabah's infrastructure needs – Azizah",
+    "region": "Malaysia",
+    "body": "Sabah needs a larger allocation under Budget 2027 to address pressing infrastructure needs, particularly water supply, roads, electricity, education and digital connectivity in rural and remote areas. (The Malaysian Reserve)",
+    "takeaways": [
+     "The call is for a larger Sabah allocation in Budget 2027.",
+     "The needs named are water supply, roads, electricity, education and digital connectivity.",
+     "The focus is rural and remote areas.",
+     "The item gives no amount.",
+     "Digest context only; sourced to The Malaysian Reserve."
+    ]
+   },
+   {
+    "h": "BOJ's dovish dissenter signals support for future rate hikes",
+    "region": "Asia Pacific",
+    "body": "The Bank of Japan's (BOJ) new policymaker Ayano Sato said she supports the idea of raising interest rates in several stages, Kyodo news agency reported on Wednesday, highlighting awareness even among dovish board members of the need to combat inflation risks. (The Edge Malaysia)",
+    "takeaways": [
+     "New BOJ policymaker Ayano Sato supports raising rates in several stages, as reported by Kyodo.",
+     "The headline calls her a dovish dissenter.",
+     "The item reads this as awareness, even among doves, of the need to combat inflation risks.",
+     "It gives no timing or rate level.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Bessent pressed by Warren on 'chaotic' US treasuries buybacks",
+    "region": "Americas",
+    "body": "Democratic Senator Elizabeth Warren issued a series of questions to Treasury Secretary Scott Bessent on what she dubbed “unprecedented and chaotic” interventions in the US Treasuries market. (Bloomberg)",
+    "takeaways": [
+     "Senator Elizabeth Warren has sent Treasury Secretary Scott Bessent a series of questions.",
+     "She calls the Treasury's market interventions 'unprecedented and chaotic'.",
+     "The headline ties this to Treasury buybacks.",
+     "The item gives no buyback sizes or dates.",
+     "Digest context only; this item is sourced to Bloomberg."
+    ]
+   },
+   {
+    "h": "France does not need ECB's help at present, says Bank of France head",
+    "region": "Europe",
+    "body": "France's economic situation is serious, given the rise in its borrowing costs, but the country does not at this point need help from the European Central Bank (ECB), Bank of France head Emmanuel Moulin said on Wednesday. (The Edge Malaysia)",
+    "takeaways": [
+     "Bank of France head Emmanuel Moulin calls France's economic situation serious.",
+     "The reason given is rising borrowing costs.",
+     "He says France does not at this point need ECB help.",
+     "The item gives no yield levels.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-261008-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Nine points of caution on this row, reported as printed rather than resolved. (1) <b>The FBM KLCI target is given two ways.</b> The page-1 header and page 5 have 1,700, 'from 1,775'. The page-1 summary says the target 'is lowered to from 1,775 to 1,770'. 1,775 matches this board's 3 September Market Strategy row. This row uses 1,700. (2) <b>The OPR hike is timed two ways:</b> '1H27' and '1H2027' on page 1, '1Q27' on page 2. Kenanga's 30 September Economic Viewpoint and both of today's Economic Viewpoints say 1Q27. The two are consistent, but one is less precise. (3) <b>The sector-picks table (Exhibit 12, page 6) disagrees with the text in five places.</b> IHH is printed at RM1.72, against RM9.10 everywhere else; RM1.72 is the target this board records for DPHARMA. SAMAIDEN is RM3.72, against RM3.20 in the text and small-cap table. ENGTEX is RM0.59, against RM0.51 in the building materials section. PAVREIT is RM1.95, against RM1.83 in the REIT section, which says REIT targets were cut in this note. SIMEPROP is RM1.97, against RM2.01 in the picks table and RM2.00 in the property section and this board's 26 August row. (4) <b>IOICORP's target is given two ways.</b> Page 4 has 'IOICORP (OP; TP: RM4.65)'. Exhibit 12 and the plantation section have RM5.40, which matches this board's 1 September row. (5) <b>TIMECOM's target is given two ways.</b> Page 2 and the picks tables have RM7.26, which matches this board's 28 August row. The telecommunications section (page 82) has 'TIMECOM (OP; TP: RM6.60)'. (6) <b>The Shariah picks table has a copied row.</b> FRONTKN's line repeats TENAGA's figures exactly: price RM12.96, target RM16.30, market cap RM75,546m, EPS 83.6/88.1 sen. The technology section gives FRONTKN a RM5.70 target. The text says SPSETIA was added 'for top Shariah picks', but SPSETIA does not appear in that table. (7) <b>The small-cap table disagrees with this board in three places.</b> BAUTO is RM1.22, against RM1.30 in the automotive section and this board's 11 September row. KEEMING is RM2.81, against RM2.84 on page 3 and this board's 4 September row. SAMAIDEN is RM3.20; this board's last record is RM2.90 (21 September Renewable Energy row), and the note gives no 'from' figure. Two small-cap picks are OUTPERFORM below Kenanga's own 10% line: KEEMING at 6.4% upside and no dividend, SAMAIDEN at 6.0% plus 1.0% (computed here). (8) <b>Exhibit numbers 12 and 13 are each used twice</b> (sector picks and conviction on page 6, picks tables on page 7). The property section still says 'Our Top Picks for 3QCY26 remain SIMEPROP'. (9) <b>The note quotes ratings and targets for dozens of stocks with no standalone report in today's bundle.</b> They have not been verified against stock reports today. This row carries no rating or target of its own, so those columns are empty by design.",
+   "result": null,
+   "conviction": "\"Following that, we have introduced IHH in place of IOICORP among top picks (and SPSETIA for top Shariah picks).\"",
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Market Strategy",
+   "name": "4QCY26 Outlook: Cyclical Pain to Structural Gain",
+   "type": "Market Strategy",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "Kenanga <b>cuts its end-2026 FBM KLCI target to 1,700 from 1,775</b> (current 1,611). It lowers the market PER it applies to 15.3x from 16x, adding 25bps to the return it requires from equities, because the 10-year MGS now sits around 4% (3.6% at end-June) and it now expects a 25bps OPR hike. It adopts a <b>barbell</b>: banks and healthcare on the defensive side after recent pullbacks, and structural themes in technology, oil and gas capex, power generation and solar on the other. Cyclicals are seen as less durable. It <b>cuts plantation to NEUTRAL</b>, lowers plastics and packaging to neutral, and <b>upgrades healthcare to OVERWEIGHT</b>. <b>IHH replaces IOICORP among its top picks</b>, and AMBEST replaces PARAMON among small caps.",
+   "quote": "We thus now assume that the KLCI y/e target for 2026 to be 1,700 (from 1,775).",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Market-Strategy-261008-4QCY26-Strategy-Kenanga.pdf",
+   "summary": [
+    "The index call is a valuation cut, not an earnings cut. Kenanga lowers its end-2026 FBM KLCI target to 1,700 from 1,775, about 5.5% above the 1,611 in the header (computed here). The PER it pegs to the market falls to 15.3x from 16x, which it puts at 0.3 SD below the 10-year average. It projects KLCI earnings growth of 12.2% in 2026 and 3.5% in 2027, or 7.9% and 5.4% excluding PCHEM. It has not adjusted generally for a minimum-wage hike, but has cut targets for rate-sensitive REITs. It raises its Brent forecast for 2026/27 to USD91/85 per barrel from USD80/74, and expects GDP growth of 5.3% this year and 5.0% in 2027. Note that the page-1 summary prints 1,770 (see flag).",
+    "The defensive side: banks and healthcare. The KLFIN index has fallen 6% since the Fed hike. Kenanga says that matches the average 6% hit to bank profits from bond revaluation, which it maps to about a 50bps rise in MGS yields, so it sees a safety margin. Bank dividend yields are 6.0%, a 3-year high. It prefers MAYBANK (RM12.30), HLBANK (RM25.80) and ABMB (RM5.50), and sees CIMB and AMBANK as more exposed to revaluation through profit and loss. It says an OPR hike has historically added 2-3% to annualised bank earnings. Healthcare is upgraded to OVERWEIGHT, with IHH (RM9.10) at a 'compelling entry point'; SUNMED stays UNDERPERFORM. These match this board's 6 October Healthcare row.",
+    "The structural side: themes entering execution. In technology, Kenanga projects ex-China wafer fab equipment capex growth of 46% in 2026, then 41% and 17% in 2027-28. It sticks with front-end names: KGB (RM10.10), with AMBEST (RM1.80) added to its tech picks. It stays contrarian UNDERPERFORM on UNISEM. In oil and gas it expects upstream capex to ramp up in 2027-28, following past 4-year Petronas cycles, with KEYFIELD (RM1.88) its preferred pick. For power, NEWGEN26 targets 6,000-8,000MW of new capacity by 2030; TENAGA and MALAKOF are named frontrunners. YTLPOWR's Siemens order brings it to seven gas turbines, with combined capacity potential of 5,250MW. Downstream it names KEEMING and SCGBHD, and in solar SAMAIDEN, which has about RM2b of CRESS tenders.",
+    "The cyclical side, and Budget 2027. Plantation is cut to NEUTRAL. NOAA puts the odds of a very strong El Niño above 90%, which Kenanga believes is partly priced in, and fertiliser and wage costs are rising. It still prefers IOICORP and likes HSPLANT. On gloves it is lukewarm, with a sole OUTPERFORM on KOSSAN (RM1.50). Plastics and packaging are lowered to neutral, with TGUAN (RM1.73) preferred. Consumer sentiment has historically weakened after two of the last three OPR hikes; QL (RM4.40) is the consumer conviction pick. For Budget 2027 it expects 'rakyat friendly' SARA and STR support, possible incentives for battery storage, and mention of Penang Mutiara LRT Package 2. Six consortia are reportedly interested, including YTL and KERJAYA (RM3.80).",
+    "Why this row reads Positive. The note states that Kenanga has 'introduced IHH in place of IOICORP among top picks (and SPSETIA for top Shariah picks)'. Its ten top conventional picks are MAYBANK, HLBANK, GAMUDA, QL, IHH, KGB, TIMECOM, TENAGA, YTLPOWR and SIME PROPERTY, and AMBEST replaces PARAMON among small caps. A search of all 92 pages for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite finds sector-level pick declarations throughout. Examples are BAUTO and SIME (automotive), GAMUDA (construction), KOSSAN (gloves), IHH (healthcare), DIALOG and KEYFIELD (oil and gas), TGUAN (plastics), SIMEPROP and ECOWLD (property), PAVREIT and SUNREIT (REITs), SAMAIDEN (renewables), BIPORT (ports), TIMECOM (telco) and TENAGA (utilities). Several of these come with targets that conflict within the note (see flag). A named house, Maybank Investment Bank, names IHH among its own top picks, so the Analyst Signal reads Positive; see the analyst note for the dating and qualifications."
+   ],
+   "analyst": {
+    "v": "positive",
+    "house": "Maybank Investment Bank",
+    "date": "22 Sep 2026",
+    "opp": false,
+    "note": "<b>A named house names IHH, the stock Kenanga adds to its top picks today, among its own top picks, so the Analyst Signal reads Positive.</b> The Edge Malaysia reported on <b>22 September 2026</b> that <b>Maybank Investment Bank</b> expects Budget 2027 to remain supportive of healthcare, and that 'Its top picks include IHH Healthcare Bhd (KL:IHH), KPJ Healthcare Bhd (KL:KPJ)', along with SUNMED, PMCK, DPHARMA and Pharmaniaga. <b>Four qualifications.</b> First, the article gives no date for Maybank IB's own note; 22 September is the reporting date, 16 days before this Kenanga note (computed here). Second, it gives no targets. Third, the pick reaches this board as reported speech, not read from Maybank IB's note itself. Fourth, it is a sector list of six names, one of which, <b>SUNMED</b>, Kenanga rates <b>UNDERPERFORM</b>, so the two houses point in opposite directions on that stock. SUNMED is not one of Kenanga's picks, and this row carries no Kenanga stock rating of its own, so the divergence marker is not set (as on the 6 October Healthcare row). <b>On the index, no house among the nine was found with a Sep-Oct 2026 strategy note naming stock picks.</b> The Edge reported on 8 October 2026 (dateline 7 October) that <b>Hong Leong Investment Bank</b> keeps an end-2026 FBM KLCI target of <b>1,720</b>, against Kenanga's new 1,700. It names no stocks. The latest dated house strategy list found is <b>CIMB Securities'</b> of 14 July 2026, with a 1,746 target: its top picks include four of Kenanga's ten (GAMUDA, QL, HLBANK, TENAGA) and still include IOICORP, which Kenanga drops today. That list is nearly three months old and predates the Fed hike, so it is recorded here rather than relied on, as on the 17 September Market Strategy row. Older index targets found, with no stock picks: <b>Maybank IB</b> 1,750 and <b>AmInvestment</b> 1,900 (The Edge, 13 July), <b>RHB</b> 1,750 (The Star, 28 July), <b>Affin Hwang</b> 1,780 (The Edge, 16 June), <b>TA</b> 1,760 (The Edge, 3 April). <b>Of the nine houses this board searches, seven (Maybank IB, Hong Leong, CIMB, RHB, AmInvestment, Affin Hwang, TA) yielded dated, publicly retrievable commentary; Public Investment Bank and MIDF yielded none.</b> A Business Today page returned HTTP 403 and was not used. Targets from Apex, Rakuten Trade, MBSB and Malacca Securities are outside the nine and were not used. No named house among the nine was found rating any of Kenanga's ten picks opposite to Kenanga.",
+    "cites": [
+     [
+      "The Edge Malaysia via KLSE Screener, 22 Sep 2026 &mdash; &lsquo;CIMB Securities: Consumer, construction stocks seen as key beneficiaries of Budget 2027&rsquo; (Maybank IB healthcare top picks include IHH, KPJ)",
+      "https://www.klsescreener.com/v2/news/view/1795491/cimb-securities-consumer-construction-stocks-seen-as-key-beneficiaries-of-budget-2027"
+     ],
+     [
+      "The Edge Malaysia, 8 Oct 2026 &mdash; &lsquo;FBM KLCI slides to nearly a year low as foreign selling, high oil prices weigh on sentiment&rsquo; (Hong Leong IB: end-2026 KLCI 1,720; no picks)",
+      "https://theedgemalaysia.com/node/820866"
+     ],
+     [
+      "The Edge Malaysia, 14 Jul 2026 &mdash; &lsquo;CIMB Securities expects KLCI to hold above 1,700, lifts year-end target with 4% upside&rsquo; (KLCI 1,746; top picks)",
+      "https://theedgemalaysia.com/node/810552"
+     ],
+     [
+      "The Edge Malaysia via KLSE Screener, 13 Jul 2026 &mdash; &lsquo;Banks, energy, data centre plays expected to lead the market in 2H&rsquo; (Maybank IB 1,750; AmInvestment 1,900)",
+      "https://www.klsescreener.com/v2/news/view/1754063/Banks_energy_data_centre_plays_expected_to_lead_the_market_in_2H"
+     ],
+     [
+      "The Star, 28 Jul 2026 &mdash; &lsquo;Malaysia stock market poised for steady 2H26&rsquo; (RHB: 1,750)",
+      "https://www.thestar.com.my/news/nation/2026/07/28/malaysia-stock-market-poised-for-steady-2h26"
+     ],
+     [
+      "The Edge Malaysia via KLSE Screener, 16 Jun 2026 &mdash; Affin Hwang: KLCI 1,780",
+      "https://www.klsescreener.com/v2/news/view/1738979/malaysian-equities-expected-to-rebound-in-2h-2026-supported-by-us-iran-peace-deal-affin-hwang"
+     ]
+    ]
+   },
+   "crossCheck": null
+  },
+  {
+   "verified": true,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>Three MARKET PERFORM ratings sit outside Kenanga's own return band</b>, on the note's page-6 peer table (computed here as upside plus net yield). 99SMART is about 25.0% (23.4% plus 1.6%), PADINI about 24.0% (16.2% plus 7.8%) and FFB about 14.1% (13.0% plus 1.1%). All are above the 10% OUTPERFORM line. (2) <b>FFB's wage sensitivity differs from this board's 28 September row.</b> Exhibit 1 today gives a 0.43% earnings impact per RM100. The 28 September Market Strategy row recorded 0.50% from Kenanga's table then. The RM0.6m cost impact is the same in both. (3) <b>Exhibit numbers 3, 4 and 5 are each used twice</b>, on pages 3 and 4. (4) <b>QL's price is given two ways across today's bundle:</b> RM3.93 in this note's peer table and RM3.94 in the Market Strategy picks table. Neither note states its pricing date. NESTLE (RM89.02) and MRDIY (RM1.23) in this table match the digest's 7 October closes. (5) <b>The target-price changes are checked against this board where possible.</b> QL's previous RM4.50 matches this board's 27 August row. NESTLE's previous RM106.00 matches the RM106 quoted in the 28 September Market Strategy row. F&N's previous RM34.45 and MRDIY's previous RM1.90 have no earlier record here. Unchanged targets that match earlier rows are AEON RM1.18 (24 August), FFB RM2.00 (4 September), PADINI RM1.22 and KAREX RM0.59 (28 August), and 99SMART RM3.80 (28 September). (6) Filed as a <b>Sector Update</b>, it carries no ticker-level rating, target or share price of its own, so those columns are empty by design. The sector call is OVERWEIGHT, unchanged. The rating field takes stock ratings only, so it is recorded in the text, and for the same reason the divergence marker is not set.",
+   "result": null,
+   "conviction": "\"We therefore remain OVERWEIGHT on the sector, favouring companies with defensive demand, manageable cost exposure and better earnings visibility, with QL (OP; TP: RM4.40) as our sector top pick.\"",
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Consumer",
+   "name": "Consumer Sector Update (4QCY26 Strategy): Walking a Finer Line",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "Kenanga <b>keeps Consumer at OVERWEIGHT</b> and names <b>QL its sector top pick</b>. It argues that fiscal aid (SARA, STR) and possibly higher wages support spending, but rising labour, electricity, freight and input costs meet price-sensitive consumers, and a 25bps OPR hike expected in 1QCY27 could weigh on discretionary spending. Earnings forecasts are unchanged, but it <b>cuts four targets</b>: F&N to RM28.95 from RM34.45 and MRDIY to RM1.60 from RM1.90 on lower PERs, and NESTLE to RM103.90 from RM106.00 and QL to RM4.40 from RM4.50 on a higher risk-free rate. All ratings are unchanged.",
+   "quote": "We maintain our earnings forecasts across our consumer sector portfolio, while revising our valuation assumptions for F&N, MRDIY, NESTLE and QL.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Consumer-261008-SU-4QCY26-Strategy-Kenanga.pdf",
+   "summary": [
+    "The call: sector unchanged, four targets cut, no rating moved. F&N's ascribed PER on its core food and beverage business falls to 20x from 24x, given softer near-term visibility particularly in Indochina, and its target to RM28.95 from RM34.45, a 16.0% cut (computed here). MRDIY's PER falls to 20x from 24x, 1 SD below its historical forward mean, for competition from ultra-low-priced cross-border e-commerce, and its target to RM1.60 from RM1.90. NESTLE and QL are DCF-valued. Their WACC rises to 5.3% from 5.2% and 5.8% from 5.7% on a higher risk-free rate, taking targets to RM103.90 from RM106.00 and RM4.40 from RM4.50. Ratings stand: F&N, MRDIY, NESTLE, QL, AEON and KAREX OUTPERFORM; 99SMART, FFB, PADINI and PWROOT MARKET PERFORM.",
+    "Wages: a narrow hit, and a possible offset. Exhibit 1 estimates the earnings impact of each RM100 rise in the minimum wage, from 0.13% at 99SMART (under 3% of 25,647 staff affected) to 2.74% at AEON (Kenanga estimates 40% of 8,782). MRDIY is 0.75%, QL 0.92%, FFB 0.43% and F&N 0.30%. NESTLE and PADINI have no quantified impact, as most staff already earn above the minimum. Each cost figure recomputes as staff x share affected x RM1,200 a year (computed here). Kenanga notes MRDIY saw about 1-2% extra revenue after the last hike, and favours mass-market names with low wage exposure. It has not put any wage change into its forecasts.",
+    "Rates and spending. Kenanga expects the OPR to rise 25bps to 3.00% in 1QCY27, reversing the July 2025 'insurance' cut. Its Exhibit 3 shows how consumer stocks under its coverage fared after past hikes. After May 2023 they fell 7.7% over six months while the FBM KLCI rose 1.8%. After July 2014 they fell 15.6%, against -8.3%. After January 2018 they rose 25.8%, which Kenanga attributes to the post-GE14 GST tax holiday. Retail Group Malaysia's figures show retail sales up 2.5% in 2QCY26 (1Q: 3.7%), below its 4.8% forecast. It keeps a 3.8% forecast for CY26, expecting 4.7% in 3Q and 3.9% in 4Q.",
+    "Costs are turning. In Exhibit 4, coffee is down 17.3% and cocoa 11.3% year-to-date, which helps NESTLE. Corn is up 14.1% and soybean 24.0%, which raises feed costs for QL's poultry business. The Baltic Dry Index is up 67.3% and WTI crude 55.7%, with knock-on effects on packaging and transport. Electricity and wages add further pressure. NESTLE has guided for no significant price increases through end-CY26, but Kenanga says renewed input costs could require selective pricing after that. It expects USD/MYR to move towards 4.00 by end-2026, which would ease imported input costs.",
+    "Why this row reads Positive. The note twice names QL its top pick: 'with QL (OP; TP: RM4.40) as our sector top pick' on page 1 and 'QL remains our top pick' on page 2. The reasons given are consistent export demand for marine products, with QL Innofood Park adding capacity; FamilyMart expansion, including FamilyMart Mini at petrol stations and highways; and a growing poultry business in Indonesia and Vietnam. QL trades at RM3.93 against the RM4.40 target, 12.0% upside, with a 1.3% net yield. A search of all seven pages for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite finds only these QL sentences as pick language. The other 'favour' hits are 'less favourable cost environment' and general 'favour defensive exposure' phrasing that names no stock. Among named houses, the latest retrievable statements on QL carry no pick language, so the Analyst Signal reads None stated; see the analyst note."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "Hong Leong Investment Bank",
+    "date": "23 Sep 2026",
+    "opp": false,
+    "note": "<b>No named non-Kenanga house's most recent retrievable statement on QL uses pick language, so this row's Analyst Signal reads None stated.</b> <b>The most recent dated stock call found is about two weeks old.</b> The Star reported on <b>24 September 2026</b> that <b>Hong Leong Investment Bank</b> reiterated <b>'buy'</b> on QL with an unchanged target of <b>RM5.10</b>, on 38x FY27 PER. The Edge's Brokers Digest dates the note 23 September and quotes it as 'We remain constructive on QL'. That is constructive language, not a pick. HLIB's own consumer-sector note, reported by The Star on 30 September, names <b>AEON and Focus Point</b> as its top picks, not QL. <b>CIMB Securities shows how the most-recent-statement rule applies here.</b> The Edge reported on 14 July 2026 that CIMB listed QL among its top picks, and The Edge Malaysia Weekly (10-16 August, republished 17 August) quoted CIMB's head of research saying CIMB's 'preferred consumer names include' Nestl&eacute; and QL. CIMB's latest retrievable statement naming QL, reported by The Edge on <b>22 September 2026</b>, lists QL only among counters 'poised to benefit' from higher STR and SARA allocations in Budget 2027, with no pick language, rating or target. As with PMETAL on this board, the latest statement governs, so CIMB's earlier pick language is recorded here but does not set the signal. CIMB's last stated stock call was Buy at RM4.60 (The Star, 10 June 2026). Older calls found: <b>RHB</b> named QL a consumer top pick with a 'buy' call (The Star, 9 June 2026). That article prints a RM4.60 target, while The Edge (29 May) reported RHB's target as an unchanged RM3.94; the conflict is not resolved here. <b>TA Securities</b> had Buy at RM4.18 from RM4.05 (The Star, 10 June), and <b>Affin Hwang</b> had Buy at RM4.00 (The Star, 23 March). MIDF's latest found is from August 2024 and is too old to use. <b>Of the nine houses this board searches, six (CIMB, Hong Leong, RHB, TA, Affin Hwang and, stale, MIDF) yielded dated, publicly retrievable calls; Maybank IB, AmInvestment and Public Investment Bank yielded none.</b> Business Today pages returned HTTP 403 and were not used. MBSB Research's 'neutral' (The Star, 29 July) is outside the nine houses and is not used for the signal. <b>On divergence:</b> every named-house rating found among the nine is Buy, the same direction as Kenanga's OUTPERFORM on QL, so the marker is not set; it would not be set in any case, because this row carries no Kenanga stock rating of its own. All the calls above predate today's note and do not respond to its target cut. <b>None stated means no conviction language was found in the latest accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Star, 24 Sep 2026 &mdash; &lsquo;Upside expected for QL Resources bottom line&rsquo; (Hong Leong IB: buy, TP RM5.10 unchanged)",
+      "https://www.thestar.com.my/business/business-news/2026/09/24/upside-expected-for-ql-resources-bottom-line"
+     ],
+     [
+      "The Edge Malaysia, Brokers Digest (Edge Weekly, 28 Sep&ndash;4 Oct 2026) &mdash; Hong Leong IB 23 Sep note on QL: BUY, TP RM5.10",
+      "https://theedgemalaysia.com/node/819811"
+     ],
+     [
+      "The Star, 30 Sep 2026 &mdash; &lsquo;Household spending seen resilient into year-end&rsquo; (Hong Leong IB consumer top picks: AEON, Focus Point)",
+      "https://www.thestar.com.my/business/business-news/2026/09/30/household-spending-seen-resilient-into-year-end"
+     ],
+     [
+      "The Edge Malaysia via KLSE Screener, 22 Sep 2026 &mdash; &lsquo;CIMB Securities: Consumer, construction stocks seen as key beneficiaries of Budget 2027&rsquo; (QL among counters poised to benefit; no pick language)",
+      "https://www.klsescreener.com/v2/news/view/1795491/cimb-securities-consumer-construction-stocks-seen-as-key-beneficiaries-of-budget-2027"
+     ],
+     [
+      "The Edge Malaysia via KLSE Screener, 17 Aug 2026 &mdash; &lsquo;Consumer staples, infrastructure stocks could benefit from election cycle, say analysts&rsquo; (CIMB preferred consumer names include Nestl&eacute;, QL)",
+      "https://www.klsescreener.com/v2/news/view/1774911/consumer-staples-infrastructure-stocks-could-benefit-from-election-cycle-say-analysts"
+     ],
+     [
+      "The Edge Malaysia, 14 Jul 2026 &mdash; CIMB Securities&rsquo; top-pick list (includes QL)",
+      "https://theedgemalaysia.com/node/810552"
+     ],
+     [
+      "The Star, 10 Jun 2026 &mdash; &lsquo;QL Resources on track for steady earnings growth&rsquo; (CIMB: buy, TP RM4.60; TA: buy, TP RM4.18)",
+      "https://www.thestar.com.my/business/business-news/2026/06/10/ql-resources-on-track-for-steady-earnings-growth"
+     ],
+     [
+      "The Star, 9 Jun 2026 &mdash; &lsquo;Mixed outlook for consumer sector&rsquo; (RHB: QL among consumer top picks, buy)",
+      "https://www.thestar.com.my/business/business-news/2026/06/09/mixed-outlook-for-consumer-sector"
+     ],
+     [
+      "The Star, 23 Mar 2026 &mdash; &lsquo;QL Resources profit trajectory remains intact&rsquo; (Affin Hwang: buy, TP RM4.00)",
+      "https://www.thestar.com.my/business/business-news/2026/03/23/ql-resources-profit-trajectory-remains-intact"
+     ]
+    ]
+   },
+   "crossCheck": null
+  },
+  {
+   "verified": true,
+   "flag": "Two points of caution on this row, reported as printed rather than resolved. (1) <b>August's ringgit average is given differently from last month's note.</b> Today's note says the ringgit averaged 4.07/USD in September against 4.06/USD in August. This board's 8 September reserves row recorded Kenanga then giving August's average as 4.07/USD. The difference may be rounding; the note does not say. (2) <b>Foreign currency deposits are given at a different level from earlier notes.</b> Today's note puts them at RM307.7b in August. Kenanga's 30 September Economic Viewpoint, recorded on this board, cited RM336.8b, and the 8 September reserves note cited RM336.8b with no month. The note does not explain the RM29.1b gap (computed here), which may reflect a different basis. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "BNM International Reserves",
+   "name": "BNM International Reserves (end-September): Slip for a third month as quarter-end revaluation trims FX reserves",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "BNM international reserves fell USD0.2b (-0.2% MoM) to <b>USD131.8b</b> as at 30 September 2026, the third straight monthly decline. Kenanga attributes the dip to quarter-end revaluation losses on foreign currency reserves (down USD0.4b to USD116.2b), partly offset by gold (up USD0.2b to USD6.0b). In ringgit terms reserves rose RM3.0b to <b>RM537.7b, a 25-month high</b>. Kenanga repeats its call for an OPR hold on 5 November and <b>one hike to 3.00% in 1Q27</b>, and its end-2026 USDMYR target of 4.00.",
+   "quote": "We expect BNM to hold the OPR at 2.75% on 5 November, then hike once to 3.00% in 1Q27 before a long hold.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/EV_BNM-International-Reserves_Sep26_261008-Kenanga.pdf",
+   "summary": [
+    "The decline is a revaluation effect. Headline reserves fell USD0.2b (-0.2% MoM) to USD131.8b at 30 September, the third monthly fall in a row. Foreign currency reserves fell USD0.4b (-0.3%) to USD116.2b on quarterly revaluation losses. Gold rose USD0.2b (+3.8%) to USD6.0b, tracking a 3.8% quarterly rise in the gold price. SDRs, other reserve assets and the IMF position were broadly unchanged. Against this board's 8 September row, both moves reconcile. Headline reserves fell to USD131.8b from USD132.0b, and FX reserves to USD116.2b from USD116.6b (computed here).",
+    "Ringgit terms tell a different story. Total reserves rose RM3.0b (+0.6% MoM) to RM537.7b, which Kenanga calls a 25-month high. Its Table 1 shows the record at RM550.45b in August 2024. The latest release is RM537.69b at an end-period USDMYR of 4.0796. The ringgit rise follows from August's RM534.7b, recorded on this board's 8 September row, plus RM3.0b (computed here). The net series lag a month: net of drains, total reserves rose to USD97.8b in August (July: USD96.9b) and foreign currency reserves to USD82.4b (July: USD81.6b). The July figures match the 8 September row.",
+    "How the ringgit moved in September. It weakened 0.03% to average 4.07/USD. Kenanga says it held around 4.04 in the first week, then fell back as markets repriced a hawkish Fed after Warsh's Jackson Hole message. It lagged peers in the second week despite record August bond inflows of RM15.9b, which Kenanga reads as domestic repricing rather than foreign selling. The Fed's 25bps hike to 4.00%, with one more signalled for this year, then sent it to 4.10 as the DXY broke above 100.0. Among ASEAN-5 currencies, SGD and IDR rose 0.3% each, THB fell 0.6% and PHP fell 1.9%, hurt by a higher oil import bill and twin deficits.",
+    "The policy call matches Kenanga's 30 September change. It expects BNM to hold at 2.75% on 5 November, then hike once to 3.00% in 1Q27 and hold for a long time. It calls this normalisation, not tightening. The reasons given are growth of 5.7% in 1H26, which has outgrown the July 2025 insurance cut, and core inflation easing to 1.7% in August. Kenanga sees no reason to rush. Banks hold ample capital and liquidity, stress from the West Asia conflict is confined to pockets of SMEs, and household debt is growing more slowly than nominal GDP.",
+    "The ringgit forecast. Kenanga's end-2026 USDMYR target is 4.00, raised from 3.95 in its 30 September note (2025: 4.06). It is about 2.1% firmer than the 4.0872 in today's digest (computed here). Kenanga says one more Fed hike in 4Q26 slows the ringgit's appreciation but does not reverse it. It cites a current account surplus of 2.0% of GDP in the four quarters to 2Q26, a RM198.7b trade surplus in January to August, and foreign currency deposits of RM307.7b in August that could convert once the Fed stops hiking. If the Fed stops after September, it says 3.95 is back in play. The deposit figure differs from earlier notes (see flag)."
+   ]
+  },
+  {
+   "verified": true,
+   "flag": "One point of caution on this row. <b>The within-month flows do not quite add up to the monthly total.</b> The note gives net buying of RM3.5b up to 17 September. For 18-24 September it gives RM1.6b out of government bonds and RM2.5b into corporate bonds, a net RM0.9b in. It then gives RM5.9b out over the final four sessions. Together these come to about -RM1.5b, against the -RM1.8b monthly total (computed here). The holdings path reconciles more closely. RM320.1b plus RM4.4b is about RM324.5b, against the stated RM324.3b peak, and RM324.3b less RM5.9b is about RM318.4b, against RM318.3b at month-end (computed here). The note does not explain the gap. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "MY Bond Flows",
+   "name": "Malaysia Bond Flows (Sep-26): Quarter-end exit snaps inflow run, duration waits for Fed peak",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "Foreign investors turned <b>net sellers of Malaysian bonds in September, with RM1.8b of outflows</b> (Aug: +RM15.9b), after heavy month-end selling of MGS and GII wiped out three weeks of buying. Foreign holdings fell to RM318.3b, or 13.4% of outstanding debt. With RM1.7b of equity outflows, the capital market saw <b>RM3.5b of net outflows</b> (Aug: +RM13.9b). Kenanga reads this as tactical de-risking, not a loss of confidence. It expects flows to stay volatile until the Fed peaks, and keeps its end-2026 10-year MGS forecast at 3.88%.",
+   "quote": "Investors still added RM1.3b of Treasury bills over the month, this points to tactical de-risking, not a loss of confidence in Malaysia.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/EV_Bond-Flows_Sep26_261008-Kenanga.pdf",
+   "summary": [
+    "The headline reverses August, and the parts add up. Foreign investors sold a net RM1.8b of Malaysian bonds in September, after buying RM15.9b in August. Holdings fell to RM318.3b from RM320.1b, and foreign ownership of outstanding debt to 13.4% from 13.5%. By segment, MGS saw RM1.8b of outflows and GII RM3.2b, while corporate bonds and sukuk took in RM1.9b and Treasury bills RM1.3b. Together these give the RM1.8b net outflow (computed here). The August comparatives all match this board's 8 September Bond Flows row: RM15.9b total, RM320.1b holdings, MGS RM5.0b, GII RM5.6b and CBS RM4.8b.",
+    "The month turned at the end. Foreign investors bought RM3.5b up to 17 September, RM2.8b of it in government securities and RM2.5b on 17 September alone, around the Fed's 25bps hike. Over 18-24 September they cut government bonds by RM1.6b but rotated RM2.5b into corporate bonds, lifting holdings to a peak of RM324.3b on 24 September. Then RM5.9b left over the final four sessions, RM4.9b of it from government securities and RM3.0b on 30 September alone. Kenanga names three causes: hawkish Fed remarks, including a warning that one more hike may not be enough; stalled US-Iran talks that pushed oil higher; and a deepening global bond sell-off. The within-month figures do not sum exactly to the total (see flag).",
+    "Ownership moved by segment. MGS foreign ownership fell to 32.9% from 33.3% and GII to 6.8% from 7.1%. Corporate bonds and sukuk rose to 3.6% from 3.5%, even though inflows there slowed to RM1.9b from RM4.8b. Kenanga points to the continued RM1.3b of Treasury bill buying as evidence that this was tactical de-risking rather than a loss of confidence in Malaysia.",
+    "Equities and the capital account. Foreign investors sold a net RM1.7b of Malaysian equities in September, less than August's RM2.0b, with selling centred on financial services. Kenanga ties this to the Fed's hike and a higher-for-longer rate outlook, and to WTI crude surging above USD100/bbl on Middle East tensions. Bonds and equities together give the RM3.5b capital market outflow, against a RM13.9b inflow in August (computed here). In today's digest, foreign investors were net sellers of RM63.4m on Bursa on 7 October, 29.1% of value, as the KLCI fell 21.57 points to 1,611.8.",
+    "The outlook depends on the Fed. Kenanga expects one more 25bps Fed hike in 4Q26, to 4.25%, keeping foreign investors cautious on duration. It sees elevated UST yields, higher term premia and West Asia tensions keeping flows volatile. It expects foreign demand for MGS to return once the Fed stops and holds through 2027. Domestically it repeats its call for an OPR hold on 5 November and a hike to 3.00% in 1Q27, which it says the MGS front end has largely priced in. That limits room for further selling unless November surprises. It keeps its end-2026 10-year MGS forecast at 3.88%, and names Budget 2027, tabled on 9 October, as a key driver of foreign participation."
+   ]
+  }
+ ]
+}
