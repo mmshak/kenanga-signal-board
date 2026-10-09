@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T21:11:18.907Z",
+ "generatedAt": "2026-10-09T07:18:07.204Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -29,10 +29,11 @@
   "2026-10-02",
   "2026-10-06",
   "2026-10-07",
-  "2026-10-08"
+  "2026-10-08",
+  "2026-10-09"
  ],
- "rows": 134,
- "verified": 133,
+ "rows": 139,
+ "verified": 138,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -419,6 +420,36 @@
    "date": "2026-10-08",
    "row": "MY Bond Flows",
    "msg": "One point of caution on this row. <b>The within-month flows do not quite add up to the monthly total.</b> The note gives net buying of RM3.5b up to 17 September. For 18-24 September it gives RM1.6b out of government bonds and RM2.5b into corporate bonds, a net RM0.9b in. It then gives RM5.9b out over the final four sessions. Together these come to about -RM1.5b, against the -RM1.8b monthly total (computed here). The holdings path reconciles more closely. RM320.1b plus RM4.4b is about RM324.5b, against the stated RM324.3b peak, and RM324.3b less RM5.9b is about RM318.4b, against RM318.3b at month-end (computed here). The note does not explain the gap. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-09",
+   "row": "Technology",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>FRONTKN's target is given two ways.</b> The text twice gives RM5.70, matching this board's 8 October Market Strategy row. The peer table gives RM5.72, and its 14.9% upside is struck on RM5.72 (computed here). (2) <b>Three ratings sit outside Kenanga's own return bands</b> on the peer table (computed here as upside plus net yield). OPPSTAR is UNDERPERFORM at +8.7%, which falls in the MARKET PERFORM band. D&O is MARKET PERFORM at about -21.0% and PIE MARKET PERFORM at -10.1%, both below the -5% floor. This board's 27 August row had OPPSTAR at MARKET PERFORM with the same RM0.75 target. No note downgrading it is on this board. (3) <b>SKP RESOURCES' target</b> is RM0.270 here, against RM0.26 on this board's 1 September row. (4) <b>SKYECHIP's dividend looks misprinted.</b> A 70.0 sen net dividend at RM2.93 gives the printed 23.9% yield, against core EPS of 3.6 sen. Not verified against a SKYECHIP report. (5) <b>Two WFE growth figures sit side by side.</b> The text gives ex-China WFE capex growth of 46%, 41% and 17% for 2026-28. Exhibit 5's title gives WFE spending growth of 37% and 15% for CY27 and CY28. The basis of Exhibit 5 is not stated. Exhibits 1-7 are charts; only their titles could be read. (6) <b>Peer-table prices are as at 29 September</b>, ten days before publication. The table quotes ratings and targets for 16 stocks; those without their own row on this board have not been verified against stock reports. Filed as a Sector Update, this row carries no ticker-level rating, target or price, so those columns are empty by design. The sector call is NEUTRAL, unchanged. Typo as printed: 'contininue'."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-09",
+   "row": "BAUTO",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The revenue forecasts have changed although the note says 'Forecasts. Maintained.'</b> Today's Summary Earnings Table gives FY27F/FY28F revenue of RM2,881.0m/RM3,468.1m. Kenanga's 11 September results note, recorded on this board, gave FY27F revenue of RM2,260.5m, below FY26A's RM2,275.6m. Core net profit is unchanged at RM141.7m/RM178.4m. On today's numbers the FY27F core net margin is 4.9%, against about 6.3% implied by the September figures (computed here). The note does not explain the change, so which revenue line is current cannot be established from Kenanga's documents. The row's own figures (rating, target, price) are unaffected. (2) <b>The CBU/CKD mix differs from September.</b> Today's note gives 80%/20% against 50%/50% in FY26; the 11 September note gave 70%/30% against the same 50%/50%. (3) <b>Price and market capitalisation are given two ways.</b> The cover prints RM0.91; the peer table RM0.905. The stock box's RM1,020.2m market capitalisation equals RM0.905 x 1,127.3m shares. The peer table's RM1,050.7m implies about RM0.93 (computed here). The share count is 1,127.3m, against 1,130.8m in the September note. (4) <b>The dividend yield is given three ways</b>: 'about 11%' in the investment case, 10.8% FY27F in the tables, and 9.39% trailing on the market-data source feeding this row. (5) <b>Consensus has moved past Kenanga.</b> Consensus net profit is now RM143.5m/RM156.6m for FY27/FY28, against RM127.6m/RM145.7m in the September note. Kenanga's FY27F RM141.7m now sits slightly below consensus. Kenanga's 52-week range (RM1.10/RM0.49) differs slightly from the RM1.12/RM0.50 on the market-data source."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-09",
+   "row": "MISC",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The charter terms are Kenanga's assumptions, not disclosed figures.</b> Kenanga says 'No details of the charter have been announced'. The USD90,000/day rate, 8% IRR, USD220m per vessel (taken from a recent ADNOC order at Jiangnan) and 7% WACC are its own inputs. The RM0.10 accretion and RM162m earnings impact follow from them. (2) <b>Possible overlap with an earlier award.</b> The Edge reported on 12 May 2026 that MISC signed 20-year charters with PETRONAS LNG for five 174,000m3 Hudong-Zhonghua carriers starting 2029-2030. Today's award is also five Hudong-Zhonghua carriers for PETRONAS LNG, starting 2030, with shipbuilding contracts still to be signed. The reports read as two separate awards, but neither Kenanga's note nor the October news reports say so explicitly. (3) <b>The ESG wording and the valuation table differ.</b> The text says there is 'no change to our valuation based on ESG given a 4-star ESG rating'. The sum-of-parts applies a 5% ESG premium, and the ratings key maps 4 stars to +5%. RM39,511m / 4,463.8m shares gives RM8.85, and plus 5% about RM9.29 (computed here). 'No change' is read here as no change from the previous note; that reading is inferred. (4) <b>The 52-week range differs by source.</b> Kenanga prints RM8.73/RM7.15; the market-data source feeding this row has RM9.04/RM7.12. (5) The RM7.2b cash 'based on latest reported financial results' differs from the RM6,096m year-end FY25 balance sheet in the note's own tables. These are different dates, so they are not in conflict."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-09",
+   "row": "MY Bond Market Weekly",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>The Q3-26 column has changed basis.</b> On this board's 25 September row, Table 1 forecast end-Q3 at 3.95% for the 10-year MGS, 4.85% for the UST and 4.05 for USDMYR. Today's Table 1 prints 3.99%, 5.28% and 4.08 for Q3-26. Only Q4-26 onwards carry the 'F' forecast marker, so these are read here as end-September outturns. That reading is inferred; the note does not say so. (2) <b>The equity-flow figure cannot be reconciled to Kenanga's own digests.</b> The note says foreign investors sold RM0.8b of Bursa equities 'last week' but does not define the week. Kenanga's digests on this board record foreign net flows of -RM79.6m (5 Oct), -RM6.4m (6 Oct), -RM63.4m (7 Oct) and -RM194.7m (8 Oct, today's digest), a combined -RM344.1m, and -RM187.9m on 1 October (computed here). The 2 October session is not on this board. Neither window obviously gives RM0.8b. (3) <b>Two tables are both numbered 'Table 3'</b> (the auction calendar and the bond yield movements). (4) Page headers read '6 S' and 'ENANGA INVESTMENT BANK BERHAD', with a Level 12 address against Level 17 in the main imprint. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-09",
+   "row": "Ringgit Weekly",
+   "msg": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>Table 2's 'Last Month' column is again dated 28/04/26</b>, the same issue this board flagged on 25 September. Its 'mom' column (USDMYR +3.51% from 3.953) therefore measures about five months, not one. (2) <b>The week is measured from two different days.</b> The text says the ringgit eased to 4.092 'from 4.085 last Friday'. Table 2's 'Last Week' column, also 4.085, is dated 01/10/26, a Thursday. The table's 0.15% week-on-week move is Thursday to Thursday. (3) <b>The year-end forecast needs a sizeable move.</b> A 4.00 year-end is about 2.2% stronger than the 4.092 close (computed here). The near-term call, meanwhile, is 4.08-4.10 'with risk skewed toward the weaker end'. Both are carried as printed. Table 1 matches the USDMYR path in today's Bond Market Weekly Outlook exactly. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
   }
  ],
  "verdict": "PASS"

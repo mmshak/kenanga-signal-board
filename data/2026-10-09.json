@@ -1,0 +1,442 @@
+{
+ "date": "2026-10-09",
+ "schema": 1,
+ "daily": {
+  "klci": 1601.0,
+  "chg": -10.77,
+  "pct": -0.67,
+  "inst": 44.7,
+  "instPct": 41.5,
+  "retail": 150.0,
+  "retailPct": 27.5,
+  "foreign": -194.7,
+  "foreignPct": 31.1,
+  "ideas": "Sector Update: Technology (4QCY26 Strategy); Company Update: BAUTO, MISC; Rating Summary; Economic Viewpoint: Bond Market Weekly Outlook, Ringgit Weekly Outlook",
+  "news": [
+   {
+    "h": "Exsim Hospitality secures RM15.6m building works contract from Nestcon unit",
+    "body": "Exsim Hospitality Bhd has secured a RM15.6m subcontract from a unit of Nestcon Bhd for the supply and installation of building services and general building works. Its wholly-owned subsidiary Exsim Concepto Sdn Bhd was awarded the contract by Nestcon Builders Sdn Bhd on Tuesday (Oct 6). The works are scheduled for completion on Oct 31, 2028, followed by a 27-month defect liability period commencing from the date of the certificate of practical completion. Exsim Concepto mainly provides specialised fit-out services for hospitality properties and undertakes general contracting and centralised procurement activities, according to the group, previously known as Pan Malaysia Holdings Bhd. (The Edge Malaysia)",
+    "takeaways": [
+     "The award is a RM15.6m subcontract for building services and general building works.",
+     "The client is Nestcon Builders Sdn Bhd, a Nestcon Bhd unit. The award went on 6 October to wholly owned Exsim Concepto Sdn Bhd.",
+     "Completion is set for 31 October 2028, about 25 months after the award (computed here). A 27-month defect liability period follows.",
+     "It is the third award this board has recorded for Exsim in under a month. The others are RM42.5m from Taghill Projects (15 September row) and RM27.0m in three Taghill subcontracts (1 October row). Together the three come to RM85.1m (computed here). The item gives no margin.",
+     "This board holds no Kenanga coverage of Exsim Hospitality. Digest context only."
+    ]
+   },
+   {
+    "h": "Life Water buys industrial property in Sabah for RM15.0m",
+    "body": "Life Water Bhd is acquiring an industrial property in Kota Kinabalu, Sabah, for RM15.0m to accommodate its business expansion. The group said in a bourse filing its wholly owned subsidiary Green Borneo Industries Sdn Bhd (GBI) entered into a sale and purchase agreement with Kee Foh Haw Sdn Bhd on Wednesday (Oct 7), to acquire a 1.21-hectare parcel of land with a purpose-built office complex and ancillary workshop at KKIP Selatan, Kota Kinabalu Industrial Park (KKIP). The property, which has a built-up area of about 1,793 sq m, will be used as a warehouse. It has a 99-year lease expiring on Dec 31, 2110. (The Edge Malaysia)",
+    "takeaways": [
+     "Life Water is buying an industrial property in Kota Kinabalu Industrial Park for RM15.0m.",
+     "The buyer is wholly owned Green Borneo Industries Sdn Bhd. The seller is Kee Foh Haw Sdn Bhd, and the sale and purchase agreement was signed on 7 October.",
+     "The site is 1.21 hectares with an office complex and workshop of about 1,793 sq m built up. It will be used as a warehouse.",
+     "The 99-year lease expires on 31 December 2110, about 84 years from now (computed here). The item does not say how the purchase is funded.",
+     "This board holds no Kenanga coverage of Life Water. Digest context only."
+    ]
+   },
+   {
+    "h": "GDB buys two construction firms for RM82.0m, expands into property development",
+    "body": "GDB Holdings Bhd is expanding its construction business through the proposed acquisition of two companies, while diversifying into property development to broaden its earnings base. GDB said it plans to acquire a 51.0% stake each in Bina Tegas Sdn Bhd and BT Borneo Engineering Sdn Bhd for a total consideration of RM81.6m. The acquisition will be funded through RM40.8m in cash and the balance RM40.8m via the issuance of 96.9m new GDB shares at 42.1 sen each. GDB said the acquisitions will strengthen its position in the construction industry by combining its resources, expertise and business relationships with those in the two target companies. (The Edge Malaysia)",
+    "takeaways": [
+     "GDB proposes to buy 51.0% of each of Bina Tegas Sdn Bhd and BT Borneo Engineering Sdn Bhd.",
+     "The body gives the total as RM81.6m. The headline rounds this to RM82.0m.",
+     "Half is paid in cash (RM40.8m) and half in shares (RM40.8m). The share half is 96.9m new shares at 42.1 sen, which comes to about RM40.8m (computed here).",
+     "The stated aims are a stronger construction business and a move into property development. The item gives no profit figures for the targets.",
+     "This board holds no Kenanga coverage of GDB. Digest context only."
+    ]
+   },
+   {
+    "h": "Cyberjaya Education buys Sepang land for RM15.0m to support university growth",
+    "body": "Cyberjaya Education Group Bhd is acquiring 24,777 square metres of vacant freehold commercial land in Sepang for RM15.0m in cash to support its university's expansion and future student facilities. Its wholly-owned subsidiary Ilmu Living Sdn Bhd is buying the land from Maju PuncakBumi Sdn Bhd, which is in liquidation, the group said in a Bursa Malaysia filing. The group said the eventual concept, scale and implementation timeline would depend on further feasibility studies, planning and an assessment of its requirements, as well as relevant regulatory approvals. (The Edge Malaysia)",
+    "takeaways": [
+     "Cyberjaya Education is buying 24,777 sq m of vacant freehold commercial land in Sepang for RM15.0m in cash.",
+     "That is about RM605 per sq m, or about RM56 per sq ft (computed here).",
+     "The buyer is wholly owned Ilmu Living Sdn Bhd. The seller, Maju PuncakBumi Sdn Bhd, is in liquidation.",
+     "The land is for university expansion and student facilities. The concept, scale and timeline depend on feasibility studies and approvals, and the item gives no development cost.",
+     "This board holds no Kenanga coverage of Cyberjaya Education. Digest context only."
+    ]
+   },
+   {
+    "h": "Printing firm MTAG proposes RM13.8m cash acquisition of two label makers",
+    "body": "Printing and labelling firm MTAG Group Bhd is proposing to acquire two label manufacturers for an indicative RM13.8m in cash to expand its product offerings and customer base. The group has signed a letter of intent (LOI) with Khor Chun Chuan to acquire the entire stake in LH Label (M) Sdn Bhd and LH Labelprint Sdn Bhd. Khor is the sole shareholder of both companies, which manufacture and supply labels and related printing products. The acquisitions would broaden its product range and customer base, while giving it access to the target companies' operations, customer relationships, resources and industry experience, MTAG said. (The Edge Malaysia)",
+    "takeaways": [
+     "MTAG proposes to buy all of LH Label (M) Sdn Bhd and LH Labelprint Sdn Bhd for an indicative RM13.8m in cash.",
+     "This is a letter of intent with Khor Chun Chuan, sole shareholder of both companies. It is not yet a binding agreement, and the price is indicative.",
+     "Both targets make and supply labels and related printing products.",
+     "The stated aims are a wider product range and customer base. The item gives no earnings for the targets, so the price multiple cannot be worked out.",
+     "This board holds no Kenanga coverage of MTAG. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "WTO upgrades goods trade forecast as AI boom offsets Middle East disruption",
+    "region": "Global",
+    "body": "The World Trade Organization upgraded its forecast for global merchandise trade growth on Thursday, saying demand for AI-related products had helped offset the impact of disruptions caused by the US-Israeli war with Iran. (The Edge Malaysia)",
+    "takeaways": [
+     "The WTO has raised its forecast for global merchandise trade growth.",
+     "It credits demand for AI-related products.",
+     "That demand is said to offset disruption from the US-Israeli war with Iran.",
+     "The item gives no forecast figures. Kenanga's Technology note in today's bundle makes a similar point for chips: record global semiconductor sales of USD160b in August. The link is drawn here, not in the item.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Govt confident of raising workers' compensation to 40.0% of GDP by 2030, Dewan Rakyat hears",
+    "region": "Malaysia",
+    "body": "The government is confident of achieving its target of raising workers' compensation to 40.0% of gross domestic product (GDP) by 2030, in line with the aspirations of the 13th Malaysia Plan (13MP), Deputy Economy Minister Datuk Mohd Shahar Abdullah said. (The Edge Malaysia)",
+    "takeaways": [
+     "The target is for workers' compensation to reach 40.0% of GDP by 2030.",
+     "The government says it is confident of meeting it.",
+     "The target is tied to the 13th Malaysia Plan.",
+     "The statement came from Deputy Economy Minister Datuk Mohd Shahar Abdullah in the Dewan Rakyat. The item gives no current share.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysia must strengthen regional cooperation to ensure stable energy supply — Akmal Nasrullah",
+    "region": "Malaysia",
+    "body": "Malaysia has highlighted the need to strengthen regional cooperation to ensure a stable and affordable energy supply, alongside efforts to accelerate the transition to low-carbon energy. (The Edge Malaysia)",
+    "takeaways": [
+     "Malaysia calls for stronger regional cooperation on energy.",
+     "The aim is a stable and affordable energy supply.",
+     "This sits alongside a faster transition to low-carbon energy.",
+     "The item names no projects and gives no figures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "MSMEs received RM345.0m boost from Bahrain GP, says minister",
+    "region": "Malaysia",
+    "body": "Local micro, small and medium enterprises (MSME) reaped over RM345 million in economic spillover effects of the Bahrain Gulf Air Formula 1 (F1) Grand Prix (GP) at Sepang International Circuit. (The Edge Malaysia)",
+    "takeaways": [
+     "Local MSMEs are said to have gained over RM345m in spillover from the Bahrain Gulf Air Formula 1 Grand Prix.",
+     "The race was held at Sepang International Circuit.",
+     "The figure is a ministerial estimate of spillover, not reported revenue.",
+     "The item gives no method behind the figure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysia must leverage industrial ecosystem to attract quality investments from US, says Sim",
+    "region": "Malaysia",
+    "body": "Malaysia must continue to leverage its industrial ecosystem, skilled workforce, infrastructure and market access to attract more quality investments from the United States, amid intensifying competition from other Asian countries. (The Edge Malaysia)",
+    "takeaways": [
+     "The call is to attract more quality US investment.",
+     "The strengths named are the industrial ecosystem, skilled workforce, infrastructure and market access.",
+     "The reason given is growing competition from other Asian countries.",
+     "The item gives no investment figures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "China's central bank says no need or intention to weaken yuan for trade edge",
+    "region": "Asia Pacific",
+    "body": "China has no need or intention to use yuan depreciation for a trade competitive advantage and has never engaged in competitive currency devaluation, the central bank said, rejecting criticisms from western trading partners including the European Union (EU). (The Edge Malaysia)",
+    "takeaways": [
+     "China's central bank says it has no need or intention to weaken the yuan for a trade advantage.",
+     "It says it has never engaged in competitive devaluation.",
+     "It is rejecting criticism from western trading partners, including the EU.",
+     "Kenanga's Ringgit Weekly Outlook in today's bundle shows USDCNY at 6.703 on 8 October, 4.09% lower year-to-date. That means the yuan has strengthened against the dollar this year. The link is drawn here, not in the item.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Thai central bank in no rush to raise rates, governor says",
+    "region": "Asia Pacific",
+    "body": "Thailand's central bank chief said on Thursday there is no rush to raise interest rates and monetary policy could not address structural issues constraining economic growth. (The Edge Malaysia)",
+    "takeaways": [
+     "Thailand's central bank governor says there is no rush to raise rates.",
+     "He says monetary policy cannot fix the structural issues holding back growth.",
+     "The item gives no rate level or timing.",
+     "Kenanga's Bond Market Weekly Outlook in today's bundle shows the 10-year Thai government yield at 2.392% on 8 October, up 73.3bps this year. The link is drawn here, not in the item.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US weekly jobless claims fall as layoffs remain low",
+    "region": "Americas",
+    "body": "The number of Americans filing new claims for unemployment benefits fell last week, pointing to continued labour market stability despite job growth slowing sharply in September. (The Edge Malaysia)",
+    "takeaways": [
+     "New US jobless claims fell last week.",
+     "Layoffs remain low, which points to a stable labour market.",
+     "Job growth slowed sharply in September.",
+     "The item gives no claims figure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "ECB policymakers, accounts dampen near-term rate hike bets",
+    "region": "Europe",
+    "body": "Euro zone inflation could go higher than already-elevated projections, but policymakers dampened near-term rate hike bets on Thursday, arguing that underlying trends reveal a more benign picture. (Reuters)",
+    "takeaways": [
+     "ECB policymakers say euro zone inflation could exceed already-elevated projections.",
+     "Even so, they played down a near-term rate hike.",
+     "Their argument is that underlying trends look more benign.",
+     "Kenanga's Ringgit Weekly Outlook in today's bundle makes a related point: Fed tightening expectations are firmer than the ECB's. It shows EURUSD down 0.97% on the week to 1.118. The link is drawn here, not in the item.",
+     "Digest context only; this item is sourced to Reuters."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-261009-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>FRONTKN's target is given two ways.</b> The text twice gives RM5.70, matching this board's 8 October Market Strategy row. The peer table gives RM5.72, and its 14.9% upside is struck on RM5.72 (computed here). (2) <b>Three ratings sit outside Kenanga's own return bands</b> on the peer table (computed here as upside plus net yield). OPPSTAR is UNDERPERFORM at +8.7%, which falls in the MARKET PERFORM band. D&O is MARKET PERFORM at about -21.0% and PIE MARKET PERFORM at -10.1%, both below the -5% floor. This board's 27 August row had OPPSTAR at MARKET PERFORM with the same RM0.75 target. No note downgrading it is on this board. (3) <b>SKP RESOURCES' target</b> is RM0.270 here, against RM0.26 on this board's 1 September row. (4) <b>SKYECHIP's dividend looks misprinted.</b> A 70.0 sen net dividend at RM2.93 gives the printed 23.9% yield, against core EPS of 3.6 sen. Not verified against a SKYECHIP report. (5) <b>Two WFE growth figures sit side by side.</b> The text gives ex-China WFE capex growth of 46%, 41% and 17% for 2026-28. Exhibit 5's title gives WFE spending growth of 37% and 15% for CY27 and CY28. The basis of Exhibit 5 is not stated. Exhibits 1-7 are charts; only their titles could be read. (6) <b>Peer-table prices are as at 29 September</b>, ten days before publication. The table quotes ratings and targets for 16 stocks; those without their own row on this board have not been verified against stock reports. Filed as a Sector Update, this row carries no ticker-level rating, target or price, so those columns are empty by design. The sector call is NEUTRAL, unchanged. Typo as printed: 'contininue'.",
+   "result": null,
+   "conviction": "\"Against this backdrop, we contininue to favour front-end names due to their clearer earnings visibility, with KGB (OP; TP: RM10.10), UWC (OP; TP: RM7.83), FRONTKN (OP; TP: RM5.70), NATGATE (OP, TP: RM2.14), AMBEST (OP, TP: RM1.80) remaining our top sector picks.\"",
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Technology",
+   "name": "Technology Sector Update (4QCY26 Strategy): AI Upcycle, Execution Counts",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "Kenanga <b>keeps Technology at NEUTRAL</b> but calls itself constructive. It cites record semiconductor demand, a multi-year wafer-fab-equipment upcycle and sustained AI infrastructure spending, and sees <b>FY27 as the sector's key earnings inflection year</b>. Its argument is that the next re-rating will come from <b>execution and earnings conversion, not AI exposure alone</b>. It names macro headwinds (bond yields, tighter financial conditions, geopolitics) as the main near-term threat, not weakening fundamentals. Its <b>top sector picks are KGB, UWC, FRONTKN, NATGATE and AMBEST</b>, front-end names with clearer earnings visibility. INFOMINA is its preferred AI software exposure.",
+   "quote": "That said, we believe the next phase of re-rating will increasingly be driven by execution and earnings conversion rather than AI exposure alone.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Technology-261009-SU-4Q26-Strategy-Kenanga.pdf",
+   "summary": [
+    "Demand is at records. Global semiconductor sales reached USD160b in August 2026, up 144.3% YoY. Sales for the first eight months, USD957b (+103%), already exceed the previous full-year record. The full-year projection Kenanga cites is USD1.5t-1.6t. Reaching that needs about USD136b-161b a month for the rest of the year, against an eight-month average of about USD120b (computed here). The top end needs every remaining month to match August's record. Exhibit 3's title has the top four hyperscalers' capex rising 97% and 31% in 2026-27, to USD686b and USD898b. Exhibit 4 puts the correlation between WFE capex and hyperscaler capex at about 0.81.",
+    "The equipment cycle. Kenanga's bottom-up work projects ex-China WFE capex growth of 46% in 2026, then 41% and 17% in 2027-28, matching this board's 8 October Market Strategy row. It credits aggressive hyperscaler capex and capacity expansion in leading-edge logic, memory and AI. A wave of new fabs is due to start ramping from 2026 (Exhibit 6, sourced to SEMI). Exhibit 5 gives a different pair of figures (see flag).",
+    "What the Penang and Johor visits showed. Kenanga says management confidence is noticeably stronger and demand is running ahead of what the supply chain can deliver. Demand is broad, spanning semiconductor equipment, inspection, storage and data-centre infrastructure, rather than one product or customer. Capacity is becoming the bottleneck, and companies with qualified capacity available are better placed. Much new capacity is still in qualification or early production, which is why Kenanga sees FY27 as a ramp year. It says the question is now how fast companies can execute, not whether demand exists.",
+    "The picks, from the peer table at 29 September prices. KGB: RM8.73 against RM10.10 (15.7% upside), 40.2x one-year forward PER. UWC: RM6.80 against RM7.83 (15.1%), 79.5x. FRONTKN: RM4.98 against RM5.72 in the table (14.9%), 40.4x. NATGATE: RM1.79 against RM2.14 (19.6%), 97.5x. AMBEST: RM1.40 against RM1.80 (28.6%), 46.3x. INFOMINA: RM1.70 against RM1.90 (11.8%), 22.4x. The simple average PER for the 16 stocks is 45.1x, falling to 31.1x a year further out. The KGB, UWC, NATGATE and AMBEST targets match this board's rows of 15 September, 1 October, 24 August and 11 September. The table carries UNDERPERFORM on UNISEM (RM3.81), OPPSTAR and SKP RESOURCES.",
+    "Why this row reads Positive. Page 2 says Kenanga continues to favour front-end names, with KGB, UWC, FRONTKN, NATGATE and AMBEST 'remaining our top sector picks'. Page 1 says 'INFOMINA (OP; TP: RM1.90) remains our preferred AI software exposure'. Both are pick declarations in Kenanga's own words. AMBEST joined the tech picks in the 8 October Market Strategy. Kenanga's stated threats are intermittent profit-taking and valuation compression from elevated bond yields, tighter monetary conditions and geopolitical fragmentation. It reads any near-term weakness as market volatility, not a turn in the cycle, as long as AI capex, fab construction and chip demand hold."
+   ],
+   "analyst": {
+    "v": "positive",
+    "house": "Hong Leong Investment Bank",
+    "date": "23 Jul 2026",
+    "opp": false,
+    "note": "<b>A named house names one of Kenanga's top sector picks, UWC, among its own top picks, so the Analyst Signal reads Positive.</b> The Edge Malaysia reported on <b>23 July 2026</b> that 'HLIB maintained in a note its 'overweight' stance on the Malaysian technology sector, with top picks being ITMAX System Bhd (KL:ITMAX), UWC Bhd (KL:UWC), Inari Amertron Bhd (KL:INARI), and Unisem (M) Bhd (KL:UNISEM).' <b>The date gap is large: 78 days before this Kenanga note</b> (computed here). It is HLIB's most recent tech-sector pick statement that could be read. Search summaries point to a later HLIB note reported by Business Today on 8 September, said to name ViTrox, UWC and SAM Engineering as top hardware picks. That page returned HTTP 403, so <b>it is not used</b>, and it does not set this signal. HLIB's picks have shifted over time: its 8 June list had ITMAX, UWC, Frontken and Unisem, so Frontken has since dropped out. HLIB's UNISEM pick is the opposite of Kenanga's UNDERPERFORM on that stock. The rule sets the marker on a stock rating, and this row carries none, so it is not set. <b>Other houses, most recent retrievable sector statement each.</b> <b>TA Securities</b> (The Star, 21 Sep 2026): neutral on semiconductors, top pick Dagang Nexchange. <b>CIMB Securities</b> (The Star, 12 Aug 2026): overweight, MPI among its top sector picks. <b>AmInvestment Bank</b> (The Edge, 4 Aug 2026): favours companies with earnings upside, naming Inari and Kelington. 'Favouring' is not pick language under this board's rule. <b>Public Investment Bank</b> (NST, 7 Aug 2026): overweight, names NationGate among beneficiaries of US curbs, without pick language. <b>Maybank Investment Bank</b> (The Edge, 30 Jun 2026): top picks include ViTrox and Pentamaster. <b>RHB Investment Bank</b>: its pick in automated test equipment is Pentamaster, and it favours MPI (The Edge cover story, 7-13 Sep 2026). <b>Of the nine houses this board searches, seven yielded a dated, publicly retrievable sector call</b>: HLIB, TA, CIMB, AmInvestment, Public Investment Bank, Maybank and RHB. MIDF and Affin Hwang did not. Outside the nine, Apex Research's top picks (The Star, 6 Oct 2026) are ViTrox, EG Industries and QES, and MBSB Research kept Inari as its top pick. <b>Only UWC, through HLIB, overlaps with Kenanga's picks.</b> This board's 1 October UWC row did not record HLIB's July pick; that run's search did not surface it.",
+    "cites": [
+     [
+      "The Edge Malaysia, 23 Jul 2026 &mdash; &lsquo;HLIB sees earnings surprise for tech sector, tips record quarter for UWC and ViTrox&rsquo;",
+      "https://theedgemalaysia.com/node/811747"
+     ],
+     [
+      "The Star, 21 Sep 2026 &mdash; &lsquo;Uneven gains ahead for semiconductors&rsquo; (TA Research)",
+      "https://www.thestar.com.my/business/business-news/2026/09/21/uneven-gains-ahead-for-semiconductors"
+     ],
+     [
+      "The Star, 12 Aug 2026 &mdash; &lsquo;Tech sector poised to ride AI supercycle&rsquo; (CIMB Securities)",
+      "https://www.thestar.com.my/business/business-news/2026/08/12/tech-sector-poised-to-ride-ai-supercycle"
+     ],
+     [
+      "The Edge Malaysia, 4 Aug 2026 &mdash; AmInvestment Bank on tech stocks",
+      "https://theedgemalaysia.com/node/813216"
+     ],
+     [
+      "New Straits Times, 7 Aug 2026 &mdash; &lsquo;US-China tensions boost Malaysia tech sector: PublicInvest&rsquo;",
+      "https://www.nst.com.my/amp/business/corporate/2026/08/1505912/us-china-tensions-boost-malaysia-tech-sector-publicinvest"
+     ],
+     [
+      "The Edge Malaysia, 30 Jun 2026 &mdash; &lsquo;Maybank IB upgrades tech sector...&rsquo;",
+      "https://theedgemalaysia.com/node/808797"
+     ],
+     [
+      "The Edge Malaysia, 7-13 Sep 2026 &mdash; &lsquo;Cover Story 2: Tech stocks face high bar as AI boom lifts expectations&rsquo; (RHB, MBSB, TA)",
+      "https://theedgemalaysia.com/node/817339"
+     ],
+     [
+      "The Star, 6 Oct 2026 &mdash; &lsquo;Technology industry still has room to run&rsquo; (Apex Research)",
+      "https://www.thestar.com.my/business/business-news/2026/10/06/technology-industry-still-has-room-to-run"
+     ],
+     [
+      "Business Today, 8 Sep 2026 &mdash; HLIB tech sector (not retrievable this run &mdash; HTTP 403, contents not used)",
+      "https://www.businesstoday.com.my/2026/09/08/local-tech-sector-earnings-remains-robust-as-ai-capex-could-hit-us1-2-trillion-in-2027-hlib/"
+     ]
+    ]
+   },
+   "crossCheck": null
+  },
+  {
+   "verified": true,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The revenue forecasts have changed although the note says 'Forecasts. Maintained.'</b> Today's Summary Earnings Table gives FY27F/FY28F revenue of RM2,881.0m/RM3,468.1m. Kenanga's 11 September results note, recorded on this board, gave FY27F revenue of RM2,260.5m, below FY26A's RM2,275.6m. Core net profit is unchanged at RM141.7m/RM178.4m. On today's numbers the FY27F core net margin is 4.9%, against about 6.3% implied by the September figures (computed here). The note does not explain the change, so which revenue line is current cannot be established from Kenanga's documents. The row's own figures (rating, target, price) are unaffected. (2) <b>The CBU/CKD mix differs from September.</b> Today's note gives 80%/20% against 50%/50% in FY26; the 11 September note gave 70%/30% against the same 50%/50%. (3) <b>Price and market capitalisation are given two ways.</b> The cover prints RM0.91; the peer table RM0.905. The stock box's RM1,020.2m market capitalisation equals RM0.905 x 1,127.3m shares. The peer table's RM1,050.7m implies about RM0.93 (computed here). The share count is 1,127.3m, against 1,130.8m in the September note. (4) <b>The dividend yield is given three ways</b>: 'about 11%' in the investment case, 10.8% FY27F in the tables, and 9.39% trailing on the market-data source feeding this row. (5) <b>Consensus has moved past Kenanga.</b> Consensus net profit is now RM143.5m/RM156.6m for FY27/FY28, against RM127.6m/RM145.7m in the September note. Kenanga's FY27F RM141.7m now sits slightly below consensus. Kenanga's 52-week range (RM1.10/RM0.49) differs slightly from the RM1.12/RM0.50 on the market-data source.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 1.3,
+   "ticker": "BAUTO",
+   "name": "Bermaz Auto Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 1.3,
+   "price": 0.91,
+   "divYield": 9.39,
+   "high52": 1.12,
+   "low52": 0.5,
+   "mktSrc": "https://stockanalysis.com/quote/klse/BAUTO/",
+   "catalyst": "OUTPERFORM and the <b>RM1.30 target maintained</b>, with forecasts unchanged, after the <b>all-new Mazda CX-5 was officially launched on 8 October 2026</b> with 600 pre-launch bookings. Kenanga calls the launch the start of BAUTO's new earnings growth trajectory. It expects net profit to stay above RM100m in FY27, then climb towards RM200m once a CKD CX-5 arrives in July/August 2027 and a new B-segment compact SUV enters CKD production by end-2027. The target rests on an unchanged 9x CY27F PER and implies about 42.9% upside from RM0.91 (computed here), before a 10.8% FY27F net dividend yield.",
+   "quote": "We have sufficiently factored the new models pending official launches to determine the market responses. We maintain our forecasts, TP of RM1.30 and OUTPERFORM call.",
+   "summary": [
+    "The call is unchanged in every respect. OUTPERFORM, a RM1.30 target on 9x CY27F PER, which Kenanga puts at a 2x discount to the sector's 11x average forward PER and to BAUTO's own five-year average. There is no ESG adjustment on a 3-star rating. This matches the RM1.30 recorded on this board's 11 September results row. From RM0.91 that is about 42.9% upside (computed here; the peer table prints 43.6% at RM0.905). Add the FY27F net dividend yield of 10.8% on 9.8 sen NDPS. Kenanga again says earnings risk for non-national brands should subside, given stricter barriers for new EV brands: a RM200k CIF floor for CBU EVs and the localisation policy.",
+    "The launch, in numbers. The third-generation CX-5 was launched on 8 October at One Utama, after its public debut at KLIMS in June. Pre-launch bookings reached 600 units. There were 200 units for immediate delivery and 70 for showrooms. BAUTO aims to deliver up to 300 a month as a CBU import, rising to up to 500 a month for the CKD version from July/August 2027. It is priced at RM171,510 on the road for a limited 300 units with a sunroof, and RM168k without. It has a 2.5-litre naturally aspirated engine, upgraded driver-assistance systems and a five-year/100,000km warranty with free maintenance.",
+    "The pipeline Kenanga sees beyond the CX-5. First, an as-yet-unnamed B-segment compact SUV from Mazda's Thai hub, CKD-only for Malaysia from end-2027 or early 2028. It would be priced around RM120k and sit on the CX-30 platform, and Kenanga calls it the new volume driver. Second, the Mazda 6e electric sedan, built with Changan, which Kenanga expects above RM200k CIF and RM250k-300k on the road in 2HCY27. At up to 100 units a year it is not expected to drive volume. Kenanga also notes BAUTO's 11.54% stake in contract assembler EP Manufacturing, and its exclusive Xpeng distributorship.",
+    "The forecasts underneath. Core net profit is RM141.7m for FY27F (+35.3%) and RM178.4m for FY28F (+26.0%), from RM104.7m in FY26A. Core EPS is 12.2 and 15.4 sen, and NDPS 9.8 and 12.3 sen. That puts the stock at 7.4x and 5.9x earnings. These are the same profit figures as in the 11 September note. The revenue line underneath them has been raised sharply, to RM2,881.0m for FY27F, without comment (see flag). The order backlog is 1.7k units, against 1.5k a year ago. Kenanga says a CBU-heavy mix benefits from a weak yen against the ringgit.",
+    "Why this row reads None stated. The investment case opens 'We like BAUTO for' strong near-term earnings visibility, a premium mid-market brand and an attractive dividend yield of about 11%. That is an investment case, not a pick declaration, so under this board's rule the Kenanga Signal reads None stated. No top pick, sector pick, preferred or most-attractive language appears in the note. The stated risks are consumers cutting back on big-ticket purchases amid high inflation, supply-chain disruptions, rising input costs, and a weaker ringgit against the yen. The Analyst Signal is separate and reads Positive on a named house's call (see below)."
+   ],
+   "analyst": {
+    "v": "positive",
+    "house": "CIMB Securities",
+    "date": "24 Sep 2026",
+    "opp": true,
+    "note": "<b>A named house names BAUTO among its preferred stocks, so the Analyst Signal reads Positive.</b> The Star reported on <b>24 September 2026</b>, 15 days before this Kenanga note, that 'CIMB Research said its preferred stocks are Bermaz Auto Bhd, whihc it rated \"buy\" with a RM1.25 target price, and HI Mobility Bhd, also rated a \"buy\" with a RM2.80 target price.' The typo is in the original. The pick sits in an automotive sector note that keeps a 2026 TIV forecast of 800,000 units. <b>Two qualifications.</b> The article does not date CIMB's own note, so the 15-day gap is to the reporting date. The pick also reaches this board as reported speech, not from CIMB's note itself. CIMB's RM1.25 is RM0.05 below Kenanga's RM1.30. No later CIMB statement on BAUTO was found. <b>Other houses, most recent retrievable call each.</b> <b>Maybank Investment Bank</b>: BUY, RM1.35, in a 14 September note reported in The Edge's Brokers Digest. It says the recovery 'continues to outperform market expectations', which is not pick language. <b>Hong Leong Investment Bank</b>: BUY, RM1.18 unchanged. <b>RHB Research</b>: upgraded to BUY, RM1.15 (both The Star, 14 September). <b>Public Investment Bank</b>: OUTPERFORM, RM1.28 (The Edge, 11 September). <b>Of the nine houses this board searches, five yielded a dated, publicly retrievable call</b>: CIMB, Maybank, HLIB, RHB and Public Investment Bank. AmInvestment Bank, TA Securities, MIDF and Affin Hwang did not. <b>On divergence:</b> the marker is set. <b>BIMB Securities</b>, outside the nine, 'maintains a \"Hold\" call on Bermaz Auto Bhd, with a target price of 96 sen' (New Straits Times, 15 September 2026). <b>MBSB Research</b>'s NEUTRAL at RM0.85 (11 September), recorded on this board's 11 September row, is the latest MBSB call that could be read. Search summaries say Business Today reported an MBSB upgrade today, but the page returned HTTP 403, so <b>it is not used</b>. UOB Kay Hian (outside the nine) raised its target to RM1.30 with a buy on 14 September and is quoted as saying it continues 'to like' BAUTO, which is not pick language. <b>None stated would have meant no conviction found in accessible sources, not that no house holds a view.</b> No permitted source carrying another house's reaction to the 8 October launch was found.",
+    "cites": [
+     [
+      "The Star, 24 Sep 2026 &mdash; &lsquo;Vehicle sales poised to reach 800,000 units in 2026 on rising demand&rsquo; (CIMB Research preferred stocks)",
+      "https://www.thestar.com.my/business/business-news/2026/09/24/vehicle-sales-poised-to-reach-800000-units-in-2026-on-rising-demand"
+     ],
+     [
+      "The Edge Malaysia, Brokers Digest &mdash; Maybank Investment Bank Research (14 Sep note), BUY, RM1.35",
+      "https://theedgemalaysia.com/node/819008"
+     ],
+     [
+      "The Star, 14 Sep 2026 &mdash; &lsquo;BAuto's earnings recovery gains traction on new models&rsquo; (HLIB, RHB, UOB Kay Hian, BIMB)",
+      "https://www.thestar.com.my/business/business-news/2026/09/14/bautos-earnings-recovery-gains-traction-on-new-models"
+     ],
+     [
+      "New Straits Times via KLSE Screener, 15 Sep 2026 &mdash; BIMB Research &lsquo;Hold&rsquo;, 96 sen",
+      "https://www.klsescreener.com/v2/news/view/1792259/byd-039-s-shift-to-contract-assembly-a-boon-for-sime-darby-but-inokom-039-s-capacity-a-question-says-bimb"
+     ],
+     [
+      "Business Today, 9 Oct 2026 &mdash; (not retrievable this run &mdash; HTTP 403, contents not used)",
+      "https://www.businesstoday.com.my/2026/10/09/bermas-auto-making-u-turn-in-earnings-performance/"
+     ]
+    ]
+   },
+   "crossCheck": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/BAUTO-261009-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The charter terms are Kenanga's assumptions, not disclosed figures.</b> Kenanga says 'No details of the charter have been announced'. The USD90,000/day rate, 8% IRR, USD220m per vessel (taken from a recent ADNOC order at Jiangnan) and 7% WACC are its own inputs. The RM0.10 accretion and RM162m earnings impact follow from them. (2) <b>Possible overlap with an earlier award.</b> The Edge reported on 12 May 2026 that MISC signed 20-year charters with PETRONAS LNG for five 174,000m3 Hudong-Zhonghua carriers starting 2029-2030. Today's award is also five Hudong-Zhonghua carriers for PETRONAS LNG, starting 2030, with shipbuilding contracts still to be signed. The reports read as two separate awards, but neither Kenanga's note nor the October news reports say so explicitly. (3) <b>The ESG wording and the valuation table differ.</b> The text says there is 'no change to our valuation based on ESG given a 4-star ESG rating'. The sum-of-parts applies a 5% ESG premium, and the ratings key maps 4 stars to +5%. RM39,511m / 4,463.8m shares gives RM8.85, and plus 5% about RM9.29 (computed here). 'No change' is read here as no change from the previous note; that reading is inferred. (4) <b>The 52-week range differs by source.</b> Kenanga prints RM8.73/RM7.15; the market-data source feeding this row has RM9.04/RM7.12. (5) The RM7.2b cash 'based on latest reported financial results' differs from the RM6,096m year-end FY25 balance sheet in the note's own tables. These are different dates, so they are not in conflict.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 9.2,
+   "ticker": "MISC",
+   "name": "MISC Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 9.3,
+   "price": 7.54,
+   "divYield": 5.04,
+   "high52": 9.04,
+   "low52": 7.12,
+   "mktSrc": "https://stockanalysis.com/quote/klse/MISC/",
+   "catalyst": "OUTPERFORM maintained, <b>target raised to RM9.30 from RM9.20</b> after MISC accepted a letter of award from PETRONAS LNG for <b>long-term charters of five newbuild LNG carriers</b>, to be built by Hudong-Zhonghua in China, with charters starting in 2030. No charter terms were announced. On its own assumptions of USD90,000/day, an 8% IRR and USD220m per vessel, Kenanga adds RM0.10/share by DCF. It warns that LNG carrier IRRs have been shrinking as charter rates stay flat while newbuild costs rise. Forecasts are unchanged. The new target is 23.3% above RM7.54, before a 5.4% FY26F yield.",
+   "quote": "Maintain forecast with SOP TP tweaked up to RM9.30 from RM9.20. Maintain OUTPERFORM.",
+   "summary": [
+    "The award. MISC has accepted a letter of award from PETRONAS LNG for long-term charters of five newbuild LNG carriers. It will sign shipbuilding contracts with Hudong-Zhonghua Shipbuilding, and the charters are expected to start in 2030. Kenanga says no further details were announced. Two facts from outside the note, from MISC's announcement as reported by The Star on 8 October: each charter is a firm 20 years, and MISC expects no material impact on its earnings per share, gearing or net assets per share for FY2026. That fits Kenanga leaving its forecasts unchanged. No contract value has been disclosed.",
+    "How Kenanga values it. It assumes a USD90,000/day charter rate (the higher band of recent LNG carrier rates), an 8% IRR and USD220m capex per vessel. On a 7% WACC that gives DCF accretion of RM0.10/share. The sum-of-parts is LNG RM12,979m (DCF at 7%), offshore RM14,788m (DCF at 6%), petroleum shipping RM16,460m (tanker market value) and MMHE RM707m (0.4x book), less FY27F net debt of RM5,423m. That gives RM39,511m, and RM9.30 a share after a 5% ESG premium. It puts the potential earnings impact of the five vessels at RM162m, 6% of the FY26F base. The note does not say from which year.",
+    "Funding is not a constraint. The five vessels total USD1.1b of capex. Assuming 70% debt, the equity portion is USD330m, which Kenanga says MISC can cover from RM7.2b of cash on its latest reported balance sheet. It calls the win earnings-accretive, and says MISC avoids spot-market risk because PETRONAS is the counterparty.",
+    "The caution Kenanga attaches. Returns on new LNG carriers are 'not as attractive as before'. Charter rates have been broadly flat for three years while newbuild costs have risen every year since 2020, on supply-chain pressure and fuller shipyards. A decade ago, the Puteri-class vessels earned better returns. Forecasts are held: core net profit of RM2,652m for FY26F (+25.1%) and RM2,544m for FY27F (-4.1%), DPS of 41.0 and 36.0 sen. These sit about 4.1% and 5.7% below the consensus RM2,764m and RM2,697m printed in the same table (computed here).",
+    "Why this row reads None stated, and the price path. The investment case opens 'We like MISC for its' exposure to the petroleum tanker market, a large recurring earnings base that supports dividends, and LNG shipping growth. That is an investment case, not a pick declaration, so the Kenanga Signal reads None stated. No pick language appears in the note. The stated risks are lower petroleum fleet utilisation and spot rates, cost overruns and delays on LNG projects under construction, and LNG overbuilding. This board's 28 August row had MISC at RM8.48 against a RM9.20 target. At RM7.54 it is about 11.1% lower (computed here). Today's digest lists MISC among the KLCI's top losers on 8 October, down 2.1%."
+   ],
+   "analyst": {
+    "v": "positive",
+    "house": "MBSB Research",
+    "date": "16 Sep 2026",
+    "opp": true,
+    "note": "<b>A named house names MISC among its top picks, so the Analyst Signal reads Positive.</b> The Star reported on <b>16 September 2026</b>, 23 days before this Kenanga note, that MBSB Research kept its 'positive' rating on the oil and gas sector, and that 'Its top picks are MISC Bhd, with a target price of RM9.22, and Dialog Group Bhd, with a target price of RM2.57.' The article says MISC 'is favoured for its defensive balance sheet, visible long-term cash flows and expanding order book'. <b>Qualifications.</b> The article does not date MBSB's own note or state MBSB's MISC stock rating. MBSB Research is not one of the nine houses this board searches, the same position Phillip Capital held on the 6 October Healthcare row. A Business Today page from 6 October, which search summaries suggest carries later MBSB and RHB calls, returned HTTP 403, so <b>it is not used</b>. <b>The nine houses, most recent retrievable call each, none with pick language.</b> <b>CIMB Securities</b>: buy, RM9.25 (from RM9.19), 28 July 2026. <b>RHB Investment Bank</b>: buy, RM9.71, 4 August 2026. <b>AmInvestment Bank</b>: buy, RM9.50, 27 July 2026. <b>Hong Leong Investment Bank</b>: buy, RM9.04, 10-11 August 2026. <b>Maybank Investment Bank</b>: 'hold', RM8.22, The Star, 4 December 2025. <b>Of the nine, five yielded a dated, publicly retrievable call</b>: CIMB, RHB, AmInvestment, HLIB and Maybank. Public Investment Bank, TA Securities, MIDF and Affin Hwang did not. All of these predate today's award; no permitted source carrying a named house's reaction to it was found. <b>On divergence:</b> the marker is set on Maybank Investment Bank's HOLD against Kenanga's OUTPERFORM. That call is about ten months old. It is the most recent Maybank call on MISC that could be read, and under the most-recent-statement rule it stands until a later one is retrievable.",
+    "cites": [
+     [
+      "The Star, 16 Sep 2026 &mdash; &lsquo;Favourable prospects for oil and gas sector&rsquo; (MBSB Research top picks)",
+      "https://www.thestar.com.my/business/business-news/2026/09/16/favourable-prospects-for-oil-and-gas-sector"
+     ],
+     [
+      "The Edge Malaysia via KLSE Screener, 28 Jul 2026 &mdash; &lsquo;MISC may recycle capital amid elevated spending years ahead &mdash; CIMB Securities&rsquo;",
+      "https://www.klsescreener.com/v2/news/view/1763197/misc-may-recycle-capital-amid-elevated-spending-years-ahead-cimb-securities"
+     ],
+     [
+      "The Star, 4 Aug 2026 &mdash; &lsquo;MISC expected to boost earnings profile&rsquo; (RHB)",
+      "https://www.thestar.com.my/business/business-news/2026/08/04/misc-expected-to-boost-earnings-profile"
+     ],
+     [
+      "The Star, 27 Jul 2026 &mdash; &lsquo;Minimal impact likely on MISC from latest Gulf war developments&rsquo; (AmInvestment)",
+      "https://www.thestar.com.my/business/business-news/2026/07/27/minimal-impact-likely-on-misc-from-latest-gulf-war-developments"
+     ],
+     [
+      "The Star, 11 Aug 2026 &mdash; &lsquo;MISC on steady footing despite shipping volatility&rsquo; (HLIB)",
+      "https://www.thestar.com.my/business/business-news/2026/08/11/misc-on-steady-footing-despite-shipping-volatility"
+     ],
+     [
+      "The Star, 4 Dec 2025 &mdash; &lsquo;FPSO supercycle set to strengthen MISC prospects&rsquo; (Maybank IB hold)",
+      "https://www.thestar.com.my/business/business-news/2025/12/04/fpso-supercycle-set-to-strengthen-misc-prospects"
+     ],
+     [
+      "The Star, 8 Oct 2026 &mdash; &lsquo;MISC secures 20-year LNG shipping contracts from PETRONAS LNG&rsquo; (award terms; no house calls)",
+      "https://www.thestar.com.my/business/business-news/2026/10/08/misc-secures-20-year-lng-shipping-contracts-from-petronas-lng"
+     ],
+     [
+      "The Edge Malaysia, 12 May 2026 &mdash; earlier five-carrier PETRONAS LNG charter (Hudong-Zhonghua, 2029-2030)",
+      "https://theedgemalaysia.com/node/803200"
+     ],
+     [
+      "Business Today, 6 Oct 2026 &mdash; (not retrievable this run &mdash; HTTP 403, contents not used)",
+      "https://www.businesstoday.com.my/2026/10/06/misc-names-new-lng-carrier-under-15-year-qatarenergy-charter/"
+     ]
+    ]
+   },
+   "crossCheck": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/MISC-261009-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>The Q3-26 column has changed basis.</b> On this board's 25 September row, Table 1 forecast end-Q3 at 3.95% for the 10-year MGS, 4.85% for the UST and 4.05 for USDMYR. Today's Table 1 prints 3.99%, 5.28% and 4.08 for Q3-26. Only Q4-26 onwards carry the 'F' forecast marker, so these are read here as end-September outturns. That reading is inferred; the note does not say so. (2) <b>The equity-flow figure cannot be reconciled to Kenanga's own digests.</b> The note says foreign investors sold RM0.8b of Bursa equities 'last week' but does not define the week. Kenanga's digests on this board record foreign net flows of -RM79.6m (5 Oct), -RM6.4m (6 Oct), -RM63.4m (7 Oct) and -RM194.7m (8 Oct, today's digest), a combined -RM344.1m, and -RM187.9m on 1 October (computed here). The 2 October session is not on this board. Neither window obviously gives RM0.8b. (3) <b>Two tables are both numbered 'Table 3'</b> (the auction calendar and the bond yield movements). (4) Page headers read '6 S' and 'ENANGA INVESTMENT BANK BERHAD', with a Level 12 address against Level 17 in the main imprint. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "MY Bond Market Weekly",
+   "name": "Bond Market Weekly Outlook: Budget 2027 sets the tone for October: long end anchored, front end pinned by Fed and BNM",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "MGS and GII yields fell across most of the curve, by -9.4bps to +1.2bps, in the week to 8 October. The <b>10-year MGS fell 8.3bps to 3.947%</b> and the 10-year GII fell 3.2bps to 4.021%. Kenanga says domestic investors led the rally, positioning ahead of Budget 2027, while <b>foreign investors sold a net RM3.0b of Malaysian bonds</b> and RM0.8b of equities. It also cites the World Bank's upgrade of Malaysia's 2026 growth forecast to 5.1% from 4.4%. UST yields fell 0.1-3.4bps, with the 10-year at 5.227%. Kenanga expects MGS yields to stay supported with a <b>mild downward bias</b>. It sees a December Fed hike and BNM's expected 1Q27 normalisation keeping the front end sticky, and names the Budget 2027 deficit target as the key swing factor.",
+   "quote": "Signs of minimal fiscal slippage should keep the long end anchored.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/EV_Bond-Market-Weekly-Outlook_261009-Kenanga.pdf",
+   "summary": [
+    "The week, from Table 3. Between 1 and 8 October the 10-year MGS fell 8.3bps to 3.947% and the 7-year fell 9.4bps to 3.934%. Gains were concentrated in the 7- to 10-year tenors. The short end barely moved: the 3-year MGS fell 0.7bps, and the 3-year GII rose 1.2bps to 3.509% despite a 3.02x bid-to-cover at its reopening. The 15-year MGS rose 1.0bp. Year-to-date, the 10-year MGS is still up 45.5bps. The 10-year MGS-UST gap is now about 128.0bps, against about 121.1bps on 1 October (computed here from Table 3).",
+    "Domestic money did the buying. Foreign investors sold a net RM3.0b of Malaysian bonds and RM0.8b of Bursa equities, their second straight week of net equity selling. Kenanga says that left domestic investors to lead the rally. The drivers it names are positioning ahead of Budget 2027, expectations of contained fiscal slippage, a mild recovery in global bonds after strong UST auctions, and the World Bank raising Malaysia's 2026 growth forecast to 5.1% from 4.4% on AI-related investment. The equity figure could not be reconciled to Kenanga's digests (see flag).",
+    "US Treasuries edged lower in yield. The 10-year UST fell 1.4bps to 5.227% and the 2-year 3.4bps to 4.758%. Kenanga cites safe-haven demand from French fiscal and political turmoil, and strong 10- and 30-year auctions. It says President Trump's pledge not to strike Iran before the November midterms briefly eased oil, but reports of US strike plans kept Brent above USD100/barrel. Hawkish September FOMC minutes signalling another hike by year-end capped the decline. The 10-year UST is up 38.6bps on the month and 106.0bps year-to-date. The 10-year UK gilt rose 8.3bps on the week to 5.481%.",
+    "The forecasts. Table 1 has the 10-year MGS at 3.88% for Q4-26, 3.87% for Q1-27, 3.78% for Q2-27 and a new 3.65% for Q3-27. It has the UST at 4.80%, 4.75%, 4.69% and 4.58%, and USDMYR at 4.00, 4.05, 4.02 and 3.95. The OPR is 2.75% until a rise to 3.00% in Q1-27. Against this board's 25 September row, the Q4-26 and Q2-27 MGS points are unchanged. USDMYR Q4-26 moves to 4.00 from 3.95, matching the year-end revision of 30 September recorded on this board's 8 October row, and Q1-27 to 4.05 from 4.00. The OPR hike is new since that row. Kenanga keeps its call for a 25bps Fed hike in December, to 4.00-4.25%.",
+    "Supply and the week ahead. The 3.5-year MGII 10/29 reopening raised RM5.0b at an average 3.506%, with a 3.02x bid-to-cover, which Kenanga calls strong demand. Next is a 15-year MGS 1/41 reopening, with RM3.5b on tender and RM1.5b by private placement. A 20-year MGII 5/45 reopening and a new 10-year MGS are also on the October calendar. Locally, the note points to the labour, industrial production and retail data out today, Budget 2027, and next week's 3Q26 advance GDP estimate. In the US, September core CPI is the focus, with consensus converging on 0.2% MoM, which Kenanga says supports an October pause. It says sticky oil and geopolitical risk tilt inflation risks higher."
+   ]
+  },
+  {
+   "verified": true,
+   "flag": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>Table 2's 'Last Month' column is again dated 28/04/26</b>, the same issue this board flagged on 25 September. Its 'mom' column (USDMYR +3.51% from 3.953) therefore measures about five months, not one. (2) <b>The week is measured from two different days.</b> The text says the ringgit eased to 4.092 'from 4.085 last Friday'. Table 2's 'Last Week' column, also 4.085, is dated 01/10/26, a Thursday. The table's 0.15% week-on-week move is Thursday to Thursday. (3) <b>The year-end forecast needs a sizeable move.</b> A 4.00 year-end is about 2.2% stronger than the 4.092 close (computed here). The near-term call, meanwhile, is 4.08-4.10 'with risk skewed toward the weaker end'. Both are carried as printed. Table 1 matches the USDMYR path in today's Bond Market Weekly Outlook exactly. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Ringgit Weekly",
+   "name": "Ringgit Weekly Outlook: Budget 2027, Fed hawkishness and US Sep CPI put ringgit's 4.10 line to the test",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "The ringgit eased to <b>4.092/USD</b> on Thursday from 4.085, holding a tight 4.085-4.092 range all week. French fiscal turmoil sank the euro and lifted DXY to fresh year highs. Hawkish September FOMC minutes and Waller's remarks locked in bets on a December hike. Kenanga expects <b>a 25bps Fed hike in December</b>, with US-Iran de-escalation in 4Q26 limiting tightening to one more move. It sees the ringgit trading at <b>4.08-4.10 next week, with risk skewed toward the weaker end</b>, and says a Budget 2027 showing minimal fiscal slippage should cushion it. Its year-end forecast stays at 4.00.",
+   "quote": "We see MYR trading at 4.08-4.10 range next week, with risk skewed toward the weaker end.",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/EV_Ringgit-Weekly-Outlook_261009-Kenanga.pdf",
+   "summary": [
+    "This week's driver is the euro, not the ringgit. Kenanga attributes the dollar's strength to French fiscal turmoil, which sank the euro and lifted DXY to fresh year highs. Table 2 bears that out: EURUSD fell 0.97% on the week to 1.118, and EURMYR fell 0.64% while USDMYR rose only 0.15%. Against the other core pairs, the ringgit weakened slightly: AUDMYR +0.43%, SGDMYR +0.12%, GBPMYR +0.09%. The 4.092 close and the 1.118 EURUSD match today's digest forex table (4.0915 and 1.1184).",
+    "The Fed call: December, and one more move only. Kenanga says hawkish September FOMC minutes and Waller's remarks locked in bets on a December hike. It says sticky oil and an AI-driven inflation impulse keep Fed tightening expectations firmer than the ECB's. It expects one 25bps hike in December, with US-Iran de-escalation in 4Q26 limiting tightening to that one move even with Brent above USD100/barrel. This is consistent with the 'one more 25bps Fed hike in 4Q26' recorded on this board's 8 October Bond Flows row. Elevated UST yields and rising volatility, it says, drained carry flows and left investors light on the ringgit ahead of Budget 2027.",
+    "Budget 2027 is the domestic test. The note says the Prime Minister tables Budget 2027 today, after labour, IPI and retail sales data at noon. Markets will look at the deficit target for signs of fiscal slippage. Kenanga says minimal slippage, together with Malaysia's 'solid fundamentals', should cushion the ringgit. It also says investors will likely stay cautious until French fiscal risk and Hormuz headlines ease. It expects spikes toward 4.10 to draw selective ringgit buying.",
+    "The forecast path. Table 1 gives USDMYR at 4.08 for Q3-26, then 4.00 for Q4-26, 4.05 for Q1-27, 4.02 for Q2-27, 3.95 for Q3-27 and a new 3.90 for Q4-27, with a bearish long-term trend for the dollar. The 4.00 year-end matches the target Kenanga raised from 3.95 on 30 September, recorded on this board's 8 October reserves row. Year-to-date, Table 2 has the ringgit 0.93% weaker against the dollar, but 2.97% stronger year-on-year. Among regional currencies the dollar is up 7.12% year-to-date against IDR and 6.85% against both THB and PHP, while CNY has gained 4.09% on the dollar.",
+    "The data calendar and the technicals. The calendar runs: 13 October, US weekly ADP employment (23.75k previously) and September existing home sales (3.98m). 14 October: China September inflation (0.8% YoY) and trade balance (USD119.1b), and US September core inflation (0.3% MoM previously). 15 October: US PPI (0.4% MoM) and retail sales (1.2% MoM). 16 October: Malaysia's preliminary 3Q GDP, forecast 5.1% YoY against 6.0% previously. On the technicals, RSI-7 is 66.6 and the 5-day EMA 4.089, with momentum neutral. Support is at 4.088 and 4.084, and resistance at 4.093 and 4.095."
+   ]
+  }
+ ]
+}
