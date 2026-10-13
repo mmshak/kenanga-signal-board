@@ -1,0 +1,360 @@
+{
+ "date": "2026-10-13",
+ "schema": 1,
+ "daily": {
+  "klci": 1618.0,
+  "chg": 9.56,
+  "pct": 0.59,
+  "inst": -43.4,
+  "instPct": 39.0,
+  "retail": 149.1,
+  "retailPct": 31.2,
+  "foreign": -105.7,
+  "foreignPct": 29.7,
+  "ideas": "ESG Thematic: Sustainability; Sector Update: Plantation; Company Update: IJM, UMCCA",
+  "news": [
+   {
+    "h": "MN Holdings bags RM293.9m job to build power facilities for a data centre",
+    "body": "MN Holdings Bhd has secured a RM293.9m contract to build two high-voltage power facilities for a data centre development in the central region of Peninsular Malaysia. The infrastructure utilities construction and engineering group said its wholly-owned MN Power Transmission Sdn Bhd had accepted a letter of award (LOA) from an undisclosed Malaysian company involved in providing infrastructure for hosting, data processing and related services. The exact location of the project was also not disclosed. The contract involves the construction of two 275-kilovolt (kV) consumer landing stations. (The Edge Malaysia)",
+    "takeaways": [
+     "MN Holdings has won a RM293.9m contract to build two high-voltage power facilities for a data centre in the central region of Peninsular Malaysia.",
+     "The award went to wholly owned MN Power Transmission Sdn Bhd through a letter of award.",
+     "The work is two 275kV consumer landing stations.",
+     "Neither the client nor the exact location is named. The item gives no timeline and no margin.",
+     "This board holds no Kenanga coverage of MN Holdings. Digest context only."
+    ]
+   },
+   {
+    "h": "Kinergy bags RM47.5m electrical works contract for hyperscale data centre",
+    "body": "Kinergy Advancement Bhd has secured a RM47.5m subcontract from Gamuda Bhd's unit for electrical works at a hyperscale data centre in Bandar Spring Hill, Port Dickson. The subcontract was awarded by Gamuda Bhd's wholly-owned subsidiary, Gamuda Engineering Sdn Bhd, for the data centre for a multi-national technology company headquartered in the US. The company was not named in the filing on Monday (Oct 12). Under the contract, Kinergy will design, supply, install, test and commission the electrical infrastructure, including substations, transformers, power distribution systems, cabling, lighting, backup power systems and EV charging facilities. (The Edge Malaysia)",
+    "takeaways": [
+     "Kinergy Advancement has won a RM47.5m electrical subcontract at a hyperscale data centre in Bandar Spring Hill, Port Dickson.",
+     "The subcontract comes from Gamuda Engineering Sdn Bhd, a wholly owned Gamuda unit. The end client is a US-headquartered multinational technology company, not named in the 12 October filing.",
+     "Kinergy will design, supply, install, test and commission the electrical works, from substations and transformers to backup power and EV charging.",
+     "The item gives no timeline or margin.",
+     "This board holds no Kenanga coverage of Kinergy. Its latest GAMUDA row is Kenanga's 30 September Results Note (OUTPERFORM, target RM5.90); this item does not bear on that call. Digest context only."
+    ]
+   },
+   {
+    "h": "iCents Group bags RM36.2m job from US-based company for EPCC works in Selangor",
+    "body": "Cleanroom services provider iCents Group Holdings Bhd said it has secured a contract worth RM36.2m to undertake engineering, procurement, construction and commissioning (EPCC) works for the turnkey development of a semiconductor wafer processing facility in Selangor. The contract was awarded by a Malaysian subsidiary of a US-based company, iCents said in a bourse filing, without identifying the company. The group said the semiconductor wafer processing facility will be built in four phases. Phase 1, which comprises RM36.2m worth of work, is split into two stages. The first stage has RM21.1m worth of works and is scheduled to be completed within 18 weeks, while the second stage comprises RM15.0m worth of works. (The Edge Malaysia)",
+    "takeaways": [
+     "iCents Group has won a RM36.2m EPCC contract for a semiconductor wafer processing facility in Selangor.",
+     "The client is the Malaysian subsidiary of an unnamed US-based company.",
+     "The facility is planned in four phases. This award is Phase 1 only.",
+     "Phase 1 has two stages: RM21.1m due within 18 weeks and RM15.0m after. The stages add to RM36.1m, RM0.1m short of the RM36.2m total, presumably from rounding (computed here).",
+     "This board holds no Kenanga coverage of iCents. Digest context only."
+    ]
+   },
+   {
+    "h": "LAC Med bags RM20.0m imaging equipment supply contract for new PJ medical centre",
+    "body": "Medical technology solutions provider LAC Med Bhd has secured a seven-year contract worth up to RM20.0m to supply medical imaging equipment and related services to an upcoming specialist healthcare centre in Petaling Jaya, Selangor. The contract was awarded by Health Capitol Specialist Centre Sdn Bhd to LAC Med's wholly-owned subsidiary LAC Medical Supplies Sdn Bhd (LMS) under a master services agreement signed on Saturday (Oct 10). Under the agreement, LMS will supply, install, test and commission medical equipment, alongside providing maintenance, technical support and other related services throughout the contract period. (The Edge Malaysia)",
+    "takeaways": [
+     "LAC Med has won a seven-year contract worth up to RM20.0m to supply medical imaging equipment and services to a new specialist centre in Petaling Jaya.",
+     "The client is Health Capitol Specialist Centre Sdn Bhd. The contract sits with wholly owned LAC Medical Supplies Sdn Bhd under a master services agreement signed on 10 October.",
+     "The scope runs from supply and commissioning to maintenance and technical support over the contract period.",
+     "'Up to' RM20.0m is a ceiling, not a committed value. Spread evenly, it is about RM2.9m a year (computed here); the item gives no phasing.",
+     "This board holds no Kenanga coverage of LAC Med. Digest context only."
+    ]
+   },
+   {
+    "h": "Masteel announces 51.0% stake buy in power infra firm and private placement to raise working capital funds",
+    "body": "Steel manufacturer Malaysia Steel Works (KL) Bhd announced the acquisition of a 51.0% stake in a high-voltage electrical engineering firm for RM12.0m to expand into power infrastructure and data centre construction, as well as a proposed placement of nearly 4.0% of its issued share base to raise up to RM5.78 million for working capital. The group said that the acquisition of Anpec Global Corporation Sdn Bhd will allow it to tap into the latter's engineering capabilities and contracts with major utility companies, including Tenaga Nasional Bhd and Sabah Electricity Sdn Bhd. (The Edge Malaysia)",
+    "takeaways": [
+     "Masteel is buying 51.0% of Anpec Global Corporation Sdn Bhd, a high-voltage electrical engineering firm, for RM12.0m.",
+     "That values all of Anpec at about RM23.5m (computed here).",
+     "The stated aim is to move into power infrastructure and data centre construction, using Anpec's contracts with utilities including Tenaga Nasional and Sabah Electricity.",
+     "Separately, Masteel proposes placing nearly 4.0% of its shares to raise up to RM5.78m for working capital.",
+     "This board holds no Kenanga coverage of Masteel. Its TENAGA rows do not bear on this item. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "IMF says AI investment keeps global growth around 3.0%, with major Asia benefits",
+    "region": "Global",
+    "body": "Strong investment in AI infrastructure is keeping global growth at around 3.0%, yielding major benefits for many Asian economies that supply the hardware, such as Thailand, International Monetary Fund managing director Kristalina Georgieva said on Monday. (The Edge Malaysia)",
+    "takeaways": [
+     "IMF managing director Kristalina Georgieva says AI infrastructure investment is keeping global growth at about 3.0%.",
+     "She says Asian economies that supply the hardware benefit most, naming Thailand.",
+     "She made the remarks on Monday.",
+     "The item does not name Malaysia or give a forecast date.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "China details outcome of EU trade talks on hybrid, electric vehicles",
+    "region": "Global",
+    "body": "China's commerce ministry said on Monday that a new European Union (EU) hybrid vehicle arrangement would allow continued export growth and ensure it a quota no smaller than that of any other country, following \"intensive consultations\" between the two. (The Edge Malaysia)",
+    "takeaways": [
+     "China's commerce ministry says a new EU arrangement on hybrid vehicles will let its exports keep growing.",
+     "China says it is assured a quota no smaller than any other country's.",
+     "The arrangement follows what Beijing called 'intensive consultations' with the EU.",
+     "The item gives no quota size or tariff figures.",
+     "This follows the 12 October digest's item on China and the EU avoiding 'escalation'. Digest context only."
+    ]
+   },
+   {
+    "h": "M40 to benefit from Budget 2027 tax relief, Sara aid — Treasury secgen",
+    "region": "Malaysia",
+    "body": "Middle-income earners (M40) are among those benefitting from Budget 2027 through an increase in the individual tax relief limit to RM12,000 from RM9,000, alongside RM100 under the Sumbangan Asas Rahmah (Sara) Madani assistance to be disbursed twice next year to eligible adult Malaysians. (The Edge Malaysia)",
+    "takeaways": [
+     "The Treasury secretary-general says the M40 benefit from Budget 2027.",
+     "The individual tax relief limit rises to RM12,000 from RM9,000.",
+     "Eligible adults get RM100 of Sara Madani aid, paid twice next year, so RM200 each in total (computed here).",
+     "The item does not cost either measure.",
+     "Kenanga's 12 October Budget 2027 Economic Viewpoint, in that day's macro items, also noted relief extended to the M40. Digest context only."
+    ]
+   },
+   {
+    "h": "Balance fiscal constraints with development — Akmal Nasrullah",
+    "region": "Malaysia",
+    "body": "The government must balance fiscal constraints with the need to sustain national development and rakyat protection, said Economy Minister Akmal Nasrullah Mohd Nasir. (The Edge Malaysia)",
+    "takeaways": [
+     "Economy Minister Akmal Nasrullah Mohd Nasir says fiscal constraints must be balanced against development needs.",
+     "He also names protecting the rakyat as a priority.",
+     "The item carries no figures.",
+     "It gives no specific policy measure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Minister urges 'drastic' action to cut reliance on imports amid review of China trade deficit",
+    "region": "Malaysia",
+    "body": "The government must take \"drastic\" action to reduce its reliance on imports and strengthen domestic manufacturing, said Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani. (The Edge Malaysia)",
+    "takeaways": [
+     "Investment, Trade and Industry Minister Johari Abdul Ghani calls for 'drastic' action to cut reliance on imports.",
+     "He wants domestic manufacturing strengthened.",
+     "The headline links this to a review of the trade deficit with China.",
+     "The item gives no size for the deficit and no specific measures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Matrade welcomes Budget 2027, RM60.0m allocation to strengthen MSME exports",
+    "region": "Malaysia",
+    "body": "The RM60 million allocation made by the government under Budget 2027 to the Malaysian External Trade Development Corporation (Matrade) can help to build the capability of local companies to penetrate and diversify into export markets. (The Edge Malaysia)",
+    "takeaways": [
+     "Budget 2027 gives Matrade RM60m.",
+     "Matrade says the money can help local companies enter and diversify export markets.",
+     "The headline ties it to MSME exports.",
+     "The item gives no breakdown of how the RM60m is spent.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Singapore's President warns of AI's risk to employment for fresh graduates",
+    "region": "Asia Pacific",
+    "body": "Singapore President Tharman Shanmugaratnam said governments across the world should address the pressing issue of how the emergence of artificial intelligence is dampening jobs demand for fresh graduates. (Reuters)",
+    "takeaways": [
+     "Singapore President Tharman Shanmugaratnam says AI is dampening demand for fresh graduates.",
+     "He says governments everywhere should treat this as a pressing issue.",
+     "The item carries no figures.",
+     "It names no specific policy response.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "US mortgage bond funds suffer one of worst outflows since 2021",
+    "region": "Americas",
+    "body": "Investors fled US mortgage bond funds at historic levels over the past three weeks, with outflows ranking among the seven worst since the start of 2021, as surging interest rates spur a flight from volatility. (The Edge Malaysia)",
+    "takeaways": [
+     "US mortgage bond funds have seen heavy outflows over the past three weeks.",
+     "The outflows rank among the seven worst since the start of 2021.",
+     "The item blames surging interest rates driving investors away from volatility.",
+     "It gives no dollar amount.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Germany's debt-to-GDP ratio expected to rise to 78.25% in 2030",
+    "region": "Europe",
+    "body": "Germany's debt is expected to rise to reach 78.25% of gross domestic product in 2030, the country's stability council, which coordinates federal and state finances, said on Monday. (Reuters)",
+    "takeaways": [
+     "Germany's stability council expects debt to reach 78.25% of GDP in 2030.",
+     "The council coordinates federal and state finances.",
+     "It made the projection on Monday.",
+     "The item gives no current ratio to compare against.",
+     "Digest context only; sourced to Reuters."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-261013-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>This is filed as a Sector Update</b> although the document is headed 'ESG Thematic', because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). The same treatment was applied to earlier Thematic reports on 14 September, 30 September and 2 October. (2) <b>The stance is 'POSITIVE', which is not on Kenanga's sector scale.</b> The note's own ratings page defines only OVERWEIGHT, NEUTRAL and UNDERWEIGHT. The stance is quoted as printed and not mapped onto that scale. (3) <b>The document's dates and page numbers are inconsistent.</b> Page 1 is dated 13 October 2026. Pages 2-3 are headed '14 October 2023', and the disclaimer page '12 October 2026'. Pages are numbered '1 of 2' to '4 of 2', and a stray fragment 'Budg' appears in the page 2-3 headers. The PDF filename carries no date. The row is dated by the digest and page 1. (4) <b>One sentence is garbled.</b> Page 1 reads 'A new minimum monthly salary of RM2,500/month starting minimum wage for semi-skilled occupations and graduates.' Page 2 rephrases it as a minimum wage of RM2,500 a month for semi-skilled workers and graduates, and the summary follows page 2. (5) <b>No stock is named.</b> 'Potential Winners' and 'Headwinds' are sector categories, not stock picks. None of the conviction terms appears, so the Kenanga Signal reads None stated. There is no rating, target or share price, so those columns are empty by design.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Sustainability",
+   "name": "ESG Thematic: Sustainability &mdash; Powering Transition, Building Resilience (Budget 2027)",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "Kenanga's sustainability team is <b>overall positive on Budget 2027's sustainability measures</b>. It names energy transition as a key investment theme, alongside climate adaptation and water resilience, and is encouraged by higher conservation funding. Measures include <b>TNB's planned RM15bn grid investment</b>, RM1.5bn for solar parks at government buildings, green tax incentives extended to 2030 and a <b>RM2.5bn Non-Revenue Water programme</b>. The minimum wage rises to RM2,000 from RM1,700 from June 2027. It flags the <b>absence of a carbon tax</b> as a policy-sequencing question.",
+   "quote": "We are overall positive on the sustainability-related developments in the Budget 2027.",
+   "summary": [
+    "Energy transition money. TNB plans RM15bn to strengthen the grid. UEM Lestra plans RM1bn in energy storage and hybrid projects, and KWAP's RM1bn Climate Fund will back green projects. RM1.5bn is planned for centralised solar parks at government buildings, with 150MW under LSS6 reserved for Bumiputera companies. Green technology tax incentives are extended to 31 December 2030. Kenanga says earnings impact will depend on execution, tender awards and returns on capital.",
+    "Climate resilience and nature. Ecological Fiscal Transfer rises to RM270m. Other allocations: RM65m for community biodiversity rangers, almost RM320m for slope, drainage and ditch upgrades, and RM260m for NADMA. RM100m goes to retention ponds and river maintenance for Klang Valley flood risk, and RM15m of palm oil cess to conservation. The RM2.5bn Non-Revenue Water programme targets replacing 1,900km of ageing pipes. Kenanga sees opportunities for engineering, construction and water-infrastructure players.",
+    "Finance and mobility. Sukuk Prisma issuers can deduct qualifying issuance costs for YA2027-2030. Kenanga stresses that the Securities Commission's RM100bn five-year sustainable-investment target is a capital-mobilisation target, not a government allocation. Prasarana plans more than RM3.4bn of rail rehabilitation, RM270m goes to stage buses, and 50 highway EV-charging facilities are planned.",
+    "Wages. The minimum wage rises to RM2,000 from RM1,700 a month from June 2027, covering more than 4 million workers, with MSMEs below RM50m in sales exempted. That is a 17.6% rise (computed here), consistent with the '18%' in today's Plantation note. A RM2,500 monthly minimum is introduced for semi-skilled workers and graduates. The GLIC/GLC living-wage benchmark rises to RM3,400 from RM3,100, benefiting 230,000 workers. Kenanga lists labour-intensive sectors as facing margin headwinds: manufacturing, plantation, food services, retail, hospitality, cleaning and security. It lists consumer, retail, automation and productivity providers as possible beneficiaries.",
+    "Carbon tax and caveats. Kenanga reads the absence of a carbon tax as possibly reflecting implementation complexity, including how it interacts with subsidy rationalisation and industrial competitiveness. It notes the Budget documents do not confirm this. The tax is expected to target high emitters such as iron and steel first. Kenanga's key caveat: the sector opportunities are indicative, not confirmed earnings beneficiaries, and depend on tenders, implementation, financing and private-sector participation."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/ESG-Thematic-Power-Transition-Building-Resilience-Budget-2027-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The text and the peer table give different targets, and one stock a different rating.</b> The text has IOICORP RM5.10, SDG OUTPERFORM RM6.95, KLK RM25.65, HSPLANT RM2.95 and TSH RM1.80. The page 4 peer table has IOICORP RM5.40, SDG <b>MARKET PERFORM</b> RM7.20, KLK RM25.80, HSPLANT RM3.00 and TSH RM1.85. PPB (RM13.40) and UMCCA (RM7.00) agree. The peer-table figures match this board's earlier rows: IOICORP RM5.40 (1 Sep, and the 8 Oct strategy note), KLK RM25.80 (27 Aug), HSPLANT RM3.00 (27 Aug). This board cannot establish from published Kenanga sources which set is current. The note itself says SDG was upgraded 'yesterday', so the peer table looks stale, but that is inferred, not stated. No target price on this row is taken from either set. (2) <b>The SDG upgrade is not on this board.</b> The note says SDG was upgraded to OUTPERFORM from MP 'yesterday' (12 October). The published 12 October bundle contains only the IPI Economic Viewpoint, the digest and two technical reviews, and SDG-261012-CU-Kenanga.pdf returns 404, so that note could not be read. (3) <b>'QoQ' is used for month-on-month changes.</b> Page 1 gives production '+16% QoQ' and inventory '+24% QoQ'. The table shows those as MoM changes (Sep vs Aug). (4) <b>The sector downgrade predates this note.</b> The note says plantation was cut to NEUTRAL from Overweight 'a week ago'. This board recorded that cut in the 8 October Market Strategy row; no stand-alone downgrade note is on the board. (5) <b>The picks are listed twice, in different terms.</b> Page 1 opens 'Our picks are IOICORP', then describes SDG, KLK, PPB and HSPLANT, and 'also like[s]' TSH and UMCCA. Page 2's 'Our picks include' names all seven. Under rules/signals.md &sect;2 this row's conviction is the Page 1 sentence; the full list is given in the summary. (6) <b>October estimate oddities.</b> Kenanga's October table shows exports up 8% MoM but down 29% YoY, and a stock/usage ratio of '-21.2%', which cannot be negative as a ratio. The charts on pages 1-3 were read for titles only, and no figure on this row comes from them. This is a sector note with no ticker-level rating, target or share price of its own, so those columns are empty by design.",
+   "result": null,
+   "conviction": "\"Our picks are IOICORP (OP; TP: RM5.10) for timely forward sales, rising yields and a history of sector leading ROE.\"",
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Plantation",
+   "name": "Plantation Sector Update: Inventory At Over 10-Year Highs",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "NEUTRAL maintained (downgraded from Overweight a week ago) after MPOB's September data. Production recovered to <b>2.117m MT (+16% MoM, +15% YoY)</b>, exports fell to 1.120m MT (-13% MoM, -22% YoY), and <b>inventory hit a 10-year high of 3.511m MT</b> (+24% MoM, +49% YoY): 20% above Kenanga's estimate but within 2% of consensus. CPO price assumptions are unchanged at <b>RM4,500/MT for 2026 and RM4,700/MT for 2027</b>, on biodiesel demand and an expected El Nino hit to 2027 supply. Kenanga keeps its 'tactical pause' as prices stay flattish until inventory levels off and cost inflation threatens margins. Picks: IOICORP, SDG, KLK, PPB, HSPLANT, UMCCA and TSH.",
+   "quote": "Our picks are IOICORP (OP; TP: RM5.10) for timely forward sales, rising yields and a history of sector leading ROE.",
+   "summary": [
+    "September supply and demand. MPOB production rebounded to 2.117m MT from 1.817m MT in August (+16% MoM, +15% YoY), above the 10-year September high of 1.869m MT. 9M26 output was 14.751m MT, 2% above last year's 14.470m MT and 6% above the 10-year average of 13.923m MT. Exports fell to 1.120m MT (-13% MoM, -22% YoY), 25% below the 10-year September average of 1.495m MT. Domestic usage was 0.368m MT and imports 0.058m MT.",
+    "Inventory at a decade high. Closing stocks rose to 3.511m MT (+24% MoM, +49% YoY), above the 10-year September high of 2.529m MT and 20% above Kenanga's own estimate, but within 2% of consensus. The stock/usage ratio rose to 19.7% from 14.1% in August. Kenanga expects October inventory to climb further, to 4.100m MT (+17% MoM), on production of 2.149m MT and exports of 1.210m MT.",
+    "Prices and the El Nino case. September CPO averaged RM4,615/MT (+1% MoM, +6% YoY) and has hovered around RM4,500 since early October. In the past 30 years, two very strong El Ninos cut global palm oil supply by 3% (CY98) and 5% (CY16), each in the year after the event. Kenanga expects CY27 production to fall about 1% in Malaysia and 2-3% globally, with Central Kalimantan already in drought for three months. It forecasts CY26 Malaysian FFB 1% lower at 20m MT (CY25: 20.28m MT). CPO assumptions stay at RM4,500 (CY26) and RM4,700 (CY27).",
+    "Why NEUTRAL despite the upstream outlook. Kenanga expects good upstream profit in 2HCY26 from firm prices and seasonally lower unit costs. But costs are rising: diesel, fertiliser, and minimum wages up 18% to RM2,000 from June CY27. Lower El Nino yields add to the risk of margin erosion. Downstream faces regional overcapacity despite 6% margins in 2QCY26. Non-plantation profits, apart from land disposal gains, are seen only from CY28. Valuations of 1.2x PBV and 14-15x PER are 'not excessive', but the sector has beaten the market since the March upgrade.",
+    "The picks. IOICORP leads, for timely forward sales, rising yields and sector-leading ROE. SDG is liquid with growing property and solar contributions, upgraded to OUTPERFORM the day before (note not on this board; see flag). KLK offers CPO-sensitive earnings. PPB trades at a decade-low valuation despite uncertainty over WIL's Indonesian operation. Among smaller planters, HSPLANT has RM710m net cash (RM0.89 a share), UMCCA has maturing Indonesian estates, and TSH has rare long-term upstream expansion at a low valuation. Targets for five of these differ between the text and the peer table (see flag)."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Plantation-261013-SU-MPOB-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>'We like IJM' is not a pick declaration.</b> The investment case opens 'We like IJM as: (i)...'. That is the note's standard investment-case wording, not a Top Pick, sector pick or most-attractive statement, so under rules/signals.md &sect;2 the Kenanga Signal reads None stated. (2) <b>The RM10.6b order book is described two ways.</b> Page 1 calls it the 'total outstanding order book' after FY27 wins 'across Malaysia and Singapore'. The investment case calls it 'an outstanding construction order book of RM10.6b for Malaysia'. The Edge Malaysia (13 Oct) attributes RM10.6b to IJM Construction. The note does not reconcile the two descriptions. (3) <b>Two market capitalisations.</b> Stock Information gives RM10,103.8m; the peer table gives RM10,213.2m. (4) <b>The 52-week range differs by source.</b> The note gives RM1.97-RM2.97; stockanalysis.com gives RM2.05-RM3.07. This row uses stockanalysis.com, as the rules require. (5) <b>FY27F dividend jumps.</b> NDPS is 18.0 sen in FY27F against 8.0 sen in FY26A and FY28F, a 6.4% yield. The note does not explain the jump here. (6) <b>FY26A headline vs core.</b> FY26A net profit is RM3.2m against core of RM321.4m, with a -RM318m exceptional line in the income statement. This note does not explain the exceptional item.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 3.35,
+   "ticker": "IJM",
+   "name": "IJM Corporation Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 3.35,
+   "price": 2.8,
+   "divYield": 6.43,
+   "high52": 3.07,
+   "low52": 2.05,
+   "mktSrc": "https://stockanalysis.com/quote/klse/IJM/",
+   "catalyst": "OUTPERFORM and the RM3.35 SoP target are maintained, with forecasts unchanged, after IJM Construction won a <b>RM1.23b fast-track contract from AT&S</b> to build semiconductor manufacturing facilities at Kulim Hi-Tech Park, due by 4QCY27. Kenanga expects the job's PBT margin at the <b>higher end of IJM's typical 6%-8%</b>. FY27 job wins in Malaysia and Singapore are now slightly over <b>RM3.0b</b>, against Kenanga's RM5.0b assumption and management's RM6.0b-RM8.0b target. The outstanding order book is <b>RM10.6b</b>.",
+   "quote": "This win underscores IJM’s competitive edge in advanced industrial building projects, lifting its YTD FY27 job wins to over RM3.0b and expanding its outstanding order book to RM10.6b.",
+   "summary": [
+    "The contract. Wholly owned IJM Construction Sdn Bhd won a RM1.23b contract from AT&S Austria Technologies & Systemtechnik (Malaysia) Sdn Bhd (the note's spelling) for a manufacturing facility at Kulim Hi-Tech Park, Kedah. It is a fast-track, 14-month job due by 4QCY27. The scope covers cleanrooms, process utilities and IBS precast works for a four-storey production building and a three-storey central utility building, plus water and wastewater infrastructure.",
+    "Margin and scale. Because the job is fast-track, Kenanga expects its PBT margin at the higher end of IJM's typical 6%-8% range. On RM1.23b, that range is roughly RM74m-RM98m of pre-tax profit over the project's life (computed here; the note gives no profit figure for the job). The contract is about 12% of the RM10.6b order book (computed here).",
+    "Job wins against targets. FY27 wins in Malaysia and Singapore are now slightly over RM3.0b. That is about 60% of Kenanga's RM5.0b assumption (computed here) and below management's RM6.0b-RM8.0b target. Management keeps that target, plus RM3b for the UK. Active tenders total RM18b. They include data centres, semiconductor projects, Penang Airport, Sg Rasau Phase 2 and Johor projects, plus a possible Nusantara civil servant housing project in Indonesia worth more than RM1b, to be rolled out by year-end.",
+    "Nothing in the numbers moves. Forecasts are maintained: job replenishment of RM5b in each of FY27 and FY28, and property sales of RM1.23b and RM1.55b. Core net profit stays at RM494.2m for FY27 and RM520.6m for FY28, against consensus of RM476.4m and RM545.9m. The RM3.35 SoP target values construction at 22x CY27F PER, in line with GAMUDA (OP; TP RM5.90) and SUNCON (OP; TP RM9.70). There is no ESG adjustment on a 3-star rating. At RM2.80 the target implies 19.6% upside (computed here). This matches the RM3.35 on this board's 27 August Results Note.",
+    "Why Kenanga is positive, and the risks. Kenanga's reasons: a possible share of the Penang LRT Mutiara Line, given IJM's role in earlier LRT projects; earnings visibility from the order book and RM603.5m of 1QFY27 property sales; Kuantan Port as the East Coast's largest port; and a possible toll-road divestment as a re-rating catalyst. The risks it names are weak job flow, cost overruns and LAD liabilities, and rising building material costs."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on IJM in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. <b>No house note responding to the AT&S award (12 October) was retrievable.</b> The Edge Malaysia's 13 October report and The Star's 13 October 'Trading ideas' item carry the contract but no house calls. The New Straits Times piece on the award did not load beyond its headline, so its contents were not used. <b>The most recent multi-house round-up found</b> is Business Today's 27 August 2026 article on IJM's 1QFY27 results, 'Analysts Raise IJM Corp Target Price On Data Centre Prospects'. It returned HTTP 403, so its contents were not read and no figures from it are recorded here. <b>None of the nine houses this board searches</b> (CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang) yielded a call that could be read directly in this run. <b>On divergence:</b> no verified call rates IJM opposite to Kenanga's OUTPERFORM, so the marker is not set. Aggregator consensus figures surfaced in search and were deliberately not used. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Edge Malaysia, 13 Oct 2026 &mdash; &lsquo;IJM bags RM1.23 bil contract to build AT&S semiconductor manufacturing facilities in Kedah&rsquo; (no house calls)",
+      "https://theedgemalaysia.com/node/821536"
+     ],
+     [
+      "The Star, 13 Oct 2026 &mdash; &lsquo;Trading ideas: IOIPG, United Malacca, IJM, MN, ...&rsquo; (no house calls)",
+      "https://www.thestar.com.my/business/business-news/2026/10/13/trading-ideas-ioipg-united-malacca-ijm-mn-swift-energy-kinergy-zetrix-icents-infomina-lac-med-edelteq-deleum-tong-herr"
+     ],
+     [
+      "Business Today, 27 Aug 2026 &mdash; &lsquo;Analysts Raise IJM Corp Target Price On Data Centre Prospects&rsquo; (not retrievable this run &mdash; HTTP 403, contents not used)",
+      "https://www.businesstoday.com.my/2026/08/27/analysts-raise-ijm-corp-target-price-on-data-centre-prospects/"
+     ]
+    ]
+   },
+   "crossCheck": {
+    "note": "The Edge Malaysia (13 Oct 2026), reporting IJM's filing, agrees on the RM1.23b value, the client, Kulim Hi-Tech Park and the 14-month duration. It adds detail the note does not carry: construction is <b>scheduled to start in 4Q 2026</b>, and the scope includes a <b>single-storey wastewater treatment facility</b>. It puts the <b>RM10.6b outstanding order book at the IJM Construction level</b>, which bears on point (2) of this row's flag. It spells the client 'AT&S Austria Technologie & Systemtechnik (Malaysia) Sdn Bhd'; Kenanga writes 'Technologies'.",
+    "cites": [
+     [
+      "The Edge Malaysia, 13 Oct 2026 &mdash; &lsquo;IJM bags RM1.23 bil contract to build AT&S semiconductor manufacturing facilities in Kedah&rsquo;",
+      "https://theedgemalaysia.com/node/821536"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/IJM-261013-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The '2.5% premium' is not measured against the note's own price.</b> The note says the RM6.10 offer is 'only 2.5% higher than the closing price'. Against the RM5.97 printed on the note, the premium is 2.2% (computed here). stockanalysis.com shows RM5.97 as a +RM0.02 close on 12 October, which puts the prior close at RM5.95. RM6.10 is 2.5% above RM5.95, so the note's figure appears to use the pre-announcement close. That is inferred, not stated. (2) <b>NTA is given two ways.</b> The text says 'FY26 actual NTA of RM7.44'; the Summary Earnings Table gives FY26A NTA/share of RM7.38. (3) <b>The financial year is labelled two ways.</b> The Summary Earnings Table is headed 'FYE Dec'; the peer table gives UMCCA's current FYE as 04/2027. (4) <b>The peer table's FY28 EPS differs from the text.</b> The text keeps FY28F core EPS at 65.1 sen, as does the Summary Earnings Table. The peer table shows 68.8 sen 2-year forward EPS and -13.6% growth. The same peer table, with IOICORP at RM5.40 and SDG at MP/RM7.20, appears in today's Plantation Sector Update, where its text gives different targets. It looks stale; that is inferred, not stated. (5) <b>FY27F EPS is 79.6 sen today, against 79.7 sen on this board's 25 September Results Note</b>, while the note says 'No change'. The 0.1 sen gap is not explained. (6) <b>The Kenanga Signal reads None stated on this row.</b> This note uses no pick language. Today's Plantation Sector Update lists UMCCA among its picks ('UMCCA (OP; TP: RM7.00) offers rising FFB production and improving ROE from maturing Indonesian estates'). That declaration belongs to the Plantation row, not to this report, and is recorded there.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 7.0,
+   "ticker": "UMCCA",
+   "name": "United Malacca Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 7.0,
+   "price": 5.97,
+   "divYield": 3.35,
+   "high52": 6.1,
+   "low52": 5.6,
+   "mktSrc": "https://stockanalysis.com/quote/klse/UMCCA/",
+   "catalyst": "The Tee family's Prosper Trading bought <b>13.4% from Great Eastern Life at RM6.10 a share</b>, lifting the family and parties acting in concert to 47.7% and <b>triggering a mandatory take-over offer at RM6.10</b>. Kenanga calls the price low. It is below FY26 NTA of RM7.44 and Kenanga's RM7.00 target, so Kenanga <b>recommends not accepting the offer</b>. Separately, a Cash Compensating Scheme pays former shareholders who sold below RM6.10 between 26 Sept 2024 and 9 Oct 2026, because the group crossed the 33% threshold unknowingly in September 2024. Kenanga recommends affected sellers pursue it. OUTPERFORM and RM7.00 are maintained.",
+   "quote": "Therefore, we would recommend affected shareholders to pursue the compensation offer but not to accept the MGO given the RM6.10 offer price is only 2.5% higher than the closing price.",
+   "summary": [
+    "What triggered the offer. Prosper Trading Sdn Bhd (PTSB), jointly controlled by Tee Kim Tee and Tee Cheng Hua, bought 28.186m shares (13.4%) from Great Eastern Life Assurance (Malaysia) for RM171.9m, or RM6.10 a share. That took the stake held via PTSB, the two Tees and parties acting in concert to 47.7%, triggering a mandatory take-over offer at RM6.10. Almost all the parties acting in concert are Tee family members or family-controlled companies. PTSB trades palm products and is an investment holding company.",
+    "Kenanga's advice: do not accept. The RM6.10 price is below FY26 NTA of RM7.44 (an 18% discount; computed here) and below Kenanga's RM7.00 target. Kenanga says it is only 2.5% above the closing price (see flag on the base). At RM5.97 the RM7.00 target implies 17.3% upside (computed here).",
+    "The compensation scheme. The group's combined holding crossed the 33% offer threshold unknowingly on 26 September 2024, at 33.7%, without an offer being made. To remedy this, a Cash Compensating Scheme pays the difference between the sale price and RM6.10. It covers holders registered at the close of 26 September 2024, plus those who bought on 25-26 September 2024, who then sold between 26 September 2024 and 9 October 2026. Shares bought after 26 September 2024, or sold above RM6.10, do not qualify. The scheme closes on 17 December 2026. Kenanga recommends affected former shareholders pursue it.",
+    "Forecasts and valuation unchanged. Kenanga keeps CPO price assumptions of RM4,700 for FY27 and RM4,500 for FY28, expecting tight edible-oil supply over 6-12 months from a severe El Nino and firm food and biodiesel demand. FY27-28F core EPS stay at 79.6 and 65.1 sen, and DPS at 30.0 and 20.0 sen. The RM7.00 target is on 0.9x calendarised PBV. Kenanga again declines to raise the multiple to 1.1x on El Nino because of a poor 1QFY27 harvest, but may do so if later quarters surprise. There is no ESG adjustment on a 3-star rating.",
+    "The case and the risks. Kenanga sees deep value as UMCCA's Indonesian estates mature into higher-yielding brackets, backed by net cash and cash flow to sustain generous dividends. FY27F core net profit of RM167.1m is above consensus of RM134.3m. The risks it names are adverse weather, softer CPO prices, and rising labour, fertiliser and fuel costs."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on UMCCA in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. <b>No non-Kenanga house view on the RM6.10 offer was found.</b> The Star's 13 October 'Trading ideas' item reports the offer without a house view. Business Today (13 Oct) and the New Straits Times (13 Oct) headline that shareholders are advised to reject the offer. Search summaries attribute that advice to Kenanga, but neither article body could be read (HTTP 403 and a headline-only page respectively). <b>The latest house call on record</b> is this board's 25 September row: a New Straits Times headline from June 2026 records CIMB Securities keeping 'Buy' with a RM6.93 target. That predates today's offer by about four months, and it was read from the headline only. An earlier CIMB Securities initiation at 'buy' with a RM6.42 target (The Edge Malaysia, dateline 3 Nov, year not shown) is superseded by it. <b>One of the nine houses this board searches</b> (CIMB Securities) has a retrievable call; the other eight yielded none. <b>On divergence:</b> no verified call rates UMCCA opposite to Kenanga's OUTPERFORM, so the marker is not set. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Star, 13 Oct 2026 &mdash; &lsquo;Trading ideas: IOIPG, United Malacca, IJM, MN, ...&rsquo; (offer reported; no house view)",
+      "https://www.thestar.com.my/business/business-news/2026/10/13/trading-ideas-ioipg-united-malacca-ijm-mn-swift-energy-kinergy-zetrix-icents-infomina-lac-med-edelteq-deleum-tong-herr"
+     ],
+     [
+      "Business Today, 13 Oct 2026 &mdash; &lsquo;United Malacca Shareholders Advised To Reject RM6.10 Offer&rsquo; (not retrievable this run &mdash; HTTP 403, contents not used)",
+      "https://www.businesstoday.com.my/2026/10/13/united-malacca-shareholders-advised-to-reject-rm6-10-offer/"
+     ],
+     [
+      "New Straits Times, Jun 2026 &mdash; &lsquo;CIMB Securities keeps Buy on United Malacca, lifts target price to RM6.93&rsquo; (headline only)",
+      "https://www.nst.com.my/business/corporate/2026/06/1475672/cimb-securities-keeps-buy-united-malacca-lifts-target-price"
+     ]
+    ]
+   },
+   "crossCheck": {
+    "note": "The Star (13 Oct 2026) independently reports the trigger: Prosper Trading bought a <b>13.44%</b> stake from Great Eastern Life Assurance (Malaysia) for <b>RM171.9m</b> and must make a mandatory offer at <b>RM6.10</b>, matching Kenanga's 13.4%, RM171.9m and RM6.10. The note does not state the offer's total size. On the note's 209.8m shares outstanding, the 52.3% not held by the offerors and parties acting in concert is about 109.7m shares, roughly <b>RM669m</b> if fully accepted (computed here, not from a retrieved source).",
+    "cites": [
+     [
+      "The Star, 13 Oct 2026 &mdash; &lsquo;Trading ideas: IOIPG, United Malacca, IJM, MN, ...&rsquo;",
+      "https://www.thestar.com.my/business/business-news/2026/10/13/trading-ideas-ioipg-united-malacca-ijm-mn-swift-energy-kinergy-zetrix-icents-infomina-lac-med-edelteq-deleum-tong-herr"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/UMCCA-261013-CU-Kenanga.pdf"
+  }
+ ]
+}
