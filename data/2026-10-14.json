@@ -1,0 +1,290 @@
+{
+ "date": "2026-10-14",
+ "schema": 1,
+ "daily": {
+  "klci": 1623.4,
+  "chg": 5.34,
+  "pct": 0.33,
+  "inst": -112.5,
+  "instPct": 43.9,
+  "retail": 125.0,
+  "retailPct": 26.8,
+  "foreign": -12.4,
+  "foreignPct": 29.3,
+  "ideas": "Company Update: CTOS, LFG",
+  "news": [
+   {
+    "h": "Pantech Global to sell former expansion site in Klang for RM31.7m",
+    "body": "Pantech Global Bhd said it is disposing of a 10-acre freehold land which it acquired less than two years ago for the expansion of its operations in Klang, for RM31.7m in cash. The planned sale comes after regulatory delays on the development of a new factory on the site, which prompted the carbon steel pipe fittings manufacturer to acquire a different parcel of land in Klang for RM29.0m in August last year under its revised development plans. (The Edge Malaysia)",
+    "takeaways": [
+     "Pantech Global is selling a 10-acre freehold plot in Klang for RM31.7m in cash.",
+     "It bought the land less than two years ago to expand its operations.",
+     "The sale follows regulatory delays to a planned new factory on the site.",
+     "Those delays led Pantech to buy a different Klang parcel for RM29.0m in August last year under revised plans.",
+     "The item gives no purchase price for the plot being sold, so no gain or loss can be worked out. This board holds no Kenanga coverage of Pantech. Digest context only."
+    ]
+   },
+   {
+    "h": "Censof gets RM10.8m contract to install financial management system",
+    "body": "Censof Holdings Bhd has secured a contract worth RM10.8m to install a financial management system at the Malaysian Cooperative Commission. The system will be delivered under a subscription model. The scope of work covers the full system implementation process, including requirements analysis, system design, setup, configuration, customisation, testing, integration, data migration, training, commissioning and maintenance. (The Edge Malaysia)",
+    "takeaways": [
+     "Censof Holdings has won a RM10.8m contract to install a financial management system at the Malaysian Cooperative Commission.",
+     "The system will be delivered on a subscription model.",
+     "The scope runs from requirements analysis and design to data migration, training, commissioning and maintenance.",
+     "The item gives no contract period, so the annual value is not known.",
+     "This board holds no Kenanga coverage of Censof. Digest context only."
+    ]
+   },
+   {
+    "h": "LEAP-listed DynaFront secures discovery agreement for Indonesian insurer&rsquo;s core system project",
+    "body": "LEAP Market-listed DynaFront Holdings Bhd said its wholly-owned subsidiary, DynaFront Systems Sdn Bhd, has secured a Phase I Discovery Agreement with an established life insurance company in Indonesia to replace the insurer&rsquo;s core life insurance system. The group said DynaFront Systems was selected as the appointed vendor following the customer&rsquo;s evaluation process. The discovery phase is expected to take about five months from its commencement date. (The Edge Malaysia)",
+    "takeaways": [
+     "DynaFront Holdings, listed on the LEAP Market, has signed a Phase I Discovery Agreement with an unnamed Indonesian life insurer.",
+     "The project is to replace the insurer's core life insurance system.",
+     "Wholly owned DynaFront Systems Sdn Bhd was appointed vendor after the customer's evaluation.",
+     "The discovery phase should take about five months. The item gives no contract value.",
+     "This board holds no Kenanga coverage of DynaFront. Digest context only."
+    ]
+   },
+   {
+    "h": "Pahang crown prince-linked firm to buy 30.0% stake in planter Mentiga for RM21.0m",
+    "body": "HIS TIZA Pahang Sdn Bhd, a company linked to the Pahang crown prince, has entered into a share sale agreement with state government-owned Amanah Saham Pahang Bhd (ASPA) to acquire a 30.0% stake in Mentiga Corp Bhd for RM21.0m cash. HIS TIZA said the agreement to acquire 21.0m ordinary Mentiga shares at RM1 apiece was executed on Oct 12 and will be completed in 30 market days. The transaction price is a 72.4% premium over Mentiga's market price of 58 sen, though it sits at a discount to its unaudited net assets of RM3.17 per share as of June 30. (The Edge Malaysia)",
+    "takeaways": [
+     "HIS TIZA Pahang Sdn Bhd, linked to the Pahang crown prince, is buying 30.0% of planter Mentiga Corp for RM21.0m in cash.",
+     "The seller is state government-owned Amanah Saham Pahang Bhd. The deal covers 21.0m shares at RM1 each, signed on 12 October, with completion in 30 market days.",
+     "RM1 is a 72.4% premium to Mentiga's 58 sen market price.",
+     "It is about a 68% discount to Mentiga's unaudited net assets of RM3.17 a share at 30 June (computed here).",
+     "This board holds no Kenanga coverage of Mentiga. Digest context only."
+    ]
+   },
+   {
+    "h": "Land 33 buying one-acre George Town land for RM32.0m for future development",
+    "body": "Land 33 Bhd is acquiring a 1.05-acre parcel with a two-storey bungalow in Penang for RM32.3m in cash for future property development. The property developer, formerly known as ACME Holdings Bhd, said the property located at Cantonment Road in George Town is currently rented to preschool operator Tadika Sains Kreatif. The property will be added to the group&rsquo;s existing land bank for future development, said Land 33 in a bourse filing. (The Edge Malaysia)",
+    "takeaways": [
+     "Land 33, formerly ACME Holdings, is buying a 1.05-acre plot with a two-storey bungalow on Cantonment Road, George Town.",
+     "The digest headline says RM32.0m but the body says RM32.3m in cash. This summary does not resolve the difference.",
+     "On RM32.3m, the price is about RM706 per sq ft of land (computed here, using 43,560 sq ft an acre).",
+     "The property is currently rented to preschool operator Tadika Sains Kreatif and will go into the land bank for future development.",
+     "This board holds no Kenanga coverage of Land 33. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "AI boom bolstered growth in global trade, benefitting China and India, IMF says",
+    "region": "Global",
+    "body": "The strong demand for AI has bolstered growth in China, India and other Asian countries and outpaced the overall growth in global trade, the IMF's new chief economist Silvana Tenreyro said on Tuesday. (The Edge Malaysia)",
+    "takeaways": [
+     "The IMF's new chief economist, Silvana Tenreyro, says strong AI demand has boosted growth in China, India and other Asian economies.",
+     "She says that growth has outpaced overall global trade growth.",
+     "She spoke on Tuesday.",
+     "The item gives no figures and does not name Malaysia.",
+     "It follows Monday's IMF remarks on AI investment, carried on this board's 13 October digest. Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "MOF: RM17.15b in excess tax refunds paid in first nine months",
+    "region": "Malaysia",
+    "body": "The government has completed RM17.15b in excess tax refunds involving 3.23 million taxpayer cases in the first nine months of 2026, according to the Ministry of Finance (MOF). (The Edge Malaysia)",
+    "takeaways": [
+     "The Ministry of Finance says it paid RM17.15b in excess tax refunds in the first nine months of 2026.",
+     "The refunds covered 3.23 million taxpayer cases.",
+     "That averages about RM5,300 a case (computed here).",
+     "The item gives no year-earlier comparison.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysia&rsquo;s semiconductor exports to US remain exempt from tariffs &mdash; Johari Ghani",
+    "region": "Malaysia",
+    "body": "Malaysia continues to enjoy tariff exemptions for its semiconductor exports to the US, said Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani. (The Edge Malaysia)",
+    "takeaways": [
+     "Investment, Trade and Industry Minister Johari Abdul Ghani says Malaysia's semiconductor exports to the US remain exempt from tariffs.",
+     "The item does not say how long the exemption lasts.",
+     "It gives no export values.",
+     "It does not cover other product categories.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysia eyes signing of EU trade deal by end-June 2027, says minister",
+    "region": "Malaysia",
+    "body": "Malaysia aims to sign the Malaysia-European Union (EU) Free Trade Agreement (MEUFTA) by the end of June 2027, said Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani. (The Edge Malaysia)",
+    "takeaways": [
+     "Malaysia aims to sign the Malaysia-EU Free Trade Agreement (MEUFTA) by the end of June 2027.",
+     "The target was given by Investment, Trade and Industry Minister Johari Abdul Ghani.",
+     "The item gives no detail on outstanding negotiating issues.",
+     "It does not say when the agreement would take effect after signing.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Tengku Zafrul: Budget 2027&rsquo;s 3.3% fiscal deficit target achievable",
+    "region": "Malaysia",
+    "body": "Malaysia is capable of achieving its fiscal deficit target of 3.3 per cent of gross domestic product (GDP) under Budget 2027, provided the assumptions underpinning the budget hold amid global economic and geopolitical uncertainties, said Tengku Datuk Seri Zafrul Abdul Aziz. (The Malaysian Reserve)",
+    "takeaways": [
+     "Tengku Zafrul Abdul Aziz says Budget 2027's fiscal deficit target of 3.3% of GDP is achievable.",
+     "He makes that conditional on the budget's assumptions holding.",
+     "He cites global economic and geopolitical uncertainty as the risk.",
+     "The item does not state those assumptions.",
+     "Digest context only; sourced to The Malaysian Reserve."
+    ]
+   },
+   {
+    "h": "Mosti to leverage RM1.29b Budget 2027 allocation to boost semiconductor, startups",
+    "region": "Malaysia",
+    "body": "The Ministry of Science, Technology and Innovation (Mosti) will utilise the RM1.29 billion allocation under Budget 2027 to strengthen the semiconductor industry, AI, the technology startup ecosystem and commercialisation of local research output. (The Edge Malaysia)",
+    "takeaways": [
+     "Mosti has a RM1.29b allocation under Budget 2027.",
+     "It will use the money for the semiconductor industry, AI, technology startups and commercialising local research.",
+     "The item does not split the allocation between those areas.",
+     "It gives no comparison with Mosti's previous allocation.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Nearly half of Malaysia&rsquo;s workforce exempted from higher minimum wage &mdash; minister",
+    "region": "Malaysia",
+    "body": "Nearly 49% of Malaysia&rsquo;s entire workforce is exempted from the minimum wage hike announced earlier by Prime Minister Datuk Seri Anwar Ibrahim. (The Edge Malaysia)",
+    "takeaways": [
+     "A minister says nearly 49% of Malaysia's workforce is exempt from the minimum wage increase announced by Prime Minister Anwar Ibrahim.",
+     "The digest item does not name the minister or give the grounds for exemption.",
+     "This board's 13 October Sustainability row records the Budget 2027 rise to RM2,000 from RM1,700 a month from June 2027, with MSMEs below RM50m in sales exempted.",
+     "This item does not say whether the MSME exemption accounts for the 49%.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Thailand eyes USD30 departure tax for tourists in revenue push",
+    "region": "Asia Pacific",
+    "body": "Thailand is looking to travellers for more revenue, testing a tourism industry that has yet to fully recover from the pandemic. (The Edge Malaysia)",
+    "takeaways": [
+     "Thailand is considering a USD30 departure tax on tourists, per the headline.",
+     "The aim is to raise revenue.",
+     "The item says Thailand's tourism industry has yet to fully recover from the pandemic.",
+     "It gives no start date or revenue estimate.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US small-business optimism falls on dimmer economic outlook",
+    "region": "Americas",
+    "body": "US small-business optimism fell to a three-month low in September as economic expectations dimmed and a smaller share of firms indicated it was a good time to expand. (The Edge Malaysia)",
+    "takeaways": [
+     "US small-business optimism fell to a three-month low in September.",
+     "Economic expectations dimmed.",
+     "Fewer firms said it was a good time to expand.",
+     "The item gives no index level.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Britain needs to keep deficit reduction on track, IMF says",
+    "region": "Europe",
+    "body": "Britain needs to ensure it sticks to its deficit reduction plans as government borrowing soars elsewhere, the International Monetary Fund (IMF) warned on Tuesday, just over two weeks before finance minister John Healey delivers his first annual budget. (The Edge Malaysia)",
+    "takeaways": [
+     "The IMF warned on Tuesday that Britain must stick to its deficit reduction plans.",
+     "It cited soaring government borrowing elsewhere.",
+     "The warning comes just over two weeks before finance minister John Healey's first annual budget.",
+     "The item gives no deficit figures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "Kenanga-Today-261014-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>The peer table looks stale.</b> The page 4 peer table still shows CTOS as <b>OUTPERFORM</b>, with 1-year and 2-year forward core EPS of 4.3 and 4.0 sen, a net dividend of 4.1 sen (8.6% yield) and a PER of 11.0x. The note's own downgrade is to MARKET PERFORM. The Summary Earnings Table gives FY26F/27F core EPS of 3.3/3.9 sen and FY26F DPS of 3.6 sen, and the text says DPS was cut from 4.1 sen. The peer table appears to predate today's cuts; that is inferred, not stated. Its RM0.475 price and RM0.48 target agree with the note, and no figure on this row is taken from it. (2) <b>The ESG rating conflicts with the text.</b> The valuation paragraph says there is no ESG adjustment 'given a 3-star rating'. The page 5 ESG table, as extracted from the PDF, shows an OVERALL rating of four stars, which the table's own legend maps to a +5% premium. The target is reported as stated in the text, unadjusted. (3) <b>Price is below the note's own 52-week low.</b> The note prints RM0.475 against a 52-week low of RM0.48. stockanalysis.com gives a range of RM0.455-RM0.96, and The Edge Malaysia (13 Oct) reports an intraday low of 45.5 sen that day. This row uses stockanalysis.com, as the rules require. (4) <b>The FY26 impact does not add up linearly.</b> Kenanga adds 'a further c.RM10m' for its assumed 10-week extension. At CTOS's guided c.RM1.3m a week, 10 weeks would be c.RM13m (computed here). The RM3m gap matches the c.RM3m recovery drag Kenanga shifts into 1Q27, which would reconcile the figures. That reconciliation is inferred, not stated in the note. (5) <b>Two betas.</b> The valuation raises beta to 1.7 from 1.0; the Stock Information panel shows a beta of 0.73. The note does not reconcile the two. (6) <b>The earnings cut is given two ways.</b> Page 1 cuts FY26F core PATAMI by 22.6%; page 2 says 23%. This looks like rounding. (7) <b>Dividend yield source.</b> The 5.68% yield on this row is stockanalysis.com's trailing figure, not from Kenanga. The note's FY26F yield is 7.5%. Minor: the investment case numbers its drivers (i), (iii), (iii).",
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 0.83,
+   "ticker": "CTOS",
+   "name": "CTOS Digital Berhad",
+   "type": "Company Updates",
+   "rating": "MP",
+   "tp": 0.48,
+   "price": 0.475,
+   "divYield": 5.68,
+   "high52": 0.96,
+   "low52": 0.455,
+   "mktSrc": "https://stockanalysis.com/quote/klse/CTOS/",
+   "catalyst": "<b>Downgraded to MARKET PERFORM from OUTPERFORM, target cut 42% to RM0.48 from RM0.83</b>, after the cybersecurity incident disclosed on 23 September took CTOS Score and CCRIS-related services offline. The outage hits <b>c.35% of weekly group revenue</b>. CTOS guides a c.RM12m FY26 PATAMI hit if services resume by the third week of October. Two of four independent reviews are still pending, so Kenanga assumes services stay offline <b>until end-December 2026</b>. That lifts the FY26 hit to c.RM22m, with a further c.RM3m drag in 1Q27. FY26F/27F core PATAMI are cut 22.6%/3.5%. Most of the target cut comes from raising WACC to <b>8.1% from 5.8%</b>.",
+   "quote": "Downgrade to MARKET PERFORM (from OUTPERFORM) as operational, regulatory and reputational risks have escalated.",
+   "summary": [
+    "What happened. On 23 September 2026 CTOS announced that an unauthorised party had accessed one environment supporting its CCRIS consumer (self-check) business. Data files containing a limited subset of processed consumer information were accessed. CTOS says the incident was contained there, and its FI & Corporates, Commercial and International environments were not affected. CTOS Score and CCRIS-related services remain unavailable until remediation is independently validated. The Registrar of Credit Reporting Agencies and other regulators have been notified, and affected individuals informed.",
+    "How much revenue is at stake. About 35% of weekly group revenue is affected: c.55% of FI & Corporates segment revenue, c.10% of Commercial and all of Consumer. International is unaffected. CTOS's base case is one month offline to the third week of October, then a 30-day gradual recovery. On that basis it estimates an FY26 revenue hit of c.RM16m (c.5% of FY26 revenue): c.RM3m in 3Q26 and c.RM13m in 4Q26. The PATAMI hit is c.RM12m (3Q26 c.RM5m, 4Q26 c.RM7m), made up of c.RM8m business impact and c.RM4m other costs. Each extra week offline adds c.RM2.5m to the revenue hit and c.RM1.3m to the PATAMI hit.",
+    "Kenanga's harsher assumption. The external scan and forensic review are done. The vulnerability assessment and penetration testing (VAPT) and the compromise assessment are targeted for October. Kenanga 'prudently' assumes services stay offline until end-December 2026, about 10 weeks beyond management's base case. That puts the FY26 PATAMI hit at c.RM22m and pushes a c.RM3m recovery drag into 1Q27. FY26F core PATAMI is cut 22.6% to RM75.3m and FY27F 3.5% to RM88.1m, against consensus of RM95.4m and RM97.4m. DPS falls to 3.6/2.5 sen from 4.1/3.0 sen; FY26F includes a 1.1 sen special. If the outage runs into FY27, each week cuts FY27F core PATAMI by c.1.5% (c.RM1.3m). Twelve weeks would cut c.RM15.6m, or 17.7%.",
+    "Valuation and rating. The DCF target falls to RM0.48 from RM0.83 as WACC rises to 8.1% from 5.8%, on a beta of 1.7 (from 1.0) for operational, regulatory, customer-attrition and reputational risk. Kenanga says the steeper 42% cut mainly reflects the higher WACC, which it will reassess once there is more certainty. It may revisit its view after the company's briefing today. At RM0.475 the target implies about 1.1% upside (computed here). Kenanga expects the stock to trade sideways until the timing of resumption and customer retention are clearer.",
+    "Why Kenanga sees a setback, not a broken franchise. The breach was confined to consumer self-check, and c.65% of revenue continues unaffected. Lenders face high switching costs because CCRIS and Score are embedded in their credit processes. Usage of unaffected products has held steady, and key FI and corporate contracts remain in force. The share price has fallen c.25% since disclosure, which Kenanga believes largely reflects the near-term hit. After services resume, CTOS will run a 12-month programme overseen by its Board Risk and Compliance Committee: independent controls testing, ISO 27001 and RMiT compliance, and an external governance inspection. Longer-term drivers are the Consumer Credit Act 2025 (effective March 2026) opening BNPL clients, new digital banks, and possible monetisation of associate stakes. The risks it names are a longer outage and customer attrition to rival bureaus, regulatory penalties, weaker credit demand, and adverse regulatory change."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on CTOS in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. <b>No named house view on the cybersecurity incident could be read.</b> The Edge Malaysia's 13 October report on CTOS's RM12m guidance names no research house. It cites Bloomberg data of seven 'buy' and two 'hold' calls with an 89 sen consensus target. That is an anonymous count, not a named house, so it is not used (rules/signals.md &sect;1, &sect;3). Business Today's 14 October article 'CTOS Downgraded, Target Price Slashed After Cybersecurity Incident' returned HTTP 403. Its contents, including which house it reports, were not read. <b>None of the nine houses this board searches</b> (CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang) yielded a post-incident call that could be read directly in this run. Older RHB and Maybank IB comments found in search concern the separate 2021 CCRIS suspension and are not current. <b>On divergence:</b> no verified call rates CTOS opposite to Kenanga's MARKET PERFORM, so the marker is not set. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Edge Malaysia, 13 Oct 2026 &mdash; &lsquo;CTOS estimates RM12m FY2026 profit hit from cyber breach as stock falls to record low&rsquo; (no named house)",
+      "https://theedgemalaysia.com/node/821728"
+     ],
+     [
+      "Business Today, 14 Oct 2026 &mdash; &lsquo;CTOS Downgraded, Target Price Slashed After Cybersecurity Incident&rsquo; (not retrievable this run &mdash; HTTP 403, contents not used)",
+      "https://www.businesstoday.com.my/2026/10/14/ctos-downgraded-target-price-slashed-after-cybersecurity-incident/"
+     ]
+    ]
+   },
+   "crossCheck": {
+    "note": "The Edge Malaysia (13 Oct 2026), reporting CTOS's filing, agrees with the note's figures: RM12m PATAMI and RM16m revenue impact for FY26, split RM5m/RM3m in the September quarter and RM7m/RM13m in the fourth quarter, plus RM1.3m PATAMI and RM2.5m revenue per extra week. It adds that the shares hit an intraday low of 45.5 sen and closed at a <b>record low of 47.5 sen</b>, down 40.08% year to date, with over RM300m of market value lost in three weeks. <b>Basis difference:</b> The Edge describes the RM12m as about 11.5% of 'FY2025 net profit of RM104.4m'. Kenanga's tables show FY2025 PATAMI of RM82m and core PATAMI of RM66m. Against those, RM12m is about 14.6% and 18.2% respectively (computed here). This board cannot reconcile The Edge's RM104.4m from the note, and neither figure is used to override the other.",
+    "cites": [
+     [
+      "The Edge Malaysia, 13 Oct 2026 &mdash; &lsquo;CTOS estimates RM12m FY2026 profit hit from cyber breach as stock falls to record low&rsquo;",
+      "https://theedgemalaysia.com/node/821728"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/CTOS-261014-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>'We like LFG' is not a pick declaration.</b> The investment case opens 'We like LFG due to: (i)...' on a MARKET PERFORM stock. That is the note's standard investment-case wording, not a Top Pick, sector pick or most-attractive statement, so under rules/signals.md &sect;2 the Kenanga Signal reads None stated (same treatment as IJM, 13 Oct). (2) <b>The size of the FY27 upgrade is given two ways.</b> The text says FY27F earnings are raised by 5%. The Summary Earnings Table shows an FY27 earnings revision of 1.6%. The note does not reconcile them. (3) <b>Column header error.</b> The Summary Earnings Table is headed '2025A 2026F 2026F'. The third column matches 2027F in the income statement and is read as such. (4) <b>The peer table disagrees with the note.</b> It shows 1-year and 2-year forward core EPS of 11.3 and 19.1 sen, PERs of 13.7x and 8.1x, and upside of -0.6%. The note's own tables give core EPS of 5.4 and 9.2 sen and PERs of 28.9x and 16.9x, and RM1.59 against RM1.55 is +2.6% (computed here). Market cap is RM1,760.7m in the peer table and RM1,760.6m in Stock Information. No peer-table figure is used. (5) <b>The target move is described as 4%.</b> RM1.54 to RM1.59 is +3.2% (computed here). (6) <b>Exhibit oddities.</b> The SoP table is numbered Exhibit 2 with no Exhibit 1, and is sourced to 'Bloomberg' although it is Kenanga's valuation. The Financial Data 'Net profit' growth row does not match the Net Profit line. For example it shows 47.4% for 2025A, where RM45.0m to RM100.4m is +123% (computed here). (7) <b>Market data.</b> The note gives a 52-week range of RM1.38-RM2.24; stockanalysis.com gives RM1.35-RM2.25. This row uses stockanalysis.com, as the rules require. The 2.58% dividend yield is stockanalysis.com's, not Kenanga's; the note's FY26F yield is 2.6%. Minor typos: 'MARKET PEROFRM', 'LIANSON FLEET GROUP BHG'.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "MP",
+   "prevTp": 1.54,
+   "ticker": "LFG",
+   "name": "Lianson Fleet Group Berhad",
+   "type": "Company Updates",
+   "rating": "MP",
+   "tp": 1.59,
+   "price": 1.55,
+   "divYield": 2.58,
+   "high52": 2.25,
+   "low52": 1.35,
+   "mktSrc": "https://stockanalysis.com/quote/klse/LFG/",
+   "catalyst": "MARKET PERFORM maintained; <b>SoP target raised to RM1.59 from RM1.54</b>. LFG completed the purchase of <b>Ultramax bulk carrier LFG Cengal for USD23m (c.RM93.9m)</b>, which Kenanga deems a fair price against a comparable 2013-built sale at USD23.2m. The vessel goes on an <b>8-year charter to LFG shareholder Liannex Corp</b> at an estimated USD17,000/day, shielding it from the bulk spot market. That fits LFG's shift from cyclical OSVs to recurring bulk earnings. <b>FY27F earnings are raised 5%</b> (the table shows 1.6%; see flag). FY26F is unchanged.",
+   "quote": "Overall, we considered this acquisition a net positive and consistent with the group’s strategy to move into a more recurring earnings base in bulk carrier and away from a more cyclical OSV business.",
+   "summary": [
+    "The vessel. LFG has acquired LFG Cengal, a Japanese-built Ultramax bulk carrier delivered in May 2013 with 61,446MT deadweight, for USD23m in cash (c.RM93.9m). Kenanga deems the price fair against the recent sale of the 2013-built Ultramax 'Ultra Saka' at USD23.2m. The note describes the acquisition as completed.",
+    "The charter. The vessel goes on a long-term 8-year charter to Liannex Corp, which the note identifies as an LFG shareholder, at an estimated daily charter rate of USD17,000. At that rate, annual charter revenue would be about USD6.2m, or roughly RM25m at the note's implied rate of about RM4.08 to the dollar (computed here; the note gives no annual revenue, vessel operating cost or margin). Kenanga says the charter keeps LFG out of the volatile bulk spot market for the whole term. Stock Information lists Liannex Maritime Sdn Bhd (22.2%) and Liannex Corp S Pte (4.3%) among major shareholders. The note does not discuss related-party terms.",
+    "Forecasts. FY26F core net profit is unchanged at RM61.6m. FY27F rises to RM105.2m on LFG Cengal's contribution (5% per the text, 1.6% per the table; see flag). Consensus is RM80.2m and RM115.5m, so Kenanga sits about 23% and 9% below (computed here). Core EPS is 5.4 and 9.2 sen, PER 28.9x and 16.9x, and DPS 4.0 sen in both years.",
+    "Valuation. The SoP target rises to RM1.59 from RM1.54. Components: OSV RM634.8m (11x FY27F PER), Drilling 40% stake RM243.1m (15x), Logistics RM417.6m (15x), Cable business RM573.1m (DCF on a 30% stake, WACC 6.1%), and warrant conversion proceeds RM323.4m assuming full conversion. That totals RM2,192.0m; less net debt of RM30.2m, over 1,359.3m fully diluted shares (1,135.9m outstanding), it gives RM1.59. Drilling and cable together are RM816.2m, about 37% of gross SoP value (computed here). These are the two ventures the note says have yet to show progress. At RM1.55 the target implies about 2.6% upside (computed here).",
+    "The case and the risks. Kenanga likes LFG for recycling capital from OSV sales at favourable prices, its venture into asset-light drilling with few local competitors, and its potential as an ASEAN Power Grid beneficiary. But the drilling and cable ventures have shown no progress to date and earnings could be delayed further, hence MARKET PERFORM. The risks it names are a global recession lowering oil prices, significant delay to the APG timeline, and inability to charter in drilling rigs at favourable rates. Today's MP and RM1.54-to-RM1.59 move are consistent with this board's 28 August Results Note (MP, RM1.54)."
+   ],
+   "analyst": null,
+   "crossCheck": {
+    "note": "<b>No independent report of the LFG Cengal purchase was found</b> in this run's searches of The Edge Malaysia, The Star and the New Straits Times. The Star (10 Jul 2026) reports a separate LFG deal: two Ultramax bulk carriers, MV Tian Mu Shan (63,437 dwt) and MV Yan Dang Shan (63,301 dwt), for <b>USD52.32m (RM213.2m)</b> in cash, with completion expected by October 2026 and no charter counterparty named. Neither vessel's deadweight matches LFG Cengal's 61,446MT, so LFG Cengal appears to be a different vessel. That is inferred from the tonnage, not stated in either source. Kenanga's note does not mention the July acquisition.",
+    "cites": [
+     [
+      "The Star, 10 Jul 2026 &mdash; &lsquo;Lianson Fleet acquires two Ultramax-class bulk carriers for RM213mil&rsquo;",
+      "https://www.thestar.com.my/business/business-news/2026/07/10/lianson-fleet-acquires-two-ultramax-class-bulk-carriers-for-rm213mil"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/LFG-261014-CU-Kenanga.pdf"
+  }
+ ]
+}

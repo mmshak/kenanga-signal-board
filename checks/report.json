@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T21:05:27.122Z",
+ "generatedAt": "2026-10-14T05:51:36.449Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -32,10 +32,11 @@
   "2026-10-08",
   "2026-10-09",
   "2026-10-12",
-  "2026-10-13"
+  "2026-10-13",
+  "2026-10-14"
  ],
- "rows": 144,
- "verified": 143,
+ "rows": 146,
+ "verified": 145,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -482,6 +483,18 @@
    "date": "2026-10-13",
    "row": "UMCCA",
    "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The '2.5% premium' is not measured against the note's own price.</b> The note says the RM6.10 offer is 'only 2.5% higher than the closing price'. Against the RM5.97 printed on the note, the premium is 2.2% (computed here). stockanalysis.com shows RM5.97 as a +RM0.02 close on 12 October, which puts the prior close at RM5.95. RM6.10 is 2.5% above RM5.95, so the note's figure appears to use the pre-announcement close. That is inferred, not stated. (2) <b>NTA is given two ways.</b> The text says 'FY26 actual NTA of RM7.44'; the Summary Earnings Table gives FY26A NTA/share of RM7.38. (3) <b>The financial year is labelled two ways.</b> The Summary Earnings Table is headed 'FYE Dec'; the peer table gives UMCCA's current FYE as 04/2027. (4) <b>The peer table's FY28 EPS differs from the text.</b> The text keeps FY28F core EPS at 65.1 sen, as does the Summary Earnings Table. The peer table shows 68.8 sen 2-year forward EPS and -13.6% growth. The same peer table, with IOICORP at RM5.40 and SDG at MP/RM7.20, appears in today's Plantation Sector Update, where its text gives different targets. It looks stale; that is inferred, not stated. (5) <b>FY27F EPS is 79.6 sen today, against 79.7 sen on this board's 25 September Results Note</b>, while the note says 'No change'. The 0.1 sen gap is not explained. (6) <b>The Kenanga Signal reads None stated on this row.</b> This note uses no pick language. Today's Plantation Sector Update lists UMCCA among its picks ('UMCCA (OP; TP: RM7.00) offers rising FFB production and improving ROE from maturing Indonesian estates'). That declaration belongs to the Plantation row, not to this report, and is recorded there."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-14",
+   "row": "CTOS",
+   "msg": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>The peer table looks stale.</b> The page 4 peer table still shows CTOS as <b>OUTPERFORM</b>, with 1-year and 2-year forward core EPS of 4.3 and 4.0 sen, a net dividend of 4.1 sen (8.6% yield) and a PER of 11.0x. The note's own downgrade is to MARKET PERFORM. The Summary Earnings Table gives FY26F/27F core EPS of 3.3/3.9 sen and FY26F DPS of 3.6 sen, and the text says DPS was cut from 4.1 sen. The peer table appears to predate today's cuts; that is inferred, not stated. Its RM0.475 price and RM0.48 target agree with the note, and no figure on this row is taken from it. (2) <b>The ESG rating conflicts with the text.</b> The valuation paragraph says there is no ESG adjustment 'given a 3-star rating'. The page 5 ESG table, as extracted from the PDF, shows an OVERALL rating of four stars, which the table's own legend maps to a +5% premium. The target is reported as stated in the text, unadjusted. (3) <b>Price is below the note's own 52-week low.</b> The note prints RM0.475 against a 52-week low of RM0.48. stockanalysis.com gives a range of RM0.455-RM0.96, and The Edge Malaysia (13 Oct) reports an intraday low of 45.5 sen that day. This row uses stockanalysis.com, as the rules require. (4) <b>The FY26 impact does not add up linearly.</b> Kenanga adds 'a further c.RM10m' for its assumed 10-week extension. At CTOS's guided c.RM1.3m a week, 10 weeks would be c.RM13m (computed here). The RM3m gap matches the c.RM3m recovery drag Kenanga shifts into 1Q27, which would reconcile the figures. That reconciliation is inferred, not stated in the note. (5) <b>Two betas.</b> The valuation raises beta to 1.7 from 1.0; the Stock Information panel shows a beta of 0.73. The note does not reconcile the two. (6) <b>The earnings cut is given two ways.</b> Page 1 cuts FY26F core PATAMI by 22.6%; page 2 says 23%. This looks like rounding. (7) <b>Dividend yield source.</b> The 5.68% yield on this row is stockanalysis.com's trailing figure, not from Kenanga. The note's FY26F yield is 7.5%. Minor: the investment case numbers its drivers (i), (iii), (iii)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-14",
+   "row": "LFG",
+   "msg": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>'We like LFG' is not a pick declaration.</b> The investment case opens 'We like LFG due to: (i)...' on a MARKET PERFORM stock. That is the note's standard investment-case wording, not a Top Pick, sector pick or most-attractive statement, so under rules/signals.md &sect;2 the Kenanga Signal reads None stated (same treatment as IJM, 13 Oct). (2) <b>The size of the FY27 upgrade is given two ways.</b> The text says FY27F earnings are raised by 5%. The Summary Earnings Table shows an FY27 earnings revision of 1.6%. The note does not reconcile them. (3) <b>Column header error.</b> The Summary Earnings Table is headed '2025A 2026F 2026F'. The third column matches 2027F in the income statement and is read as such. (4) <b>The peer table disagrees with the note.</b> It shows 1-year and 2-year forward core EPS of 11.3 and 19.1 sen, PERs of 13.7x and 8.1x, and upside of -0.6%. The note's own tables give core EPS of 5.4 and 9.2 sen and PERs of 28.9x and 16.9x, and RM1.59 against RM1.55 is +2.6% (computed here). Market cap is RM1,760.7m in the peer table and RM1,760.6m in Stock Information. No peer-table figure is used. (5) <b>The target move is described as 4%.</b> RM1.54 to RM1.59 is +3.2% (computed here). (6) <b>Exhibit oddities.</b> The SoP table is numbered Exhibit 2 with no Exhibit 1, and is sourced to 'Bloomberg' although it is Kenanga's valuation. The Financial Data 'Net profit' growth row does not match the Net Profit line. For example it shows 47.4% for 2025A, where RM45.0m to RM100.4m is +123% (computed here). (7) <b>Market data.</b> The note gives a 52-week range of RM1.38-RM2.24; stockanalysis.com gives RM1.35-RM2.25. This row uses stockanalysis.com, as the rules require. The 2.58% dividend yield is stockanalysis.com's, not Kenanga's; the note's FY26F yield is 2.6%. Minor typos: 'MARKET PEROFRM', 'LIANSON FLEET GROUP BHG'."
   }
  ],
  "verdict": "PASS"
