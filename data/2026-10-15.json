@@ -1,0 +1,331 @@
+{
+ "date": "2026-10-15",
+ "schema": 1,
+ "daily": {
+  "klci": 1627.7,
+  "chg": 4.37,
+  "pct": 0.27,
+  "inst": 104.2,
+  "instPct": 38.8,
+  "retail": -19.6,
+  "retailPct": 26.3,
+  "foreign": -84.6,
+  "foreignPct": 34.9,
+  "ideas": "Results Note: INFOM; Company Update: CTOS, GAMUDA",
+  "news": [
+   {
+    "h": "Hibiscus Petroleum, developer Seri Pajam to develop energy solutions for data centres",
+    "body": "Hibiscus Petroleum Berhad is partnering with property developer Seri Pajam Development Sdn Bhd (SPD) to evaluate and develop power plants and energy solutions for data centres and industrial developments across Malaysia. Hibiscus Petroleum said the agreement dated Sept 30 establishes a collaboration framework to assess the deployment of gas turbines, gas engines, solar power, and carbon capture systems on land owned by SPD and its affiliates. (The Edge Malaysia)",
+    "takeaways": [
+     "Hibiscus Petroleum is partnering property developer Seri Pajam Development (SPD) on power plants and energy solutions for data centres and industrial developments in Malaysia.",
+     "The agreement, dated 30 September, sets up a collaboration framework, not a firm project.",
+     "Technologies to be assessed are gas turbines, gas engines, solar power and carbon capture systems.",
+     "Deployment would be on land owned by SPD and its affiliates. The item gives no investment value, capacity or timeline.",
+     "This board holds no Kenanga coverage of Hibiscus Petroleum. Digest context only."
+    ]
+   },
+   {
+    "h": "Atlan slips into the red in 2Q26",
+    "body": "Atlan Holdings Bhd slipped into the red in its second quarter ended Aug 31, 2026 (2Q26), after reporting a net loss of RM601,000 compared with a net profit of RM4.1m a year earlier. The company said the drop in the results was mainly due to lower gross profit margins earned, coupled with higher operating expenses incurred during the quarter. Revenue in 2Q26 dropped to RM85.2m from RM112.8m in the previous corresponding period. (The Star)",
+    "takeaways": [
+     "Atlan Holdings posted a net loss of RM601,000 for the quarter ended 31 August 2026, against a RM4.1m net profit a year earlier.",
+     "The company blames lower gross margins and higher operating expenses.",
+     "Revenue fell to RM85.2m from RM112.8m, down about 24% (computed here).",
+     "The item gives no segment breakdown or outlook.",
+     "This board holds no Kenanga coverage of Atlan. Digest context only. Sourced to The Star."
+    ]
+   },
+   {
+    "h": "JAG acquires industrial land in Shah Alam to expand total waste management business",
+    "body": "JAG Bhd said it is acquiring a freehold industrial land in Shah Alam for RM36.9m cash to expand its total waste management business. The group, through its wholly-owned subsidiary JAG Renewable Energy Sdn Bhd, is buying the 15,000-square-metre land in the Hicom Industrial Estate from Japan-based Kobe Steel Ltd. “The proposed acquisition of land forms part of the group’s strategy to expand its total waste management business division and develop additional processing capabilities for emerging industrial waste streams,” JAG said in a bourse filing. (The Edge Malaysia)",
+    "takeaways": [
+     "JAG is buying freehold industrial land in Hicom Industrial Estate, Shah Alam, for RM36.9m in cash.",
+     "The buyer is wholly owned JAG Renewable Energy Sdn Bhd; the seller is Japan-based Kobe Steel.",
+     "The plot is 15,000 sq m, which puts the price at about RM2,460 per sq m (computed here).",
+     "JAG says the land will add processing capacity for emerging industrial waste streams in its total waste management division.",
+     "This board holds no Kenanga coverage of JAG. Digest context only."
+    ]
+   },
+   {
+    "h": "AWC bags RM40.0m subcontract for plumbing, sanitary work at Port Dickson data centre",
+    "body": "AWC Bhd said it has secured a RM40.0m subcontract for plumbing and sanitary works at a hyperscale data centre in Bandar Spring Hill, Port Dickson, Negeri Sembilan. The subcontract was awarded by Gamuda Bhd unit Gamuda Engineering Sdn Bhd to AWC's wholly owned unit Qudotech Sdn Bhd. The subcontract entails the supply, delivery, installation, testing and commissioning of cold-water systems, rainwater harvesting systems, water reticulation, fire hydrants and sanitary services. (The Edge Malaysia)",
+    "takeaways": [
+     "AWC's wholly owned Qudotech has won a RM40.0m plumbing and sanitary subcontract at a hyperscale data centre in Bandar Spring Hill, Port Dickson.",
+     "The award comes from Gamuda Engineering, a Gamuda Bhd unit.",
+     "Scope covers cold-water and rainwater harvesting systems, water reticulation, fire hydrants and sanitary services.",
+     "The item gives no contract period.",
+     "This board holds no Kenanga coverage of AWC. Gamuda is covered today; see its row. Digest context only."
+    ]
+   },
+   {
+    "h": "Epicon unit secures RM47.0m subcontract for NPE highway extension",
+    "body": "Construction and engineering services firm Epicon Bhd said its 70.0%-owned subsidiary has accepted a RM47.4m subcontract from IJM Construction Sdn Bhd for the supply of concrete support beam for the New Pantai Expressway (NPE) extension. IJM Construction is a wholly owned subsidiary of IJM Corp Bhd. The project, secured by Concrete Empire Sdn Bhd, is expected to commence in mid-November and be completed by end-November 2028, said Epicon in a bourse filing. (The Edge Malaysia)",
+    "takeaways": [
+     "Epicon's 70.0%-owned Concrete Empire Sdn Bhd has accepted a subcontract from IJM Construction to supply concrete support beams for the New Pantai Expressway extension.",
+     "The digest headline says RM47.0m but the body says RM47.4m. This summary does not resolve the difference.",
+     "Work starts in mid-November and should finish by end-November 2028.",
+     "IJM Construction is wholly owned by IJM Corp.",
+     "This board holds no Kenanga coverage of Epicon. IJM was covered on 13 October. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "IMF calls for US to cut deficits amid bond woes, China to shift away from exports",
+    "region": "Global",
+    "body": "The United States cannot grow its way out of mounting public debt without tax or spending adjustments, while China must pivot from export-led growth towards more domestic consumption, International Monetary Fund managing director Kristalina Georgieva said on Wednesday. (The Edge Malaysia)",
+    "takeaways": [
+     "IMF managing director Kristalina Georgieva says the US cannot grow its way out of mounting public debt.",
+     "She says tax or spending adjustments are needed.",
+     "She says China must pivot from export-led growth to domestic consumption.",
+     "The item gives no figures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "European countries, Vietnam to sign free trade deal on Sunday, officials say",
+    "region": "Global",
+    "body": "The European Free Trade Association (EFTA) and Vietnam are set to sign a free trade deal on Sunday, officials said this week, after long-stalled talks were relaunched last year amid global tensions over US tariffs. (The Edge Malaysia)",
+    "takeaways": [
+     "The European Free Trade Association (EFTA) and Vietnam are set to sign a free trade deal on Sunday.",
+     "Long-stalled talks were relaunched last year.",
+     "Officials link the relaunch to global tensions over US tariffs.",
+     "The item does not name EFTA's members or give the deal's terms.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Vietnam says US trade deal nearly done with final text sent",
+    "region": "Global",
+    "body": "Vietnam has “essentially completed” talks on a US trade deal and submitted its final remarks to Washington after months of negotiations over tariffs and other trade barriers. (The Edge Malaysia)",
+    "takeaways": [
+     "Vietnam says it has 'essentially completed' talks on a US trade deal.",
+     "It has sent its final remarks to Washington.",
+     "Talks have run for months over tariffs and other trade barriers.",
+     "The item gives no tariff rates or signing date.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Budget 2027: Local semiconductor firms must move up value chain — Tengku Zafrul",
+    "region": "Malaysia",
+    "body": "Local semiconductor companies must translate Budget 2027's allocation into greater participation in higher-value activities such as integrated circuit (IC) design, as Malaysia seeks to strengthen its position in the global semiconductor supply chain, said Tengku Datuk Seri Zafrul Abdul Aziz. (The Edge Malaysia)",
+    "takeaways": [
+     "Tengku Zafrul Abdul Aziz says local chip firms must use Budget 2027's allocation to move into higher-value work.",
+     "He names integrated circuit (IC) design as an example.",
+     "The aim is to strengthen Malaysia's place in the global semiconductor supply chain.",
+     "The item does not give the size of the Budget 2027 allocation.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "KL20: Malaysia targets RM700.0m venture capital investments by 2030 — Akmal Nasrullah",
+    "region": "Malaysia",
+    "body": "Malaysia is targeting RM700.0m in venture capital (VC) investments and an estimated 2,000 to 3,500 additional active startup companies by 2030 through the KL20 initiative, said Minister of Economy Akmal Nasrullah Mohd Nasir. (The Edge Malaysia)",
+    "takeaways": [
+     "Malaysia targets RM700.0m of venture capital investment by 2030 under the KL20 initiative.",
+     "It also targets 2,000 to 3,500 additional active startups by 2030.",
+     "The targets were given by Economy Minister Akmal Nasrullah Mohd Nasir.",
+     "The item gives no current baseline for either figure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "More than a dozen US firms explore rare earths opportunities in Malaysia — US embassy",
+    "region": "Malaysia",
+    "body": "More than a dozen US companies are exploring opportunities in Malaysia’s rare earths sector, including mining projects with local partners and processing facilities, according to the US Embassy in Kuala Lumpur. (The Edge Malaysia)",
+    "takeaways": [
+     "The US Embassy in Kuala Lumpur says more than a dozen US companies are exploring Malaysia's rare earths sector.",
+     "Interest covers mining projects with local partners and processing facilities.",
+     "The item names no companies.",
+     "It gives no investment values.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "China’s trade surplus nears USD1.0t again with export surge",
+    "region": "Asia Pacific",
+    "body": "China’s trade surplus ballooned to USD938 billion (RM3.83 trillion) for the first nine months, keeping it on pace to exceed last year’s record as export growth surged faster than expected in September. (The Edge Malaysia)",
+    "takeaways": [
+     "China's trade surplus reached USD938b (RM3.83t) in the first nine months.",
+     "That keeps it on pace to beat last year's record.",
+     "September export growth was faster than expected.",
+     "The item gives no September export growth figure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US inflation heats up in September; Fed rate hike this month back on table",
+    "region": "Americas",
+    "body": "US consumer prices accelerated in September as the cost of gasoline surged, dealing another blow to President Donald Trump and his Republican Party ahead of the November 3 midterm elections and putting an interest rate increase later this month back on the radar. (The Edge Malaysia)",
+    "takeaways": [
+     "US consumer prices accelerated in September.",
+     "The item attributes this to a surge in gasoline costs.",
+     "It says a Fed rate increase later this month is back on the radar.",
+     "The data comes ahead of the 3 November midterm elections. The item gives no CPI figure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Spain's inflation rises at fastest pace in more than three years",
+    "region": "Europe",
+    "body": "Listed as a headline in the digest's page 1 Macro Bits but not carried in its page 3 detail; no body text is available from the digest.",
+    "takeaways": [
+     "The digest's page 1 headline says Spain's inflation rose at its fastest pace in more than three years.",
+     "The digest's page 3 Macro Bits section does not carry this item.",
+     "No inflation figure is given.",
+     "No source is attributed in the digest for this item.",
+     "Headline only; nothing beyond the headline is reported here."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Kenanga-Today-261015-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>'We like Infomina' is not a pick declaration.</b> The investment case opens 'We like Infomina for: (i)...'. That is standard investment-case wording, so under rules/signals.md &sect;2 the Kenanga Signal reads None stated, the same treatment as LFG (14 Oct). (2) <b>The OUTPERFORM sits on thin upside.</b> At RM1.85 the RM1.90 target implies 2.7% (peer table; also computed here). With the 1.4% FY27F net yield, that is roughly 4% total return (computed here), below the >10% Kenanga's own definitions require for OUTPERFORM. The note does not address this. (3) <b>Dividend forecasts differ.</b> The text expects 2.5 sen for FY27, matching the Summary Earnings Table's NDPS of 2.5 sen and 1.4% yield. The peer table shows a net dividend of 3.0 sen and 1.6% yield. (4) <b>Segment margins.</b> The segment table shows a 6.7% GP margin for both Turnkey and AI Solutions & Data in 1Q27. Its own rounded figures give about 6.3% (RM0.6m/RM9.5m) and 7.1% (RM0.6m/RM8.4m) (computed here). Rounding may explain it; this board does not resolve it. (5) Tax rates in the results table are printed as negatives (e.g. -18.0%). (6) <b>Market data.</b> The note gives a 52-week range of RM1.02-RM1.88; stockanalysis.com gives RM1.00-RM1.92. This row uses stockanalysis.com, as the rules require. The 1.10% dividend yield is stockanalysis.com's trailing figure, not Kenanga's. (7) Page 1 and page 3 headers repeat 'Page 1 of 4'. Forecasts are held 'pending further insights from today's results briefing', so they may change.",
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 1.9,
+   "ticker": "INFOM",
+   "name": "Infomina Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 1.9,
+   "price": 1.85,
+   "divYield": 1.1,
+   "high52": 1.92,
+   "low52": 1.0,
+   "mktSrc": "https://stockanalysis.com/quote/klse/INFOM/",
+   "catalyst": "<b>1QFY27 in line</b>: net profit rose 31% YoY to <b>RM10.6m</b>, 23% of Kenanga's full-year forecast and 24% of consensus. Revenue rose 40% to RM76m on <b>Renewal revenue up 33%</b> and a first RM8.4m from the new AI solutions and data segment. The order book rose to <b>RM614m</b> from RM570m. Infomina is now Broadcom's Mainframe Software distributor in 12 Asia-Pacific markets, including four new ones not yet in forecasts. OUTPERFORM and the <b>RM1.90 target (25x FY27F PER) maintained</b>, forecasts unchanged.",
+   "quote": "Infomina’s 1QFY27 results met expectations, with net profit rising 31% YoY to RM10.6m, driven by robust Renewal revenue (+33% YoY) and emerging contributions from its AI solutions and data services business.",
+   "summary": [
+    "Result. 1QFY27 (quarter to August) net profit was RM10.6m, up 30.6% YoY from RM8.1m and 5.6% QoQ. That is 23% of Kenanga's full-year forecast and 24% of consensus, so in line. No dividend was declared, as expected; Kenanga still expects 2.5 sen for FY27.",
+    "Revenue mix. Revenue rose 39.5% YoY to RM76.2m. Renewal rose 32.8% to RM58.3m, while Turnkey fell 11.7% to RM9.5m. The newly reported AI solutions and data segment added RM8.4m, 11% of revenue. Gross profit rose 35% to RM20.1m, but GP margin eased to 26.4% from 27.3%. Kenanga attributes that to the new segment's lower margins during its ramp-up, and expects improvement as projects move into maintenance and support.",
+    "Quarter on quarter. Revenue fell 10% from 4QFY26's RM84.6m. Turnkey fell 38% and Renewal fell 16%; Kenanga puts the Renewal drop down to revenue recognition timing. GP fell a slower 8%, with GP margin up to 26.4% from 25.9%. Renewal's segment margin rose to 32.4% from 29.6%.",
+    "Growth drivers. The outstanding order book rose to RM614m from RM570m, helped by contract wins in Malaysia and Japan. The 51% acquisition of Blue Fortress should add cybersecurity and managed services capability. Broadcom has appointed Infomina Mainframe Software distributor in 12 Asia-Pacific markets, four of them new: Australia, New Zealand, South Korea and India. Kenanga cites five straight Broadcom Mainframe Partner of the Year awards (2021-2025). Contributions from the new markets are not in forecasts, which Kenanga sees as upside. It sizes Japan's annual addressable wallet at RM80m-RM100m.",
+    "Valuation and risks. FY27F/28F net profit stays RM46m/RM51m, against consensus of RM44m/RM50m, pending today's results briefing. The target stays RM1.90 on 25x FY27F PER, anchored to the three-year average PER of Kronologi Asia, Cloudpoint Technology and LGMS and near +1 standard deviation of Infomina's own 3-year mean. At RM1.85 that is 2.7% upside (see flag). The risks Kenanga names are an unfavourable outcome in the Philippine BPI dispute, non-renewal or termination of the Broadcom arrangement and its Premier Tier 1 VAD status, and turnkey cost overruns."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on INFOM in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. No post-results (1QFY27) note from another house could be read. An AmInvestment Bank Buy call with a RM1.85 target, made after the FY26 results, surfaced in search only through a community post. That is not a permitted outlet (rules/signals.md &sect;1), so it is not used. <b>None of the nine houses this board searches</b> (CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang) yielded a dated call from a permitted outlet in this run. <b>On divergence:</b> no verified call rates INFOM opposite to Kenanga's OUTPERFORM, so the marker is not set. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": []
+   },
+   "crossCheck": {
+    "note": "The New Straits Times headline (Oct 2026) 'Infomina's net profit rose 30.6pct in Q1' agrees with the 30.6% YoY net-profit rise in Kenanga's results table. The article body could not be extracted in this run, so no other figure from it is used.",
+    "cites": [
+     [
+      "New Straits Times, Oct 2026 &mdash; &lsquo;Infomina's net profit rose 30.6pct in Q1&rsquo; (headline only read)",
+      "https://www.nst.com.my/business/corporate/2026/10/1555593/infominas-net-profit-rose-306pct-q1"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/INFOM-261015-1Q27-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>'Prefer' is not a pick.</b> The only conviction-search hit is 'we prefer to stay on the sidelines', which is the opposite of a pick declaration. The Kenanga Signal reads None stated. (2) <b>The ESG rating still conflicts with the text.</b> As on 14 October, the valuation paragraph says there is no ESG adjustment 'given a 3-star rating' (and points to page 4, which is the peer table). The page 5 ESG table, as extracted from the PDF, shows an OVERALL rating of four stars, which its legend maps to a +5% premium. The target is reported as stated in the text. (3) <b>Price is above target.</b> At RM0.50 the RM0.48 target implies -4.0% (peer table; also computed here). MARKET PERFORM is Kenanga's -5% to 10% total-return band, and the 7.2% forward yield in the peer table keeps it inside that band (computed here). (4) <b>Two forward yields.</b> The Summary Earnings Table gives FY26F/27F yields of 7.5%/5.3%; the Financial Data table and peer table give 7.2%/5.0%. On 3.6/2.5 sen DPS, 7.2%/5.0% match today's RM0.50 price; 7.5%/5.3% sit closer to yesterday's RM0.475. That the summary table was not refreshed is inferred, not stated. (5) <b>Consensus moved.</b> Consensus NP is now RM85.9m/RM91.9m for FY26F/27F, against RM95.4m/RM97.4m in the 14 October note. Kenanga's own forecasts are unchanged. (6) <b>Market data.</b> The note gives a 52-week low of RM0.48; stockanalysis.com gives RM0.455-RM0.96. This row uses stockanalysis.com, as the rules require. The 5.40% dividend yield is stockanalysis.com's trailing figure, not Kenanga's. (7) Segment revenue shares in Exhibit 1 add to 101%, which looks like rounding. Minor typos: 'ford credit-related', 'consumers whom do not'.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "MP",
+   "prevTp": 0.48,
+   "ticker": "CTOS",
+   "name": "CTOS Digital Berhad",
+   "type": "Company Updates",
+   "rating": "MP",
+   "tp": 0.48,
+   "price": 0.5,
+   "divYield": 5.4,
+   "high52": 0.96,
+   "low52": 0.455,
+   "mktSrc": "https://stockanalysis.com/quote/klse/CTOS/",
+   "catalyst": "MARKET PERFORM and <b>RM0.48 target maintained</b>, forecasts unchanged, after CTOS's post-incident briefing. <b>Bank Negara has suspended CTOS's CCRIS access</b> pending independent reviews. Management expects the two outstanding reviews to be done <b>by next week</b>, implying a c.4-5 week outage in line with its RM12m FY26 PATAMI guidance. Kenanga keeps its harsher end-December assumption (c.RM22m hit) because reconnection depends on BNM's approval. No regulator has notified CTOS of fines, and no customer has terminated a contract so far.",
+   "quote": "We remain broadly neutral on CTOS’ near-term outlook following the briefing.",
+   "summary": [
+    "What the briefing added. The attack came from an external IP address that got into a CTOS cloud environment supporting the consumer self-check business. It exposed a limited number of outdated, processed consumer credit reports. CTOS says this is its first cybersecurity incident. Affected consumers have been notified and will be offered complimentary services when services resume. Regulators have not notified CTOS of any fines or penalties.",
+    "BNM holds the key. Bank Negara has suspended CTOS's access to the Central Credit Reference Information System (CCRIS) and requires independent reviews before restoring it. The Independent Compromise Assessment is the key milestone. Management expects the two outstanding reviews to be completed by next week, and has commissioned further voluntary reviews, preferring to 'do it right' rather than 'do it fast'. Each extra week offline beyond next week cuts revenue by c.RM2.5m and PATAMI by c.RM1.3m.",
+    "Customers so far. The incident hit near the end of 3Q26, a busy period for loan applications. Most banks have switched to accessing CCRIS records directly from BNM. Non-bank lenders, commercial customers and consumers have no such option and may use rival bureaus meanwhile. Unaffected services (enquiry, bankruptcy, litigation, eKYC) are still being used. No customer has terminated or said it will not renew. Management expects volumes to take 30-60 days to recover after services resume.",
+    "Costs. Of the c.RM12m FY26 PATAMI impact, c.RM8m is lost business and c.RM4m covers extra IT costs, independent validation, short-term remediation and customer retention, including credit notes or contract extensions for missed SLAs. Renewal concessions could pressure margins. FY27 capex and opex under the 12-month post-incident programme (IT upgrades, RMiT compliance by 2027, data security and governance) are not yet quantified and should be disclosed at the next results briefing. The share buyback (c.RM51m bought back up to September 2026) will be reconsidered only after remediation.",
+    "Kenanga's call. Management's timeline implies a c.4-5 week outage, shorter than Kenanga's end-December assumption (FY26 impact c.RM22m). Kenanga keeps its forecasts anyway, citing the risk of delay if BNM adds requirements, compensation and retention costs, and unquantified FY27 security spending. The DCF target stays RM0.48 (WACC 8.1%, terminal growth 2%). Kenanga prefers to stay on the sidelines until confidence in CTOS's safeguards is restored and CCRIS access is back on management's timeline. Today's MP and RM0.48 match this board's 14 October row."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on CTOS in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. <b>Hong Leong Investment Bank (HLIB) downgraded CTOS on 15 October 2026.</b> A Dagang News report, read via its Newswav republication, says HLIB cut its rating to Hold from Buy with a new RM0.50 target. It also says HLIB cut its FY26/27/28 earnings forecasts by 18%/15%/14%. The report carries no pick language. Dagang News is not on this board's list of preferred outlets (rules/signals.md &sect;1). Business Today's article on the same downgrade returned HTTP 403 and was not read. So the HLIB call is recorded here, but not entered as this row's house call. It is the same day as Kenanga's note, and Hold is not the opposite direction to Kenanga's MARKET PERFORM, so <b>the divergence marker is not set</b>. <b>One of the nine houses this board searches</b> (CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang) yielded a dated post-incident call (HLIB), and only through that secondary source. The other eight did not. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "Dagang News via Newswav, 15 Oct 2026 &mdash; &lsquo;Insiden siber CTOS dijangka susutkan keuntungan RM12 juta, pemulihan keyakinan pelanggan lebih mencabar &ndash; HLIB Research&rsquo; (HLIB Hold, RM0.50; not a preferred outlet)",
+      "https://newswav.com/article/insiden-siber-ctos-dijangka-susutkan-keuntungan-rm12-juta-pemulihan-keyakin-A2610_GYbOUW"
+     ],
+     [
+      "Business Today, 15 Oct 2026 &mdash; &lsquo;HLIB Cuts CTOS Digital Earnings Forecast, Downgrades Stock&rsquo; (not retrievable this run &mdash; HTTP 403, contents not used)",
+      "https://www.businesstoday.com.my/2026/10/15/hlib-cuts-ctos-digital-earnings-forecast-downgrades-stock/"
+     ]
+    ]
+   },
+   "crossCheck": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/CTOS-261015-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>'We continue to like' is not a pick declaration.</b> The investment case opens 'We continue to like GAMUDA for: (i)...'. That is the note's standard investment-case wording, not a Top Pick, sector pick or most-attractive statement. Under rules/signals.md &sect;2 the Kenanga Signal reads None stated, the same treatment as LFG (14 Oct) and IJM (13 Oct). (2) <b>Two net-debt figures.</b> The SoP deducts net debt of RM1,656.2m ('Estimated FY27F'). The balance sheet gives FY27F borrowings of RM9,148m and cash of RM1,204m, about RM7,944m net (computed here). That matches the ratio table's 'Net Debt/(Cash)' of -7,944, printed with a negative sign, and its 0.59x gearing. The note does not explain why the SoP uses the smaller figure. (3) <b>ROE and ROA rows look swapped.</b> The ratio table shows ROE of 3.9% and ROA of 8.8% for FY26. FY26 net profit of RM1,052m is about 3.1% of total assets and 8.3% of equity (computed here), and the DuPont block gives ROE of 8.3%. The swap is inferred, not stated. (4) <b>Order-win arithmetic.</b> Kenanga puts FY27 YTD wins at RM15.2b. This board's 30 September row recorded The Star's RM12.3b FY27 to date; adding RM2.71b gives about RM15.0b (computed here). The c.RM0.2b gap is not explained. (5) The SoP divides by 6,049.0m shares; Stock Information shows 6,049.8m. The difference does not move the RM5.90 target. (6) <b>Market data.</b> The note gives a 52-week range of RM3.73-RM5.45; stockanalysis.com gives RM3.70-RM5.50. This row uses stockanalysis.com, as the rules require. Its high has dropped from the RM5.63 recorded on 30 September, consistent with a rolling window (inferred). The 2.06% dividend yield is stockanalysis.com's, not Kenanga's; the note's forward yield is 2.1%. (7) Minor: '(see Pages 5)', 'which in line with'.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 5.9,
+   "ticker": "GAMUDA",
+   "name": "Gamuda Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 5.9,
+   "price": 4.85,
+   "divYield": 2.06,
+   "high52": 5.5,
+   "low52": 3.7,
+   "mktSrc": "https://stockanalysis.com/quote/klse/GAMUDA/",
+   "catalyst": "OUTPERFORM and <b>RM5.90 SoP target maintained</b>, forecasts unchanged. Gamuda's 72.84:27.16 JV with MiTAC Information Technology won the <b>Keelung MRT design-and-build contract</b> in Taiwan, worth NTD29.22b (c.RM3.72b). <b>Gamuda's share is c.RM2.71b</b>, on a cost-plus basis with an expected 8% PBT margin. The outstanding order book reaches a <b>record RM63.9b</b>, and FY27 YTD wins reach RM15.2b against Kenanga's RM30b full-year assumption. Remaining Xizhi-Donghu additional works are estimated at RM6.5b.",
+   "quote": "We remain upbeat on this development as it elevates the group’s outstanding order book to a record RM63.9b.",
+   "summary": [
+    "The award. On 14 October Gamuda announced that its JV with MiTAC Information Technology Corp won the Keelung MRT design-and-build contract from New Taipei City's Department of Rapid Transit Systems. The contract is worth NTD29.22b (c.RM3.72b). Gamuda's 72.84% share is NTD21.28b (c.RM2.71b). The project runs 7.7 years and covers trackwork and systems along a 15.6km line with 13 stations across Taipei City, New Taipei City and Keelung City.",
+    "Why it was expected. Kenanga says the job was largely anticipated as one of the designated additional works to the Xizhi-Donghu MRT project won in October 2024. It is structured cost-plus, with an expected PBT margin of 8%. About RM6.5b of Xizhi-Donghu additional works is estimated to remain, and the Xizhi-Donghu Line Maintenance Depot and the Minsheng Line MRT are further opportunities.",
+    "Order book. The win lifts FY27 YTD order wins to RM15.2b, about 51% of Kenanga's RM30b full-year assumption (computed here). The outstanding order book reaches a record RM63.9b. Kenanga says that keeps Gamuda comfortably on track to beat its RM50b target by end-2026.",
+    "Pipeline. Kenanga calls Gamuda the frontrunner for upcoming Springhill data centre tenders, having won all four contracts awarded there since April. Other prospects are the Northern Perak water project at home, and shortlistings for the NSW high-speed rail project, Brisbane infrastructure and New Zealand's Northland Corridor Highway. Forecasts are unchanged: job wins of RM30b/RM25b and property sales of RM3.5b/RM4.5b for FY27/FY28, with FY27F/28F net profit of RM1,388m/RM1,780m against consensus of RM1,405m/RM1,807m.",
+    "Valuation and risks. The SoP target stays RM5.90. Components: construction RM25,525.5m (22x CY27F PER, in line with IJM and SUNCON), property RM8,259.7m (40% discount to RNAV), and three concession stakes totalling RM1,836.3m, less net debt of RM1,656.2m. That gives RM5.62 a share, plus a 5% premium for a 4-star ESG rating. At RM4.85 the target implies 21.6% upside (peer table; also computed here). The risks Kenanga names are delays to Malaysian public infrastructure, rising input costs and labour shortages, overseas policy and currency risk, and LADs from overruns and delays. The OP and RM5.90 match this board's 30 September row."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on GAMUDA in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. <b>No non-Kenanga house reaction to the Keelung award could be read.</b> The Star's 14 October report on the award names no research house. Business Today's 15 October article 'Gamuda Target Price Unchanged Despite RM2.71 Billion Taiwan Contract Win' returned HTTP 403 and was not read; search snippets suggest it reports Kenanga's own call. <b>None of the nine houses this board searches</b> (CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang) yielded a post-award call in this run. The most recent named-house targets on this board are in the 30 September GAMUDA row: RHB RM6.20, CIMB RM6.00, TA RM5.42 and HLIB RM5.27 (The Star, 23 Sep). Those predate today's note and were not re-read. <b>On divergence:</b> no verified call rates GAMUDA opposite to Kenanga's OUTPERFORM, so the marker is not set. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Star, 14 Oct 2026 &mdash; &lsquo;Gamuda JV secures RM3.72bil Taiwan MRT contract&rsquo; (no house calls)",
+      "https://www.thestar.com.my/business/business-news/2026/10/14/gamuda-jv-secures-rm372bil-taiwan-mrt-contract"
+     ],
+     [
+      "Business Today, 15 Oct 2026 &mdash; &lsquo;Gamuda Target Price Unchanged Despite RM2.71 Billion Taiwan Contract Win&rsquo; (not retrievable this run &mdash; HTTP 403, contents not used)",
+      "https://www.businesstoday.com.my/2026/10/15/gamuda-target-price-unchanged-despite-rm2-71-billion-taiwan-contract-win/"
+     ]
+    ]
+   },
+   "crossCheck": {
+    "note": "The Star (14 Oct 2026), reporting Gamuda's filing, agrees with the note: RM3.72b (NTD29.22b) contract, a 72.84%/27.16% split with MiTAC, Gamuda's share c.RM2.71b, 15.6km and 13 stations. It gives the duration as <b>2,820 days</b> (c.7.7 years). Its scope list is wider than the note's 'trackwork and systems': it includes rolling stock, power supply, signalling, platform screen doors, communications, central monitoring, fare collection and depot maintenance equipment. Gamuda expects contributions from the financial year ending 31 July 2027. Separately, today's Kenanga Today digest carries AWC's RM40.0m plumbing and sanitary subcontract from Gamuda Engineering for a hyperscale data centre in Bandar Spring Hill, Port Dickson. The digest does not tie it to any specific Gamuda contract.",
+    "cites": [
+     [
+      "The Star, 14 Oct 2026 &mdash; &lsquo;Gamuda JV secures RM3.72bil Taiwan MRT contract&rsquo;",
+      "https://www.thestar.com.my/business/business-news/2026/10/14/gamuda-jv-secures-rm372bil-taiwan-mrt-contract"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/GAMUDA-261015-CU-Kenanga.pdf"
+  }
+ ]
+}
