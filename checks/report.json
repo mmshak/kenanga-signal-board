@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T19:47:31.634Z",
+ "generatedAt": "2026-10-16T05:30:32.908Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -34,10 +34,11 @@
   "2026-10-12",
   "2026-10-13",
   "2026-10-14",
-  "2026-10-15"
+  "2026-10-15",
+  "2026-10-16"
  ],
- "rows": 149,
- "verified": 148,
+ "rows": 151,
+ "verified": 150,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -514,6 +515,18 @@
    "date": "2026-10-15",
    "row": "GAMUDA",
    "msg": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>'We continue to like' is not a pick declaration.</b> The investment case opens 'We continue to like GAMUDA for: (i)...'. That is the note's standard investment-case wording, not a Top Pick, sector pick or most-attractive statement. Under rules/signals.md &sect;2 the Kenanga Signal reads None stated, the same treatment as LFG (14 Oct) and IJM (13 Oct). (2) <b>Two net-debt figures.</b> The SoP deducts net debt of RM1,656.2m ('Estimated FY27F'). The balance sheet gives FY27F borrowings of RM9,148m and cash of RM1,204m, about RM7,944m net (computed here). That matches the ratio table's 'Net Debt/(Cash)' of -7,944, printed with a negative sign, and its 0.59x gearing. The note does not explain why the SoP uses the smaller figure. (3) <b>ROE and ROA rows look swapped.</b> The ratio table shows ROE of 3.9% and ROA of 8.8% for FY26. FY26 net profit of RM1,052m is about 3.1% of total assets and 8.3% of equity (computed here), and the DuPont block gives ROE of 8.3%. The swap is inferred, not stated. (4) <b>Order-win arithmetic.</b> Kenanga puts FY27 YTD wins at RM15.2b. This board's 30 September row recorded The Star's RM12.3b FY27 to date; adding RM2.71b gives about RM15.0b (computed here). The c.RM0.2b gap is not explained. (5) The SoP divides by 6,049.0m shares; Stock Information shows 6,049.8m. The difference does not move the RM5.90 target. (6) <b>Market data.</b> The note gives a 52-week range of RM3.73-RM5.45; stockanalysis.com gives RM3.70-RM5.50. This row uses stockanalysis.com, as the rules require. Its high has dropped from the RM5.63 recorded on 30 September, consistent with a rolling window (inferred). The 2.06% dividend yield is stockanalysis.com's, not Kenanga's; the note's forward yield is 2.1%. (7) Minor: '(see Pages 5)', 'which in line with'."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-16",
+   "row": "ANCOMNY",
+   "msg": "Eight points of caution on this row, reported as printed rather than resolved. (1) <b>'We continue to like' is not a pick declaration.</b> The investment case opens 'We continue to like ANCOMNY for it being: (i)...'. That is standard investment-case wording, not a Top Pick, sector pick or most-attractive call, so under rules/signals.md &sect;2 the Kenanga Signal reads None stated, the same treatment as GAMUDA (15 Oct). No other conviction-search term appears. (2) <b>'23% of our full year estimate' does not match the revised table.</b> 1QFY27 core net profit of RM22.0m is about 24% of the revised FY27F RM90.2m (computed here). It is 23.6% of the pre-revision forecast implied by the old 8.9 sen CEPS on 1,044.9m shares (computed here, an inference). The 22% of consensus (RM97.2m) checks out. Either way the quarter reads as in line. (3) <b>Wording against the table.</b> The summary says revenue 'nudged up', but the results table shows revenue +19% YoY and -12% QoQ. (4) <b>Results table labels.</b> The year-ago column is headed '4Q25' while the segment table calls the same RM447.4m quarter '1Q26'. The 'FY26'/'FY25' columns repeat the quarterly figures, so they look like 1QFY27/1QFY26 mislabelled. (5) <b>Gearing.</b> The text says net debt fell to RM264m and net gearing to 42%. The Summary Earnings Table prints net gearing of 0.0x for FY26A and (0.1)x/(0.2)x for FY27F/FY28F, which reads as net cash. The note does not reconcile the two. (6) <b>Peer table against summary table.</b> The peer table shows a 2.5 sen net dividend and 3.1% yield; the Summary Earnings Table shows NDPS of 2.0 sen and 2.4%. The peer table's 4.6% FY27 core EPS growth compares with 7% CNP growth in the summary table, and 7.4% from its own 8.1-to-8.7 sen CEPS (computed here). (7) <b>GLT stake.</b> The RTO paragraph says ANCOMNY would hold GLT 'as a 21% associate post-RTO', then 'a 22% associate stake' when the RTO is completed. (8) <b>Market data.</b> The note gives a 52-week range of RM0.81-RM0.95; stockanalysis.com gives RM0.81-RM0.96. This row uses stockanalysis.com, as the rules require. The 1.21% dividend yield is stockanalysis.com's trailing figure, not Kenanga's. <b>Day line-up.</b> The digest's Ideas of the Day also names a Rating Summary and <i>Economic Viewpoint: Bond Market Weekly Outlook, Ringgit Weekly Outlook</i>. Kenanga's Kenanga Today page for 16 October, checked twice during this run, lists only the digest, this note and the INFOM Company Update. The Rating Summary is excluded by specification (rules/signals.md &sect;6). The Bond Market Weekly Outlook returned HTTP 404 under EV_Bond-Market-Weekly-Outlook_261016-Kenanga.pdf, the pattern that worked on 9 October. A Ringgit Weekly Outlook file <b>does</b> resolve at EV_Ringgit-Weekly-Outlook_261016-Kenanga.pdf (uploaded about 12:38 MYT today), but it is not in the published bundle. Both are excluded on the authority of the bundle contents, as on 18 September and 2 October. The Ringgit Weekly Outlook was not read for this board."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-16",
+   "row": "INFOM",
+   "msg": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>'We like Infomina' is not a pick declaration.</b> The investment case opens 'We like Infomina for: (i)...', the same wording as yesterday's results note. Under rules/signals.md &sect;2 the Kenanga Signal reads None stated, as on 15 October. (2) <b>The prior-quarter order book differs between two Kenanga notes a day apart.</b> Today's note says the order book rose to RM614m 'vs. RM565m in the preceding quarter'. Yesterday's results note, on this board's 15 October row, gave RM570m. This board does not resolve the difference; the RM614m figure is the same in both. (3) <b>Dividend forecasts still differ.</b> The Summary Earnings Table and Valuations table show FY27F NDPS of 2.5 sen (1.4% yield). The peer table shows 3.0 sen and 1.6%, as flagged yesterday. The peer table's 26.1% ROE also differs from the 24.1% FY27F ROE in the Financial Data table. (4) <b>Japan sizing.</b> The text gives an annual addressable opportunity of RM80m in Japan; the investment case says RM80m-RM100m. (5) <b>Consensus moved.</b> Today's Summary Earnings Table shows FY27/FY28 consensus net profit of RM45m/RM48m; yesterday's note gave RM44m/RM50m. (6) <b>Market data.</b> The note gives a 52-week range of RM1.02-RM1.88; stockanalysis.com gives RM1.00-RM1.92. This row uses stockanalysis.com, as the rules require. The 1.11% dividend yield is stockanalysis.com's trailing figure, not Kenanga's. (7) Page headers are inconsistent: pages 1 and 4 read 'Page 1 of 4' alongside 'Page 4 of 5', on a five-page document. The 11% FY28 revenue revision to RM411m cannot be checked, because the note does not give the previous FY28 revenue figure."
   }
  ],
  "verdict": "PASS"

@@ -1,0 +1,272 @@
+{
+ "date": "2026-10-16",
+ "schema": 1,
+ "daily": {
+  "klci": 1623.7,
+  "chg": -4.02,
+  "pct": -0.25,
+  "inst": -18.5,
+  "instPct": 46.4,
+  "retail": 32.5,
+  "retailPct": 25.1,
+  "foreign": -14.0,
+  "foreignPct": 28.5,
+  "ideas": "Results Note: ANCOMNY; Company Update: INFOM; Rating Summary; Economic Viewpoint: Bond Market Weekly Outlook, Ringgit Weekly Outlook",
+  "news": [
+   {
+    "h": "Vestland bags RM225.1m river widening job in Kelantan",
+    "body": "Vestland Bhd has secured a contract worth RM225.1m to undertake river widening and related flood mitigation works in Kelantan. The job, under the Integrated River Basin Development project, was awarded on Thursday (Oct 15) by Pembinaan Rizen Sdn Bhd, said Vestland in a bourse filing. The filing did not state the specific location of the works being undertaken from Oct 28. Vestland said the contract is expected to contribute positively to the earnings and net assets of the construction company over the two-year duration. (The Edge Malaysia)",
+    "takeaways": [
+     "Vestland has won a RM225.1m river widening and flood mitigation contract in Kelantan.",
+     "The job sits under the Integrated River Basin Development project and was awarded on 15 October by Pembinaan Rizen Sdn Bhd.",
+     "Works start on 28 October and run for two years. The filing does not give the specific location.",
+     "Vestland expects the contract to contribute positively to earnings and net assets over that period. No margin or earnings figure is given.",
+     "This board holds no Kenanga coverage of Vestland. Digest context only."
+    ]
+   },
+   {
+    "h": "Citaglobal proposes RM255.0m capital reduction and share buyback",
+    "body": "Citaglobal Bhd has proposed a capital reduction of RM255.0m to wipe out its accumulated losses and create retained earnings to enable a share buyback. The group said the credit arising from the capital reduction will be used to set off the group's accumulated losses of RM217.7m as at June 30 in full, with the remaining balance of RM37.1m credited to retained earnings. Under the share buyback plan, Citaglobal seeks to repurchase up to 56.3m shares, representing up to 10.0% of its total issued shares of 563.3m as at Sept 30. (The Star)",
+    "takeaways": [
+     "Citaglobal proposes a RM255.0m capital reduction to eliminate accumulated losses and create retained earnings.",
+     "RM217.7m of the credit offsets the group's accumulated losses as at 30 June in full. The remaining RM37.1m goes to retained earnings. The two parts sum to RM254.8m against the RM255.0m headline (computed here); rounding may explain it.",
+     "The retained earnings are meant to allow a share buyback.",
+     "The buyback covers up to 56.3m shares, 10.0% of the 563.3m shares in issue at 30 September.",
+     "This board holds no Kenanga coverage of Citaglobal. Digest context only; sourced to The Star."
+    ]
+   },
+   {
+    "h": "JAKS Resources plans RM40.7m placement to raise funds for debt repayment, working capital",
+    "body": "JAKS Resources Bhd has proposed to place out up to 10.0% of its total issued shares to third-party investors to be identified to raise an estimated RM40.7m for debt repayment and working capital. The construction and energy group said the private placement will involve up to 262.6m new shares. The issue price has yet to be fixed. The estimated proceeds is based on an illustrative price of 15.5 sen per share. The final price will be no more than a 10.0% discount to the five-day volume-weighted average market price of JAKS Resources shares immediately prior to the price-fixing date. (The Edge Malaysia)",
+    "takeaways": [
+     "JAKS Resources proposes a private placement of up to 10.0% of its shares, up to 262.6m new shares.",
+     "Estimated proceeds of RM40.7m are for debt repayment and working capital.",
+     "The figure rests on an illustrative 15.5 sen a share; 262.6m shares at that price give about RM40.7m (computed here). The issue price has not been fixed.",
+     "The final price will be at no more than a 10.0% discount to the five-day VWAP before price-fixing.",
+     "This board holds no Kenanga coverage of JAKS Resources. Digest context only."
+    ]
+   },
+   {
+    "h": "PJBumi moots RM31.1m private placement a week after share-split nod",
+    "body": "Diversified group PJBumi Bhd is proposing the private placement of up 10% of its shares to raise RM31.1m for existing and future contracts. The group said the placement will be made to independent third-party investor(s) to be identified later and may be implemented in tranches within six months of approval by Bursa Securities. PJBumi said its annual general meeting on Dec 5, 2025 had granted the board a general mandate to implement the private placement. The mandate is in force until the next AGM. (The Edge Malaysia)",
+    "takeaways": [
+     "PJBumi proposes a private placement of up to 10% of its shares to raise RM31.1m.",
+     "Proceeds are earmarked for existing and future contracts.",
+     "Placees are independent third parties yet to be identified. The placement may be done in tranches within six months of Bursa Securities' approval.",
+     "It relies on a general mandate granted at the 5 December 2025 AGM, valid until the next AGM. The headline says this comes a week after a share-split approval; the body gives no detail of the split.",
+     "This board holds no Kenanga coverage of PJBumi. Digest context only."
+    ]
+   },
+   {
+    "h": "HeiTech Padu bags RM19.9m extension for immigration system maintenance until 2029",
+    "body": "HeiTech Padu Bhd has secured a RM19.9m contract extension from the Immigration Department to continue maintaining the Malaysian Immigration System (MyIMMs) for another two years. The information technology services provider said the extension will run from Feb 18, 2027, to Feb 17, 2029. The contract value includes an 8.0% sales and service tax. The extension comes as Malaysia works towards implementing the National Integrated Immigration System (NIISe), also undertaken by HeiTech Padu, which is intended to replace MyIMMs — the country's ageing immigration platform that has been in operation since 1993. (The Edge Malaysia)",
+    "takeaways": [
+     "HeiTech Padu has won a RM19.9m, two-year extension from the Immigration Department to maintain the MyIMMs immigration system.",
+     "The extension runs from 18 February 2027 to 17 February 2029.",
+     "The value includes 8.0% SST, so the pre-tax value is about RM18.4m (computed here).",
+     "MyIMMs has run since 1993 and is due to be replaced by the National Integrated Immigration System (NIISe), which HeiTech Padu is also undertaking.",
+     "This board holds no Kenanga coverage of HeiTech Padu. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "EU risks bigger China trade fight with plans to expand curbs",
+    "region": "Global",
+    "body": "After getting China to accept limits to its car exports, the European Union is already eyeing follow-up action in other industries — setting up their next trade clash. (The Edge Malaysia)",
+    "takeaways": [
+     "The EU has got China to accept limits on its car exports.",
+     "It is now eyeing follow-up action in other industries.",
+     "The item frames this as setting up the next EU-China trade clash.",
+     "It does not name the industries or the measures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "BNM governor signals room to act as inflation risks rise",
+    "region": "Malaysia",
+    "body": "Malaysia’s central bank has greater room to adjust interest rates after changing its policy guidance last month and stands ready to act if inflation pressures intensify as the Middle East conflict keeps energy prices elevated, its governor said. (The Edge Malaysia)",
+    "takeaways": [
+     "Bank Negara Malaysia's governor says the bank has greater room to adjust interest rates.",
+     "That follows a change in its policy guidance last month.",
+     "BNM stands ready to act if inflation pressures intensify.",
+     "The governor links the inflation risk to the Middle East conflict keeping energy prices elevated. No rate level or timing is given.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysia steps up efforts to achieve USD30.0b trade target with Thailand",
+    "region": "Malaysia",
+    "body": "Malaysia is stepping up efforts to achieve its USD30.0b bilateral trade target with Thailand in 2027 through improved border infrastructure, cross-border financing and trade facilitation measures under Budget 2027, said Finance Minister II Datuk Seri Amir Hamzah Azizan. (The Edge Malaysia)",
+    "takeaways": [
+     "Malaysia is targeting USD30.0b of bilateral trade with Thailand in 2027.",
+     "The tools named are border infrastructure, cross-border financing and trade facilitation measures under Budget 2027.",
+     "The statement comes from Finance Minister II Amir Hamzah Azizan.",
+     "The item gives no current trade figure to measure the target against.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysia mulls F1 return after race generates RM950.0m in economic returns",
+    "region": "Malaysia",
+    "body": "Malaysia is considering hosting Formula One (F1) races once every few years, potentially in collaboration with other countries, following the recent Bahrain Grand Prix held at the Sepang circuit that generated nearly RM950 million in estimated economic returns. (The Edge Malaysia)",
+    "takeaways": [
+     "Malaysia is considering hosting Formula One races once every few years.",
+     "It may do so in collaboration with other countries.",
+     "The trigger is the recent Bahrain Grand Prix held at Sepang.",
+     "That race generated nearly RM950m in estimated economic returns. The item gives no cost figure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "China supports Malaysia's BRICS bid, Asean role, says Zahid",
+    "region": "Malaysia",
+    "body": "China has reaffirmed its support for Malaysia’s bid to become a full member of BRICS and expressed hope that the country will continue playing an important role in strengthening cooperation between China and Asean member states. (The Edge Malaysia)",
+    "takeaways": [
+     "China has reaffirmed support for Malaysia's bid to become a full BRICS member.",
+     "It hopes Malaysia keeps an important role in China-Asean cooperation.",
+     "The headline attributes the account to Deputy Prime Minister Zahid.",
+     "The item gives no timeline for the BRICS bid.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach",
+    "region": "Asia Pacific",
+    "body": "China's economic growth likely accelerated modestly in the third quarter from a more than three-year low, supported by fresh policy easing, though the pickup may be barely enough to meet the lower end of Beijing's full-year growth target. (Reuters)",
+    "takeaways": [
+     "China's growth likely accelerated modestly in the third quarter.",
+     "It is coming off a more than three-year low.",
+     "Fresh policy easing is credited for the pickup.",
+     "The pickup may be barely enough to meet the lower end of Beijing's full-year target. The item gives no growth figure.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "US producer prices post largest increase in 4-1/2 years in September",
+    "region": "Americas",
+    "body": "US producer prices increased by the most in 4-1/2 years in September amid rising costs for goods and services, the latest indication of inflation broadening out beyond energy products. (The Edge Malaysia)",
+    "takeaways": [
+     "US producer prices rose by the most in 4-1/2 years in September.",
+     "Costs rose for both goods and services.",
+     "The item reads it as inflation broadening beyond energy.",
+     "No percentage is given.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US retail sales beat expectations in September on higher gasoline prices",
+    "region": "Americas",
+    "body": "US retail sales increased more than expected in September, boosted by higher gasoline prices, but spending elsewhere was moderate, which could temper economists' expectations for another quarter of robust consumer spending growth. (The Edge Malaysia)",
+    "takeaways": [
+     "US retail sales rose more than expected in September.",
+     "Higher gasoline prices drove the beat.",
+     "Spending elsewhere was moderate.",
+     "That could temper expectations of another quarter of robust consumer spending growth. No figure is given.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "ECB in no rush to act amid opposing economic forces, Kazaks says",
+    "region": "Europe",
+    "body": "The European Central Bank can afford to take some time in analysing inflation dynamics that are shaped by opposing forces in the global economy, governing council member Martins Kazaks said. (The Edge Malaysia)",
+    "takeaways": [
+     "ECB governing council member Martins Kazaks says the bank can take time to analyse inflation.",
+     "He says inflation dynamics are shaped by opposing forces in the global economy.",
+     "The headline reads this as no rush to act.",
+     "The item gives no rate level or meeting date.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Kenanga-Today-261016-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Eight points of caution on this row, reported as printed rather than resolved. (1) <b>'We continue to like' is not a pick declaration.</b> The investment case opens 'We continue to like ANCOMNY for it being: (i)...'. That is standard investment-case wording, not a Top Pick, sector pick or most-attractive call, so under rules/signals.md &sect;2 the Kenanga Signal reads None stated, the same treatment as GAMUDA (15 Oct). No other conviction-search term appears. (2) <b>'23% of our full year estimate' does not match the revised table.</b> 1QFY27 core net profit of RM22.0m is about 24% of the revised FY27F RM90.2m (computed here). It is 23.6% of the pre-revision forecast implied by the old 8.9 sen CEPS on 1,044.9m shares (computed here, an inference). The 22% of consensus (RM97.2m) checks out. Either way the quarter reads as in line. (3) <b>Wording against the table.</b> The summary says revenue 'nudged up', but the results table shows revenue +19% YoY and -12% QoQ. (4) <b>Results table labels.</b> The year-ago column is headed '4Q25' while the segment table calls the same RM447.4m quarter '1Q26'. The 'FY26'/'FY25' columns repeat the quarterly figures, so they look like 1QFY27/1QFY26 mislabelled. (5) <b>Gearing.</b> The text says net debt fell to RM264m and net gearing to 42%. The Summary Earnings Table prints net gearing of 0.0x for FY26A and (0.1)x/(0.2)x for FY27F/FY28F, which reads as net cash. The note does not reconcile the two. (6) <b>Peer table against summary table.</b> The peer table shows a 2.5 sen net dividend and 3.1% yield; the Summary Earnings Table shows NDPS of 2.0 sen and 2.4%. The peer table's 4.6% FY27 core EPS growth compares with 7% CNP growth in the summary table, and 7.4% from its own 8.1-to-8.7 sen CEPS (computed here). (7) <b>GLT stake.</b> The RTO paragraph says ANCOMNY would hold GLT 'as a 21% associate post-RTO', then 'a 22% associate stake' when the RTO is completed. (8) <b>Market data.</b> The note gives a 52-week range of RM0.81-RM0.95; stockanalysis.com gives RM0.81-RM0.96. This row uses stockanalysis.com, as the rules require. The 1.21% dividend yield is stockanalysis.com's trailing figure, not Kenanga's. <b>Day line-up.</b> The digest's Ideas of the Day also names a Rating Summary and <i>Economic Viewpoint: Bond Market Weekly Outlook, Ringgit Weekly Outlook</i>. Kenanga's Kenanga Today page for 16 October, checked twice during this run, lists only the digest, this note and the INFOM Company Update. The Rating Summary is excluded by specification (rules/signals.md &sect;6). The Bond Market Weekly Outlook returned HTTP 404 under EV_Bond-Market-Weekly-Outlook_261016-Kenanga.pdf, the pattern that worked on 9 October. A Ringgit Weekly Outlook file <b>does</b> resolve at EV_Ringgit-Weekly-Outlook_261016-Kenanga.pdf (uploaded about 12:38 MYT today), but it is not in the published bundle. Both are excluded on the authority of the bundle contents, as on 18 September and 2 October. The Ringgit Weekly Outlook was not read for this board.",
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 1.5,
+   "ticker": "ANCOMNY",
+   "name": "Ancom Nylex Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 1.4,
+   "price": 0.83,
+   "divYield": 1.21,
+   "high52": 0.96,
+   "low52": 0.81,
+   "mktSrc": "https://stockanalysis.com/quote/klse/ANCOMNY/",
+   "catalyst": "<b>1QFY27 in line</b>: core net profit rose 7% YoY to <b>RM22.0m</b> (-8% QoQ), 23% of Kenanga's full-year forecast and 22% of consensus. Agri-chemicals held up better than expected as MSMA sales to Brazilian soyabean farmers offset the loss of a key sugarcane distributor. Industrial chemicals eased QoQ after an oil-driven 4QFY26 but segment PBT still rose 91% YoY. Net debt fell to RM264m. Kenanga <b>cuts FY27F/FY28F core EPS by 4%/5%</b> to 8.7/9.9 sen and <b>trims the target 7% to RM1.40</b> from RM1.50 (15x calendarised FY27-28F CEPS). OUTPERFORM maintained.",
+   "quote": "ANCOMNY’s 1QFY27 core net profit (CNP) rose 7% YoY to meet 23% of our full year estimate and 22% of consensus.",
+   "summary": [
+    "Result. 1QFY27 (quarter to August) core net profit was RM22.0m, up 7% YoY and down 8% QoQ, after stripping out a RM1.0m FX gain, a RM0.1m disposal gain and a RM0.04m fair value loss. Reported net profit was RM23.1m (+15% YoY). Kenanga puts it at 23% of its full-year estimate and 22% of consensus, so in line (see flag on the 23%). No cash dividend or dividend-in-specie was declared.",
+    "Segments. Revenue rose 19% YoY to RM533.4m but fell 12% QoQ. Industrial chemicals drove the year-on-year gain: revenue +33% to RM355.9m and PBT +91% to RM19.4m. QoQ that segment's PBT fell 28% after a 4QFY26 Kenanga calls stellar on surging crude prices, and that is what pulled group core profit down QoQ. Agri-chemicals revenue slipped 1% YoY to RM136.0m (+26% QoQ), with PBT of RM24.2m (-3% YoY) and an 18% PBT margin.",
+    "Brazil MSMA. ANCOMNY lost Sipcam Nicino Brasil, a long-time MSMA distributor in the Brazilian sugarcane market, in January 2026. Since December 2025 Brazil has allowed MSMA on soyabean fields, and those sales beat Kenanga's expectations. Kenanga notes soyabean covers 50m hectares in Brazil against 9m for sugarcane. Its forecasts still assume Brazilian MSMA sales dip about 3% in FY27 before improving in FY28, with total MSMA sales up 10% in FY27 and 15% in FY28.",
+    "Other drivers. A three-year timber preservative contract ends in January 2027 and is being renegotiated; Kenanga expects steady revenue because the buyer no longer produces in-house and has few alternatives. New active ingredients (Bromacil, Ester, AI 'T') are still small, and a new AI 'S' may launch this year. A proposed 50:50 industrial chemicals JV with Thai Oil may conclude later this year. The Green Lagoon Technology RTO has slipped to FY27 or FY28. A 42%-owned subsidiary, Nylex (Malaysia), is in a consortium approved on 11 May 2026 for a proposed Iskandar Malaysia rail system, with terms still under negotiation.",
+    "Balance sheet, valuation and risks. Net debt fell 13% QoQ to RM264m as inventory and receivables unwound, and Kenanga puts net gearing at 42% from 48% (see flag). FY27F/28F core net profit is RM90.2m/RM103.3m. The RM1.40 target is 15x calendarised FY27-28F CEPS, about 25% below regional agri-chemical peers' 19-21x, with no ESG adjustment (3 stars). At RM0.83 that is 68.7% upside (peer table; also computed here). The risks Kenanga names are a downturn in key crop markets, regulation and FX translation."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on ANCOMNY in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. A BusinessToday article dated 16 October 2026, headlined 'Ancom 1Q Earnings Comes In Below Expectation On Lower Selling Price', surfaced in search. A search summary attributes it to Hong Leong Investment Bank, with a target cut to RM1.27 from RM1.32. <b>The article returned HTTP 403 and could not be read</b>, so HLIB's rating, target and wording are not verified and are not used. If HLIB's view is confirmed as 'below expectations', it differs from Kenanga's 'in line' reading of the same quarter. <b>None of the nine houses this board searches</b> (CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang) yielded a dated call that could be read from a permitted outlet in this run. <b>On divergence:</b> no verified call rates ANCOMNY opposite to Kenanga's OUTPERFORM, so the marker is not set. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": []
+   },
+   "crossCheck": {
+    "note": "Two headlines agree with Kenanga's results table once the profit basis is set out. BusinessToday (15 Oct 2026) headlines net profit up 21.4% to <b>RM24.4m</b>. That matches profit after tax <i>before</i> minority interests: RM35.2m PBT less RM10.8m tax is RM24.4m, against RM20.1m a year earlier (+21.4%) (computed here from Kenanga's table). The New Straits Times headline gives profit up 15% on RM533.42m revenue. 15% matches Kenanga's attributable net profit (RM23.1m, +15%), and the revenue matches Kenanga's RM533.4m. The NST headline's 'RM24.13mil' matches neither basis exactly and is not resolved here. Kenanga's RM22.0m core figure excludes the FX and disposal gains. Only the headlines were read; both article bodies were unavailable (BusinessToday HTTP 403; the NST page returned headline only).",
+    "cites": [
+     [
+      "BusinessToday, 15 Oct 2026 &mdash; &lsquo;Ancom Nylex Starts FY27 On Positive Note As Net Profit Rises 21.4% To RM24.4 Million&rsquo; (headline only read)",
+      "https://www.businesstoday.com.my/2026/10/15/ancom-nylex-starts-fy27-on-positive-note-as-net-profit-rises-21-4-to-rm24-4-million/"
+     ],
+     [
+      "New Straits Times, Oct 2026 &mdash; &lsquo;Ancom Nylex's Q1 profit jumps 15pct to RM24.13mil on higher RM533.42mil revenue&rsquo; (headline only read)",
+      "https://www.nst.com.my/business/corporate/2026/10/1556277/ancom-nylexs-q1-profit-jumps-15pct-rm2413mil-higher-rm53342mil"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/ANCOMNY-261016-1Q27-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>'We like Infomina' is not a pick declaration.</b> The investment case opens 'We like Infomina for: (i)...', the same wording as yesterday's results note. Under rules/signals.md &sect;2 the Kenanga Signal reads None stated, as on 15 October. (2) <b>The prior-quarter order book differs between two Kenanga notes a day apart.</b> Today's note says the order book rose to RM614m 'vs. RM565m in the preceding quarter'. Yesterday's results note, on this board's 15 October row, gave RM570m. This board does not resolve the difference; the RM614m figure is the same in both. (3) <b>Dividend forecasts still differ.</b> The Summary Earnings Table and Valuations table show FY27F NDPS of 2.5 sen (1.4% yield). The peer table shows 3.0 sen and 1.6%, as flagged yesterday. The peer table's 26.1% ROE also differs from the 24.1% FY27F ROE in the Financial Data table. (4) <b>Japan sizing.</b> The text gives an annual addressable opportunity of RM80m in Japan; the investment case says RM80m-RM100m. (5) <b>Consensus moved.</b> Today's Summary Earnings Table shows FY27/FY28 consensus net profit of RM45m/RM48m; yesterday's note gave RM44m/RM50m. (6) <b>Market data.</b> The note gives a 52-week range of RM1.02-RM1.88; stockanalysis.com gives RM1.00-RM1.92. This row uses stockanalysis.com, as the rules require. The 1.11% dividend yield is stockanalysis.com's trailing figure, not Kenanga's. (7) Page headers are inconsistent: pages 1 and 4 read 'Page 1 of 4' alongside 'Page 4 of 5', on a five-page document. The 11% FY28 revenue revision to RM411m cannot be checked, because the note does not give the previous FY28 revenue figure.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 1.9,
+   "ticker": "INFOM",
+   "name": "Infomina Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 2.4,
+   "price": 1.83,
+   "divYield": 1.11,
+   "high52": 1.92,
+   "low52": 1.0,
+   "mktSrc": "https://stockanalysis.com/quote/klse/INFOM/",
+   "catalyst": "After the 1QFY27 results briefing Kenanga <b>raises FY28F net profit 13.7% to RM58m</b> (FY27F unchanged at RM46m) and <b>lifts the target 26% to RM2.40</b> from RM1.90. That comes from rolling valuation to FY28 at an unchanged 25x PER. Drivers are a <b>RM614m order book</b>, a <b>RM1.6b tender pipeline</b> and the enlarged Broadcom mainframe mandate across 12 Asia-Pacific markets. Japan and ANZ are named as the key FY27-28 growth drivers. Non-mainframe Broadcom software rights are not yet in forecasts. OUTPERFORM maintained.",
+   "quote": "We remain positive on Infomina’s medium-term growth prospects following its 1QFY27 results briefing, underpinned by a strong RM614m order book, sizeable RM1.6b tender pipeline and enlarged Broadcom distribution mandate across Asia-Pacific.",
+   "summary": [
+    "What changed. A day after its in-line 1QFY27 results note, Kenanga keeps FY27F net profit at RM46m but raises FY28F 13.7% to RM58m, on an 11% revenue upgrade to RM411m for stronger Japan and ANZ contributions. Rolling the valuation base to FY28 at an unchanged 25x PER lifts the target 26% to RM2.40 from RM1.90. At RM1.83 that is 31.1% upside (peer table; also computed here). The 25x is anchored to the three-year average PER of Kronologi Asia, Cloudpoint Technology and LGMS, about +1SD above Infomina's own three-year mean.",
+    "Mix drives margins. Renewal, the higher-margin business, grew 32.8% YoY to RM58.3m in 1QFY27, 77% of group revenue, with GP margin up to 32.4% from 29.0%. Turnkey and AI & Data each ran at a 6.7% GP margin. AI & Data, now the third business pillar, contributed RM8.4m (11.0% of revenue); management expects its margins to improve as proprietary AI solutions scale up.",
+    "Order book and pipeline. The outstanding order book reached RM614m in August, helped by contract wins in Malaysia and Japan (see flag on the prior-quarter figure). Management cites a RM1.6b tender pipeline of Turnkey and Renewal work at home and abroad, including potential Malaysian government projects.",
+    "Japan, ANZ and beyond mainframe. Management sizes annual addressable revenue at RM80m in Japan, against about RM15m earned there in FY26, and RM50m in ANZ. Japan should contribute more in FY27, helped by RM22m of Panasonic Digital wins. ANZ could start in 2HFY27. Kenanga projects Japan revenue of RM20m/RM30m in FY27/FY28 and RM30m from ANZ in FY28, which it calls conservative. Infomina is also pursuing Broadcom's non-mainframe software rights across Asia-Pacific and already has Automation and Operations software access in Japan; none of this is in forecasts. A 51% stake in Blue Fortress adds cybersecurity capability. Headcount is now over 300, which may lift near-term costs.",
+    "The BPI overhang. Litigation against Bank of the Philippine Islands is still at the documentary evidence pre-marking stage, with sessions set for October 2026, January 2027 and February 2027 before a potential trial. About RM66m-67m of receivables, 45%-46% of RM145.7m trade receivables at end-August, are tied to BPI. Management remains confident of a favourable outcome. Kenanga lists an unfavourable BPI outcome first among its risks, ahead of losing the Broadcom arrangement and Premier Tier 1 VAD status, and turnkey cost overruns."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on INFOM in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. Search surfaced older AmInvestment Bank coverage in The Edge Malaysia and The Star: a resumed Buy at RM1.70 (September 2025) and a Buy at RM1.80 still held in April 2026. Under the most-recent-statement rule these are superseded: this board's 15 October row records a later AmInvestment Buy at RM1.85 after the FY26 results, seen only through a non-permitted community post. None of these articles was opened in this run, and none is used for the signal. No post-briefing note from another house was found. <b>None of the nine houses this board searches</b> (CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang) yielded a dated, readable call from a permitted outlet in this run. <b>On divergence:</b> no verified call rates INFOM opposite to Kenanga's OUTPERFORM, so the marker is not set. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": []
+   },
+   "crossCheck": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/INFOM-261016-CU-Kenanga.pdf"
+  }
+ ]
+}
