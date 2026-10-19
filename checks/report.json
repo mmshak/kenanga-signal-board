@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T19:27:38.833Z",
+ "generatedAt": "2026-10-19T05:45:28.297Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -35,10 +35,11 @@
   "2026-10-13",
   "2026-10-14",
   "2026-10-15",
-  "2026-10-16"
+  "2026-10-16",
+  "2026-10-19"
  ],
- "rows": 151,
- "verified": 150,
+ "rows": 153,
+ "verified": 152,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -527,6 +528,18 @@
    "date": "2026-10-16",
    "row": "INFOM",
    "msg": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>'We like Infomina' is not a pick declaration.</b> The investment case opens 'We like Infomina for: (i)...', the same wording as yesterday's results note. Under rules/signals.md &sect;2 the Kenanga Signal reads None stated, as on 15 October. (2) <b>The prior-quarter order book differs between two Kenanga notes a day apart.</b> Today's note says the order book rose to RM614m 'vs. RM565m in the preceding quarter'. Yesterday's results note, on this board's 15 October row, gave RM570m. This board does not resolve the difference; the RM614m figure is the same in both. (3) <b>Dividend forecasts still differ.</b> The Summary Earnings Table and Valuations table show FY27F NDPS of 2.5 sen (1.4% yield). The peer table shows 3.0 sen and 1.6%, as flagged yesterday. The peer table's 26.1% ROE also differs from the 24.1% FY27F ROE in the Financial Data table. (4) <b>Japan sizing.</b> The text gives an annual addressable opportunity of RM80m in Japan; the investment case says RM80m-RM100m. (5) <b>Consensus moved.</b> Today's Summary Earnings Table shows FY27/FY28 consensus net profit of RM45m/RM48m; yesterday's note gave RM44m/RM50m. (6) <b>Market data.</b> The note gives a 52-week range of RM1.02-RM1.88; stockanalysis.com gives RM1.00-RM1.92. This row uses stockanalysis.com, as the rules require. The 1.11% dividend yield is stockanalysis.com's trailing figure, not Kenanga's. (7) Page headers are inconsistent: pages 1 and 4 read 'Page 1 of 4' alongside 'Page 4 of 5', on a five-page document. The 11% FY28 revenue revision to RM411m cannot be checked, because the note does not give the previous FY28 revenue figure."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-19",
+   "row": "ANCOMNY",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>'We like ANCOMNY' is not a pick declaration.</b> The investment case opens 'We like ANCOMNY as a proxy to global food production and food security goal...'. That is standard investment-case wording, not a Top Pick, sector pick or most-attractive call, so under rules/signals.md &sect;2 the Kenanga Signal reads None stated, the same treatment as this stock's 16 October row. No other conviction-search term appears in the note. (2) <b>A margin range is garbled.</b> The note says industrial chemical margins 'should normalize at historic range of 2-.4%'. That most likely means 2-4%, but this is an inference and the row does not rely on it. (3) <b>The freight-rate window does not match the quarter.</b> The note gives the World Container Index (spelt 'Drury's') for 'Jun-Sept 2026 (ANCOMNY's 1QFY27)'. With a May year-end, 1QFY27 is June-August. Its 'hover over 50% of the 10-year average' wording is also unclear and is quoted rather than interpreted. (4) <b>The dividend figures still differ between tables.</b> The peer table shows a 2.5 sen net dividend and 3.1% yield. The Summary Earnings Table shows FY27F NDPS of 2.0 sen and 2.5%. The peer table's 4.6% FY27 core EPS growth also compares with 7.4% from the summary table's 8.1-to-8.7 sen (computed here), as flagged on 16 October. Net gearing is printed as (0.1)x for FY27F, which reads as net cash. (5) <b>Market data.</b> The note gives a 52-week range of RM0.81-RM0.94; stockanalysis.com gives RM0.81-RM0.96. This row uses stockanalysis.com, as the rules require. The 1.23% dividend yield is stockanalysis.com's trailing figure, not Kenanga's. Kenanga's own RM0.815 price matches stockanalysis.com's 16 October close."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-19",
+   "row": "Automotive",
+   "msg": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>Filed as a Sector Update</b>, although the document is headed 'ESG Thematic', because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). Earlier Thematic reports on 14 September, 30 September, 2 October and 13 October got the same treatment. (2) <b>No pick is declared.</b> The note lists likely beneficiaries of local EV production by plant and parent: MBMR and SIME via Perodua; DRBHICOM via Proton and Zeekr; SIME and BAUTO via Inokom (BYD); BAUTO and EPMB via EPMB (Xpeng, GWM, BAIC, SAIC). Naming a beneficiary is not a pick declaration. None of the conviction-search terms appears, so the Kenanga Signal reads None stated. The sector stays NEUTRAL. (3) <b>The 2030 EV fleet projection appears three ways.</b> The MyZEVA section says about 750,000 EVs on the road by 2030. The skills section uses 765,982. The Yinson GreenTech section says 150,000. The note does not reconcile them. (4) <b>The charger growth figures look mislabelled.</b> The note says DC chargers grew 839 to 4,271 and AC chargers 137 to 2,145 between 1Q23 and 2Q26. But its July 2026 split is 4,665 AC and 2,239 DC, which suggests the AC and DC labels are swapped (an inference). 4,271 + 2,145 = 6,416 (computed here), against 6,904 in July. The Yinson section also says 'over 6,000' public points. Putrajaya is given 409 DC chargers, the same figure as Kuala Lumpur's DC count, which may be a carry-over. (5) <b>The technician ratio does not follow from the figures beside it.</b> 765,982 EVs over 1,800 graduates a year is about 426 EVs per graduate (computed here), not the stated 71. 71 matches roughly six years of cumulative graduates (about 10,800) to 2030, which is an inference. (6) <b>EPMB figures.</b> Net profit of RM5.2m against RM277,000 is about +1,777% (computed here), against the stated +1,760% and 'nearly 19-fold'; rounding of the RM5.2m could explain it. The FY26 revenue of RM674.3m is Kenanga's extrapolation from 1HFY26, not a reported figure. The debt figure is printed 'RM169.3' with no unit; it equals RM112.2m + RM57.1m. A GWM Wey G9 roll-out is described as 'in late 2026' in a note dated 19 October 2026. EPMB is Not Rated. (7) <b>Peer table and images.</b> DRB-HICOM's peer-table price of RM0.815 differs from the RM0.795 in today's digest oversold list; the other peer-table targets (BAUTO RM1.30, HIL RM0.850, MBMR RM5.00, SIME RM3.00, TCHONG RM0.390) match this board's earlier rows. Exhibits 1-8 (cost of ownership, maintenance, charger maps, GHG chart) are images and were not read, so no figure from them is used. There is no rating, target or share price for this row, so those columns are empty by design."
   }
  ],
  "verdict": "PASS"

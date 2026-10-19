@@ -1,0 +1,252 @@
+{
+ "date": "2026-10-19",
+ "schema": 1,
+ "daily": {
+  "klci": 1607.8,
+  "chg": -15.94,
+  "pct": -0.98,
+  "inst": -70.1,
+  "instPct": 44.3,
+  "retail": 123.5,
+  "retailPct": 23.9,
+  "foreign": -53.5,
+  "foreignPct": 31.9,
+  "ideas": "ESG Thematic: Automotive (Kenanga Electric Vehicles Day 2026); Company Update: ANCOMNY; Weekly Technical Review: DJIA, KLCI",
+  "news": [
+   {
+    "h": "MNRB Holdings issues RM250.0m commercial papers",
+    "body": "MNRB Holdings Bhd has made its inaugural issuance of commercial papers (CPs) with an aggregate nominal value of RM250.0m under its RM500.0m CP programme. The company said the CPs have a tenure of up to 364 days. “Proceeds from the issuance of the CPs shall be utilised for the Issuer's general working capital, strategic and/or general investments, capital expenditure, refinancing, other general corporate purposes and/or defrayment of expenses in relation to the CP programme,” it said. (The Star)",
+    "takeaways": [
+     "MNRB Holdings has made its first issuance of commercial papers, RM250.0m nominal.",
+     "The issue sits under a RM500.0m CP programme, so half the programme is now used (computed here).",
+     "The papers have a tenure of up to 364 days.",
+     "Proceeds go to working capital, investments, capex, refinancing and other general corporate purposes. No split between them is given.",
+     "This board holds no Kenanga coverage of MNRB. Digest context only; sourced to The Star."
+    ]
+   },
+   {
+    "h": "E&O, OCK Group team up to develop digital infrastructure on Andaman Island",
+    "body": "Eastern & Oriental Bhd (E&O) has partnered with OCK Group Bhd to develop and operate telecommunications and digital infrastructure on Andaman Island in Penang. The collaboration will see E&O's indirect subsidiary Tinggi Murni Sdn Bhd form a joint venture with OCK Group's OCK Setia Engineering Sdn Bhd, a provider of telecommunications network solutions and digital infrastructure services. E&O said the joint venture would develop and operate telecommunications towers, smart poles, fibre-optic and broadband networks, as well as in-building connectivity solutions. (New Straits Times)",
+    "takeaways": [
+     "E&O and OCK Group will develop and operate telecoms and digital infrastructure on Andaman Island, Penang.",
+     "The vehicle is a joint venture between E&O's indirect subsidiary Tinggi Murni and OCK Setia Engineering.",
+     "Scope covers telecom towers, smart poles, fibre-optic and broadband networks, and in-building connectivity.",
+     "No investment value, shareholding split or timeline is given.",
+     "This board holds no Kenanga coverage of either company. Digest context only; sourced to the New Straits Times."
+    ]
+   },
+   {
+    "h": "Cape EMS partner FIC Global unit for Johor expansion, proposes RM50.0m RCPS issuance",
+    "body": "Electronics contract manufacturer Cape EMS Bhd is collaborating with Taiwan-listed FIC Global Inc (FICG) to serve as its strategic partner in the latter’s optical transceivers manufacturing expansion in Johor. Cape EMS entered into a memorandum of agreement with FICG’s unit Pro3C (Malaysia) Sdn Bhd, which has a targeted USD2.0b (RM8.2b) manufacturing revenue, to support the latter’s manufacturing operations in Senai. As part of the deal, Pro3C will subscribe to 50.0m redeemable convertible preference shares (RCPS) of Cape EMS at RM1 a piece for RM50.0m, Cape EMS said in a filing. (The Edge Malaysia)",
+    "takeaways": [
+     "Cape EMS will act as strategic partner for Taiwan-listed FIC Global's optical transceiver manufacturing expansion in Johor.",
+     "It has signed a memorandum of agreement with FIC's unit Pro3C (Malaysia) to support its operations in Senai.",
+     "Pro3C targets USD2.0b (RM8.2b) of manufacturing revenue. That is Pro3C's target, not Cape EMS's.",
+     "Pro3C will subscribe to 50.0m Cape EMS RCPS at RM1 each, RM50.0m in total.",
+     "This board holds no Kenanga coverage of Cape EMS. Digest context only."
+    ]
+   },
+   {
+    "h": "Ormond Group breaks ground for Ormond Desaru resort",
+    "body": "Ormond Group, the hospitality arm of ECM Libra Group Bhd, broke ground for the 396-key Ormond Desaru resort in Johor on Friday (Oct 16). The resort is slated to open in 4Q2029 and is the first third-party investment in the Desaru Coast master plan. The 9.1-acre beachfront resort forms part of Phase 1 of the Desaru Coast master plan, led by master developer Destination Resorts and Hotels Sdn Bhd (DRH). Targeted primarily at young families, the hotel is owned and being developed by ECM Libra Group’s subsidiary, Desaru Beachfront Sdn Bhd. Ormond Group will manage and operate the property under the Ormond brand. (The Edge Malaysia)",
+    "takeaways": [
+     "ECM Libra's hospitality arm Ormond Group broke ground on the 396-key Ormond Desaru resort on 16 October.",
+     "It is due to open in 4Q2029.",
+     "It is the first third-party investment in the Desaru Coast master plan, on a 9.1-acre beachfront site in Phase 1.",
+     "ECM Libra's subsidiary Desaru Beachfront owns and is developing it; Ormond will operate it. No project cost is given.",
+     "This board holds no Kenanga coverage of ECM Libra. Digest context only."
+    ]
+   },
+   {
+    "h": "Cosmos Tech to supply RM3.9m in monitoring equipment to Kedah water utility",
+    "body": "Cosmos Technology International Bhd has secured a contract worth RM3.9m to supply and deliver data loggers and advance pressure management control equipment to Kedah’s water supply operator. The group said its wholly owned unit received the contract from Syarikat Air Darul Aman Sdn Bhd (SADA) with the contract due to run for four months. The delivery of the smart digital monitors, which are used to monitor pipe water pressure, is slated to be completed by February 2027. (The Edge Malaysia)",
+    "takeaways": [
+     "Cosmos Technology has won a RM3.9m contract from Kedah water operator Syarikat Air Darul Aman.",
+     "It covers data loggers and advanced pressure management control equipment.",
+     "The equipment monitors pipe water pressure.",
+     "The contract runs four months, with delivery to finish by February 2027. No margin figure is given.",
+     "This board holds no Kenanga coverage of Cosmos Technology. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Trump halts new Russia energy sanctions to ease diesel costs",
+    "region": "Global",
+    "body": "US President Donald Trump waived massive tariffs linked to Russian energy exports mandated in a law that he signed last month, as the measures complicated his push to lower diesel prices ahead of the US midterm elections. (The Edge Malaysia)",
+    "takeaways": [
+     "President Trump has waived tariffs linked to Russian energy exports.",
+     "The tariffs were mandated by a law he signed last month.",
+     "The stated reason is his push to lower diesel prices.",
+     "The item ties the timing to the US midterm elections. No tariff rate is given.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "3Q26 beats at 5.3%, but domestic demand must carry a softer 4Q",
+    "region": "Malaysia",
+    "body": "DOSM's advance estimate shows growth eased to 5.3% in 3Q26 (2Q26: 6.0%), but still beat both our forecast and the Bloomberg consensus of 5.1%. We maintain our 3Q26 GDP growth forecast at 5.1% and full-year 2026 forecast at 5.3%. (See Economic Viewpoint: Malaysia 3Q26 Advance GDP)",
+    "takeaways": [
+     "DOSM's advance estimate puts Malaysia's 3Q26 GDP growth at 5.3%, down from 6.0% in 2Q26.",
+     "That beat Kenanga's forecast and the Bloomberg consensus, both 5.1%.",
+     "Kenanga keeps its full-year 2026 forecast at 5.3%. The digest also says it 'maintains' its 3Q26 forecast at 5.1%, even though the advance print is already out. Reported as printed.",
+     "The headline says domestic demand must carry a softer 4Q. The digest gives no 4Q figure.",
+     "The cited Economic Viewpoint is not in today's bundle. Kenanga's listing shows it under 16 October, so it was not read for this row."
+    ]
+   },
+   {
+    "h": "Malaysia-China cooperation to prepare talent for higher-value jobs, says Zahid",
+    "region": "Malaysia",
+    "body": "Malaysia-China cooperation in technical and vocational education and training (TVET) has secured thousands of training opportunities for Malaysians, with the partnership now focusing on developing skilled talent for high-value jobs in emerging technologies. (The Edge Malaysia)",
+    "takeaways": [
+     "Malaysia-China cooperation on TVET has secured thousands of training places for Malaysians.",
+     "The partnership is now focused on skilled talent for high-value jobs in emerging technologies.",
+     "The headline attributes the account to Deputy Prime Minister Zahid.",
+     "No exact number of places or funding is given.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "National Physical Planning Council okays Carey Island development, project to contribute RM4.7b to GDP, says Nga",
+    "region": "Malaysia",
+    "body": "The National Physical Planning Council (MPFN) has given in-principle approval to the proposed development of the National Maritime Port City and Carey Island Port Special Economic Zone. (The Edge Malaysia)",
+    "takeaways": [
+     "The National Physical Planning Council has given in-principle approval to the Carey Island development.",
+     "The project covers the National Maritime Port City and the Carey Island Port Special Economic Zone.",
+     "The headline says it will contribute RM4.7b to GDP. The body does not say over what period.",
+     "The headline attributes the figure to Nga. The body gives no cost or timeline.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Govt to amend wage law for mandatory RM2,500 minimum starting salary for graduates, semi-skilled workers — HR minister",
+    "region": "Malaysia",
+    "body": "The Human Resources Ministry plans to amend the National Wages Consultative Council Act 2011 to allow minimum wages to be set based on education levels, paving the way for a mandatory minimum starting salary of RM2,500 a month for graduates and semi-skilled workers under Budget 2027. (The Edge Malaysia)",
+    "takeaways": [
+     "The Human Resources Ministry plans to amend the National Wages Consultative Council Act 2011.",
+     "The change would let minimum wages be set by education level.",
+     "It would make a RM2,500 monthly starting salary mandatory for graduates and semi-skilled workers, under Budget 2027.",
+     "This matches the RM2,500 measure in the 13 October Sustainability row on this board. No start date is given here.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Ueda ‘can’t tolerate’ underlying inflation further over 2%",
+    "region": "Asia Pacific",
+    "body": "Bank of Japan (BOJ) governor Kazuo Ueda said he “can’t tolerate” underlying inflation rising further above 2%. (The Edge Malaysia)",
+    "takeaways": [
+     "BOJ governor Kazuo Ueda said he 'can't tolerate' underlying inflation rising further above 2%.",
+     "The reference point is underlying inflation, not the headline rate.",
+     "The item gives no current inflation reading.",
+     "It does not say what policy action, if any, would follow.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "China’s payback for late stimulus looms with sub-4.5% growth",
+    "region": "Asia Pacific",
+    "body": "China’s economy is heading for a second straight quarter of growth below the 2026 target set by the nation’s leaders, with their recent stimulus measures having come too late to make a notable impact. (The Edge Malaysia)",
+    "takeaways": [
+     "China is heading for a second straight quarter of growth below its 2026 target.",
+     "The headline puts growth below 4.5%.",
+     "The item says recent stimulus came too late to make a notable impact.",
+     "It does not state the target itself or an exact growth figure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Fed's Warsh sees US economic tailwinds, mum on rate-path view",
+    "region": "Americas",
+    "body": "Federal Reserve Chairman Kevin Warsh voiced optimism on Friday about US economic strength and surprise about how well global economies have been \"hanging in there\" amid recent geopolitical shocks, despite tighter monetary policy to fight inflation. (The Edge Malaysia)",
+    "takeaways": [
+     "Fed Chairman Kevin Warsh voiced optimism about US economic strength on Friday.",
+     "He said he was surprised how well global economies have been 'hanging in there' after recent geopolitical shocks.",
+     "The item notes this comes despite tighter monetary policy to fight inflation.",
+     "The headline says he gave no view on the rate path.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "UK said to raise taxes on banks in budget this month",
+    "region": "Europe",
+    "body": "UK Chancellor of the Exchequer John Healey is set to raise taxes on banks to fund cost-of-living support for voters and stabilise the public finances, as he looks for sources of revenue that won’t violate Labour Party campaign pledges. (The Edge Malaysia)",
+    "takeaways": [
+     "UK Chancellor John Healey is set to raise taxes on banks in this month's budget.",
+     "The money would fund cost-of-living support and help stabilise the public finances.",
+     "He is looking for revenue that doesn't break Labour's campaign pledges.",
+     "The headline says this is reported ('said to'), not confirmed. No rate or amount is given.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Kenanga-Today-261019-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>'We like ANCOMNY' is not a pick declaration.</b> The investment case opens 'We like ANCOMNY as a proxy to global food production and food security goal...'. That is standard investment-case wording, not a Top Pick, sector pick or most-attractive call, so under rules/signals.md &sect;2 the Kenanga Signal reads None stated, the same treatment as this stock's 16 October row. No other conviction-search term appears in the note. (2) <b>A margin range is garbled.</b> The note says industrial chemical margins 'should normalize at historic range of 2-.4%'. That most likely means 2-4%, but this is an inference and the row does not rely on it. (3) <b>The freight-rate window does not match the quarter.</b> The note gives the World Container Index (spelt 'Drury's') for 'Jun-Sept 2026 (ANCOMNY's 1QFY27)'. With a May year-end, 1QFY27 is June-August. Its 'hover over 50% of the 10-year average' wording is also unclear and is quoted rather than interpreted. (4) <b>The dividend figures still differ between tables.</b> The peer table shows a 2.5 sen net dividend and 3.1% yield. The Summary Earnings Table shows FY27F NDPS of 2.0 sen and 2.5%. The peer table's 4.6% FY27 core EPS growth also compares with 7.4% from the summary table's 8.1-to-8.7 sen (computed here), as flagged on 16 October. Net gearing is printed as (0.1)x for FY27F, which reads as net cash. (5) <b>Market data.</b> The note gives a 52-week range of RM0.81-RM0.94; stockanalysis.com gives RM0.81-RM0.96. This row uses stockanalysis.com, as the rules require. The 1.23% dividend yield is stockanalysis.com's trailing figure, not Kenanga's. Kenanga's own RM0.815 price matches stockanalysis.com's 16 October close.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 1.4,
+   "ticker": "ANCOMNY",
+   "name": "Ancom Nylex Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 1.4,
+   "price": 0.815,
+   "divYield": 1.23,
+   "high52": 0.96,
+   "low52": 0.81,
+   "mktSrc": "https://stockanalysis.com/quote/klse/ANCOMNY/",
+   "catalyst": "After the 1QFY27 results briefing, Kenanga calls the takeaways <b>positive</b> and changes nothing: <b>FY27-28F forecasts, the RM1.40 target and OUTPERFORM are all maintained</b>. Early orders for MSMA use on <b>Brazilian soyabean</b>, where ANCOMNY is currently the only approved supplier, could offset the MSMA sales lost when Sipcam Nichino stopped distributing in January 2026. The <b>US soyabean market</b> is the next target, three to five years out. Industrial chemical margins are expected to normalise after an oil-driven 4QFY26, and freight rates are likely to stay elevated through FY27.",
+   "quote": "Stronger agri-chemicals performance is expected to mitigate thinner industrial-chemicals margins over FY27-28, preserving core EPS (CEPS).",
+   "summary": [
+    "The call. Three days after its 1QFY27 results note, Kenanga keeps FY27-28F forecasts, the RM1.40 target and its OUTPERFORM call unchanged. The target matches this board's 16 October row. At RM0.815 the target implies 71.8% upside (peer table; also computed here). FY27F/FY28F core net profit stays at RM90.2m/RM103.3m, against consensus of RM90.1m/RM101.3m, with core EPS of 8.7/9.9 sen and PER of 9.4x/8.2x.",
+    "Brazil soyabean. Brazilian sugarcane planters have long used MSMA, but approval for soyabean came only in December 2025, with a labelling permit in April 2026. ANCOMNY is currently the only approved supplier for soyabean. Kenanga calls early orders encouraging and says potential FY27 sales could cover the MSMA sales lost after Sipcam Nichino stopped acting as distributor in January 2026. Without that disruption, Kenanga suspects 1QFY27 earnings could have been RM1-2m higher. It adds that the sugarcane distribution disruption is recovering.",
+    "The US is next, but slowly. Kenanga puts Brazil's soyabean planting at almost 50m hectares and the US at about 35m. Having secured Brazil, ANCOMNY is targeting US soyabean farmers. Field trials, submissions, reviews and registration will likely take three to five years, so Kenanga treats this as a medium-term target.",
+    "Industrial chemicals and freight. Selling prices soared after the Middle East conflict broke out in late February. With 60-80 days of inventory bought at lower prices, the unit's 4QFY26 margins doubled YoY. As expected, 1QFY27 margins narrowed QoQ to 5% from 6%, and Kenanga expects them to normalise at the historic range (printed as '2-.4%'; see flag). Freight rates are likely to stay elevated and volatile in FY27: the note says the World Container Index rose 77% QoQ and 70% YoY over June-September 2026. Feedback from the briefing points the same way.",
+    "Valuation and risks. The RM1.40 target is 15x calendarised FY27-28F PER, 25% below larger regional agri-chemical peers at 19-21x forward PER. The 3-star ESG rating leaves it unadjusted. The investment case rests on ANCOMNY being South-East Asia's largest herbicide active-ingredient producer, on the Paraquat bans in Brazil and Thailand, and on US-China trade tension, shown by German-based Helm AG's strategic stake. Helm is the single largest shareholder at 18.0%. The named risks are a downturn in crop production in key markets, regulatory risk on active ingredients and FX volatility."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on ANCOMNY in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. A search for October 2026 coverage found no dated call from a permitted outlet. The only results were undated anonymous consensus figures from aggregators, which rules/signals.md &sect;1 prohibits, and they are not used. The Hong Leong Investment Bank item noted on this board's 16 October row (BusinessToday, unreadable at HTTP 403) was not re-fetched and remains unverified. <b>None of the nine houses this board searches</b> (CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang) yielded a dated, readable call in this run: 0 of 9. <b>On divergence:</b> no verified call rates ANCOMNY opposite to Kenanga's OUTPERFORM, so the marker is not set. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": []
+   },
+   "crossCheck": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/ANCOMNY-261019-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>Filed as a Sector Update</b>, although the document is headed 'ESG Thematic', because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). Earlier Thematic reports on 14 September, 30 September, 2 October and 13 October got the same treatment. (2) <b>No pick is declared.</b> The note lists likely beneficiaries of local EV production by plant and parent: MBMR and SIME via Perodua; DRBHICOM via Proton and Zeekr; SIME and BAUTO via Inokom (BYD); BAUTO and EPMB via EPMB (Xpeng, GWM, BAIC, SAIC). Naming a beneficiary is not a pick declaration. None of the conviction-search terms appears, so the Kenanga Signal reads None stated. The sector stays NEUTRAL. (3) <b>The 2030 EV fleet projection appears three ways.</b> The MyZEVA section says about 750,000 EVs on the road by 2030. The skills section uses 765,982. The Yinson GreenTech section says 150,000. The note does not reconcile them. (4) <b>The charger growth figures look mislabelled.</b> The note says DC chargers grew 839 to 4,271 and AC chargers 137 to 2,145 between 1Q23 and 2Q26. But its July 2026 split is 4,665 AC and 2,239 DC, which suggests the AC and DC labels are swapped (an inference). 4,271 + 2,145 = 6,416 (computed here), against 6,904 in July. The Yinson section also says 'over 6,000' public points. Putrajaya is given 409 DC chargers, the same figure as Kuala Lumpur's DC count, which may be a carry-over. (5) <b>The technician ratio does not follow from the figures beside it.</b> 765,982 EVs over 1,800 graduates a year is about 426 EVs per graduate (computed here), not the stated 71. 71 matches roughly six years of cumulative graduates (about 10,800) to 2030, which is an inference. (6) <b>EPMB figures.</b> Net profit of RM5.2m against RM277,000 is about +1,777% (computed here), against the stated +1,760% and 'nearly 19-fold'; rounding of the RM5.2m could explain it. The FY26 revenue of RM674.3m is Kenanga's extrapolation from 1HFY26, not a reported figure. The debt figure is printed 'RM169.3' with no unit; it equals RM112.2m + RM57.1m. A GWM Wey G9 roll-out is described as 'in late 2026' in a note dated 19 October 2026. EPMB is Not Rated. (7) <b>Peer table and images.</b> DRB-HICOM's peer-table price of RM0.815 differs from the RM0.795 in today's digest oversold list; the other peer-table targets (BAUTO RM1.30, HIL RM0.850, MBMR RM5.00, SIME RM3.00, TCHONG RM0.390) match this board's earlier rows. Exhibits 1-8 (cost of ownership, maintenance, charger maps, GHG chart) are images and were not read, so no figure from them is used. There is no rating, target or share price for this row, so those columns are empty by design.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Automotive",
+   "name": "ESG Thematic: Automotive &mdash; Kenanga Electric Vehicles Day 2026 (Fostering EV Adoption)",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "Kenanga's sustainability team reports on its <b>Electric Vehicles Day 2026</b>, which covered MyZEVA, Yinson GreenTech and MGTC, an Xpeng test drive, and a visit to <b>EP Manufacturing's Melaka plant</b>. The sector stays <b>NEUTRAL</b>. Kenanga says the shift from an import-reliant EV market to local manufacturing is 'a journey that we must take'. It reads cutting off cheap imports as the government deliberately building a protected domestic sandbox. 7M26 BEV registrations rose <b>94% YoY to 38,675 units</b>, and Malaysia had <b>6,904 public charging bays</b> in July against a 30,000 target for 2030.",
+   "quote": "By cutting off cheap imports, the government is deliberately creating a protected domestic sandbox to pressure global automakers into building local supply chains.",
+   "summary": [
+    "Policy view and who benefits. Kenanga reads the phased move from imported EVs to local manufacturing as deliberate: cutting off cheap imports pressures global automakers to build local supply chains. It names beneficiaries by plant. Perodua's smart mobility plant benefits MBMR and SIME. Proton's Tanjung Malim plant, building Proton and Zeekr, benefits DRBHICOM. Inokom's Kedah plant, for BYD, benefits SIME and BAUTO. EPMB's Melaka plant, for Xpeng, GWM, BAIC and SAIC, benefits BAUTO and EPMB. The sector stays NEUTRAL. None of these is named a pick (see flag). Peer-table targets are unchanged against this board's earlier rows: BAUTO OUTPERFORM RM1.30, SIME OUTPERFORM RM3.00, MBMR MARKET PERFORM RM5.00.",
+    "Adoption. Malaysia targets EVs at 20% of TIV by 2030 and 80% by 2050. Cumulative BEV registrations since 2011 have passed 122,286. 7M26 registrations rose 94% YoY to 38,675 from 19,935. Non-EV volumes fell 2%, so the 3% TIV growth MAA reported came entirely from EVs. EVs made up 5% of TIV as of July 2026. Adding the 8,833 August BEV registrations in this board's 21 September Automotive row gives 47,508 (computed here). That exactly matches the 8M26 year-to-date figure in that row. Proton leads EV volume with the e.MAS 5 and e.MAS 7; BYD is second.",
+    "Charging and skills. Public charging bays reached 6,904 in July 2026 (4,665 AC, 2,239 DC), led by Selangor (2,095) and Kuala Lumpur (2,059), against a revised target of 30,000 by 2030. That is about one charger per 18 BEVs. About 80% of owners prefer home charging. 95% of BEV models carry 7kW or 11kW on-board chargers, so 22kW home units bring no benefit for most owners. Aftersales is OEM-led; BYD runs 21 service centres, against only 10-20 independent EV workshops. Only an estimated 60-80 of 1,398 TVET institutions teach EV or hybrid content, producing about 1,800 EV-trained graduates a year (see flag on the stated ratio).",
+    "Battery afterlife. Citing the IEA, the note says global battery demand rises 4.5x by 2030 and more than 7x by 2035 from 850 GWh in 2023. Recycling could cut critical-mineral demand by 25%. MGTC finds a legislative vacuum and no Extended Producer Responsibility framework. Classifying used EV batteries as scheduled waste SW103, plus a five-year age threshold, treats batteries with 70-80% state of health as waste. Per tonne of end-of-life LFP batteries, MGTC's LCA gives about 0.23 kg CO2e for reuse, 23.4 for repurposing and 27.7 for recycling, against 68.0 for a new battery. Malaysia has four licensed facilities that recycle EV batteries to black mass. Reported lifecycle GHG reductions against ICE are 45.31% for two-wheelers, 12.3% for passenger cars and 18.68% for buses; Kenanga cautions these are not universal.",
+    "EPMB, the contract assembler. EP Manufacturing (Not Rated, 11.54% owned by BAUTO) launched Phase 2 of its Melaka plant in December 2025, lifting annual capacity to 30,000 from 6,000 units. It broke ground in June 2026 on an RM200m in-house paint shop due by June 2027, and spent RM35m on additional land. It builds BAIC (full production since January 2026), Xpeng (G6 bookings opened July 2026, X9 to follow), SAIC's MG (1H26) and GWM. 2QFY26 revenue rose 66.6% YoY to RM212.7m and net profit to RM5.2m from RM277,000, a 2.4% net margin. Late-2025 borrowings were RM169.3m against RM69.5m of cash, at 57.0% debt-to-equity. Funding is a RM39.65m placement plus bank lines and internal funds. Kenanga calls EPMB's role 'scalable' and 'foundational'."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Automotive-261019-SU-ESG-Thematic-Kenanga.pdf"
+  }
+ ]
+}
