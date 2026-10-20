@@ -1,0 +1,256 @@
+{
+ "date": "2026-10-20",
+ "schema": 1,
+ "daily": {
+  "klci": 1595.8,
+  "chg": -12.01,
+  "pct": -0.75,
+  "inst": -77.6,
+  "instPct": 39.1,
+  "retail": 20.3,
+  "retailPct": 29.0,
+  "foreign": 57.3,
+  "foreignPct": 31.9,
+  "ideas": "Sector Update: Automotive (Sept 26 TIV); Economic Viewpoint: MY CPI",
+  "news": [
+   {
+    "h": "Jati Tinggi bags RM30.1m data centre power job in Johor",
+    "body": "Jati Tinggi Group Bhd said the electrical engineering group has secured a RM30.1m contract to build power infrastructure for a data centre in Kulai, Johor. The contract, awarded to its wholly-owned subsidiary Jati Tinggi Holding Sdn Bhd, involves the construction of two circuits of 275kV underground cable ducting works and 11kV temporary power cable works, including engineering, procurement, construction and commissioning. (The Edge Malaysia)",
+    "takeaways": [
+     "Jati Tinggi has won a RM30.1m contract to build power infrastructure for a data centre in Kulai, Johor.",
+     "The contract went to its wholly-owned subsidiary Jati Tinggi Holding.",
+     "Scope covers two circuits of 275kV underground cable ducting and 11kV temporary power cable works, on an EPCC basis.",
+     "The digest names neither the client nor the data centre operator, and gives no completion date or margin.",
+     "This board holds no Kenanga coverage of Jati Tinggi. Digest context only."
+    ]
+   },
+   {
+    "h": "GDB bags RM119.0m subcontract for flood forecasting infrastructure project in Sarawak",
+    "body": "GDB Holdings Bhd said it has secured a RM119.0m subcontract involving construction work for the National Flood Forecasting and Warning Programme Phase 3 project in Sarawak. GDB said its wholly-owned subsidiary, GDB Infra Sdn Bhd, received the subcontract from main contractor I-Ilham Corporation Sdn Bhd, with completion scheduled for Nov 29, 2029. The construction group said the project marks the fourth infrastructure contract win in Sarawak, lifting its construction value in the state to RM355.9m. (The Edge Malaysia)",
+    "takeaways": [
+     "GDB Holdings has won a RM119.0m subcontract for the National Flood Forecasting and Warning Programme Phase 3 in Sarawak.",
+     "The award went to its subsidiary GDB Infra, from main contractor I-Ilham Corporation.",
+     "Completion is scheduled for 29 November 2029, about three years away.",
+     "It is GDB's fourth infrastructure win in Sarawak, taking its construction value in the state to RM355.9m.",
+     "This board holds no Kenanga coverage of GDB. Digest context only."
+    ]
+   },
+   {
+    "h": "Cosmos Technology acquires 51.0% stake in electronic manufacturing services firm in all-share deal",
+    "body": "Cosmos Technology International Bhd has proposed to acquire a 51.0% stake in electronic manufacturing services (EMS) player Orisystems Opto Sdn Bhd for RM16.5m to be paid for in shares. The group said it has entered into a non-binding letter of intent with Akil Ahmad Ishaq and Othman Ali for the acquisition of the stake, comprising 510,000 shares, in Orisystems. Akil and Othman are directors and substantial shareholders of Orisystems. Cosmos said the indicative purchase consideration of RM16.5m will be satisfied via the issuance of 33.1m new Cosmos shares at 50 sen per share. (The Edge Malaysia)",
+    "takeaways": [
+     "Cosmos Technology proposes to buy 51.0% of EMS firm Orisystems Opto for RM16.5m, paid in shares.",
+     "Only a non-binding letter of intent has been signed, with Orisystems' directors and substantial shareholders Akil Ahmad Ishaq and Othman Ali.",
+     "Payment is 33.1m new Cosmos shares at 50 sen each. 33.1m x RM0.50 is about RM16.55m (computed here), consistent with the stated RM16.5m.",
+     "The consideration is indicative. No Orisystems earnings or valuation basis is given.",
+     "This board holds no Kenanga coverage of Cosmos Technology. Digest context only."
+    ]
+   },
+   {
+    "h": "MMAG to sell Boeing freighter for RM11.4m, incur RM12.7m loss",
+    "body": "MMAG Holdings Bhd is disposing of a Boeing 737-400SF cargo aircraft for USD2.8m (RM11.4m) as the group seeks to reduce costs amid rising fuel prices and weaker demand for charter services. MMAG said its indirect subsidiary MJets Air Sdn Bhd has entered into a deal to sell the aircraft to Mont Gabanon Airlines, which is owned by a privately held company incorporated in the Democratic Republic of Congo. MMAG said the transaction will result in a loss of RM12.7m based on the aircraft's unaudited net book value of RM24.1m as at Sept 30, 2026, compared with the selling price of RM11.4m. (The Edge Malaysia)",
+    "takeaways": [
+     "MMAG is selling a Boeing 737-400SF freighter for USD2.8m (RM11.4m).",
+     "The stated reasons are cost cutting, rising fuel prices and weaker charter demand.",
+     "The buyer is Mont Gabanon Airlines, owned by a private company incorporated in the Democratic Republic of Congo.",
+     "Against an unaudited net book value of RM24.1m at 30 September 2026, the sale books a RM12.7m loss (RM24.1m less RM11.4m reconciles).",
+     "This board holds no Kenanga coverage of MMAG. Digest context only."
+    ]
+   },
+   {
+    "h": "LYC Healthcare trading suspension, delisting looms after losing GN3 regularisation plan sponsor",
+    "body": "LYC Healthcare Bhd (KL) faces suspension and delisting from Bursa Malaysia after failing to secure a sponsor for its proposed Guidance Note 3 (GN3) regularisation plan following the termination of UOB Kay Hian (M) Sdn Bhd's appointment last Friday (Oct 16). The confinement centre and aesthetic clinic operator had received a termination letter dated Oct 16 from UOB Kay Hian (M) Sdn Bhd (UOBKH). No reason was given for the termination. Following this, trading in LYC's securities will be suspended from Oct 27, with the company set to be delisted on Oct 29 unless it appeals against the delisting by Oct 26. (The Edge Malaysia)",
+    "takeaways": [
+     "LYC Healthcare faces suspension and delisting after UOB Kay Hian ended its appointment as sponsor of LYC's GN3 regularisation plan on 16 October.",
+     "No reason was given for the termination.",
+     "Trading is to be suspended from 27 October, with delisting on 29 October.",
+     "Both can be averted only if LYC appeals against the delisting by 26 October.",
+     "This board holds no Kenanga coverage of LYC Healthcare. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "South Africa must prepare for potential loss of US trade benefits, president says",
+    "region": "Global",
+    "body": "South Africa's President Cyril Ramaphosa said on Monday that the country must prepare for its potential exclusion from the United States' duty-free trade initiative, AGOA, as relations between Washington and Pretoria have soured. (Reuters)",
+    "takeaways": [
+     "President Ramaphosa says South Africa must prepare for possible exclusion from AGOA, the US duty-free trade initiative.",
+     "He links it to worsening relations between Washington and Pretoria.",
+     "It is a warning to prepare, not an announced exclusion.",
+     "No trade value at risk is given.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "Anwar: Government can sustain aid despite rising oil prices, cost of living pressures",
+    "region": "Malaysia",
+    "body": "The government remains capable of managing Malaysia's economy and maintaining financial assistance for the public despite rising global crude oil prices and cost-of-living pressures, Prime Minister Datuk Seri Anwar Ibrahim said. (The Edge Malaysia)",
+    "takeaways": [
+     "PM Anwar says the government can keep up public financial assistance despite rising crude prices.",
+     "He frames this against cost-of-living pressures.",
+     "No cost or funding figure is given.",
+     "Context: today's CPI Economic Viewpoint argues the oil shock lands mainly on the subsidy bill rather than the CPI basket.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Govt drafting law to regulate data centre growth \u2014 Economy Ministry",
+    "region": "Malaysia",
+    "body": "The government is drafting a law to regulate the development of data centres as part of a \"strategic direction\" to sustainably grow the industry and shift towards a circular economy. (The Edge Malaysia)",
+    "takeaways": [
+     "The Economy Ministry says the government is drafting a law to regulate data centre development.",
+     "The stated aims are sustainable growth of the industry and a shift toward a circular economy.",
+     "The digest prints 'date centres'. Read here as data centres, consistent with the headline.",
+     "A separate item today says the Data Centre Bill goes to Cabinet in 2027.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Dzulkefly: Malaysia pushes for Asean self-reliance in essential medicines amid global supply chain risks",
+    "region": "Malaysia",
+    "body": "Malaysia is spearheading efforts to strengthen Asean's self-reliance in essential medicines and reduce dependence on vulnerable global supply chains, as part of a broader push to enhance regional health security, said Health Minister Datuk Seri Dr Dzulkefly Ahmad. (The Edge Malaysia)",
+    "takeaways": [
+     "Health Minister Dzulkefly says Malaysia is leading efforts on Asean self-reliance in essential medicines.",
+     "The aim is less dependence on vulnerable global supply chains.",
+     "It is framed as part of a wider regional health-security push.",
+     "No programme, funding or named company is given.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Data Centre Bill to be presented to Cabinet in 2027 \u2014 minister",
+    "region": "Malaysia",
+    "body": "The government plans to draft the Digital Infrastructure (Data Centre) Bill for submission to the Cabinet next year to regulate the growth of the data centre industry in line with the country's energy and water supply capacity. (The Edge Malaysia)",
+    "takeaways": [
+     "The government plans to submit a Digital Infrastructure (Data Centre) Bill to the Cabinet next year.",
+     "Its purpose is to keep data centre growth in line with national energy and water supply capacity.",
+     "Cabinet submission is not enactment. No timeline for tabling in Parliament is given.",
+     "This appears to be the same law as the Economy Ministry item above.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "MOF: Nearly RM11.0b in STR, Sara aid disbursed as of September 2026",
+    "region": "Malaysia",
+    "body": "Nearly RM11 billion in Sumbangan Tunai Rahmah (STR) and Sumbangan Asas Rahmah (Sara) assistance had been disbursed to eligible recipients as of September 2026, according to the Ministry of Finance (MOF). (The Edge Malaysia)",
+    "takeaways": [
+     "MOF says nearly RM11b of STR and SARA aid had been paid out as of September 2026.",
+     "Both are cash-assistance programmes for eligible recipients.",
+     "No split between STR and SARA, and no full-year allocation, is given in the digest.",
+     "Context: today's CPI Economic Viewpoint says Budget 2027 raises STR-SARA payouts to RM16.0b.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "BOJ chief says underlying inflation 'quite close' to price goal",
+    "region": "Asia Pacific",
+    "body": "Bank of Japan (BOJ) governor Kazuo Ueda said underlying inflation is \"quite close\" to the central bank's 2% target with strong global AI demand adding to inflationary pressure from a tight job market, signalling scope for further rate increases. (The Edge Malaysia)",
+    "takeaways": [
+     "BOJ governor Ueda says underlying inflation is 'quite close' to the 2% target.",
+     "He cites strong global AI demand on top of a tight job market.",
+     "The item reads this as signalling scope for further rate rises.",
+     "No timing for a hike is given.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Hassett says CPI data shows inflation needs 'some work'",
+    "region": "Americas",
+    "body": "White House National Economic Council director Kevin Hassett said prices have been falling for items such as beef and eggs, though consumer price data for September shows overall inflation continues to need policy attention. (The Edge Malaysia)",
+    "takeaways": [
+     "NEC director Kevin Hassett says September CPI shows inflation still needs policy attention.",
+     "He points to falling prices for items such as beef and eggs.",
+     "The digest gives no CPI figure here.",
+     "Today's Kenanga CPI note puts US September inflation at 3.7%, above the 3.6% consensus.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Germany sees up to USD4.6t investment potential by 2035",
+    "region": "Europe",
+    "body": "Germany could unlock investment and financing potential of EUR2.9t to EUR4.1t (USD3.3t-USD4.6t) by 2035 across key growth areas, the Made for Germany business initiative said on Monday. (The Edge Malaysia)",
+    "takeaways": [
+     "The Made for Germany business initiative estimates EUR2.9t-EUR4.1t of investment and financing potential by 2035.",
+     "That is USD3.3t-USD4.6t at the digest's conversion.",
+     "It is spread across unnamed 'key growth areas'.",
+     "This is a business initiative's estimate, not a government commitment.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Kenanga-Today-261020-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>The year-to-date figures do not roll forward from last month's note.</b> This board's 21 September row read YTD-August TIV of 530,478 (passenger 497,595, commercial 32,883) from Kenanga's August note. Adding September's 69,609 (64,835 passenger, 4,774 commercial) gives 600,087, 562,430 and 37,657 (computed here). Today's table prints 602,633, 564,919 and 37,714. That is a 2,546-unit gap in TIV, most likely a restatement of earlier months, but the note does not say so. This row uses today's table as printed. (2) <b>The charging-bay split does not sum.</b> The note gives 7,240 public charging bays at September 2026, with 4,852 AC and 2,288 DC chargers. Those add to 7,140 (computed here), 100 short. (3) <b>Proton's 9MCY26 share is printed as 26%.</b> The note's own table gives 153,315 / 602,633 = 25.4% (computed here). Perodua's 41% and the 9MCY25 shares of 44% and 19% do reconcile. (4) <b>The picks' yields are rounded up in the text.</b> Page 1 says 11% and 6% for BAUTO and SIME. The peer table gives 10.8% and 5.7%. (5) <b>Two peer-table ratings sit awkwardly against Kenanga's own definitions</b>, on the approximation that expected total return = upside + net dividend yield (an inference, not a Kenanga method statement). DRB-HICOM is UNDERPERFORM with -4.3% upside and a 3.7% yield, about -0.6%, which falls in the MARKET PERFORM band. MBMR is MARKET PERFORM with 6.2% upside and a 10.2% yield, about 16.4%, which falls in the OUTPERFORM band. (6) <b>Some figures look carried over from last month.</b> The industry booking backlog is still '113k units as at end-August 2026', and the marque backlogs (Proton 50k, Perodua 40k, Toyota 10k, Mazda 3.5k, Honda 3k, Nissan 1k) are identical to those on the 21 September row. The note gives no September EV registration figure. YTD-September EV sales of 53,537 less the 47,508 YTD-August BEV figure on the 21 September row implies about 6,029 in September, against August's record 8,833. That is an inference, and the two series may not be on the same basis. (7) <b>Price timing and typographical slips.</b> DRB-HICOM's peer-table price of RM0.805 differs from the RM0.800 in today's digest oversold list (19 October close). BAUTO's RM0.900 compares with RM0.91 on this board's 9 October row. The Monthly TIV chart's x-axis again labels the 2025 series 'May-26', 'Zeekr' is spelt 'Zeeker', and a Perodua QV-e paragraph breaks mid-sentence across pages 1-2. Filed as a <b>Sector Update</b>, so the rating, target and share-price columns are empty by design, and the divergence marker is not set (see the analyst note).",
+   "result": null,
+   "conviction": "\"Maintain NEUTRAL. Our sector top picks are BAUTO (OP; TP: RM1.30) for its niche-market premium offerings driving its strong earnings growth and SIME (OP; TP: RM3.00) for its industrials segment on double-digit growth of sales/margin (also a proxy to genset power-supply to data centers and equipment supporting operations that provide critical minerals foundational to AI hardware). The two picks offer attractive dividend yield of 11% and 6%, respectively.\"",
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Automotive",
+   "name": "Automotive Sector Update: Waiting for Goodies (Sep-26 TIV)",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "The sector stays <b>NEUTRAL</b>. September TIV of <b>69,609 units fell 3% MoM</b>, which Kenanga puts down to buyers waiting for Budget 2027 (announced 9 October). It rose 19% YoY off a low base. <b>YTD TIV of 602,633 (+4%)</b> is described as well within expectation, and the <b>CY26 forecast of 800k units (-3% YoY)</b> is held, matching MAA's. Kenanga names its <b>sector top picks</b> in its own words: <b>BAUTO (OP; TP RM1.30)</b> and <b>SIME (OP; TP RM3.00)</b>. Both targets are unchanged against this board's earlier rows. Mazda was the only brand to grow MoM. With no Budget 2027 'goodies' for specific brands, Kenanga expects sales to follow whoever offers the best promotions.",
+   "quote": "With the lack of goodies in the Budget 2027 to spur the demand for specific brand, we believe that car sales will heavily depend on the carmakers which offer the most attractive promotions.",
+   "summary": [
+    "The call and the two picks. The sector stays NEUTRAL. BAUTO is named a sector top pick at OUTPERFORM with an RM1.30 target, matching its 9 October Company Update on this board. SIME is the other, at OUTPERFORM with RM3.00, matching its 28 August Results Note. Other peer-table targets also match earlier rows: MBMR MARKET PERFORM RM5.00, TAN CHONG UNDERPERFORM RM0.390 and HIL OUTPERFORM RM0.850. HLIND is OUTPERFORM at RM21.00 and DRB-HICOM UNDERPERFORM at RM0.770. Implied upsides are 44.4% for BAUTO and 23.0% for SIME, which reconcile. The case for BAUTO: a 3.5k-unit order backlog against 1.5k a year ago, premium mid-market Mazda margins and a yield of about 11%. The all-new CX-5 comes as a CBU from October 2026, with CKD from 2HCY27, and CBU models are unaffected by the new OMV excise rule. The case for SIME: what the note calls 60% market share, EV leadership in Singapore, Thailand and the Philippines, an industrials arm tied to Australian mining, Caterpillar/Perkins gensets for data-centre backup power, and a yield of about 6%.",
+    "The month in numbers. TIV was 69,609 units: passenger 64,835 (-3% MoM, +22% YoY) and commercial 4,774 (+9% MoM, -8% YoY), which sum exactly. Kenanga attributes the MoM dip to a wait-and-see approach ahead of Budget 2027. It attributes the 19% YoY rise to a low base: September 2025 had four public holidays and a scheduled Perodua plant shutdown. It expects October sales to beat September on year-end promotions. YTD TIV of 602,633 is up 3.9% on 580,141 (computed here; printed +4%). The 800k-unit CY26 forecast is held, matching MAA's own. It implies about 197k units over the last three months, or roughly 66k a month (computed here).",
+    "Brand by brand. Mazda was the only brand up MoM (+23% MoM, +41% YoY). Kenanga attributes this to backlog deliveries of the Mazda 1.5L CBU after about 1,400 units arrived in September for delivery over September-November. Proton sold 18,149 (-10% MoM, +44% YoY; YTD +40%) and Perodua 27,838 (-5% MoM, +19% YoY; YTD -3%). National marques held 67% of 9MCY26 TIV against 63% a year earlier. Among non-nationals in September, Toyota led with 28% (helped by BUDI Diesel on the Hilux and its hybrids) and Honda had 20%; Mazda (5%), Chery (4%) and BYD (4%) followed. All of these reconcile against the unit table. Kenanga's bigger concern on BYD is that its CBU inventory is almost depleted while it waits for CKD assembly at Inokom. The note gives Inokom's ownership as 56% SIME (direct and indirect) and 29% BAUTO.",
+    "EVs and charging. YTD-September EV sales reached 53,537 units (+99%), and Kenanga says EVs are still leading TIV growth. BEV registrations have run 270 in CY21, 2,600 in CY22, 10,000 in CY23, 21,789 in CY24 and 44,813 in CY25 (5.5% of TIV). Kenanga expects Proton to hold 40-50% of EV sales. It still expects a gradual move to BEVs: it sees no peak in petrol-car demand within five years, citing infrastructure and subsidised fuel. Public charging bays reached 7,240 in September against the 30,000 target for 2030, about 24% of the way (computed here; see flag on the AC/DC split). The Perodua QV-e has sold 460 units since its December 2025 launch. Its price was cut in June to RM63,499 with battery leasing (RM215 a month) or RM87,499 outright, and a RM10k rebate runs to end-October.",
+    "The thesis, and why this row reads Positive. Kenanga's CY26 view has seven parts. (i) Discounting to win share at the expense of margin, with SIME, BAUTO and HLIND shifting toward better-margin niches. (ii) The OMV excise rule, delayed to January 2027 'and potentially beyond', alongside an RM200,000 CIF floor on imported EVs since July 2026. (iii) Chinese brands localising under CKD incentives that run to 2027. (iv) Steady demand in the affordable segment. (v) Hire-purchase reforms. (vi) 2.9% unemployment. (vii) Value-for-money launches. The Positive signal rests on page 1's 'Our sector top picks are BAUTO... and SIME', repeated as a heading on page 3. Searching the note for the board's full conviction list finds only one other hit: 'in favour of upcoming new models', which refers to Perodua's capacity, not a stock pick."
+   ],
+   "analyst": {
+    "v": "positive",
+    "house": "BIMB Securities Research",
+    "date": "15 Sep 2026",
+    "opp": false,
+    "note": "<b>A named house names one of Kenanga's two picks as its sector top pick, so the Analyst Signal reads Positive.</b> <b>BIMB Securities Research</b>, in a sector update dated <b>15 September 2026</b> (35 days before this note), reported by the New Straits Times and re-read via KLSE Screener during this run, keeps the sector at <b>Neutral</b>. It retains <b>Sime Darby as its sector top pick</b> at <b>Hold, target RM2.60</b>, and rates <b>Bermaz Auto Hold, target 96 sen</b>. <b>Two caveats.</b> First, the pick reaches this board as reported speech ('retained as the sector top pick'), not as a sentence read from BIMB's own note. Second, <b>BIMB Securities is not one of the nine houses this board searches</b>, the same treatment as on the 21 September Automotive row. <b>TA Securities' latest call is newer than the one on that row.</b> In a sector note reported by The Star on <b>23 September 2026</b> (27 days before this note), TA keeps the sector <b>Neutral</b> and its 2026 TIV forecast at <b>790,000 units</b>, 10,000 below Kenanga's 800k. It rates <b>BAUTO Buy at RM1.02</b>, <b>SIME Hold at RM2.63</b> and <b>MBMR Sell at RM4.46</b>, with no pick language. Under the most-recent-statement rule, these replace TA's 24 July calls on the 21 September row (BAUTO Sell RM0.89, SIME Hold RM2.16). <b>Of the nine houses this board searches, one (TA Securities) yielded a dated, publicly retrievable call read during this run.</b> The 11 September BAUTO calls from CIMB Securities, RHB, Public Investment Bank and Hong Leong on the 21 September row were not re-read. Maybank Investment Bank, AmInvestment Bank, MIDF and Affin Hwang yielded nothing. Search results also returned anonymous consensus targets from aggregators, which rules/signals.md &sect;1 prohibits, and they are not used. <b>On divergence:</b> BIMB's Hold on both picks and TA's Hold on SIME are opposite in direction to Kenanga's OUTPERFORM on those stocks. <b>The marker is not set</b>, because this sector row carries no Kenanga rating of its own, as on earlier sector rows.",
+    "cites": [
+     [
+      "New Straits Times via KLSE Screener, 15 Sep 2026 &mdash; &lsquo;BYD&rsquo;s shift to contract assembly a boon for Sime Darby, but Inokom&rsquo;s capacity a question, says BIMB&rsquo; (BIMB Securities: sector Neutral, SIME top pick Hold TP RM2.60, BAUTO Hold TP RM0.96)",
+      "https://www.klsescreener.com/v2/news/view/1792259/byd-s-shift-to-contract-assembly-a-boon-for-sime-darby-but-inokom-s-capacity-a-question-says-bimb"
+     ],
+     [
+      "The Star, 23 Sep 2026 &mdash; &lsquo;August total industry volume moderates to 71,400 units after July spike&rsquo; (TA Research: sector Neutral, TIV 790,000; BAUTO Buy RM1.02, SIME Hold RM2.63, MBMR Sell RM4.46)",
+      "https://www.thestar.com.my/business/business-news/2026/09/23/august-total-industry-volume-moderates-to-71400-units-after-july-spike"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Automotive-261020-SU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Four points of caution on this row. (1) <b>The quarterly average does not reconcile with the note's own monthly table.</b> The text says inflation 'averaged 1.9% in 3Q26'. Table 2 gives July 1.8%, August 1.9% and September 1.8%, which average 1.83% (computed here), or 1.8% rounded. Kenanga may be averaging unrounded index data, which this board cannot see. The '1.8% from January to September' figure cannot be checked, because Table 2 has no January-March columns. (2) <b>The electricity figures use different bases and are not reconciled with last month's note.</b> The opening bullet says electricity costs dropped 3.1% MoM; the housing paragraph says they 'slowed to 0.2% (Aug: 3.6%)', read here as YoY. The 21 September row, from Kenanga's August note, recorded electricity and gas at 3.3% for August, not 3.6%. That may be electricity alone versus electricity and gas, but neither note says. (3) <b>The policy call is extended, not reversed.</b> The 21 September row quoted 'We expect BNM to hold the OPR at 2.75% through 2026'. Today's note keeps the hold on 5 November and adds one 25bp hike to 3.00% in 1Q27. The 2026 inflation forecast of 1.9% matches the figure set in that note. (4) <b>Typographical slips carried as printed</b>: 'The key watch pointy' and 'amid the uncertain Middle East crisis dragged on'. The 3Q26 advance GDP of 5.3% (KIBB 5.1%) matches this board's 19 October macro item. The September exports figure (+54.5% YoY) is not checked against any other source. This is an Economic Viewpoint with no stock call, so the rating, target and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "MY CPI (Sep-26)",
+   "name": "Malaysia Consumer Price Index (Sep-26): Inflation eases to 1.8% as electricity relief offsets firmer transport costs",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "Headline inflation eased to <b>1.8% YoY in September</b> from 1.9%, slightly below Kenanga's forecast and consensus of 1.9%. Core held at <b>1.7%</b>. Wider electricity bill protection (to 800kWh from 600kWh) pulled housing inflation down to 1.4% from 2.1%. That offset transport, which rose to 2.5% as RON97 averaged RM4.64/litre. Kenanga keeps its <b>2026 forecast at 1.9% and 2027 at 2.0%</b>, with risks to the upside. It expects BNM to <b>hold the OPR at 2.75% on 5 November</b>, then make <b>one 25bp hike to 3.00% in 1Q27</b>, which it calls a return to normal settings rather than a tightening cycle.",
+   "quote": "Most of the shock lands on the subsidy bill, not the CPI basket. While subsidies hold, oil moves the fiscal deficit more than inflation.",
+   "summary": [
+    "The print. Headline CPI eased to 1.8% YoY in September from 1.9%, slightly below Kenanga's forecast and the 1.9% consensus. Prices rose 0.1% MoM (August 0.3%), with 9 of 13 groups up, led by transport (+0.6% MoM) and personal care and miscellaneous (+0.4%). Housing fell 0.4% MoM as electricity costs dropped 3.1%. Core inflation held at 1.7% YoY and rose 0.3% MoM, matching August. Kenanga reads this as steady underlying pressure even as the headline softens.",
+    "Where the movement came from. Housing, water, electricity, gas and other fuels (23.2% weight) was the main drag, slowing to 1.4% from 2.1%. Electricity slowed to 0.2% from 3.6% after the government widened bill protection to 800kWh from 600kWh for September-December. Food and beverages (29.8% weight) eased to 1.8% from 1.9%, as food at home slowed to 1.2% on cheaper vegetables and chicken. Transport (11.3% weight) was the biggest upward driver at 2.5% from 2.0%, its highest since June (Table 2 shows 2.8% in June). Operation of personal transport equipment rose to 2.7% from 1.8% as average RON97 prices climbed to RM4.64/litre from RM4.28 on the worsening Middle East crisis.",
+    "The global picture. US inflation rose to 3.7% from 3.4%, beating the 3.6% consensus as the Iran war lifted fuel prices. Core rose to 2.6%, and Kenanga says the print strengthens the case for another Fed hike in December, its house view. Euro-area inflation reached 3.8% against a 3.6% consensus, driven by energy inflation of 18.8%, with core at 2.5%. China edged up to 0.9% as gasoline jumped 16.6% while food fell 1.7%. Among the September prints in Kenanga's Table 1, Malaysia's 1.8% is the lowest except China's 0.9%. South Korea is 2.9%, Thailand 2.8% and Indonesia 3.3% (comparison drawn here).",
+    "Forecasts and risks. Kenanga keeps its 2026 forecast at 1.9% (2025: 1.4%) and 2027 at 2.0%, with risks tilted to the upside. Brent averaged USD102.0/bbl in September against USD88.1 in August. Kenanga's point is that while subsidies hold, the oil shock lands on the subsidy bill and the fiscal deficit more than on CPI, so the thing to watch is indirect pass-through via logistics and food. It expects inflation to turn up in early 2027 as costs feed through with a lag, and NOAA expects a strong El Ni\u00f1o through 1Q27, adding food-price risk. Budget 2027 adds demand through larger STR-SARA payouts (RM16.0b) and a RM2,000 minimum wage from June 2027. Unchanged BUDI95 subsidies and wider electricity relief cap administered prices. With no subsidised-fuel change expected before GE16, Kenanga puts its 2027 forecast in the lower half of MoF's 1.8-2.8% range.",
+    "The rate call. Kenanga expects BNM to hold the OPR at 2.75% on 5 November, then make one 25bp hike to 3.00% in 1Q27, followed by a long hold through 2027. It describes this as a return to normal policy settings, not the start of a tightening cycle. Its grounds are strong growth (3Q26 advance GDP of 5.3% against Kenanga's 5.1%, and September exports up 54.5% YoY) and the Governor's comment that BNM has 'space to act' if price pressures rise. That extends rather than reverses the 'hold through 2026' view recorded on this board's 21 September CPI row."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/EV_CPI_Sep26_261020-Kenanga.pdf"
+  }
+ ]
+}

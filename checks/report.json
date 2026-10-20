@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T20:56:05.943Z",
+ "generatedAt": "2026-10-20T05:44:42.072Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -36,10 +36,11 @@
   "2026-10-14",
   "2026-10-15",
   "2026-10-16",
-  "2026-10-19"
+  "2026-10-19",
+  "2026-10-20"
  ],
- "rows": 153,
- "verified": 152,
+ "rows": 155,
+ "verified": 154,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -540,6 +541,18 @@
    "date": "2026-10-19",
    "row": "Automotive",
    "msg": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>Filed as a Sector Update</b>, although the document is headed 'ESG Thematic', because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). Earlier Thematic reports on 14 September, 30 September, 2 October and 13 October got the same treatment. (2) <b>No pick is declared.</b> The note lists likely beneficiaries of local EV production by plant and parent: MBMR and SIME via Perodua; DRBHICOM via Proton and Zeekr; SIME and BAUTO via Inokom (BYD); BAUTO and EPMB via EPMB (Xpeng, GWM, BAIC, SAIC). Naming a beneficiary is not a pick declaration. None of the conviction-search terms appears, so the Kenanga Signal reads None stated. The sector stays NEUTRAL. (3) <b>The 2030 EV fleet projection appears three ways.</b> The MyZEVA section says about 750,000 EVs on the road by 2030. The skills section uses 765,982. The Yinson GreenTech section says 150,000. The note does not reconcile them. (4) <b>The charger growth figures look mislabelled.</b> The note says DC chargers grew 839 to 4,271 and AC chargers 137 to 2,145 between 1Q23 and 2Q26. But its July 2026 split is 4,665 AC and 2,239 DC, which suggests the AC and DC labels are swapped (an inference). 4,271 + 2,145 = 6,416 (computed here), against 6,904 in July. The Yinson section also says 'over 6,000' public points. Putrajaya is given 409 DC chargers, the same figure as Kuala Lumpur's DC count, which may be a carry-over. (5) <b>The technician ratio does not follow from the figures beside it.</b> 765,982 EVs over 1,800 graduates a year is about 426 EVs per graduate (computed here), not the stated 71. 71 matches roughly six years of cumulative graduates (about 10,800) to 2030, which is an inference. (6) <b>EPMB figures.</b> Net profit of RM5.2m against RM277,000 is about +1,777% (computed here), against the stated +1,760% and 'nearly 19-fold'; rounding of the RM5.2m could explain it. The FY26 revenue of RM674.3m is Kenanga's extrapolation from 1HFY26, not a reported figure. The debt figure is printed 'RM169.3' with no unit; it equals RM112.2m + RM57.1m. A GWM Wey G9 roll-out is described as 'in late 2026' in a note dated 19 October 2026. EPMB is Not Rated. (7) <b>Peer table and images.</b> DRB-HICOM's peer-table price of RM0.815 differs from the RM0.795 in today's digest oversold list; the other peer-table targets (BAUTO RM1.30, HIL RM0.850, MBMR RM5.00, SIME RM3.00, TCHONG RM0.390) match this board's earlier rows. Exhibits 1-8 (cost of ownership, maintenance, charger maps, GHG chart) are images and were not read, so no figure from them is used. There is no rating, target or share price for this row, so those columns are empty by design."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-20",
+   "row": "Automotive",
+   "msg": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>The year-to-date figures do not roll forward from last month's note.</b> This board's 21 September row read YTD-August TIV of 530,478 (passenger 497,595, commercial 32,883) from Kenanga's August note. Adding September's 69,609 (64,835 passenger, 4,774 commercial) gives 600,087, 562,430 and 37,657 (computed here). Today's table prints 602,633, 564,919 and 37,714. That is a 2,546-unit gap in TIV, most likely a restatement of earlier months, but the note does not say so. This row uses today's table as printed. (2) <b>The charging-bay split does not sum.</b> The note gives 7,240 public charging bays at September 2026, with 4,852 AC and 2,288 DC chargers. Those add to 7,140 (computed here), 100 short. (3) <b>Proton's 9MCY26 share is printed as 26%.</b> The note's own table gives 153,315 / 602,633 = 25.4% (computed here). Perodua's 41% and the 9MCY25 shares of 44% and 19% do reconcile. (4) <b>The picks' yields are rounded up in the text.</b> Page 1 says 11% and 6% for BAUTO and SIME. The peer table gives 10.8% and 5.7%. (5) <b>Two peer-table ratings sit awkwardly against Kenanga's own definitions</b>, on the approximation that expected total return = upside + net dividend yield (an inference, not a Kenanga method statement). DRB-HICOM is UNDERPERFORM with -4.3% upside and a 3.7% yield, about -0.6%, which falls in the MARKET PERFORM band. MBMR is MARKET PERFORM with 6.2% upside and a 10.2% yield, about 16.4%, which falls in the OUTPERFORM band. (6) <b>Some figures look carried over from last month.</b> The industry booking backlog is still '113k units as at end-August 2026', and the marque backlogs (Proton 50k, Perodua 40k, Toyota 10k, Mazda 3.5k, Honda 3k, Nissan 1k) are identical to those on the 21 September row. The note gives no September EV registration figure. YTD-September EV sales of 53,537 less the 47,508 YTD-August BEV figure on the 21 September row implies about 6,029 in September, against August's record 8,833. That is an inference, and the two series may not be on the same basis. (7) <b>Price timing and typographical slips.</b> DRB-HICOM's peer-table price of RM0.805 differs from the RM0.800 in today's digest oversold list (19 October close). BAUTO's RM0.900 compares with RM0.91 on this board's 9 October row. The Monthly TIV chart's x-axis again labels the 2025 series 'May-26', 'Zeekr' is spelt 'Zeeker', and a Perodua QV-e paragraph breaks mid-sentence across pages 1-2. Filed as a <b>Sector Update</b>, so the rating, target and share-price columns are empty by design, and the divergence marker is not set (see the analyst note)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-20",
+   "row": "MY CPI (Sep-26)",
+   "msg": "Four points of caution on this row. (1) <b>The quarterly average does not reconcile with the note's own monthly table.</b> The text says inflation 'averaged 1.9% in 3Q26'. Table 2 gives July 1.8%, August 1.9% and September 1.8%, which average 1.83% (computed here), or 1.8% rounded. Kenanga may be averaging unrounded index data, which this board cannot see. The '1.8% from January to September' figure cannot be checked, because Table 2 has no January-March columns. (2) <b>The electricity figures use different bases and are not reconciled with last month's note.</b> The opening bullet says electricity costs dropped 3.1% MoM; the housing paragraph says they 'slowed to 0.2% (Aug: 3.6%)', read here as YoY. The 21 September row, from Kenanga's August note, recorded electricity and gas at 3.3% for August, not 3.6%. That may be electricity alone versus electricity and gas, but neither note says. (3) <b>The policy call is extended, not reversed.</b> The 21 September row quoted 'We expect BNM to hold the OPR at 2.75% through 2026'. Today's note keeps the hold on 5 November and adds one 25bp hike to 3.00% in 1Q27. The 2026 inflation forecast of 1.9% matches the figure set in that note. (4) <b>Typographical slips carried as printed</b>: 'The key watch pointy' and 'amid the uncertain Middle East crisis dragged on'. The 3Q26 advance GDP of 5.3% (KIBB 5.1%) matches this board's 19 October macro item. The September exports figure (+54.5% YoY) is not checked against any other source. This is an Economic Viewpoint with no stock call, so the rating, target and share-price columns are empty by design and no Analyst Signal is sought."
   }
  ],
  "verdict": "PASS"
