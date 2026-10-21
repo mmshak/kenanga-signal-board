@@ -1,0 +1,203 @@
+{
+ "date": "2026-10-21",
+ "schema": 1,
+ "daily": {
+  "klci": 1599.6,
+  "chg": 3.83,
+  "pct": 0.24,
+  "inst": 121.5,
+  "instPct": 43.9,
+  "retail": 65.5,
+  "retailPct": 27.7,
+  "foreign": -187.0,
+  "foreignPct": 28.4,
+  "ideas": "ESG Thematic: Healthcare",
+  "news": [
+   {
+    "h": "Bus Cap teams up with StarCharge to venture into EV charging infrastructure",
+    "body": "Bus Cap Bhd has entered into a deal with Starcharge Energy Sdn Bhd to explore electric vehicle (EV) charging infrastructure and related services in Malaysia, as the bus manufacturer seeks to diversify beyond vehicle production. The collaboration covers charging station infrastructure, technical support, installation and maintenance, as well as potential local assembly of charging equipment. The proposed venture will target not only electric buses, but also passenger vehicles, commercial fleets, public charging stations, workplace and residential and commercial properties. (The Edge Malaysia)",
+    "takeaways": [
+     "Bus Cap has signed a deal with Starcharge Energy to explore EV charging infrastructure and related services in Malaysia.",
+     "The stated aim is to diversify beyond bus manufacturing.",
+     "Scope covers charging stations, technical support, installation and maintenance, and possible local assembly of charging equipment.",
+     "Targets go beyond electric buses to passenger cars, commercial fleets, public charging and workplace, residential and commercial properties. The digest gives no deal value, so this reads as exploratory.",
+     "This board holds no Kenanga coverage of Bus Cap. Digest context only."
+    ]
+   },
+   {
+    "h": "Sunview unit secures RM5.0m banking facility",
+    "body": "Sunview Group Bhd's indirect wholly-owned subsidiary, SAM 2 Sdn Bhd, has secured a banking facility of RM5mil from Bank Kerjasama Rakyat Malaysia Bhd to finance general working capital requirements and short-term liquidity needs. Sunview said the financing facility has a tenure of five years from the date it is made available, subject to annual review by the bank. Sunview said its board is of the opinion that the financing facility is in the best interest of the group. (The Star)",
+    "takeaways": [
+     "Sunview's indirect wholly-owned subsidiary SAM 2 has secured a RM5m banking facility from Bank Rakyat.",
+     "It funds general working capital and short-term liquidity needs.",
+     "The tenure is five years from availability, subject to annual review by the bank.",
+     "The digest gives no interest rate or security terms.",
+     "This board holds no Kenanga coverage of Sunview. Digest context only."
+    ]
+   },
+   {
+    "h": "Asian Pac to develop RM295.0m mixed project in Sabah",
+    "body": "Asian Pac Holdings Bhd, via its wholly-owned subsidiary Cahaya Riang Sdn Bhd, has entered into a development agreement with the United Sabah Chinese Communities Association of Kota Kinabalu and the Sabah United Chinese Chambers of Commerce. The agreement is for a mixed development in Karamunsing, Sabah, with an estimated gross development value (GDV) of RM295.0m. The proposed development will comprise 573 commercial lots and serviced apartments on a 119,479-sq-ft leasehold parcel jointly owned by the two organisations. (The Star)",
+    "takeaways": [
+     "Asian Pac, through its subsidiary Cahaya Riang, has signed a development agreement for a mixed development in Karamunsing, Sabah.",
+     "The estimated GDV is RM295.0m.",
+     "The plan is 573 commercial lots and serviced apartments on a 119,479 sq ft leasehold parcel.",
+     "The land is jointly owned by the United Sabah Chinese Communities Association of Kota Kinabalu and the Sabah United Chinese Chambers of Commerce. The digest gives no profit split or launch timing.",
+     "This board holds no Kenanga coverage of Asian Pac. Digest context only."
+    ]
+   },
+   {
+    "h": "Awantec secures RM8.7m ERP contract from TH Plantations",
+    "body": "Awantec Bhd has secured an RM8.7m contract to supply and implement an enterprise resource planning (ERP) system for TH Plantations Bhd. Awantec said its wholly-owned subsidiary Awantec Systems Sdn Bhd accepted a letter of award from TH Plantations on Oct 20 for the supply, implementation, configuration, testing, training, commissioning, support and maintenance of the Sage X3 ERP system for TH Plantations and its subsidiaries. The contract runs for 60 months from Oct 1, 2026, to Sept 30, 2031. (The Edge Malaysia)",
+    "takeaways": [
+     "Awantec has won an RM8.7m contract to supply and implement a Sage X3 ERP system for TH Plantations and its subsidiaries.",
+     "Its subsidiary Awantec Systems accepted the letter of award on 20 October.",
+     "Scope runs from supply and configuration through training, commissioning, support and maintenance.",
+     "The contract runs 60 months, 1 October 2026 to 30 September 2031, about RM1.7m a year if spread evenly (computed here; the digest gives no phasing).",
+     "This board holds no Kenanga coverage of Awantec. TH Plantations appears in today's digest oversold list at RM0.510. Digest context only."
+    ]
+   },
+   {
+    "h": "LYC Healthcare delisting deferred pending Bursa appeal",
+    "body": "LYC Healthcare Bhd has managed to delay its delisting from the ACE Market pending an appeal with Bursa Malaysia Securities Bhd. LYC said it lodged the appeal ahead of the Oct 26 deadline, staving off the delisting slated for Oct 29. However, the suspension of trading in LYC Healthcare securities from Oct 27 is expected to go ahead. LYC Healthcare said it remains committed to regularising its financial position and preserving its listing status. (The Edge Malaysia)",
+    "takeaways": [
+     "LYC Healthcare has lodged an appeal with Bursa ahead of the 26 October deadline, deferring the delisting set for 29 October.",
+     "Trading suspension from 27 October is still expected to go ahead.",
+     "This follows yesterday's digest item: UOB Kay Hian ended its appointment as sponsor of LYC's GN3 regularisation plan on 16 October.",
+     "The digest does not say whether a new sponsor has been found or when Bursa will decide.",
+     "This board holds no Kenanga coverage of LYC Healthcare. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "China flags Apec's role as key for a challenged global economy",
+    "region": "Global",
+    "body": "The Asia-Pacific Economic Cooperation (Apec) forum has an increasingly important role in helping the world economy tackle the challenges it faces, China's Finance Minister Lan Foan said on Tuesday. (The Edge Malaysia)",
+    "takeaways": [
+     "China's Finance Minister Lan Foan says Apec plays an increasingly important role for a challenged world economy.",
+     "The remarks were made on Tuesday, 20 October.",
+     "The digest names no specific challenge or policy proposal.",
+     "This is a statement of position, not an agreement or commitment.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Iskandar Malaysia records RM525.26b in investments, shifts towards high-value growth",
+    "region": "Malaysia",
+    "body": "Iskandar Malaysia is now focusing on high-value investments and strengthening the regional economic ecosystem after recording total investments of RM525.26 billion since its establishment 20 years ago. (The Edge Malaysia)",
+    "takeaways": [
+     "Iskandar Malaysia has recorded RM525.26b of total investments since it was set up 20 years ago.",
+     "That is cumulative over two decades, not an annual figure.",
+     "Its focus now shifts to high-value investments and strengthening the regional ecosystem.",
+     "The digest gives no split by sector or between committed and realised investment.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Govt in talks with several countries to export durians to China by road and rail \u2014 minister",
+    "region": "Malaysia",
+    "body": "The government is stepping up negotiations with several countries in the region to facilitate the export of fresh durians to China by road and rail, with shipments expected to take just three to four days, the Dewan Rakyat was told on Tuesday. (The Edge Malaysia)",
+    "takeaways": [
+     "The government is negotiating with several regional countries to move fresh durian exports to China by road and rail.",
+     "Shipments are expected to take three to four days.",
+     "The statement was made in the Dewan Rakyat on Tuesday, 20 October.",
+     "The digest names neither the transit countries nor a start date or volume.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Fadillah: Malaysia seeks to lead Islamic finance transition, boost investment",
+    "region": "Malaysia",
+    "body": "Malaysia aims to spearhead the transition towards greater use of Islamic finance to drive cross-border investment, supported by stronger ties with emerging markets, said Deputy Prime Minister Datuk Seri Fadillah Yusof. (The Edge Malaysia)",
+    "takeaways": [
+     "Deputy PM Fadillah Yusof says Malaysia aims to lead a shift toward greater use of Islamic finance.",
+     "The stated goal is more cross-border investment.",
+     "Stronger ties with emerging markets are cited as support.",
+     "No programme, target or figure is given.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Household income adequacy: Basic expenditure of decent living a vital reference \u2014 minister",
+    "region": "Malaysia",
+    "body": "The basic expenditure of decent living (PAKW) should be utilised as an important reference in assessing the adequacy of household income and designing more targeted economic interventions, particularly to address differences in the cost of living according to location and family composition. (The Edge Malaysia)",
+    "takeaways": [
+     "A minister says the basic expenditure of decent living (PAKW) should be a key reference for judging household income adequacy.",
+     "It is also proposed as a basis for more targeted economic interventions.",
+     "The point is to reflect cost-of-living differences by location and family composition.",
+     "The digest gives no PAKW figure and does not name the minister.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Indonesia rate hike bets jump as MSCI threat hits rupiah",
+    "region": "Asia Pacific",
+    "body": "Bank Indonesia's reluctance to raise interest rates faces a fresh test on Wednesday, with bets on a hike increasing as the threat of a double downgrade to the nation's stock market fuels capital outflows and piles pressure on the rupiah. (The Edge Malaysia)",
+    "takeaways": [
+     "Bets on a Bank Indonesia rate hike at Wednesday's decision (21 October) have risen.",
+     "The trigger is the threat of a double downgrade of Indonesia's stock market by MSCI, which is driving capital outflows.",
+     "That is putting pressure on the rupiah.",
+     "The digest's own index table shows the JCI up 5.65% on 20 October. The item does not address that move, and the board does not reconcile the two.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US pending home sales plunged in September to a record low",
+    "region": "Americas",
+    "body": "Pending sales of existing US homes fell to a record low in September as high mortgage rates continued to weigh on demand. An index of contract signings from the National Association of Realtors tumbled 7.3% to 66 last month, its lowest reading since records began in 2001, according to data released on Tuesday. (The Edge Malaysia)",
+    "takeaways": [
+     "The NAR pending home sales index fell 7.3% in September to 66.",
+     "That is the lowest since records began in 2001.",
+     "High mortgage rates are cited as the drag on demand.",
+     "Pending sales are contract signings, a lead indicator for completed sales.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "UK jobs market shows some recovery signs as BOE mulls rate hike",
+    "region": "Europe",
+    "body": "British workers have seen another modest rise in the pace of pay growth and there were other signs of a small recovery in the jobs market, according to data which could bolster the case for a Bank of England (BOE) interest rate hike next month. (The Edge Malaysia)",
+    "takeaways": [
+     "UK pay growth picked up modestly again.",
+     "Other data points showed a small recovery in the jobs market.",
+     "The item says this could strengthen the case for a Bank of England rate hike next month.",
+     "The digest gives no wage-growth or unemployment figure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Kenanga-Today-261021-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>Filed as a Sector Update</b>, although the document is headed 'ESG Thematic', because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). The 13 and 19 October ESG Thematic rows, and the earlier Thematic reports, got the same treatment. (2) <b>No pick is declared.</b> Searching the note for all the board's conviction terms (top pick, sector pick, our pick, preferred, most attractive, we like, favour, favourite) finds no hits. 'IHH stands out for the breadth of its initiatives' describes its decarbonisation programme, not a stock pick. The note says its peer comparison 'does not rank the companies', and that ESG execution is not 'standalone grounds for differentiating investment ratings'. The Kenanga Signal therefore reads None stated. The sector stays <b>OVERWEIGHT</b> (unchanged), as upgraded on this board's 6 October Healthcare row. That row's top sector pick, IHH, is neither repeated nor withdrawn here. (3) <b>IHH's emissions baseline appears two ways.</b> The peer snapshot gives IHH's 42% Scope 1 and 2 target 'from a 2025 baseline'. The deep dive compares FY2025's 271,888 tCO&#8322;e with 'a stated 2022 baseline of 277,628 tCO&#8322;e', about 2.1% lower (computed here). The note does not reconcile the two. It also warns that FY2025 now includes Fortis Healthcare, whose data is still being verified, so the absolute comparison is not like-for-like. (4) <b>Four peer-table ratings sit outside Kenanga's own return bands</b>, on the approximation that expected total return = upside + net dividend yield (an inference, not a Kenanga method statement). KOTRA is MARKET PERFORM at about 11.8% (4.9% + 6.9%), NOVA about 13.2% (8.6% + 4.6%), SCOMNET about 26.2% (21.3% + 4.9%) and PHARMANIAGA about 51.0% (48.4% + 2.6%). All are above the 10% OUTPERFORM line. The 6 October row flagged SCOMNET and PHARMANIAGA the same way. (5) <b>Pharmaniaga's upside has widened sharply at an unchanged target.</b> The 6 October row recorded 12% upside to RM1.15, which implies a share price of about RM1.03 (computed here). Today's peer table prints RM0.775 and 48.4%. Today's digest oversold list has Pharmaniaga at RM0.790, with a 14-day RSI of 14.91 and a 30-day low of RM0.770. The fall in the share price is inferred by comparing the two notes. Neither note states it or gives a reason. (6) <b>Source and presentation limits.</b> SUNMED's figures are, in Kenanga's words, indicative and company-provided, with no independent assurance or standalone sustainability report. Its solar figure appears as 950 MWh and as 625 MWh excluding SMCD, and Kenanga itself says the boundary needs confirming. Figures 1-4 (IHH's emissions profile, and the roadmaps for IHH, KPJ and SUNMED) are images and were not read, so no figure from them is used. Typographical slips carried as printed: 'provd', 'Licenzed', 'sterili zation', and mixed 'decarbonisation'/'decarbonization'. There is no rating, target or share price for this row, so those columns are empty by design. No Analyst Signal is sought, because this row is neither Kenanga-Positive nor a results note (rules/daily-run.md step 8), as on the earlier ESG Thematic rows.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Healthcare",
+   "name": "ESG Thematic: Healthcare &mdash; Tackling Decarbonisation in Private Healthcare",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "Kenanga's sustainability team compares how <b>IHH, KPJ and SUNMED</b> are decarbonising. All three state <b>Net-Zero 2050</b> ambitions, but they differ in execution and in how mature their disclosure is. IHH 'stands out for the breadth of its initiatives': emissions measurement, cuts in anaesthetic gas and supplier engagement. KPJ 'shows notable reported progress', with a <b>19.46% GHG cut against its 2024 baseline</b> and 10.07% renewable-energy use. Kenanga warns that the operators' metrics are <b>not directly comparable</b>. It treats decarbonisation execution and disclosure as <b>supplementary monitoring indicators, not grounds for differentiating ratings</b>. The sector stays <b>OVERWEIGHT</b>, and every peer-table target is unchanged against this board's 6 October Healthcare row.",
+   "quote": "We view decarbonization execution and disclosure quality as useful supplementary indicators for fundamental monitoring, rather than standalone grounds for differentiating investment ratings.",
+   "summary": [
+    "The frame and the call. Kenanga says hospitals are structurally energy- and resource-intensive. They need round-the-clock power, cooling, ventilation and sterilisation, so decarbonisation goes beyond renewable energy. It also means energy efficiency, cutting clinical emissions and circularity in the supply chain, and Scope 3 can be a substantial share of the footprint. The policy backdrop is the National Sustainability Reporting Framework, which phases in IFRS S1 and S2, and the Ministry of Health's Carbon Neutral Healthcare Facilities Blueprint. The sector stays OVERWEIGHT (unchanged). Kenanga treats ESG execution as a supplementary indicator rather than grounds for differentiating ratings, and names no stock as a pick (see flag).",
+    "IHH: measurement, clinical abatement, suppliers. The target is a 42% cut in Scope 1 and 2 emissions by 2030 and net zero by 2050. FY2025 market-based Scope 1 and 2 emissions were 271,888 tCO2e. Intensity fell 8.2% to 129.4 kg CO2e per patient-bed-day from 141.0 on a market basis, but rose 3.5% to 146.0 on a location basis. Kenanga warns that Fortis data was added in FY2025 and is still being verified (see flag on the baseline). Rooftop solar on 13 of IHH's 18 Malaysian hospitals generated 3,800 MWh in 2025. Desflurane-related emissions are down 44% against 2023, about 4,000 tCO2e avoided. IHH aims to engage suppliers covering 70% of spend. It met its SBTi-readiness milestone, which Kenanga notes is not formal SBTi validation. Scope 3 reporting covers four of seven relevant categories. FY2025 disclosures were not externally assured, and group-wide Scope 1 and 2 assurance is targeted for FY2027.",
+    "KPJ: renewable electricity and buildings. The target is a 30% cut in absolute GHG emissions by 2030 from a 2024 baseline, with 30% of energy from renewable sources. In 2025 it reported a 19.46% reduction across 43 facilities and 10.07% renewable-energy use. Kenanga cautions that the 19.46% is a historical result, not achievement of the 2030 target, and that its scope coverage needs confirming. Five sites were commissioned under Phase 1 of its renewable-energy supply agreement, and Phase 2 of its GSPARX rooftop solar project is under a Letter of Award. KPJ reported 78,589 tCO2e associated with green-tariff subscriptions and rooftop solar, against 48,385, up 62.4% (reconciles). Kenanga says the accounting basis needs clarification before reading this as cuts in gross Scope 2 emissions. Seven hospitals are green-certified, four of them new in 2025, with all hospitals targeted by 2030. Electricity intensity rose in 2025 on higher patient numbers and the addition of KPJ Kuala Selangor, but the split between the two is not quantified.",
+    "SUNMED: efficiency and circularity, on company-provided data. The roadmap targets a 50% cut in Scope 1 and 2 emissions by 2030 from a 2023 baseline, building-energy intensity below 245 kWh/m2 a year by 2030 and net zero by 2050. FY2025 energy intensity was 296 kWh/m2, so the target implies about a 17% reduction (computed here). Emissions intensity was 0.230 tCO2e/m2. There is no comparable absolute inventory, so Kenanga says progress toward the 2030 target cannot be assessed. Solar generation was 950 MWh against 542 MWh (about +75%, computed here; see flag on the boundary). Waste diverted rose to 297 tonnes from 269, and the recycling rate to 13.2% from 12.3%. SMCP and SMCI are desflurane-free, and SMC and SMP hold ISO 14001. Kenanga rates SUNMED UNDERPERFORM with a RM1.75 target, which is -16% against its RM2.09 peer-table price.",
+    "Beneficiaries, risks and the peer table. Kenanga names enabling sectors that could benefit: solar developers and installers, HVAC, chiller, building-management and energy-monitoring providers, licensed clinical-waste and recycling operators, anaesthesia systems, and green-building and water-efficiency solutions. It stresses these are 'not confirmed investment winners or company-specific recommendations', and says disclosures are insufficient to size the market. The risks it lists are payback periods, patient safety and infection control, comparability, emissions growth from expansion and Scope 3, and climate exposure. The peer table matches this board's 6 October row: IHH OUTPERFORM RM9.10 (15.0% upside), KPJ OUTPERFORM RM3.05 (27.1%), DPHARMA OUTPERFORM RM1.72 (57.8%), KOTRA MARKET PERFORM RM3.88, NOVA MARKET PERFORM RM0.380, PHARMANIAGA MARKET PERFORM RM1.15, SCOMNET MARKET PERFORM RM0.570 and SUNMED UNDERPERFORM RM1.75. All printed upsides reconcile to the prices and targets shown (see flag on rating bands and Pharmaniaga)."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Healthcare-261021-ESG-Thematic-Kenanga.pdf"
+  }
+ ]
+}

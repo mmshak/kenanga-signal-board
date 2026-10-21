@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T19:55:51.739Z",
+ "generatedAt": "2026-10-21T20:03:43.901Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -37,10 +37,11 @@
   "2026-10-15",
   "2026-10-16",
   "2026-10-19",
-  "2026-10-20"
+  "2026-10-20",
+  "2026-10-21"
  ],
- "rows": 155,
- "verified": 154,
+ "rows": 156,
+ "verified": 155,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -553,6 +554,12 @@
    "date": "2026-10-20",
    "row": "MY CPI (Sep-26)",
    "msg": "Four points of caution on this row. (1) <b>The quarterly average does not reconcile with the note's own monthly table.</b> The text says inflation 'averaged 1.9% in 3Q26'. Table 2 gives July 1.8%, August 1.9% and September 1.8%, which average 1.83% (computed here), or 1.8% rounded. Kenanga may be averaging unrounded index data, which this board cannot see. The '1.8% from January to September' figure cannot be checked, because Table 2 has no January-March columns. (2) <b>The electricity figures use different bases and are not reconciled with last month's note.</b> The opening bullet says electricity costs dropped 3.1% MoM; the housing paragraph says they 'slowed to 0.2% (Aug: 3.6%)', read here as YoY. The 21 September row, from Kenanga's August note, recorded electricity and gas at 3.3% for August, not 3.6%. That may be electricity alone versus electricity and gas, but neither note says. (3) <b>The policy call is extended, not reversed.</b> The 21 September row quoted 'We expect BNM to hold the OPR at 2.75% through 2026'. Today's note keeps the hold on 5 November and adds one 25bp hike to 3.00% in 1Q27. The 2026 inflation forecast of 1.9% matches the figure set in that note. (4) <b>Typographical slips carried as printed</b>: 'The key watch pointy' and 'amid the uncertain Middle East crisis dragged on'. The 3Q26 advance GDP of 5.3% (KIBB 5.1%) matches this board's 19 October macro item. The September exports figure (+54.5% YoY) is not checked against any other source. This is an Economic Viewpoint with no stock call, so the rating, target and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-21",
+   "row": "Healthcare",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>Filed as a Sector Update</b>, although the document is headed 'ESG Thematic', because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). The 13 and 19 October ESG Thematic rows, and the earlier Thematic reports, got the same treatment. (2) <b>No pick is declared.</b> Searching the note for all the board's conviction terms (top pick, sector pick, our pick, preferred, most attractive, we like, favour, favourite) finds no hits. 'IHH stands out for the breadth of its initiatives' describes its decarbonisation programme, not a stock pick. The note says its peer comparison 'does not rank the companies', and that ESG execution is not 'standalone grounds for differentiating investment ratings'. The Kenanga Signal therefore reads None stated. The sector stays <b>OVERWEIGHT</b> (unchanged), as upgraded on this board's 6 October Healthcare row. That row's top sector pick, IHH, is neither repeated nor withdrawn here. (3) <b>IHH's emissions baseline appears two ways.</b> The peer snapshot gives IHH's 42% Scope 1 and 2 target 'from a 2025 baseline'. The deep dive compares FY2025's 271,888 tCO&#8322;e with 'a stated 2022 baseline of 277,628 tCO&#8322;e', about 2.1% lower (computed here). The note does not reconcile the two. It also warns that FY2025 now includes Fortis Healthcare, whose data is still being verified, so the absolute comparison is not like-for-like. (4) <b>Four peer-table ratings sit outside Kenanga's own return bands</b>, on the approximation that expected total return = upside + net dividend yield (an inference, not a Kenanga method statement). KOTRA is MARKET PERFORM at about 11.8% (4.9% + 6.9%), NOVA about 13.2% (8.6% + 4.6%), SCOMNET about 26.2% (21.3% + 4.9%) and PHARMANIAGA about 51.0% (48.4% + 2.6%). All are above the 10% OUTPERFORM line. The 6 October row flagged SCOMNET and PHARMANIAGA the same way. (5) <b>Pharmaniaga's upside has widened sharply at an unchanged target.</b> The 6 October row recorded 12% upside to RM1.15, which implies a share price of about RM1.03 (computed here). Today's peer table prints RM0.775 and 48.4%. Today's digest oversold list has Pharmaniaga at RM0.790, with a 14-day RSI of 14.91 and a 30-day low of RM0.770. The fall in the share price is inferred by comparing the two notes. Neither note states it or gives a reason. (6) <b>Source and presentation limits.</b> SUNMED's figures are, in Kenanga's words, indicative and company-provided, with no independent assurance or standalone sustainability report. Its solar figure appears as 950 MWh and as 625 MWh excluding SMCD, and Kenanga itself says the boundary needs confirming. Figures 1-4 (IHH's emissions profile, and the roadmaps for IHH, KPJ and SUNMED) are images and were not read, so no figure from them is used. Typographical slips carried as printed: 'provd', 'Licenzed', 'sterili zation', and mixed 'decarbonisation'/'decarbonization'. There is no rating, target or share price for this row, so those columns are empty by design. No Analyst Signal is sought, because this row is neither Kenanga-Positive nor a results note (rules/daily-run.md step 8), as on the earlier ESG Thematic rows."
   }
  ],
  "verdict": "PASS"
