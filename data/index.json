@@ -190,6 +190,11 @@
    "date": "2026-10-21",
    "reports": 1,
    "verified": 1
+  },
+  {
+   "date": "2026-10-22",
+   "reports": 2,
+   "verified": 2
   }
  ]
 }

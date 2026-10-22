@@ -1,0 +1,285 @@
+{
+ "date": "2026-10-22",
+ "schema": 1,
+ "daily": {
+  "klci": 1602.3,
+  "chg": 2.69,
+  "pct": 0.17,
+  "inst": -53.1,
+  "instPct": 47.7,
+  "retail": 9.6,
+  "retailPct": 23.0,
+  "foreign": 43.5,
+  "foreignPct": 29.3,
+  "ideas": "Results Note: AMEREIT, WPRTS",
+  "news": [
+   {
+    "h": "Higher sales, selling prices lift Pantech Global 2Q net profit 89.5%",
+    "body": "Pantech Global Bhd's reported a 89.5% jump in second-quarter net profit on the back of higher sales volume and improved average selling prices. Net profit for the three months ended Aug 31, 2026 (2QFY2027) surged to RM19.3m from RM10.2m a year earlier. Revenue rose 36.9% to RM173.7m from RM126.9m in the corresponding quarter last year, according to the group's Bursa Malaysia filing. The board also declared a first interim single-tier dividend of 2.2 sen per share \u2013 higher than two sen dividend paid a year ago \u2013 payable on Dec 16. (The Edge Malaysia)",
+    "takeaways": [
+     "Pantech Global's 2QFY27 net profit (quarter to 31 August) rose 89.5% to RM19.3m from RM10.2m.",
+     "Revenue rose 36.9% to RM173.7m from RM126.9m.",
+     "The company credits higher sales volume and better average selling prices.",
+     "It declared a first interim single-tier dividend of 2.2 sen, against 2 sen a year ago, payable on 16 December.",
+     "This board holds no Kenanga coverage of Pantech Global. Digest context only."
+    ]
+   },
+   {
+    "h": "ES Sunlogy shareholders vote for regular tie-ups with Kerjaya Prospek",
+    "body": "ES Sunlogy Bhd has secured shareholders' approval for routine collaborations with its largest shareholder Kerjaya Prospek Group Bhd. Twenty-five shareholders holding 241.9m shares voted for the recurrent related-party transactions (RRPT) mandate, while six shareholders holding 9,800 shares voted against, at an extraordinary general meeting on Wednesday (Oct 21). The mechanical and electrical (M&E) engineering and renewable energy group said the mandate would streamline routine transactions with related parties on normal commercial terms, following Kerjaya Prospek's emergence as a shareholder with a 31.0% stake earlier this year. (The Edge Malaysia)",
+    "takeaways": [
+     "ES Sunlogy shareholders approved a recurrent related-party transaction mandate covering routine dealings with Kerjaya Prospek, its largest shareholder.",
+     "At the 21 October EGM, 25 shareholders with 241.9m shares voted for and six with 9,800 shares voted against.",
+     "The company says the mandate streamlines routine transactions on normal commercial terms.",
+     "Kerjaya Prospek became a shareholder earlier this year with a 31.0% stake. The digest gives no value for the mandate.",
+     "This board last carried Kenanga's KERJAYA call on 4 September (OUTPERFORM, RM3.80). The digest item does not touch that call. Digest context only."
+    ]
+   },
+   {
+    "h": "Eonmetall shares to be suspended from Nov 4 ahead of delisting",
+    "body": "Trading of Eonmetall Group Bhd (EGB) shares on the Main Market of Bursa Malaysia will be suspended with effect from 9 am on Wednesday, Nov 4, 2026. Eonmetall said the trading of EGB shares will continue to be suspended until the delisting of EGB from the official list of Bursa Malaysia following the completion of the selective capital reduction (SCR). \"Accordingly, the last day and time for trading of EGB shares on the Main Market prior to the suspension will be at 5 pm on Tuesday, Nov 3, 2026,\" it said. (The Star)",
+    "takeaways": [
+     "Eonmetall shares will be suspended from 9am on Wednesday, 4 November 2026.",
+     "The last trading time is 5pm on Tuesday, 3 November.",
+     "The suspension runs until delisting, after the selective capital reduction is completed.",
+     "The digest gives no SCR price or delisting date.",
+     "This board holds no Kenanga coverage of Eonmetall. Digest context only."
+    ]
+   },
+   {
+    "h": "Encorp secures RM17.0m staff housing project from Felda",
+    "body": "Encorp Construction & Engineering Sdn Bhd, a wholly-owned subsidiary of Encorp Bhd, has accepted a letter of acceptance for a RM16.96 million contract to build staff housing for its major shareholder, the Federal Land Development Authority (Felda). The contract award follows a memorandum of understanding signed on June 5 this year. The details of the contract are still being finalised and will be announced in due course. Felda is Encorp's majority shareholder, holding a 67.1% stake through Felda Investment Corporation Sdn Bhd. (The Edge Malaysia)",
+    "takeaways": [
+     "Encorp's wholly-owned subsidiary Encorp Construction & Engineering has accepted a RM16.96m contract to build staff housing for Felda.",
+     "Felda is Encorp's majority shareholder, with 67.1% held through Felda Investment Corporation, so this is a related-party award.",
+     "The award follows a memorandum of understanding signed on 5 June.",
+     "Contract details are still being finalised and will be announced later. The digest gives no duration or margin.",
+     "This board holds no Kenanga coverage of Encorp. Digest context only."
+    ]
+   },
+   {
+    "h": "Revenue IF, Tencent's WeSure partner on cross-border payments, digital insurance in four markets",
+    "body": "Revenue IF Bhd has partnered with China's WeSure, an online insurance subsidiary of China's Tencent Holdings, to develop cross-border payment and digital insurance solutions in Malaysia, Singapore, Indonesia and Thailand. Revenue IF said the partnership with Zhuhai Hengqin WeSure Digital Technology Co Ltd would focus on cross-border payments, payment solutions for the insurance industry, and the development of insurance-related businesses. The collaboration includes integrating both companies' systems to support payment processing, clearing and settlement, as well as insurance premium payments and claims disbursements. (The Edge Malaysia)",
+    "takeaways": [
+     "Revenue IF has partnered with Zhuhai Hengqin WeSure Digital Technology, Tencent's online insurance subsidiary.",
+     "The partnership covers Malaysia, Singapore, Indonesia and Thailand.",
+     "It focuses on cross-border payments, payment solutions for insurers and insurance-related businesses.",
+     "The two will integrate systems for payment processing, clearing and settlement, premium payments and claims disbursement. The digest gives no deal value or revenue target, so this reads as a framework partnership.",
+     "This board holds no Kenanga coverage of Revenue IF. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Putin agrees to resume 3-way peace talks with Ukraine and US",
+    "region": "Global",
+    "body": "Russian President Vladimir Putin has agreed to resume US-mediated peace talks with Ukraine as soon as next month, the Kremlin said on Wednesday, after Putin met US envoy Steve Witkoff in Washington's latest push to stop Europe's bloodiest conflict since World War Two. (Reuters)",
+    "takeaways": [
+     "The Kremlin says Putin has agreed to resume US-mediated peace talks with Ukraine as soon as next month.",
+     "The agreement followed a meeting with US envoy Steve Witkoff.",
+     "The Kremlin's statement came on Wednesday, 21 October.",
+     "The digest gives no venue, date or agenda for the talks.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "Digital economy must ensure fair competition, protect local MSMEs \u2014 PM",
+    "region": "Malaysia",
+    "body": "Malaysia's digital economy must be built on fair competition, including by addressing digital platforms' practices that could burden micro, small and medium enterprises (MSMEs), Prime Minister Anwar Ibrahim said. (The Edge Malaysia)",
+    "takeaways": [
+     "Prime Minister Anwar Ibrahim says Malaysia's digital economy must rest on fair competition.",
+     "He points to digital-platform practices that could burden micro, small and medium enterprises.",
+     "The digest names no platform, regulation or enforcement step.",
+     "This is a statement of policy direction, not a measure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysia's trade performance remains encouraging despite global uncertainty \u2014 Miti",
+    "region": "Malaysia",
+    "body": "Malaysia has continued to record encouraging trade performance despite facing global uncertainty which includes tariff revisions and international trade restrictions, according to the Ministry of Investment, Trade and Industry (Miti). (The Edge Malaysia)",
+    "takeaways": [
+     "Miti says Malaysia's trade performance remains encouraging.",
+     "It cites global uncertainty, including tariff revisions and international trade restrictions.",
+     "The digest item gives no trade figures.",
+     "The ministry's assessment is qualitative, so there is nothing to check against data here.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Govt urged to broaden tax base to boost revenue for national development",
+    "region": "Malaysia",
+    "body": "The government has been urged to broaden the tax base and develop new strategic revenue sources to strengthen public finances and create greater fiscal space to fund national development. (The Edge Malaysia)",
+    "takeaways": [
+     "The government has been urged to broaden the tax base and develop new strategic revenue sources.",
+     "The stated aims are stronger public finances and more fiscal space for national development.",
+     "The digest does not say who made the call.",
+     "No specific tax measure is named.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Next five years crucial transition period for Sarawak's economy",
+    "region": "Malaysia",
+    "body": "The next five years will serve as a crucial transition period for Sarawak in its efforts to develop a high-value economy based on technology creation, said Sarawak Premier Tan Sri Abang Johari Tun Openg. (The Edge Malaysia)",
+    "takeaways": [
+     "Sarawak Premier Abang Johari Openg calls the next five years a crucial transition period for the state.",
+     "The aim is a high-value economy based on technology creation.",
+     "The digest names no programme, budget or target.",
+     "This is a statement of direction rather than a policy measure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Indonesia holds rate, cuts reserve requirement ratio as MSCI shock hits rupiah",
+    "region": "Asia Pacific",
+    "body": "Bank Indonesia kept its benchmark interest rate unchanged, opting instead to cut the reserve requirements for banks and continue relying on targeted measures to support the rupiah through market volatility triggered by MSCI Inc's double-downgrade threat. (The Edge Malaysia)",
+    "takeaways": [
+     "Bank Indonesia held its benchmark interest rate.",
+     "It cut banks' reserve requirements instead.",
+     "It continues to rely on targeted measures to support the rupiah.",
+     "The volatility was triggered by MSCI's double-downgrade threat. The digest gives neither the policy rate level nor the size of the reserve cut.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US aims to loan about a third of heating oil reserve in bid to tame prices",
+    "region": "Americas",
+    "body": "The Trump administration is offering to loan up to nearly a third of the one-million-barrel US emergency heating oil reserve, the Department of Energy said on Wednesday, in a bid to tame surging prices. (The Edge Malaysia)",
+    "takeaways": [
+     "The US Department of Energy is offering to lend up to nearly a third of the one-million-barrel emergency heating oil reserve.",
+     "That is roughly 330,000 barrels at most (computed here from 'nearly a third').",
+     "The stated aim is to tame surging prices.",
+     "The announcement came on Wednesday, 21 October. The same digest shows Nymex crude down 4.56% to US$97.2/bbl for the day, though the digest does not link the two.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "UK borrowing and GBP3.0t debt herald tough budget for govt",
+    "region": "Europe",
+    "body": "Britain's government borrowed more than expected again in September and public debt surpassed \u00a33 trillion (US$4.01 trillion or RM16.39 trillion), according to official data that underscored Finance Minister John Healey's challenge in his first budget next week. (The Edge Malaysia)",
+    "takeaways": [
+     "UK government borrowing was again higher than expected in September.",
+     "Public debt passed \u00a33 trillion (US$4.01 trillion, or RM16.39 trillion).",
+     "The digest frames it as the challenge facing Finance Minister John Healey's first budget next week.",
+     "The digest gives no September borrowing figure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Kenanga-Today-261022-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared.</b> Searching the note for all the board's conviction terms (top pick, sector pick, our pick, preferred, most attractive, we like, favour, favourite) finds no hits. The investment case opens 'We are cautious on WPRTS', and the call is a downgrade. The Kenanga Signal therefore reads None stated. (2) <b>The results table's year-ago quarter is mislabelled and carries the wrong figures.</b> The column is headed '1QFY25' and shows revenue of RM621.3m and net profit of RM222.5m, giving YoY moves of +72% and +54%. Westports' filing, as reported by The Edge on 21 October, puts 3QFY25 revenue at RM751.99m and net profit at RM271.11m. On that basis 3Q revenue rose 42% and net profit 26%. The table's 3Q YoY columns are therefore not used on this row (see cross-check). The 9M columns do reconcile with the filing: net profit RM1,030.0m against 'RM1.03 billion', and revenue RM2,831.6m against 'RM2.83 billion'. The text also says one-off vessel arrivals 'boosted 3Q transhipment by 12% YoY', while the table shows +21% against the mislabelled column. (3) <b>'90% of our full-year forecast' is measured against the pre-revision forecast.</b> 9M core net profit of RM1,020m is 79% of the revised FY26F RM1,291.2m. It is about 89% of the implied pre-revision figure of roughly RM1,143m, which is RM1,291.2m divided by 1.13 (computed here, an inference). The 81% of consensus checks out: RM1,020m against RM1,263.7m is 80.7% (computed here). (4) <b>Rounded percentages that do not match.</b> The target cut is described as 3%, but RM6.05 against RM6.20 is -2.4% (computed here). The share base is said to have 'increased by 1%' from 3,437m to 3,452m, which is +0.4% (computed here). (5) <b>DRP and exceptional-item figures do not reconcile.</b> The note says the third DRP tranche was 'at 14.98 sen/share' with 15,497,490 shares issued and RM232.2m raised. That implies RM14.98 a share, roughly double the share price. 14.98 sen is also the 1HFY26 dividend shown in the results table. The footnote itemises exceptionals as a RM10m insurance claim, RM3.9m other income and a RM9.3m write-off, 'with net total of RM6.3m'. Those items net to RM4.6m (computed here), while the table shows RM10.0m for 9M. None of these is resolved here. (6) <b>Minor slips.</b> The QoQ revenue comparison strips construction revenue of 'RM271m/RM59m for 3QFY26/1QFY26', but the comparison quarter is 2QFY26; on that reading revenue is -1.3% (computed here), consistent with the stated -1%. '9MFY26/FY25' likewise reads as 9MFY25. Regional peer PER is given as both 19x and 18.3x. The risks list numbers (iii) twice. Electric-truck deployment is dated 'from Oct 26 onwards', read here as October 2026. (7) <b>Market data and price.</b> Kenanga's RM6.77 is the 21 October close. stockanalysis.com shows a 22 October close of RM7.02 (+3.7%), on the day of the downgrade. At that price the RM6.05 target is about -13.8% (computed here). The 5.05-7.25 52-week range matches the note. The 3.11% dividend yield is stockanalysis.com's trailing figure, not Kenanga's 4.1% FY26F. The peer table's BIPORT (OP, RM7.00) and SWIFT (MP, RM0.40) match this board's 24 August and 28 August rows. WPRTS last appeared on this board in the 17 September Market Strategy note at MP, RM6.20, which agrees with this note's previous rating and target.",
+   "result": "beat",
+   "conviction": null,
+   "prevRating": "MP",
+   "prevTp": 6.2,
+   "ticker": "WPRTS",
+   "name": "Westports Holdings Berhad",
+   "type": "Results Note",
+   "rating": "UP",
+   "tp": 6.05,
+   "price": 6.77,
+   "divYield": 3.11,
+   "high52": 7.25,
+   "low52": 5.05,
+   "mktSrc": "https://stockanalysis.com/quote/klse/WPRTS/",
+   "catalyst": "<b>9MFY26 above expectations, but downgraded</b>: core net profit rose 41% to <b>RM1,020m</b>, which Kenanga puts at 90% of its forecast and 81% of consensus. It credits still-elevated value-added services (VAS) income and one-off vessel arrivals in 3Q. Kenanga <b>raises FY26F net profit 13%</b> and leaves FY27F unchanged, expecting the VAS ratio to fall to as low as 20%. It <b>cuts the target to RM6.05 from RM6.20</b> on a higher WACC, as it expects an OPR hike, and on DRP dilution. It <b>downgrades to UNDERPERFORM from MARKET PERFORM</b> on a negative outlook and rich valuation.",
+   "quote": "We downgrade the stock to UNDERPERFORM from MARKET PERFORM call on negative outlook and rich valuation.",
+   "summary": [
+    "Result. 9MFY26 core net profit was RM1,020m, up 41%, excluding RM10m of one-off items. Kenanga puts it at 90% of its full-year forecast and 81% of consensus, so above expectations (see flag on the 90%). It names two reasons: VAS income stayed high, though down 15% QoQ and guided lower, and unexpected vessel arrivals in 3Q, which it treats as one-off. 3QFY26 core net profit was RM338.8m, down 6% QoQ, on lower VAS income. No dividend was declared, as expected, since Westports pays half-yearly. The note's year-ago 3Q column is mislabelled, so its 3Q YoY growth rates are not used here (see flag and cross-check).",
+    "Volumes and pricing. 9M container throughput was 8.55m TEU (+1%): transhipment +2% and gateway flat. Transhipment was held back by lower Middle East volumes, which were 6.5% of 2025 TEUs and 67% transhipment. Westports has been turning away Middle East-bound boxes to avoid yard congestion, and temporary Gemini-related volumes have gone. Average revenue per TEU rose 28% to RM236.2. Drivers were a 31% VAS ratio, against a 25% FY25 average, and tariff increases of 15% from 15 July 2025 and 10% from 1 January 2026. Excluding construction revenue for CT10-CT13, which is 71% complete, 9M revenue rose 26%. Conventional cargo rose 11% to 10.18m tonnes. In 3Q, volume rose 7% QoQ (transhipment +15%, gateway -3%). The VAS ratio fell to 27% from 31% as dwell times shortened, while yard utilisation rose to 89% from 74%.",
+    "Costs. Fuel cost rose 50% YoY in 9M. Westports uses unsubsidised diesel, and Kenanga cites an estimated RM50m full-year impact from the Middle East conflicts. Fuel was 24% of operating cost in 3Q, about the same as 2Q, and the average effective cost per litre was about 3% lower QoQ, below RM4.40. Westports has received 60 electric trucks to replace 10% of the WP1 fleet, with a battery-swapping station due by early 1Q27. Electricity cost fell YoY. Kenanga credits a tariff reclassification to Medium Bulk Voltage, subscription to the Green Energy Tariff, and on-site solar supplying 16% of kWh, up from 10% in 3Q25. The 9M effective tax rate was 23.6%.",
+    "Forecasts and valuation. FY26F net profit rises 13% to RM1,291.2m, now above the RM1,263.7m consensus. That assumes a 25% VAS ratio in 4Q. FY27F is unchanged at RM1,243.6m (-3.7%), with the VAS ratio falling as low as 20%. The DCF target falls to RM6.05 from RM6.20. WACC rises to 7.1% from 7.0% because Kenanga expects a 25bp OPR hike in FY27, terminal growth is 2%, and the share base is updated to 3,452m for the DRP. There is no ESG adjustment (3 stars). At RM6.77 that is 10.6% downside against a 4.1% FY26F yield. Kenanga calls the 19x FY27F PER 'fairly valued' against regional peers and Westports' 10-year average of 20x.",
+    "Why the downgrade, and the risks. Kenanga says long-term contracts with clients such as Ocean Alliance cannot shield Westports from geopolitical risk. It adds that the long Westports 2 build may limit room for higher dividends, and that lower transhipment tariffs than Tanjung Pelepas and Singapore may not win a new alliance. Management still guides to low single-digit volume growth (0-5%) for FY26 and the next few years, against Kenanga's 5% assumption. Kenanga expects slower earnings into FY27 on low single-digit container growth, VAS normalisation and higher costs. Risks to the call are a stronger global economy, de-escalation in the Middle East, more benign costs (especially fuel), and expansion or tariff timing."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "Maybank Investment Bank",
+    "date": "16 Oct 2026",
+    "opp": true,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on WPRTS in a dated, publicly retrievable source read during this run</b>, so this row's Analyst Signal reads <b>None stated</b>. <b>The most recent call read in full is Maybank Investment Bank.</b> The Edge Malaysia reported on <b>16 October 2026</b>, six days before this Kenanga note and before the results, that Maybank expected 3Q earnings to beat consensus and 'maintained a buy call on the counter with a target price of RM7.66'. <b>Earlier calls.</b> The Edge Malaysia reported on <b>24 July 2026</b>, after the 2Q results, that 'CIMB Securities and HLIB also maintained their 'buy' rating on the group', with DCF-based targets of RM8 and RM7.15. <b>After the results.</b> The Edge's 22 October market report quotes Hong Leong Investment Bank and RHB Research as constructive: HLIB expects 'earnings growth to remain supported by tariff hikes and resilient throughput volumes', and RHB expects 'throughput volumes to strengthen' and flags a further 5% tariff hike in 2027. The article states neither house's rating nor target. Search summaries suggest Maybank kept Buy and raised its target to RM7.77, and that CIMB kept Buy at RM8.00 after the results. Those figures surfaced only through an outlet outside this board's permitted list and a BusinessToday page that returned HTTP 403, so <b>they are not used</b>. <b>On divergence:</b> Maybank's Buy (16 Oct) and CIMB's and HLIB's Buys (24 Jul) sit opposite Kenanga's UNDERPERFORM, so the marker is set from those verified, dated calls, not from prices. Kenanga's RM6.05 is RM1.61 below Maybank's last verified RM7.66 (computed here). <b>Three of the nine houses</b> this board searches (Maybank, CIMB, HLIB) yielded a dated, publicly retrievable rating. RHB yielded a comment without a rating. AmInvestment, Public Investment Bank, TA, MIDF and Affin Hwang yielded nothing. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Edge Malaysia, 16 Oct 2026 &mdash; &lsquo;Westports' earnings likely to beat consensus in 3Q, tariff hikes to sustain growth into 2027&rsquo; (Maybank Investment Bank)",
+      "https://theedgemalaysia.com/node/822065"
+     ],
+     [
+      "The Edge Malaysia, 24 Jul 2026 &mdash; &lsquo;Analysts stay bullish on Westports as earnings beat expectations, tariffs to keep offsetting fuel costs&rsquo;",
+      "https://theedgemalaysia.com/node/811900"
+     ],
+     [
+      "The Edge Malaysia, 22 Oct 2026 &mdash; &lsquo;Westports extends gain to near two-month high as results beat estimates&rsquo;",
+      "https://theedgemalaysia.com/node/822805"
+     ]
+    ]
+   },
+   "crossCheck": {
+    "note": "<b>The company's own 3Q growth rates are lower than Kenanga's table implies.</b> The Edge Malaysia (21 October) reports Westports' filing as 3QFY26 net profit of <b>RM342.56m against RM271.11m</b> a year earlier, about +26%. It gives revenue of <b>RM1.07b, up 42% from RM751.99m</b>. Kenanga's RM342.6m net profit and RM1,068.4m revenue for the quarter match. Its year-ago column (headed '1QFY25': RM222.5m and RM621.3m) does not match 3QFY25, so its +54% and +72% YoY readings should not be relied on. The 9M figures agree: net profit RM1.03b (+42%) and revenue RM2.83b (+37%). Westports recommended no dividend for the quarter, as Kenanga says. <b>Guidance is described differently.</b> The Edge says Westports now expects 'overall container throughput to be at least the same as the previous year', more positive than July's 'roughly the same'. Kenanga's note says guidance 'remains unchanged', as low single-digit growth of 0-5%. The two are not reconciled here. <b>The market read the quarter the other way to Kenanga.</b> The Edge's 22 October report says the stock rose as much as 4% to RM7.04 and closed at RM7.02, its highest close since 27 August. It cites a Bloomberg consensus of 18 analysts: nearly two-thirds Buy, five Hold, two Sell, with an average target of RM7.41. Kenanga's downgrade makes it one of the minority bearish calls (an inference; the Bloomberg count does not name the houses).",
+    "cites": [
+     [
+      "The Edge Malaysia, 21 Oct 2026 &mdash; &lsquo;Tariff increase, extra services lift Westports revenue to new record, boost earnings&rsquo;",
+      "https://theedgemalaysia.com/node/822649"
+     ],
+     [
+      "The Edge Malaysia, 21 Oct 2026 &mdash; corporate news round-up (Westports, AME REIT and others)",
+      "https://theedgemalaysia.com/node/822761"
+     ],
+     [
+      "The Edge Malaysia, 22 Oct 2026 &mdash; &lsquo;Westports extends gain to near two-month high as results beat estimates&rsquo;",
+      "https://theedgemalaysia.com/node/822805"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/WPRTS-261022-3Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>'We like' is not a pick declaration.</b> The investment case opens 'We like AMEREIT for its quality assets with strong tenant mix that are poised to reap further benefits from the Johor-Singapore Special Economic Zones', followed by 'We maintain our MARKET PERFORM call'. That is standard investment-case wording, not a Top Pick, sector pick or most-attractive call, so under rules/signals.md &sect;2 the Kenanga Signal reads None stated. This board treated ANCOMNY's 'We continue to like' (16 Oct) the same way. No other conviction-search term appears. (2) <b>'Net profit' in the note means core net profit.</b> The note's 1HFY27 'net profit of RM20.9m' (+7%) is the results table's core net profit. Reported net profit was RM25.4m (+34%). The note does not identify the roughly RM4.5m difference (computed here). The table shows interest and investment income of RM5.3m in 2QFY27 against RM0.4m in 1QFY27, but the note does not say that is the excluded item, so it is not assumed here. (3) <b>Dividend figures disagree between tables.</b> The peer table shows a 9.0 sen net dividend (5.8% yield) for FY27. The Summary Earnings Table and the text use an 8.7 sen gross DPS (5.6%). A net figure above the gross is not reconciled. The peer table's 8.3% FY27 core EPS growth also differs from the summary table's 7.6%. (4) <b>Target arithmetic.</b> 8.7 sen divided by a 5.90% target yield (3.90% 10-year MGS plus a 2% spread) gives about RM1.47 (computed here), against the RM1.48 printed. The rounding is not shown. Gearing is 34% (gross, 2QFY27) in the text and results table; the summary table's 0.30x is the FY27F asset-gearing forecast. (5) <b>Presentation.</b> The page 4 header reads 'Initiate Coverage' although this is a Results Note. The report is produced under Bursa's Research Incentive Scheme Plus (RISE+), which the note discloses. (6) <b>Market data.</b> The note gives a 52-week range of RM1.50-RM1.79; stockanalysis.com gives RM1.49-RM1.80, and this row uses stockanalysis.com, as the rules require. stockanalysis.com shows a 22 October close of RM1.590 (+2.6%), at which the RM1.48 target is about -6.9% (computed here). The 5.25% dividend yield is stockanalysis.com's trailing figure, not Kenanga's. No Analyst Signal is sought, because this row is neither Kenanga-Positive nor a notable result (in line, with rating, target and forecasts unchanged; rules/daily-run.md step 8).",
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "MP",
+   "prevTp": 1.48,
+   "ticker": "AMEREIT",
+   "name": "AME Real Estate Investment Trust",
+   "type": "Results Note",
+   "rating": "MP",
+   "tp": 1.48,
+   "price": 1.55,
+   "divYield": 5.25,
+   "high52": 1.8,
+   "low52": 1.49,
+   "mktSrc": "https://stockanalysis.com/quote/klse/AMEREIT/",
+   "catalyst": "<b>1HFY27 in line</b>: core net profit rose 7% to <b>RM20.9m</b>, 48% of Kenanga's full-year forecast and 47% of consensus. The REIT declared a <b>2.19 sen</b> distribution, taking the year to date to 4.34 sen, on track for Kenanga's 8.7 sen FY27 forecast. Growth came from <b>five Johor properties acquired from its sponsor</b> and positive rental reversions, partly offset by higher financing costs. Gearing is 34%. Kenanga expects <b>10%-15% rental reversions</b> near term on the JS-SEZ. Forecasts, the <b>RM1.48 target</b> and the <b>MARKET PERFORM</b> call are all unchanged.",
+   "quote": "We remain optimistic on Johor industrial outlook supported by the JS-SEZ development; thus, we believe the group to sustain 10%-15% rental reversion in the near-term.",
+   "summary": [
+    "Result. 1HFY27 (six months to September) core net profit was RM20.9m, up 7% YoY, which Kenanga puts at 48% of its full-year estimate and 47% of consensus, so in line. 2QFY27 core net profit was RM10.6m, up 4% QoQ and 3% YoY. Reported 1H net profit was RM25.4m (+34%); the note does not explain the gap (see flag). The REIT declared a gross distribution of 2.19 sen for 2Q, taking the year to date to 4.34 sen from 4.12 sen a year earlier. That is about half of Kenanga's 8.7 sen FY27 forecast (computed here). Distributable income was RM23.2m (+6%).",
+    "What drove it. 1H revenue rose 15% to RM34.2m and net property income 15% to RM31.2m, with a 91.4% NPI margin. Kenanga credits five properties newly acquired in Johor from the sponsor, and higher rents on tenancy renewals. Net profit grew less, at 7%, because of higher financing costs on borrowings drawn for the acquisitions. All acquisitions proposed in FY26 had been completed by 1QFY27. Gross gearing rose to 34.0% from 27.1% a year earlier and 31.0% in 1QFY27.",
+    "Outlook. Kenanga names three drivers: rental reversions approaching double digits as leases renew at higher market rates on rising Johor industrial demand, further acquisitions and developments, and Johor's rise as a manufacturing hub under the JS-SEZ. On acquisitions, it estimates the RM50.2m i-Park Senai industrial land purchase, announced in July 2026, adds about RM2m to FY29 net profit. It cites proximity to Singapore, the RTS Link and FDI inflows. The portfolio sits entirely within the JS-SEZ, which Kenanga says leaves AMEREIT 'uniquely positioned' as manufacturers relocate on supply-chain restructuring. It expects 10%-15% rental reversions in the near term.",
+    "Forecasts and valuation. Forecasts are unchanged: FY27F/FY28F core net profit of RM43.1m/RM45.5m and gross DPS of 8.7/9.3 sen. The RM1.48 target is unchanged, based on the 8.7 sen FY27F distribution at a 2% spread over an unchanged 3.90% 10-year MGS assumption (see flag on rounding). There is no ESG adjustment (3 stars). At RM1.55 the target is 4.5% below the price, offset by a 5.8% net yield in the peer table, which is consistent with MARKET PERFORM. The units trade at 19.1x FY27F earnings and 1.2x book, against a REIT-sector aggregate of 17.6x.",
+    "Call, peers and risks. Kenanga keeps MARKET PERFORM. Its investment case praises quality assets with a strong tenant mix positioned to benefit from the JS-SEZ, which is not a pick declaration (see flag). The risks it names are bond-yield expansion and slower-than-expected rental reversions. In Kenanga's REIT peer table, Axis REIT (RM2.01), Pavilion REIT (RM1.83) and Sunway REIT (RM2.27) are OUTPERFORM; Al-Aqar, IGB REIT and KLCCP are MARKET PERFORM. The sponsor, Ame Development, holds 47.9%, and free float is 38%."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>Not sought.</b> Under rules/daily-run.md step 8, non-Kenanga coverage is checked for Kenanga-Positive rows and for stocks with a notable result. This row is neither: the result is in line, and rating, target and forecasts are unchanged. The Analyst Signal therefore reads <b>None stated</b>, and no divergence marker is set. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": []
+   },
+   "crossCheck": {
+    "note": "The Edge Malaysia's 21 October corporate round-up reports AME REIT's 2Q (to 30 September 2026) net property income at <b>RM16m against RM14.36m</b> a year earlier (+11.4%), and revenue up 11.9% to <b>RM17.55m from RM15.68m</b>. It reports a DPU of <b>2.19 sen</b>, totalling RM11.7m and payable on 26 November. All of these match Kenanga's results table: NPI RM16.0m against RM14.4m, gross revenue RM17.5m against RM15.7m (+11.9%), DPU 2.19 sen, and distributable income RM11.7m.",
+    "cites": [
+     [
+      "The Edge Malaysia, 21 Oct 2026 &mdash; corporate news round-up (AME REIT, Westports and others)",
+      "https://theedgemalaysia.com/node/822761"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/AMEREIT-261022-2QFY27-RN-RISE-Kenanga.pdf"
+  }
+ ]
+}
