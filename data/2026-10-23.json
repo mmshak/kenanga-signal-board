@@ -1,0 +1,424 @@
+{
+ "date": "2026-10-23",
+ "schema": 1,
+ "daily": {
+  "klci": 1608.1,
+  "chg": 5.87,
+  "pct": 0.37,
+  "inst": 86.2,
+  "instPct": 46.6,
+  "retail": 11.4,
+  "retailPct": 24.5,
+  "foreign": -97.6,
+  "foreignPct": 28.9,
+  "ideas": "Sector Update: Media (4QCY26 Strategy, Nielson), Telecommunication (4QCY26 Strategy); Results Note: PAVREIT; Company Update: KERJAYA; Rating Summary; Economic Viewpoint: Bond Market Weekly Outlook, Ringgit Weekly Outlook",
+  "news": [
+   {
+    "h": "Exsim Hospitality secures another Binastra job at RM13.5m",
+    "body": "Exsim Hospitality Bhd has secured another subcontract from Binastra Corp Bhd, this time worth RM13.5m, for the supply, fabrication, delivery and installation of carpentry works. Exsim Hospitality's wholly owned unit Exsim Concepto Sdn Bhd secured the award from Binastra's wholly owned construction arm Binastra Builders Sdn Bhd. Exsim Concepto will undertake the works for typical units in accordance with Binastra Builders' main contract programme, which commenced on Dec 9, 2024 and is scheduled for completion on June 8, 2028. (The Edge Malaysia)",
+    "takeaways": [
+     "Exsim Hospitality has won another subcontract from Binastra Corp, worth RM13.5m, for carpentry works.",
+     "The award goes from Binastra Builders to Exsim Concepto, both wholly owned units of the two listed groups.",
+     "The works cover typical units and follow the main contract programme, which began on 9 December 2024.",
+     "The main contract is scheduled for completion on 8 June 2028. The digest does not name the project or give a margin.",
+     "This board holds no Kenanga coverage of Exsim Hospitality or Binastra. Digest context only."
+    ]
+   },
+   {
+    "h": "Jati Tinggi-led consortium bags RM568.2m TNB contract in Terengganu",
+    "body": "A consortium led by Jati Tinggi Group Bhd has secured a RM568.2m contract from Tenaga Nasional Bhd for a transmission main intake substation in Paka, Terengganu. The group's unit, Jati Tinggi Holding Sdn Bhd, will take a 55.0% share of the contract, while a unit of Kerjaya Prospek Group Bhd \u2014 Kerjaya Prospek (M) Sdn Bhd \u2014 will take 25.0%, and Betapec Sdn Bhd will take the remaining 20.0%. Based on those proportions, Jati Tinggi's allocation amounts to RM312.5m, Kerjaya's to RM142.1m and Betapec's to RM113.6m. The contract covers the establishment of the Paka GIS transmission main intake substation. The project is scheduled for completion within two years from its commencement date. (The Edge Malaysia)",
+    "takeaways": [
+     "A Jati Tinggi-led consortium has won a RM568.2m Tenaga Nasional contract for a transmission main intake substation at Paka, Terengganu.",
+     "The split is Jati Tinggi 55% (RM312.5m), Kerjaya Prospek 25% (RM142.1m) and Betapec 20% (RM113.6m).",
+     "Completion is due within two years of commencement.",
+     "Kenanga's KERJAYA Company Update in today's bundle is about this award. It keeps OUTPERFORM and raises the target to RM4.20 from RM3.80 (see that row).",
+     "Kenanga's note spells the third partner 'Betapac'; the digest and The Edge use 'Betapec'. This board does not resolve the spelling."
+    ]
+   },
+   {
+    "h": "Foodie Media rides digital advertising wave to cap FY2026 with 68.0% rise in net profit",
+    "body": "Foodie Media Bhd caps its first full financial year as an ACE Market company with a sharp rise in earnings, amid growing demand for digital content, influencer marketing and events. For the financial year ended Aug 31, 2026 (FY2026), the group posted a 67.7% increase in net profit to RM15.7m from RM9.3m in FY2025. Revenue climbed 49.6% to RM55.5m from RM37.1m. For the three-month period (4QFY2026), net profit surged more than 10-fold to RM4.6m from RM0.4m a year earlier, while revenue also jumped by 82.5% to RM15.8m from RM8.7m previously. (The Edge Malaysia)",
+    "takeaways": [
+     "Foodie Media's FY26 net profit (year to 31 August) rose 67.7% to RM15.7m from RM9.3m. The headline rounds this to 68.0%.",
+     "FY26 revenue rose 49.6% to RM55.5m from RM37.1m.",
+     "4QFY26 net profit rose more than ten-fold to RM4.6m from RM0.4m, on revenue up 82.5% to RM15.8m.",
+     "The company credits demand for digital content, influencer marketing and events. This is its first full year on the ACE Market.",
+     "This board holds no Kenanga coverage of Foodie Media. The trend runs against the traditional-media weakness in today's two Media sector notes, which concern Nielsen-measured legacy adex. Digest context only."
+    ]
+   },
+   {
+    "h": "BMS Holdings scraps RM23.8m land acquisition after parties fail to agree on terms",
+    "body": "BMS Holdings Bhd has terminated its proposed RM23.8m land acquisition in Cheras after failing to reach an agreement with the vendor on the terms of the deal. The vendor, Chyen Huat Hardware Sdn Bhd, has refunded the earnest deposit to BMS, adding that both parties will have no further claims against each other. The Johor-based tile retailer said the mutual termination of the deal is not expected to have any material effect on its earnings, net assets or gearing for the financial year ending June 30, 2027 (FY2027). (The Edge Malaysia)",
+    "takeaways": [
+     "BMS Holdings has terminated a proposed RM23.8m land purchase in Cheras after failing to agree terms with the vendor.",
+     "The vendor, Chyen Huat Hardware, has refunded the earnest deposit.",
+     "Both parties say they will have no further claims against each other.",
+     "BMS expects no material effect on FY27 earnings, net assets or gearing (year ending 30 June 2027).",
+     "This board holds no Kenanga coverage of BMS Holdings. Digest context only."
+    ]
+   },
+   {
+    "h": "Aizo's RM37.0m sewage subcontract terminated, faces potential claims",
+    "body": "Aizo Group Bhd said its RM36.8m sewage system upgrading subcontract in Terengganu will not proceed after the project owner cancelled the main contract awarded to its contractor. Aizo said the contractor, Puncak Utara Sdn Bhd, had received a termination letter from the project owner, Lembaga Kemajuan Terengganu Tengah (Ketengah). Puncak Utara subsequently notified Aizo of the termination, adding that it reserved its rights to pursue claims for losses against the company. Aizo did not disclose the reason for the termination or the potential value of the claims. (The Edge Malaysia)",
+    "takeaways": [
+     "Aizo Group's sewage-system upgrading subcontract in Terengganu will not proceed. The body gives its value as RM36.8m; the headline rounds it to RM37.0m.",
+     "The project owner, Ketengah, cancelled the main contract held by contractor Puncak Utara.",
+     "Puncak Utara has reserved its right to pursue Aizo for losses.",
+     "Aizo has not disclosed why the contract was terminated or how large any claims might be.",
+     "This board holds no Kenanga coverage of Aizo Group. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "IMF, OECD warn AI could widen rich-poor country divide",
+    "region": "Global",
+    "body": "Artificial intelligence could boost global growth, but poorer countries, smaller companies and younger workers risk missing out unless access to power, digital infrastructure and skills improves, according to officials from the IMF and OECD. (The Edge Malaysia)",
+    "takeaways": [
+     "IMF and OECD officials say AI could boost global growth.",
+     "They warn that poorer countries, smaller companies and younger workers risk missing out.",
+     "The conditions they name are access to power, digital infrastructure and skills.",
+     "The digest gives no estimate of the growth effect or the size of the gap.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Canada's Carney visits T\u00fcrkiye in push to ease US trade dependence",
+    "region": "Global",
+    "body": "Canada's Prime Minister Mark Carney will meet President Tayyip Erdogan in T\u00fcrkiye on Thursday, the first bilateral visit by a Canadian leader, as he seeks to expand trade ties and reduce reliance on the United States. (The Edge Malaysia)",
+    "takeaways": [
+     "Canadian Prime Minister Mark Carney is meeting President Tayyip Erdogan in T\u00fcrkiye on Thursday, 22 October.",
+     "The digest describes it as the first bilateral visit by a Canadian leader.",
+     "The stated aim is to expand trade ties and reduce Canada's reliance on the United States.",
+     "The digest names no agreement or trade figure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "PM: Malaysia's SDG achievement projected to reach 58% by 2030",
+    "region": "Malaysia",
+    "body": "Malaysia's projected achievement of the Sustainable Development Goals (SDGs) by 2030 has risen to 58%, up from 49% last year, and surpassing the global projection of 35%. (The Edge Malaysia)",
+    "takeaways": [
+     "Malaysia's projected SDG achievement by 2030 has risen to 58%, according to the Prime Minister.",
+     "That is up from 49% last year.",
+     "The comparable global projection is 35%.",
+     "The digest does not say how the percentage is measured.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Saarani: Kerian Industrial City with GDV of RM700.0m expected to create 12,000 job opportunities",
+    "region": "Malaysia",
+    "body": "The development of the Kerian Industrial City (KIC) covering 287 acres (116.145 hectares), with a gross development value (GDV) of around RM700 million, is expected to create nearly 12,000 job opportunities, thereby strengthening Kerian's position as a new industrial hub in Perak. (The Edge Malaysia)",
+    "takeaways": [
+     "Perak's Kerian Industrial City covers 287 acres (116.145 hectares).",
+     "Its gross development value is around RM700m.",
+     "It is expected to create nearly 12,000 jobs.",
+     "The digest names no developer or timeline.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "SCALE Action Plan 2027 to tackle MSME structural challenges \u2014 Steven Sim",
+    "region": "Malaysia",
+    "body": "The Ministry of Entrepreneur and Cooperatives Development (KUSKOP) has unveiled the SCALE Action Plan for 2027, outlining five strategic priorities to address long-standing structural challenges faced by micro, small and medium enterprises (MSMEs). (The Edge Malaysia)",
+    "takeaways": [
+     "KUSKOP has unveiled the SCALE Action Plan for 2027.",
+     "It sets out five strategic priorities for micro, small and medium enterprises.",
+     "Its stated aim is to address long-standing structural challenges facing MSMEs.",
+     "The digest does not list the five priorities or any funding.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Foreign investment flows into China fall 4.3% y-o-y in first three quarters",
+    "region": "Asia Pacific",
+    "body": "Foreign investment flows into China fell 4.3% year-on-year to 548.8 billion yuan (USD82.2 billion) in the first three quarters, while outbound non-financial direct investment totalled US$101 billion, China's commerce ministry said on Thursday. (The Edge Malaysia)",
+    "takeaways": [
+     "Foreign investment into China fell 4.3% YoY to 548.8b yuan (US$82.2b) in the first three quarters.",
+     "Outbound non-financial direct investment totalled US$101b over the same period.",
+     "On these figures, outbound investment exceeded inbound by about US$19b (computed here).",
+     "The source is China's commerce ministry, speaking on Thursday.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US weekly jobless claims near 57-year lows",
+    "region": "Americas",
+    "body": "The number of Americans filing new claims for unemployment benefits dropped to near 57-year lows last week, pointing to low layoffs and labour market stability. (The Edge Malaysia)",
+    "takeaways": [
+     "New US unemployment-benefit claims fell to near 57-year lows last week.",
+     "The digest reads this as low layoffs and a stable labour market.",
+     "It gives no claims number.",
+     "Today's Bond and Ringgit weeklies both expect one more 25bps Fed hike in December. A firm labour market is consistent with that view, but neither note cites this release.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "UK factory output expected to stabilise, CBI survey shows",
+    "region": "Europe",
+    "body": "Output in Britain's manufacturing sector is expected to stabilise in the next three months despite a dip in orders in October, a Confederation of British Industry survey showed on Thursday. (Reuters)",
+    "takeaways": [
+     "A CBI survey shows UK manufacturers expect output to stabilise over the next three months.",
+     "Orders dipped in October.",
+     "The survey was published on Thursday, 22 October.",
+     "The digest gives no balance figures.",
+     "Digest context only; sourced to Reuters."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Kenanga-Today-261023-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The Kenanga Signal is Positive on Kenanga's own words.</b> The note says 'PAVREIT is our REIT sector top pick for 4Q26.' That is the pick declaration, quoted on the row; nothing is inferred from the rating or target. (2) <b>The ESG adjustment is described against a different star count.</b> The text says there is no ESG adjustment 'given a 3-star rating'. The ESG table on page 5 shows an overall rating of three and a half stars (the legend says '&#9734; denotes half-star'). The key maps three stars to 'TP unchanged' and four stars to a 5% premium, and the note does not say how a half star is treated. (3) <b>The year-ago distribution cell is a spreadsheet error.</b> The results table shows 3QFY25 distribution per unit as 0.00 with a QoQ change of '#DIV/0!'. The Edge reports 3QFY25 distributable income of 2.49 sen per unit. The table may show no distribution declared for that quarter rather than none earned; the note does not say. (4) <b>Arithmetic checks.</b> 9M net profit of RM287.7m is 69.5% of the RM413.7m FY26F forecast and 73.2% of the RM392.9m consensus, against the stated 70% and 73% (computed here). The RM1.83 target equals 12.2 sen FY27F GDPU divided by a 6.65% target yield, about RM1.835 (computed here). Year-to-date distributions of 7.62 sen are 67% of the 11.3 sen FY26F forecast (computed here). (5) <b>Core and reported profit differ in FY25A.</b> The summary table shows FY25A net profit of RM466.9m against core net profit of RM359.5m. The note does not explain the difference in this report. (6) <b>Market data.</b> Kenanga's RM1.57 is the 22 October close, which The Edge confirms. stockanalysis.com shows a 23 October close of RM1.56 (-0.6%); at that price the RM1.83 target is about +17.3% (computed here). stockanalysis.com's 52-week range of 1.51-2.03 matches the note. Its 6.63% dividend yield is a trailing figure, not Kenanga's 7.2% FY26F. The peer table's AME REIT entry (MP, RM1.59, TP RM1.48) matches this board's 22 October AMEREIT row. This is PAVREIT's first appearance on this board, so there is no earlier row to reconcile against.",
+   "result": "inline",
+   "conviction": "\"PAVREIT is our REIT sector top pick for 4Q26.\"",
+   "prevRating": "OP",
+   "prevTp": 1.83,
+   "ticker": "PAVREIT",
+   "name": "Pavilion REIT",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 1.83,
+   "price": 1.57,
+   "divYield": 6.63,
+   "high52": 2.03,
+   "low52": 1.51,
+   "mktSrc": "https://stockanalysis.com/quote/klse/PAVREIT/",
+   "catalyst": "<b>9MFY26 within expectations</b>: net profit rose 9% to <b>RM287.7m</b>, 70% of Kenanga's full-year forecast and 73% of consensus. Kenanga credits the two hotels acquired in June 2025, a higher Pavilion Bukit Jalil contribution, and lower electricity costs. Forecasts are unchanged. Kenanga <b>keeps the target at RM1.83</b>, <b>reiterates OUTPERFORM</b>, and names PAVREIT its <b>REIT sector top pick for 4Q26</b>. The next driver is the Parkson space at Pavilion KL, reconfigured for 37 new tenants who begin trading progressively from November 2026.",
+   "quote": "We keep our TP at RM1.83 and reiterate our OUTPERFORM call. PAVREIT is our REIT sector top pick for 4Q26.",
+   "summary": [
+    "Result. 9MFY26 net profit was RM287.7m, up 9.1% YoY, on gross revenue up 3.7% to RM694.2m. Kenanga calls it within expectations, at 70% of its FY26 forecast and 73% of consensus. Revenue growth came from the Pavilion Hotel and Banyan Tree Hotel, acquired in June 2025, and a higher Pavilion Bukit Jalil contribution. Profit grew faster than revenue because the revised electricity tariff from July 2025 cut utilities costs. 3QFY26 net profit was RM92.9m: up 4.3% QoQ but down 1.8% YoY. Kenanga attributes the QoQ gain to rental reversion and a partial recovery from a 2Q dip, which it links to the Middle East war's effect on consumer spending.",
+    "Distributions. Year-to-date distributions total 7.62 sen per unit. Kenanga says that is broadly on track for its FY26 forecast of 11.3 sen, given what it calls a seasonally strong 4Q. The 3Q distribution was 2.45 sen, from distributable income of RM96.5m (-1.4% YoY). At RM1.57, Kenanga's 11.3 sen FY26F implies a 7.2% yield and its 12.2 sen FY27F a 7.8% yield.",
+    "Pavilion KL. Parkson, one of the anchor tenants, is surrendering about 68k sq ft of net lettable area. The space is being reconfigured for 37 new fashion and F&B tenants, who begin operating progressively from November 2026. During the works, Pavilion KL's occupancy dipped to 91% from 97%. Kenanga expects significant rental uplift from the new tenants, because the anchor tenant previously paid a low rent. Pavilion KL is still the largest asset: RM382.0m of 9M revenue (-0.3% YoY) and RM265.5m of net property income.",
+    "Pavilion Bukit Jalil and the hotels. Pavilion Bukit Jalil's occupancy was 93% in September, against 94% in 2QFY26. Kenanga expects it to reach the 95% target by end-FY26, citing footfall, tenant mix and leasing momentum. 9M revenue there rose 5.1% to RM184.9m, and net property income rose 8.0%. The two hotels together contributed RM26.0m of 9M revenue, against RM9.7m a year earlier, when they were held for only part of the period. Elite Pavilion Mall's 3Q revenue fell 11.7% YoY to RM19.5m.",
+    "Valuation and risks. The RM1.83 target is based on FY27F GDPU of 12.2 sen and an unchanged 6.65% target yield. That yield is a 2.75% spread over Kenanga's 3.90% 10-year MGS assumption. There is no ESG adjustment (see flag). The peer table gives 16.6% upside, the highest among the seven REITs Kenanga covers, on 14.9x FY26F PER and 1.2x P/B. Kenanga's investment case rests on organic growth at Pavilion KL, Bukit Jalil's tenant curation, and the resilience the hotels add. The risks it names are a rising risk-free rate and weaker-than-expected rental reversions."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "RHB Investment Bank",
+    "date": "27 Jul 2026",
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on PAVREIT in its most recent dated, publicly retrievable statement read during this run</b>, so the Analyst Signal reads <b>None stated</b>. <b>This is the PMETAL pattern in rules/signals.md &sect;3.</b> The Star reported on <b>24 June 2026</b> that RHB Research kept an overweight call on Malaysian REITs, 'with the top picks being' Axis-REIT and Pavilion-REIT, the latter at a RM2.18 target. RHB's <b>later</b> statement, reported by The Star on <b>27 July 2026</b> after the 2Q results, is a 'buy' call at RM2.18 with no pick language. Most recent statement wins, so this row does not carry the June pick. The same 27 July article reports CGSI Research upgrading to 'add' with a target raised to RM2.06 from RM1.87, CIMB Research keeping 'buy' at RM2.13, and UOB Kay Hian keeping 'buy' at RM2.10. None uses pick language. <b>After the results.</b> A BusinessToday headline dated 23 October says RHB lowered its PAVREIT target after the 3Q results. The page returned HTTP 403 and could not be read, so its figures are <b>not used</b>, and RHB's verified call remains the 27 July one. <b>On divergence:</b> every verified call is Buy or Add, the same direction as Kenanga's OUTPERFORM, so the marker is not set. Kenanga's RM1.83 is below all four July targets (RM2.06-RM2.18). <b>Two of the nine houses</b> this board searches (RHB, CIMB) yielded a dated, publicly retrievable rating. CGSI and UOB Kay Hian are outside the nine. Maybank, AmInvestment, HLIB, Public Investment Bank, TA, MIDF and Affin Hwang yielded nothing in this run. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Star, 27 Jul 2026 &mdash; &lsquo;Steady FY26 earnings growth for Pavilion-REIT&rsquo; (RHB, CIMB, CGSI, UOB Kay Hian)",
+      "https://www.thestar.com.my/business/business-news/2026/07/27/steady-fy26-earnings-growth-for-pavilion-reit"
+     ],
+     [
+      "The Star, 24 Jun 2026 &mdash; &lsquo;REITs compelling on strong yield spreads&rsquo; (RHB Research top picks)",
+      "https://www.thestar.com.my/business/business-news/2026/06/24/reits-compelling-on-strong-yield-spreads"
+     ]
+    ]
+   },
+   "crossCheck": {
+    "note": "<b>The company's own figures match Kenanga's table.</b> The Edge Malaysia (dateline 22 October) reports 3QFY26 net property income of RM145.58m, roughly flat, and gross revenue of RM227.29m against RM227.88m. It gives distributable income of RM96.47m, or 2.45 sen per unit, against RM97.86m, or 2.49 sen, a year earlier. For 9M it reports NPI up 6.87% to RM446.79m and revenue up 3.71% to RM694.21m. Kenanga's RM145.6m, RM227.3m, RM96.5m, RM446.8m and RM694.2m agree. The Star (22 October) gives 3Q net profit of RM92.91m against RM94.58m, and 9M net profit of RM287.75m against RM263.67m, matching Kenanga's RM92.9m and RM287.7m. The Edge attributes the slight 3Q revenue dip to lower advertising income at Elite Pavilion Mall, which Kenanga's note does not mention. The Edge says units closed unchanged at RM1.57 on 22 October, the price Kenanga uses.",
+    "cites": [
+     [
+      "The Edge Malaysia, 22 Oct 2026 &mdash; &lsquo;Pavilion REIT posts flat net property income in 3Q&rsquo;",
+      "https://theedgemalaysia.com/node/822893"
+     ],
+     [
+      "The Star, 22 Oct 2026 &mdash; &lsquo;Pavilion REIT sees resilient consumer spending in 4Q&rsquo;",
+      "https://www.thestar.com.my/business/business-news/2026/10/22/pavilion-reit-sees-resilient-consumer-spending-in-4q"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/PAVREIT-261023-3Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The source file is misdated.</b> The bundle files this note as <b>KERJAYA-260923-CU</b>, a September date, in the October upload folder. The PDF itself is dated 23 October 2026 and describes the 22 October award. This is the same kind of irregularity as MBMR in rules/signals.md &sect;6, and the row uses the URL the bundle publishes. (2) <b>'We continue to like' is not a pick declaration.</b> The investment case reads 'We continue to like KERJAYA for its' formwork method, management and order-book visibility. That is the borderline wording rules/signals.md &sect;2 excludes, and this board treated ANCOMNY's 'We continue to like' (16 October) the same way. No other conviction term appears, so the Kenanga Signal reads None stated. (3) <b>The FY26 job-win assumption is stated two ways.</b> The text says RM3.5b YTD is 'hitting our full-year FY26 assumption of RM3.5b', then that Kenanga 'raise[s] our FY26 job win assumption to RM3.8b (from RM3.5b)'. Read together, RM3.8b is the new assumption and RM3.5b the old one. (4) <b>Figures that do not reconcile.</b> Page 1 gives market capitalisation of RM4,239.0m. The peer table gives RM4,138.7m, which is RM3.30 times 1,254.2m shares; RM4,239.0m implies about RM3.38 a share (computed here). The peer table's core EPS of 21.9/27.2 sen differs from the summary table's 21.6/26.9 sen. The SoP's RM5,289.1m divided by 1,254.2m shares is about RM4.22 (computed here), while the per-share components (RM3.76, RM0.15, RM0.29) sum to the RM4.20 target. The ratios table's ROE (11.2%/13.0%) and ROA (21.6%/24.4%) rows appear transposed against the DuPont ROE of 20.8%/23.0%. The page-1 KLCI of 1,608.96 differs from the digest's 1,608.1. (5) <b>Partner name.</b> Kenanga writes 'Betapac Sdn Bhd'; the digest and The Edge write 'Betapec'. (6) <b>Market data.</b> Kenanga's RM3.30 is the 22 October close. stockanalysis.com shows a 23 October close of RM3.40 (+3.0%), the day of this note; at that price the RM4.20 target is about +23.5% (computed here). The 52-week range of 2.06-3.74 matches the note. The 4.12% dividend yield is stockanalysis.com's trailing figure, not Kenanga's 4.2% FY26F. KERJAYA last appeared on this board in the 4 September Company Update at OP, RM3.80, which agrees with this note's previous target. The peer table's GAMUDA (OP, RM5.90) and IJM (OP, RM3.35) match this board's 15 and 13 October rows. TENAGA (OP; TP RM16.30) matches the 21 September row.",
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 3.8,
+   "ticker": "KERJAYA",
+   "name": "Kerjaya Prospek Group Bhd",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 4.2,
+   "price": 3.3,
+   "divYield": 4.12,
+   "high52": 3.74,
+   "low52": 2.06,
+   "mktSrc": "https://stockanalysis.com/quote/klse/KERJAYA/",
+   "catalyst": "<b>First power-infrastructure win</b>: KERJAYA holds 25% of a consortium awarded a <b>RM568.2m</b> TENAGA contract for the Paka GIS transmission main intake substation in Terengganu. It will do the core and shell works and recognise <b>RM142.1m</b> of revenue. YTD job wins reach <b>RM3.5b</b> and the outstanding order book <b>RM5.9b</b>. Kenanga raises its FY26 job-win assumption to RM3.8b, keeps FY26 earnings and <b>raises FY27F by 6%</b>. It <b>lifts the target to RM4.20 from RM3.80</b> and <b>maintains OUTPERFORM</b>.",
+   "quote": "While keeping our FY26 earnings intact, we raise our FY27 forecast by 6%. Maintain OUTPERFORM with a higher TP of RM4.20.",
+   "summary": [
+    "The contract. A consortium of JTGROUP, KERJAYA and Betapac, split 55:25:20, has won a RM568.2m substation contract from TENAGA: PMU 500/275/132/33/11kV Paka GIS in Terengganu. KERJAYA does the core and shell works, and its 25% share means RM142.1m of revenue. The job runs 24 months at a guided 10% net margin. Kenanga calls it KERJAYA's maiden power-infrastructure contract and expects a track record for future tenders in what it calls a power-infrastructure capex upcycle driven by data centres.",
+    "Order book. The win lifts YTD job wins to RM3.5b, above management's earlier RM3.0b target, and the outstanding order book to RM5.9b. Kenanga says that gives earnings visibility over the next three years. Kenanga expects more such tenders, citing the capex cycle and KERJAYA's recently acquired stake in SUNLOGY. It notes KERJAYA is also tendering for factory, data-centre and Penang LRT Package 2 work, with internal jobs from KPPROP and E&amp;O.",
+    "Forecasts. Kenanga raises its FY26 job-win assumption to RM3.8b from RM3.5b (see flag) and keeps FY27 at RM2.5b, with no data-centre wins assumed. FY26 earnings are unchanged because new wins only start contributing next year. FY27F core net profit rises 6.2% to RM338.3m, giving 24.6% EPS growth on FY26F's RM271.5m. Kenanga's FY27F is above the RM322.1m consensus. NDPS stays at 14.0 sen a year, a 4.2% yield at RM3.30.",
+    "Valuation. The SoP target rises to RM4.20 from RM3.80, with construction still valued at 18x FY27 PER (RM3.76 a share). Property is valued at a 30% discount to RNAV (RM0.15) and net cash adds RM0.29. Kenanga says 18x is a modest discount to the 22x it gives larger peers such as GAMUDA, IJM and SUNCON, to reflect KERJAYA's mid-cap profile. There is no ESG adjustment (3 stars). The peer table gives 27.3% upside at RM3.30, on 15.1x FY26F and 12.1x FY27F PER.",
+    "Property, the case and the risks. KERJAYA plans to launch projects next year in Jalan Puchong, KL (GDV RM800m) and Tanjung Bungah, Penang (GDV RM830m), and is planning Aspen Batu Kawan and Rivanis Perai in Penang. Kenanga's case rests on a high-margin formwork construction method (10% net margin), a lean management team, and related-party orders of at least RM1b a year. The risks it names are weaker building-job prospects, rising input costs, and liquidated ascertained damages from cost overruns and delays."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on KERJAYA in a dated, publicly retrievable source read during this run</b>, so the Analyst Signal reads <b>None stated</b>. This row was checked because the contract is a notable development, not because the Kenanga Signal is Positive. The Star's 23 October report on the contract and its 'Trading ideas' column that day name no research house. A BusinessToday headline dated 23 October says RHB raised its KERJAYA target after the TNB win, but the page returned HTTP 403. Search summaries also mention a PublicInvest comment carried by another outlet, which was not read. <b>Neither is used</b>, because neither could be read in full. <b>Zero of the nine houses</b> this board searches (CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank Research, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang) yielded a dated rating read in full during this run. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": []
+   },
+   "crossCheck": {
+    "note": "<b>The award matches the company's announcement as reported.</b> The Edge Malaysia (dateline 22 October) gives the contract as RM568.2m, with Kerjaya Prospek (M) Sdn Bhd taking 25%, or RM142.05m. Jati Tinggi Holding takes 55% (RM312.51m) and Betapec 20% (RM113.64m), with completion within two years of commencement. Kenanga's RM142.1m and 24-month timeline agree. <b>The market moved after the note.</b> stockanalysis.com shows KERJAYA closing at RM3.40 on 23 October, up 3.0% from the RM3.30 Kenanga uses.",
+    "cites": [
+     [
+      "The Edge Malaysia, 22 Oct 2026 &mdash; &lsquo;Jati Tinggi-led consortium bags RM568.2 mil TNB contract in Terengganu&rsquo;",
+      "https://theedgemalaysia.com/node/822880"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/KERJAYA-260923-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The pick sentence carries a stale target.</b> The conviction sentence reads 'Our sector pick remains TIMECOM (OP; TP: RM6.60)'. This note's own peer table shows TIME DOTCOM at OP with a <b>RM7.26</b> target. This board's 28 August TIMECOM Results Note recorded Kenanga raising the target to RM7.26 from RM6.60, and The Star reported that raise on 31 August. RM6.60 is the pre-August figure. The quote is stored verbatim, but the current target is RM7.26. (2) <b>The peer table's price date looks stale.</b> The column is headed 'Last Price (25 Sep)'. Its AXIATA RM1.61 and MAXIS RM3.53 match the 22 October closes in today's digest, so the prices appear current and the header out of date (an inference). (3) <b>The DNB loss assumption is phrased as a range of years.</b> The note assumes DNB's net loss 'narrows to RM750m in FY25F-26F from RM1.2bn in FY24', and RM500m in FY27F (-33%). It books RM62m of associate losses for each MNO in FY26. Page 1 gives the FY27 impact as 8%, 'widening up to 12%'; the detailed text gives the black-skies case as 12% for CDB and 11% for MAXIS. (4) <b>'Prefer' language that is not a stock pick.</b> 'We prefer, fixed-line operators' is a sub-sector preference, not a pick. The pick is TIMECOM, named as 'our sector pick' and 'our preferred exposure within the sector'. This board's 14 September Telco note named CDB 'our preferred MNO play over MAXIS'. This note says CDB has 'greater potential for positive earnings surprises', which is not pick language. (5) <b>Columns empty by design.</b> This is a sector note with a NEUTRAL sector view, so the rating, target and share-price columns are empty. The peer table's CDB (OP, RM3.28) and MAXIS (MP, RM3.70) match this board's 14 September row. As on 14 September, <b>the divergence marker is not set</b>: HLIB's last verified call on TIMECOM is Hold (see analyst note), but this row carries no Kenanga stock rating to test it against.",
+   "result": null,
+   "conviction": "\"Our sector pick remains TIMECOM (OP; TP: RM6.60) \u2013 mainly for its robust dividend prospects from balance sheet optimization, earnings upside from AIMS\u2019 upcoming 200MW hyperscale AI data center (DC), and steady growth in its retail broadband segment.\"",
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Telecommunication",
+   "name": "Telecommunication Sector Update (4QCY26 Strategy): Uncertainties Linger but Core Biz Stays Firm",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "<b>NEUTRAL maintained</b> on the sector. Kenanga expects DNB equity accounting to cut FY27F earnings for <b>CDB and MAXIS by 8%</b>, or up to 12% if DNB's losses persist. It judges near-term funding calls manageable without hurting dividends. It <b>prefers fixed-line operators</b>, as they are insulated from DNB and benefit from data-centre connectivity. <b>TIMECOM remains its sector pick</b> (OP; the peer table gives a RM7.26 target, see flag), for balance-sheet-driven dividends, AIMS' planned 200MW AI data centre and retail broadband growth.",
+   "quote": "Our sector pick remains TIMECOM (OP; TP: RM6.60) \u2013 mainly for its robust dividend prospects from balance sheet optimization, earnings upside from AIMS\u2019 upcoming 200MW hyperscale AI data center (DC), and steady growth in its retail broadband segment.",
+   "summary": [
+    "DNB is the next milestone for the mobile operators. CDB and MAXIS begin equity-accounting their DNB stakes in 4QFY26. Kenanga books RM62m of associate losses for each in FY26, assuming DNB's net loss narrows to RM750m from RM1.2bn in FY24. It then assumes a 33% cut to RM500m in FY27F, which it says implies an 8% hit to both MNOs' FY27F earnings. If DNB's FY24 loss persisted, the hit would be 12% for CDB and 11% for MAXIS.",
+    "Funding is manageable, but repeated calls would not be. DNB has made three capital calls of RM117m-RM233m per MNO in 2024-26. Kenanga models a further RM500m shareholder advance from each in FY27F. In that case, net debt/EBITDA rises only to 2.22x for CDB (from 2.13x) and 1.82x for MAXIS (from 1.70x), against a 2.5x reference ceiling. That leaves debt headroom of RM1.6b and RM3.1b, and Kenanga says dividend capacity is intact. Its bigger concern is a prolonged cycle of calls before DNB reaches cash-flow breakeven.",
+    "Mobile operations. Kenanga expects ARPUs to rise on postpaid and prepaid plans refreshed in 2QCY26, and on MCMC's prepaid SIM-registration rule from February 2026. Prepaid subscriber numbers may fall at first as users consolidate SIMs. Enterprise revenue is up 24% YTD at CDB and 3.7% at MAXIS. Kenanga expects AI-driven cost savings, including CDB's Operational Excellence programme. It sees CDB as more likely to surprise on earnings, because its merger synergies are not yet in forecasts.",
+    "Fixed line and data centres. Kenanga expects data growth from generative and agentic AI to lift wholesale demand, with DC-to-DC connectivity picking up as Malaysian data centres complete. TM-Nxera's 64MW Phase 1 in Johor is 88% leased (56MW). Its first 16MW is due in October 2026 and the remaining 48MW by April 2027. Kenanga estimates TM-Nxera at about 4% of TM's FY27F earnings, and a 136MW Phase 2 could come within 18-24 months. TIMECOM's associate AIMS is building a USD1b, 200MW AI data centre in Cyberjaya, targeted for 2027.",
+    "Why TIMECOM. Kenanga names TIMECOM its sector pick, and 'our preferred exposure within the sector', for five reasons. They are enterprise demand for private connectivity, AIMS' regional expansion, dividend upside from balance-sheet optimisation, resilient retail ARPUs and net adds, and the AIMS data centre. TIMECOM raised leverage to about 0.4-0.5x net debt/EBITDA through a RM500m sukuk and targets 1.0-1.5x over 3-4 years. The peer table gives TIMECOM 37.2% upside to RM7.26 at RM5.29, with a 6.4% yield. TM is on track for its payout policy of at least 75% of reported PATAMI. Kenanga says the sector re-rating awaits DNB clarity and is exposed to any unexpected change in 5G policy."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "Hong Leong Investment Bank",
+    "date": "31 Aug 2026",
+    "opp": false,
+    "note": "<b>Checked for TIMECOM, the stock this note names as its sector pick.</b> No named non-Kenanga house was found declaring a pick on TIMECOM in a dated, publicly retrievable source read during this run, so the Analyst Signal reads <b>None stated</b>. <b>The most recent call read in full is HLIB.</b> The Star reported on <b>31 August 2026</b>, 53 days before this note, that 'Hong Leong Investment Bank (HLIB) Research retained a \u201chold\u201d recommendation and RM5.50 TP'. The same article confirms Kenanga's raise to RM7.26 from RM6.60. Search summaries mention older BIMB and RHB calls; BIMB is not among the nine houses, and neither was read in full. <b>On divergence:</b> HLIB's Hold sits against Kenanga's OUTPERFORM on TIMECOM, but this is a sector row with no Kenanga stock rating of its own, so the marker is not set (see flag). <b>One of the nine houses</b> this board searches (HLIB) yielded a dated, publicly retrievable rating on TIMECOM. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Star, 31 Aug 2026 &mdash; &lsquo;TIME dotCom expected to sustain earnings momentum&rsquo; (Kenanga, HLIB)",
+      "https://www.thestar.com.my/business/business-news/2026/08/31/time-dotcom-expected-to-sustain-earnings-momentum"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/TELCO-261023-4QCY26-Strategy-SU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared, in Kenanga's own words.</b> The note says it maintains UNDERWEIGHT 'with no sector picks' and 'with no sector stock picks'. The Kenanga Signal therefore reads None stated. The peer table still rates MEDIA PRIMA OUTPERFORM (RM0.245, target RM0.280); a rating is not a pick, so nothing is inferred from it. (2) <b>Two Media notes in one bundle.</b> The digest's 'Media (4QCY26 Strategy, Nielson)' covers two separate PDFs: this strategy note and a Nielsen adex update, which has its own row (Media Adex). (3) <b>'Sticking to' versus 'raise'.</b> This note says Kenanga 'maintain[s] our CY26 industry adex forecast of RM4.65b, representing a 2% YoY decline'. The companion adex note says Kenanga 'raise[s] our CY26 gross adex forecast by 8% to RM4.65bn (-1.9% YoY, from -9.5% previously)'. Both land on RM4.65b. The likeliest reading is that this note treats the already-raised figure as the baseline (an inference). (4) <b>Minor.</b> 'structural challenge\u2019s' is printed with a stray apostrophe. Page 1 ends 'with no sector picks' without a full stop. The peer table's ASTRO entry (MP, RM0.055, TP RM0.060) matches this board's 1 October ASTRO row. This is a sector note, so the rating, target and share-price columns are empty by design. No Analyst Signal is sought, because no pick is declared.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Media",
+   "name": "Media Sector Update (4QCY26 Strategy): No Near Term Relief from Cyclical & Structural Pressures",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "<b>UNDERWEIGHT maintained, with no sector picks.</b> Retail grew just <b>2.5% YoY in 2QCY26</b>, despite a record RM15b in STR and SARA cash aid. Kenanga reads that as consumers turning selective, which squeezes ad budgets and accelerates the shift to Meta, Google and TikTok's AI-driven ad tools. It holds its <b>CY26 adex forecast at RM4.65b (-2% YoY)</b>. It does not expect the World Cup to lift Nielsen-measured adex, because the rights sit with subscription-led Unifi TV and RTM.",
+   "quote": "In essence, traditional media faces both cyclical headwinds (soft consumption) and structural challenge\u2019s (digital migration) - with limited near-term relief on either front.",
+   "summary": [
+    "The call. Kenanga keeps the media sector at UNDERWEIGHT with no stock picks. It cites cyclical pressure from soft consumption and structural pressure from the move of ad budgets to digital platforms, with 'limited near-term relief on either front'. Only two stocks are covered: ASTRO (MP, RM0.055, target RM0.060) and MEDIA PRIMA (OP, RM0.245, target RM0.280). Their combined market capitalisation is RM560m.",
+    "Consumers. Malaysia's retail sector grew 2.5% YoY in 2QCY26, below the 4.8% average 2026 forecast of the two retail associations (MRA and MRCA). That was despite RM15b of STR and SARA cash aid in 2026, a record. Kenanga cites the Malaysia Retail Industry report's evidence of value-seeking behaviour: more price comparison, fewer shopping trips, generic over branded goods, fewer cinema and theatre visits, and domestic over overseas travel.",
+    "Where the ad money goes. With budgets tighter, Kenanga expects advertisers to favour performance-based campaigns with measurable ROI. That favours Meta (Advantage+), Google (Performance Max) and TikTok's AI-driven ad optimisation. It says traditional media and local web publishers lack those capabilities and risk being sidelined.",
+    "Forecast. Kenanga holds its CY26 adex forecast at RM4.65b, a 2% YoY decline and a continuation of the downtrend since CY24. It does not expect the FIFA World Cup 2026 to lift Nielsen-measured adex in 3QCY26. The rights were split between Unifi TV, which sold RM20-RM60 passes that Nielsen does not capture, and RTM. It adds that Nielsen's digidex, limited to web display and video, understates digital spend as budgets move to in-app and connected-TV inventory.",
+    "Headwinds and upside risks. Kenanga names three headwinds: ad budgets migrating to digital-native platforms, the loss of World Cup broadcasting rights, and fixed legacy costs such as satellite transponder leases, transmission towers, and printing and distribution networks. The upside risks it lists are an earlier GE16, fixed-cost rationalisation, earnings-accretive M&amp;A, and faster IP monetisation."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/MEDIA-261023-SU-4QCY26-Strategy-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared.</b> The note maintains UNDERWEIGHT 'with no stock picks', and the only use of 'favour' is 'likely to favour global digital platforms', which is not a pick. The Kenanga Signal reads None stated. (2) <b>'80% of our full-year forecast' is measured against the pre-revision forecast.</b> 9MCY26 adex of RM3,430m is 73.8% of the revised RM4.65b (computed here). It is about 80% of the implied pre-revision figure of roughly RM4.31b, which is RM4.65b divided by 1.08 (computed here, an inference). (3) <b>Labels.</b> The tables are headed '9MFY26' and '9MFY25', though the text uses calendar years (9MCY26). The source line reads 'Nielson'. Figure 2's quarterly columns compare 3Q26 with 3Q25 and 2Q26. (4) <b>FTA TV moves both ways.</b> 9M FTA TV adex rose 4.8%, but 3Q fell 4.6% to RM776m. Kenanga attributes this to the base effect of Nielsen reinstating RTM monitoring from 1 July 2025, and calls 1HCY26's double-digit growth 'largely statistical'. This is a sector note, so the rating, target and share-price columns are empty by design. Its peer table is identical to the strategy note's. No Analyst Signal is sought, because no pick is declared.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Media Adex",
+   "name": "Media Sector Update: 9MCY26 Adex \u2014 A Softer Fall, Not a Turnaround",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "<b>9MCY26 gross adex RM3.43b (-2.7% YoY)</b>, better than Kenanga expected, as FTA TV rose 4.8% while Nielsen-measured digital fell 33.6%. 3Q alone fell 5.2% YoY. Kenanga <b>raises its CY26 adex forecast 8% to RM4.65b</b> (-1.9% YoY, from -9.5%), but says it is still a third straight year of decline. It thinks Budget 2027's household support is more likely to benefit global platforms than local media. <b>UNDERWEIGHT, no stock picks.</b>",
+   "quote": "We raise our CY26 gross adex forecast by 8% to RM4.65bn (-1.9% YoY, from -9.5% previously), driven by an upgrade to FTA TV that more than offset a deeper cut to digidex.",
+   "summary": [
+    "The nine months. Gross adex was RM3.43b, down 2.7% YoY and ahead of Kenanga's expectations. FTA TV rose 4.8% to RM2,307m and radio 3.7%. Nielsen-measured digital fell 33.6% to RM319m, newspapers 6.9%, cinema 16.1% and magazines 13.8%. Excluding digital, adex rose 2.2%. Kenanga reads the digital decline as share loss by local publishers, not weaker digital spending overall: Nielsen excludes in-app, social media and search.",
+    "The third quarter was weaker. 3QCY26 adex fell 5.2% YoY to RM1,165m, though it rose 5% QoQ. FTA TV fell 4.6% YoY to RM776m. Kenanga attributes this to the base: Nielsen resumed monitoring RTM channels from 1 July 2025, so the boost to 1HCY26 comparisons has dropped out. It calls 1HCY26's roughly 10% FTA TV growth 'largely statistical' rather than a real recovery.",
+    "Newspapers by language. 9M newspaper adex fell 6.9% to RM496m. Chinese titles were the only growth segment, up 33% to RM77.5m. Bahasa Malaysia titles fell 8%, English titles were flat (-1%), and East Malaysian and Tamil titles fell 27%.",
+    "Budget 2027. Kenanga's strategy team calls it the most inclusive MADANI budget yet. STR and SARA rise to RM16b from RM15b, and monthly SARA aid rises to RM150 from RM100 for up to 9m STR recipients. 13m non-STR adults get two RM100 payments, individual tax relief rises to RM12,000 from RM9,000, and earners of RM70k-RM150k get a 1-point rate cut. Visit Malaysia Year is extended into 2027 with RM935m. Kenanga estimates up to RM25.2b of extra household purchasing power in 2027 (about 2.1% of private consumption), but says much may be saved. The minimum wage rises to RM2,000 from RM1,700 in June 2027, which it estimates trims consumer-company earnings by about 1.1% and may keep ad budgets tight.",
+    "Forecast and stance. The CY26 adex forecast rises 8% to RM4.65b (-1.9% YoY, from -9.5%). FTA TV is now forecast at +4.7% and digital at -27.9%. Kenanga says the upgrade reflects a firmer run-rate, not a better competitive position for traditional media. It says it would revisit its UNDERWEIGHT stance only on clearer evidence of a sustained, broad recovery in traditional adex."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Media-261023-SU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>The filename uses underscores.</b> The bundle publishes this note as <b>EV_Bond_Market_Weekly_Outlook_261023</b>. Earlier editions on this board use hyphens (EV_Bond-Market-Weekly-Outlook_261009), and the hyphenated name returns 404 for this date. The row uses the URL the bundle publishes. (2) <b>Two auctions from different weeks appear under 'Auction Result'.</b> Table 3 dates the 15-year MGS 1/41 reopening <b>15 October</b> and the 20-year MGII 5/45 <b>22 October</b>. The 15-year's 'total of RM5.0b' is RM3.5b auctioned plus RM1.5b private placement; the 20-year's RM4.0b is RM3.0b plus RM1.0b. The note warns that the coming new 10-year MGS (RM5.0b) 'lacks a private placement cushion'. (3) <b>Cross-checks.</b> Table 1's OPR path, 2.75% to 3.00% by Q1-27, implies a 25bps BNM hike by end-1Q27 (computed here). That is consistent with the OPR hike in FY27 that Kenanga assumed in this board's 22 October WPRTS row. The USDMYR path matches today's Ringgit Weekly Outlook. The UST 10-year at 4.953% is consistent with the Ringgit note's 'slipped below 5.00%'. Pages 2-3 carry a garbled header and a Level 12 address, against Level 17 elsewhere. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "MY Bond Market Weekly",
+   "name": "Bond Market Weekly Outlook: MGS yields to rise modestly ahead of FOMC",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "MGS yields mostly rose, with the <b>10-year MGS up 9.1bps to 3.886%</b> and the 10-year GII up 4.2bps to 3.916%. Drivers were a stronger-than-expected <b>5.3% 3Q26 advance GDP</b> and high oil prices, which together revived expectations of a BNM hike. MGS sold off even as USTs rallied. Kenanga expects <b>a modest drift higher</b> before the FOMC and the RM5.0b new 10-year MGS auction. It calls this temporary and keeps the <b>3.88% end-2026 forecast</b>.",
+   "quote": "Nonetheless, we view this upward bias as temporary, with the 10Y MGS remaining anchored near our 3.88% end-2026 forecast.",
+   "summary": [
+    "MGS decoupled from USTs. MGS and GII yields moved -0.8 to +9.1bps, mostly higher: the 10-year MGS rose 9.1bps to 3.886% and the 10-year GII 4.2bps to 3.916%. Kenanga attributes the sell-off to a stronger-than-expected 5.3% 3Q26 advance GDP print and high oil prices, which revived expectations of a BNM rate hike. It says the move reflects domestic concerns over oil and bond supply rather than global rates, since UST yields fell at the same time. September exports beat expectations.",
+    "Auctions held up. The 15-year MGS 1/41 reopening drew a 2.28x bid-to-cover on RM5.0b at an average 4.087%. The 20-year MGII 5/45 drew 2.29x on RM4.0b at 4.270%. Kenanga says this solid demand tempered the sell-off. Foreign investors bought a net RM2.5b of government bonds on 12-16 October. Next is a new 10-year MGS of RM5.0b with no private placement, which Kenanga says could weigh on absorption.",
+    "USTs rallied on risk-off sentiment. UST yields fell 9.9-13.1bps across the curve, led by the 20-year. The 10-year fell 10.5bps to 4.953% and the 2-year 9.9bps to 4.640%. Kenanga cites a broad technology sell-off and renewed pressure on French government bonds amid social unrest. It says these outweighed the inflationary effect of higher oil from the Middle East.",
+    "Outlook. Kenanga expects USTs to stay range-bound into the FOMC, and still expects one more 25bps Fed hike in December, so Chair Warsh's guidance will set the tone. An upside surprise in core PCE would push yields higher. For MGS, it expects a modest drift higher before the FOMC and the new 10-year auction. It calls that bias temporary, with the 10-year anchored near its 3.88% end-2026 forecast. Malaysia's September PPI is the next domestic test of pipeline inflation.",
+    "Forecast path. Table 1 puts the 10-year MGS at 3.99% for Q3-26, then 3.88%, 3.87%, 3.78% and 3.65% through Q3-27. The 10-year UST goes from 5.28% to 4.80%, 4.75%, 4.69% and 4.58%. The OPR holds at 2.75% through Q4-26, then rises to 3.00% from Q1-27. In 2026, MGS reopenings total RM65.0b and new issues RM15.0b; GII reopenings total RM60.0b and new issues RM15.0b."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/EV_Bond_Market_Weekly_Outlook_261023-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>The week is measured from two different days.</b> The text says the ringgit eased to 4.083 'from 4.082 last Friday'. Table 2's 'Last Week' column, also 4.082, is dated 15/10/26, a Thursday. The table's 0.04% week-on-week move is therefore Thursday to Thursday. This board flagged the same pattern on 9 October. (2) <b>Brent is quoted at two levels.</b> The note says Brent is 'above USD110/barrel' in one place and 'near USD114/bbl' in another. Today's digest shows Nymex crude, a different benchmark, at US$99.5. (3) <b>Cross-checks.</b> Table 1's USDMYR path (4.08, 4.00, 4.05, 4.02, 3.95) matches today's Bond Market Weekly Outlook exactly. The 4.083 close, EURUSD 1.121 and USDJPY 156.88 match the digest's forex table (4.0833, 1.1214, 156.88). This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Ringgit Weekly",
+   "name": "Ringgit Weekly Outlook: All eyes on Warsh as Brent and AI stress pull MYR both ways",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "The ringgit eased to <b>4.083/USD</b> on Thursday from 4.082, held in a 4.081-4.083 range as stress in AI-sector debt offset Gulf risk. Kenanga expects <b>a Fed pause next week and a December hike</b>, with Brent above USD110/bbl. It sees the ringgit <b>volatile but range-bound at 4.08-4.09</b> next week, then moving towards its <b>4.00 year-end target</b> on seasonal USD weakness and expectations of a BNM hike.",
+   "quote": "We see MYR volatile but range-bound at 4.08\u20134.09 next week, before seasonal USD weakness and BNM hike pricing pull it towards our 4.00 year-end target.",
+   "summary": [
+    "Two forces held the ringgit still. Renewed weakness in CoreWeave's bonds and a nervous reception for tech earnings kept AI-sector stress alive. Kenanga says markets now treat tech turmoil as a reason for the Fed to tighten less: the 2-year USD OIS fell from its post-CPI peak, and the 10-year UST slipped below 5.00%. Investors cut crowded tech and USD positions, softening the dollar, but Gulf risk premia kept the ringgit from gaining. It ended at 4.083 against 4.082.",
+    "The week ahead is the FOMC. Kenanga's house view and CME pricing (above 90%) both point to a pause on 29 October, at an unchanged 4.00%. Investors will look to Chair Kevin Warsh for signals of a December hike. US 3Q advance GDP (consensus 3.0% QoQ, previous 2.2%) and core PCE are due the same day, and the ECB and BoJ are expected to hold. Malaysia's September PPI is due on 28 October.",
+    "Risks. Kenanga says reported US plans to strike Iranian energy and nuclear sites around the midterms will keep investors defensive. Brent near USD114/bbl keeps inflation risk alive. It expects stress in AI-related debt to cap front-end UST yields and the dollar's rate advantage, while sticky energy prices limit the ringgit's upside.",
+    "Forecast path. Table 1 puts USDMYR at 4.08 for Q3-26, then 4.00 for Q4-26, 4.05 for Q1-27, 4.02 for Q2-27, 3.95 for Q3-27 and 3.90 for Q4-27. Year to date the ringgit is 0.73% weaker against the dollar (from 4.054), but 3.47% stronger than a year ago (4.230). Against the region it has held up: over the year to date, IDR, THB and PHP are all 7-8% weaker against the dollar.",
+    "Technicals. Momentum is neutral, with the price pinned to its 5-day EMA of 4.082. Support is at 4.080 and 4.079, resistance at 4.084 and 4.087, and the 7-day RSI is 41.9."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/EV_Ringgit-Weekly-Outlook_261023-Kenanga.pdf"
+  }
+ ]
+}
