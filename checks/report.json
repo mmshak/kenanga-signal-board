@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T20:06:12.162Z",
+ "generatedAt": "2026-10-26T21:04:07.776Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -40,10 +40,11 @@
   "2026-10-20",
   "2026-10-21",
   "2026-10-22",
-  "2026-10-23"
+  "2026-10-23",
+  "2026-10-26"
  ],
- "rows": 165,
- "verified": 164,
+ "rows": 168,
+ "verified": 167,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -616,6 +617,24 @@
    "date": "2026-10-23",
    "row": "Ringgit Weekly",
    "msg": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>The week is measured from two different days.</b> The text says the ringgit eased to 4.083 'from 4.082 last Friday'. Table 2's 'Last Week' column, also 4.082, is dated 15/10/26, a Thursday. The table's 0.04% week-on-week move is therefore Thursday to Thursday. This board flagged the same pattern on 9 October. (2) <b>Brent is quoted at two levels.</b> The note says Brent is 'above USD110/barrel' in one place and 'near USD114/bbl' in another. Today's digest shows Nymex crude, a different benchmark, at US$99.5. (3) <b>Cross-checks.</b> Table 1's USDMYR path (4.08, 4.00, 4.05, 4.02, 3.95) matches today's Bond Market Weekly Outlook exactly. The 4.083 close, EURUSD 1.121 and USDJPY 156.88 match the digest's forex table (4.0833, 1.1214, 156.88). This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-26",
+   "row": "Plastic Packaging",
+   "msg": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>The Kenanga Signal rests on Kenanga's own words.</b> Page 3 reads 'Our Top Pick for the quarter is TGUAN (OP, TP: RM1.70).' Page 1 says Kenanga keeps TGUAN 'as our sector pick'. Both are pick declarations, and the page 3 sentence is quoted on the row. (2) <b>BPPLAS is no longer named a pick.</b> This board's 27 August BPPLAS Results Note quoted 'BPPLAS is one of our sector picks for the quarter.' Today's note says only that Kenanga 'remain[s] mildly positive' and 'remain[s] optimistic' on BPPLAS. That is not pick language under rules/signals.md &sect;2, so this note supports a pick on TGUAN only. (3) <b>Targets reconcile with this board's earlier rows.</b> Exhibit 4 gives TGUAN RM1.70 (from RM1.73), BPPLAS RM0.84 (from RM0.87), SLP RM0.85 (from RM0.90) and SCIENTX RM3.91 (unchanged). The old figures match this board's 27 August TGUAN and BPPLAS rows and its 10 September SCIENTX row. SLP has no earlier row on this board. (4) <b>The note states its revisions in three slightly different ways.</b> Page 1 trims CY27 forecasts and targets 'by an average of 1%-6%'. Page 3 puts the minimum-wage hit to sector CY27 net profit at 'about 2%-6%'. Exhibit 4 shows CY27F cuts of -1% to -6%. Page 1 says Kenanga will monitor cost pass-through 'going into 2HCY26'; page 3 says '2HCY27'. Page 1 says the low-cost resin was bought before the conflict 'erupted in 2QFY26'; page 2 dates the conflict's onset to late February. (5) <b>The valuation does not use the new oil forecast.</b> Kenanga raises its Brent forecast to USD91 for CY26 and USD85 for CY27, but values the stocks on FY27F normalised earnings at a USD74 Brent base case, and makes no oil-driven forecast change. Targets are on 8x PER, except BPPLAS on 10x. Because the earnings are normalised, the peer table's FY27F core EPS cannot be used to rebuild the targets: 8x TGUAN's 22.9 sen would be about RM1.83, not RM1.70 (computed here). Likewise, the 'close to 20%' discount to TGUAN's ~9x 10-year forward PER does not match the peer table's 5.3x/6.5x forward PERs (about 41%/28% below 9x, computed here). (6) <b>One rating sits awkwardly against Kenanga's own bands</b>, on the approximation that expected total return = upside + net dividend yield (an inference, not a Kenanga method statement). BPPLAS is OUTPERFORM with 3.1% upside and a 6.1% yield, about 9.2%, which falls in the MARKET PERFORM band. TGUAN (13.3% + 4.7%), SCIENTX (6.0% + 3.5%) and SLP (-4.5% + 1.4%) sit within their bands. (7) <b>The peer table's price date.</b> The price column is headed 'as at 25/09/2026'. This run did not confirm whether the prices are current. Filed as a <b>Sector Update</b>, so the rating, target and share-price columns are empty by design, and the divergence marker is not set."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-26",
+   "row": "REIT",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The Kenanga Signal rests on Kenanga's own words.</b> The note names PAVREIT and SUNREIT 'our preferred sector picks for this quarter', on pages 1 and 2. That is quoted on the row. PAVREIT was also called 'our REIT sector top pick for 4Q26' in this board's 23 October Results Note. (2) <b>The recalibration is presented as new, but this board's earlier rows already reflect it.</b> The note says Kenanga is 'recalibrating our MGS yield assumption ... from the previous 3.50% to 3.90%', and Exhibit 5 shows old targets of RM1.95 for PAVREIT and RM1.58 for AMEREIT. Yet this board's 22 October AMEREIT Results Note kept RM1.48 on an 'unchanged 3.90%' MGS assumption, and its 23 October PAVREIT note kept RM1.83 at a 6.65% target yield. The <b>revised</b> targets therefore agree with this board; only the note's description of them as a fresh change does not. SUNREIT's old RM2.45 matches Kenanga's call as reported by The Star on 14 August. This row does not resolve when the recalibration first took effect. (3) <b>The size of the target cuts.</b> The note says recalibrated targets are '5-7% lower'. Exhibit 5's old-to-new changes range from -4.6% (CLMT, RM0.65 to RM0.62) to -7.3% (SUNREIT, RM2.45 to RM2.27) (computed here). Every target yield rises by 40bps, matching the 3.50% to 3.90% change. (4) <b>Two statements look out of date or inconsistent.</b> The note says no withholding-tax decision is certain until 'the upcoming 2027 national budget'. Budget 2027 was announced on 9 October, as today's Plastic Packaging note and this board's 20 October Automotive row record. The indicative IOIPG REIT yield is 'about 6.0% and above' on page 1 and '6.0%-6.8%' on page 2. (5) <b>Peer-table checks.</b> Upsides reconcile with prices and targets (for example PAVREIT 17.3% at RM1.56, SUNREIT 11.3% at RM2.04). The column is headed 'Last Price as at 25 Sep', but PAVREIT's RM1.56 matches the 23 October close recorded on this board's 23 October row, so the header looks stale (an inference). ALAQAR's downgrade to MARKET PERFORM fits its 2.6% upside and 7.0% yield. (6) Filed as a <b>Sector Update</b>, so the rating, target and share-price columns are empty by design, and the divergence marker is not set."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-26",
+   "row": "Telecommunication",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>No pick language.</b> A search for every conviction term in rules/signals.md &sect;2 finds none in this note, so the Kenanga Signal reads None stated. The note calls the deal 'strategically sensible' for MAXIS, which is not pick language. This board's 23 October Telco strategy row records TIMECOM as Kenanga's sector pick; this note does not mention a pick either way. (2) <b>The MAXIS accretion is stated two ways.</b> Page 1 gives a FY27F contribution of about RM2.5m (0.2%), reflecting six months. Page 3 gives 'an estimated 0.3% annualised earnings accretion in FY27F'. Doubling a six-month 0.2% would suggest about 0.4% annualised (computed here). The note does not reconcile the two. (3) <b>The leverage effect is stated two ways.</b> Pages 1 and 3 say MAXIS's net debt/EBITDA edges up to 1.82x from 1.81x, a 0.01x rise. Page 3 later calls it 'a marginal 0.02x uptick'. (4) <b>Deal arithmetic reconciles.</b> RM83.0m over 178,631 subscribers is RM465 each, and over 155,000 RM535. RM83.0m over the RM36.6m book value is 2.27x. The RM31.4m gain is 49.8% of ASTRO's RM63.1m FY26 PATAMI. The RM81.4m net proceeds are 16.8% of ASTRO's RM485m cash and short-term investments (all computed here). The tier table matches The Edge's report that the price falls by RM500 per subscriber below 145,000. (5) <b>Targets and the peer table.</b> MAXIS (MP, RM3.70) and ASTRO (MP, RM0.06) match this board's earlier rows: the 23 October Telco row's peer-table check and the 1 October ASTRO Results Note. The peer table's TIMECOM target of RM7.26 matches this board's 28 August row. The price column is headed '25 Sep', but AXIATA's RM1.62 matches the 23 October close in today's digest, so the header looks stale (an inference). Filed as a <b>Sector Update</b>, so the rating, target and share-price columns are empty by design."
   }
  ],
  "verdict": "PASS"

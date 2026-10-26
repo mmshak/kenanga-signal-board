@@ -1,0 +1,312 @@
+{
+ "date": "2026-10-26",
+ "schema": 1,
+ "daily": {
+  "klci": 1611.6,
+  "chg": 3.42,
+  "pct": 0.21,
+  "inst": 127.9,
+  "instPct": 45.8,
+  "retail": -10.0,
+  "retailPct": 25.7,
+  "foreign": -118.0,
+  "foreignPct": 28.6,
+  "ideas": "Sector Update: Plastic Packaging (4QCY26 Strategy), REIT (4QCY26 Strategy), Telecommunication; Weekly Technical Review: DJIA, KLCI",
+  "news": [
+   {
+    "h": "Zetrix AI offers 788.8m share options at 28.0% discount amid cash flow, sukuk pressures",
+    "body": "Zetrix AI Bhd has offered 788.8m employee share options at a 28.0% discount to its Friday (Oct 23) closing price, with recipients able to exercise them immediately, as the group faces cash flow pressures and a sukuk covenant breach. The group said the options were offered to eligible directors and employees of the company and its non-dormant subsidiaries at an exercise price of 5.4 sen each, compared with its closing share price of 7.5 sen on the offer date. (The Edge Malaysia)",
+    "takeaways": [
+     "Zetrix AI has offered 788.8m employee share options, exercisable immediately.",
+     "The exercise price is 5.4 sen, against a 7.5 sen close on Friday, 23 October: a 28.0% discount.",
+     "The options go to eligible directors and employees of the company and its non-dormant subsidiaries.",
+     "The digest places the offer against cash-flow pressures and a sukuk covenant breach, but gives no figures for either.",
+     "This board holds no Kenanga coverage of Zetrix AI. Digest context only."
+    ]
+   },
+   {
+    "h": "KTI Landmark, TAR UMT ink MoU to explore student housing in Kota Kinabalu",
+    "body": "KTI Landmark Bhd has announced a strategic collaboration with Tunku Abdul Rahman University of Management and Technology (TAR UMT) to provide tailored student accommodation for its Sabah branch campus. The property developer noted the initiative was formalized through a Memorandum of Understanding (MOU) signed between KTI's wholly-owned subsidiary, K.T.I Development Sdn Bhd (KTIDSB) and TAR UMT. (The Star)",
+    "takeaways": [
+     "KTI Landmark and TAR UMT have agreed to explore student accommodation for TAR UMT's Sabah branch campus.",
+     "The vehicle is a memorandum of understanding signed by KTI's wholly owned K.T.I Development Sdn Bhd.",
+     "An MoU is an agreement to explore, not a contract. The digest gives no value, unit count or timeline.",
+     "The headline places the project in Kota Kinabalu.",
+     "This board holds no Kenanga coverage of KTI Landmark. Digest context only."
+    ]
+   },
+   {
+    "h": "Ni Hsin delivers first batch of 43 SURRON electric motorcycles to Chinese partner",
+    "body": "Ni Hsin Group Bhd's wholly-owned subsidiary, Ni Hsin EV Tech Sdn Bhd (NHEVT), has handed over the first batch of 43 newly upgraded SURRON electric off-road motorcycles to Chongqing Qiulong Technology Co Ltd (Qiulong). The handover marks a major milestone under their Motorcycle Completely Knocked Down (CKD) Assembly Cooperation Agreement. Ni Hsin noted the partnership combines NHEVT's local assembly capabilities with Qiulong's technological expertise to support Malaysia's EV ecosystem and expand SURRON's presence across Asean markets. (The Star)",
+    "takeaways": [
+     "Ni Hsin's unit Ni Hsin EV Tech has handed over its first batch of 43 SURRON electric off-road motorcycles to Chongqing Qiulong Technology.",
+     "The delivery is under a completely-knocked-down (CKD) assembly cooperation agreement between the two.",
+     "Ni Hsin assembles locally; Qiulong supplies the technology.",
+     "The stated aims are to support Malaysia's EV ecosystem and expand SURRON across ASEAN. The digest gives no revenue figure.",
+     "This board holds no Kenanga coverage of Ni Hsin. Digest context only."
+    ]
+   },
+   {
+    "h": "Propel Global unit inks MoU to explore oil and gas projects in Sabah",
+    "body": "Propel Global Bhd's subsidiary, Best Wide Engineering (M) Sdn Bhd, has signed a memorandum of understanding (MoU) with Labuan Shipyard & Engineering Sdn Bhd and Teguh Energy Sdn Bhd to explore oil and gas engineering projects in Sabah. Propel Global said the collaboration would cover engineering, procurement, construction and commissioning (EPCC) projects, offshore and onshore works, fabrication, maintenance and related engineering services within Sabah's maritime area. (The Star)",
+    "takeaways": [
+     "Propel Global's Best Wide Engineering has signed an MoU with Labuan Shipyard & Engineering and Teguh Energy.",
+     "The aim is to explore oil and gas engineering projects in Sabah.",
+     "The scope covers EPCC, offshore and onshore works, fabrication and maintenance within Sabah's maritime area.",
+     "An MoU is exploratory. The digest names no project or value.",
+     "This board holds no Kenanga coverage of Propel Global. Digest context only."
+    ]
+   },
+   {
+    "h": "Bestari Food gets regulator's nod, shariah status for Main Market listing",
+    "body": "Bestari Food Bhd has received approval from the securities regulator for its proposed listing on the Main Market of Bursa Malaysia. The food premix producer and supplier said it has also been classified as shariah-compliant by the Securities Commission Malaysia's (SC) Shariah Advisory Council, according to a statement. No timeline for the initial public offering (IPO) was disclosed, though a company will have to complete its IPO within six months of approval. (The Edge Malaysia)",
+    "takeaways": [
+     "Bestari Food, a food premix producer and supplier, has regulatory approval for a Main Market listing.",
+     "The SC's Shariah Advisory Council has classified it as shariah-compliant.",
+     "No IPO timeline has been disclosed.",
+     "The digest notes that an IPO must be completed within six months of approval. It gives no offer size or price.",
+     "This board holds no Kenanga coverage of Bestari Food. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Trump ends tariffs on some Canadian products as Republican Senator Collins faces close race",
+    "region": "Global",
+    "body": "With an incumbent Maine US senator from his own party locked in a tight re-election battle, President Donald Trump signed an order on Friday to remove 50% tariffs on some Canadian agricultural and forestry products in a move that could benefit companies from the northern state. (The Edge Malaysia)",
+    "takeaways": [
+     "President Trump signed an order on Friday, 23 October, removing 50% tariffs on some Canadian agricultural and forestry products.",
+     "The digest links the timing to a tight re-election race for Maine's Republican senator.",
+     "It says the move could benefit companies in Maine.",
+     "The digest does not list the products covered.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Anwar says a global investor plans USD50.0b tech investment in Malaysia",
+    "region": "Malaysia",
+    "body": "Prime Minister Datuk Seri Anwar Ibrahim on Saturday disclosed that a global investor plans to invest USD50.0b (RM204 billion) in the artificial intelligence (AI), new technology and data centre sectors in Sarawak and Peninsular Malaysia. (The Edge Malaysia)",
+    "takeaways": [
+     "The Prime Minister said on Saturday, 24 October, that a global investor plans to invest USD50.0b (RM204b) in Malaysia.",
+     "The sectors named are AI, new technology and data centres.",
+     "The locations named are Sarawak and Peninsular Malaysia.",
+     "The investor is not named, and the digest gives no timeline.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Anwar: Govt ready to absorb fuel subsidy costs of up to MYR45.0b a year",
+    "region": "Malaysia",
+    "body": "The government is prepared to absorb an increase in fuel subsidy costs, which could reach RM45 billion annually amid a surge in global crude oil prices, rather than pass the burden on to the people through higher fuel prices. (The Edge Malaysia)",
+    "takeaways": [
+     "The government says it is prepared to absorb higher fuel subsidy costs rather than raise pump prices.",
+     "It puts those costs at up to RM45b a year.",
+     "The driver cited is a surge in global crude oil prices. The digest's market table shows Nymex crude at US$103.3/bbl, up 3.8% on the day.",
+     "Today's Kenanga Plastic Packaging note separately raises its Brent assumption to USD91 for CY26, from USD80. Neither source cites the other.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "National Cost of Living Action Plan 2030 outlines 429 measures \u2014 Armizan",
+    "region": "Malaysia",
+    "body": "The National Cost of Living Action Plan 2030 (NCLAP30), launched by Prime Minister Datuk Seri Anwar Ibrahim on Saturday, outlines 429 measures under 35 strategies to ease cost-of-living pressures and improve the people's well-being. (The Edge Malaysia)",
+    "takeaways": [
+     "The Prime Minister launched the National Cost of Living Action Plan 2030 on Saturday, 24 October.",
+     "It sets out 429 measures under 35 strategies.",
+     "Its stated aims are to ease cost-of-living pressures and improve well-being.",
+     "The digest does not describe individual measures or their cost.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Selangor targets MYR90.0b in investments this year, says Amirudin",
+    "region": "Malaysia",
+    "body": "Selangor is targeting MYR90.0b in investments this year, up from MYR80.0b recorded last year, following encouraging investment momentum in the state. (The Edge Malaysia)",
+    "takeaways": [
+     "Selangor is targeting RM90.0b of investment this year.",
+     "It recorded RM80.0b last year.",
+     "The target is 12.5% above last year's figure (computed here).",
+     "The state cites encouraging investment momentum. The digest gives no sector breakdown.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "China aims to stabilise number of new births with policy support",
+    "region": "Asia Pacific",
+    "body": "China should offer more support to families to stabilise the number of new births, the cabinet said, as policymakers seek to address the country's population decline and record-low birth rate. (The Edge Malaysia)",
+    "takeaways": [
+     "China's cabinet says the country should offer more support to families.",
+     "The goal is to stabilise the number of new births.",
+     "The backdrop is population decline and a record-low birth rate.",
+     "The digest names no specific measure or funding.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US consumer sentiment slips to five-month low on inflation",
+    "region": "Americas",
+    "body": "US consumer sentiment edged down to a five-month low in October as high prices and rising interest rates depressed morale. (The Edge Malaysia)",
+    "takeaways": [
+     "US consumer sentiment edged down to a five-month low in October.",
+     "The causes cited are high prices and rising interest rates.",
+     "The digest gives no index reading.",
+     "Today's Kenanga REIT note says the market has recalibrated towards more hawkish Fed decisions in CY26. It does not cite this survey.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US business activity cools in October; strong demand fuelling price pressures",
+    "region": "Americas",
+    "body": "US business activity slowed modestly in October, though robust demand allowed companies to raise prices for goods and services, a sign that inflation could increase further and remain persistently high in the coming months. (The Edge Malaysia)",
+    "takeaways": [
+     "US business activity slowed modestly in October.",
+     "Robust demand let companies raise prices for goods and services.",
+     "The digest reads this as a sign that inflation could rise further and stay high.",
+     "It gives no PMI figures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "PMI shows strongest month since February for UK businesses",
+    "region": "Europe",
+    "body": "British businesses are having their strongest month for activity since February as new orders grow and artificial intelligence (AI)-related demand picks up, according to a survey published on Friday. (The Edge Malaysia)",
+    "takeaways": [
+     "A survey published on Friday, 23 October, shows UK business activity at its strongest since February.",
+     "The drivers cited are growing new orders and rising AI-related demand.",
+     "The digest gives no PMI reading.",
+     "The headline identifies the survey as a PMI.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Kenanga-Today-261026-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "result": null,
+   "prevRating": null,
+   "prevTp": null,
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "ticker": "Plastic Packaging",
+   "name": "Plastic Packaging Sector Update (4QCY26 Strategy): From Cheap to Fair: Sector Re-rated",
+   "conviction": "\"Our Top Pick for the quarter is TGUAN (OP, TP: RM1.70).\"",
+   "flag": "Seven points of caution on this row, reported as printed rather than resolved. (1) <b>The Kenanga Signal rests on Kenanga's own words.</b> Page 3 reads 'Our Top Pick for the quarter is TGUAN (OP, TP: RM1.70).' Page 1 says Kenanga keeps TGUAN 'as our sector pick'. Both are pick declarations, and the page 3 sentence is quoted on the row. (2) <b>BPPLAS is no longer named a pick.</b> This board's 27 August BPPLAS Results Note quoted 'BPPLAS is one of our sector picks for the quarter.' Today's note says only that Kenanga 'remain[s] mildly positive' and 'remain[s] optimistic' on BPPLAS. That is not pick language under rules/signals.md &sect;2, so this note supports a pick on TGUAN only. (3) <b>Targets reconcile with this board's earlier rows.</b> Exhibit 4 gives TGUAN RM1.70 (from RM1.73), BPPLAS RM0.84 (from RM0.87), SLP RM0.85 (from RM0.90) and SCIENTX RM3.91 (unchanged). The old figures match this board's 27 August TGUAN and BPPLAS rows and its 10 September SCIENTX row. SLP has no earlier row on this board. (4) <b>The note states its revisions in three slightly different ways.</b> Page 1 trims CY27 forecasts and targets 'by an average of 1%-6%'. Page 3 puts the minimum-wage hit to sector CY27 net profit at 'about 2%-6%'. Exhibit 4 shows CY27F cuts of -1% to -6%. Page 1 says Kenanga will monitor cost pass-through 'going into 2HCY26'; page 3 says '2HCY27'. Page 1 says the low-cost resin was bought before the conflict 'erupted in 2QFY26'; page 2 dates the conflict's onset to late February. (5) <b>The valuation does not use the new oil forecast.</b> Kenanga raises its Brent forecast to USD91 for CY26 and USD85 for CY27, but values the stocks on FY27F normalised earnings at a USD74 Brent base case, and makes no oil-driven forecast change. Targets are on 8x PER, except BPPLAS on 10x. Because the earnings are normalised, the peer table's FY27F core EPS cannot be used to rebuild the targets: 8x TGUAN's 22.9 sen would be about RM1.83, not RM1.70 (computed here). Likewise, the 'close to 20%' discount to TGUAN's ~9x 10-year forward PER does not match the peer table's 5.3x/6.5x forward PERs (about 41%/28% below 9x, computed here). (6) <b>One rating sits awkwardly against Kenanga's own bands</b>, on the approximation that expected total return = upside + net dividend yield (an inference, not a Kenanga method statement). BPPLAS is OUTPERFORM with 3.1% upside and a 6.1% yield, about 9.2%, which falls in the MARKET PERFORM band. TGUAN (13.3% + 4.7%), SCIENTX (6.0% + 3.5%) and SLP (-4.5% + 1.4%) sit within their bands. (7) <b>The peer table's price date.</b> The price column is headed 'as at 25/09/2026'. This run did not confirm whether the prices are current. Filed as a <b>Sector Update</b>, so the rating, target and share-price columns are empty by design, and the divergence marker is not set.",
+   "catalyst": "Kenanga <b>cuts the sector to NEUTRAL from OVERWEIGHT</b> after a valuation run-up. It believes 2QCY26 was the strongest quarter of the year, with core net profit up <b>144%-223% QoQ</b> as Middle East-driven resin prices rose about 80% or more. It expects some normalisation in 2HCY26 as low-cost inventory runs out, but says sales and profit should stay healthy on higher selling prices. Budget 2027's <b>RM300 minimum-wage rise</b> leads Kenanga to trim CY27 forecasts and targets. <b>TGUAN (OP; TP RM1.70) is named its Top Pick for the quarter</b>. <b>SLP is downgraded to MARKET PERFORM</b> after share-price gains.",
+   "quote": "We keep TGUAN (OP, TP: RM1.70) as our sector pick while we remain mildly positive on BPPLAS (OP, TP: RM0.84), both of which we have sole coverage.",
+   "summary": [
+    "The call. Kenanga cuts the plastic packaging sector to NEUTRAL from OVERWEIGHT, after a valuation run-up on expectations of better margins from higher selling prices and good demand. In 2QCY26, the packaging stocks it covers (excluding SCIENTX, whose property arm is the bigger profit contributor) reported core net profit up 144%-223% QoQ, with BPPLAS and TGUAN slightly ahead of expectations. Kenanga gives three reasons: production drew on resin bought cheaply before the Middle East conflict, selling prices rose with resin prices, and customers built up inventories amid rising prices and supply worries.",
+    "The outlook. Kenanga believes 2QCY26 was the strongest quarter of the year for both resin price rises and demand, so it expects some normalisation in 2HCY26. It expects earnings to stay healthy because selling prices remain high, and inventory replenishment should support volumes against a low base last year. Margins should come under some pressure as the pre-conflict low-cost inventory has largely been used up. Supply worries that followed the conflict's late-February onset have partly eased, giving manufacturers more stable raw-material buying.",
+    "Macro assumptions. Kenanga raises its Brent forecast to USD91 a barrel for CY26 (from USD80) and USD85 for CY27 (from USD74), and says selling prices should stay above pre-conflict levels even if the conflict de-escalates. Given the volatility, it makes no oil-driven change to forecasts, and values the stocks on FY27F normalised earnings at a USD74 Brent base case (see flag). It expects USD/MYR to strengthen to about RM4.00 in 4QCY26 from RM4.07 in 3QCY26, reversing 3Q translation gains, and to trade between RM3.90 and RM4.05 in CY27.",
+    "Minimum wage. Budget 2027, announced on 9 October, raises the statutory minimum wage to RM2,000 from RM1,700 from June 2027. Kenanga calls the sector labour-intensive and says it historically could not pass labour costs through, being export-oriented. Assuming six months' effect, it puts the hit to sector CY27 net profit at about 2%-6%, with pure plastic packaging makers slightly more exposed. Most companies it covers expressed confidence in passing on part of the cost. Kenanga trims CY27 forecasts by 1%-6% and targets accordingly: TGUAN to RM1.70, BPPLAS to RM0.84, SLP to RM0.85, with SCIENTX unchanged at RM3.91.",
+    "Picks and risks. Kenanga names TGUAN its Top Pick for the quarter, for F&B-segment growth and an aggressive overseas push with environmentally friendly, high-performance products. It says TGUAN trades close to 20% below its 10-year forward PER of about 9x (see flag). It remains optimistic on BPPLAS for its new bread-bag clients and its stretch-film model's ability to pass on resin costs, but no longer calls it a pick. Kenanga has sole coverage of both. SLP is cut to MARKET PERFORM. The risks it names are global trade tensions (US exports are under 10% of revenue) and overcapacity-driven competition, including Chinese makers offloading stock into Southeast Asia."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>Checked for TGUAN, the stock this note names as its Top Pick.</b> No named non-Kenanga house was found declaring a pick on TGUAN in a dated, publicly retrievable source read during this run, so the Analyst Signal reads <b>None stated</b>. Kenanga's note states it has <b>sole coverage</b> of TGUAN and BPPLAS, which is the situation rules/signals.md &sect;1 records for these two stocks. A search of news coverage returned only Kenanga's own notes and aggregator pages; rules/signals.md &sect;1 prohibits aggregators, and they are not used. <b>Zero of the nine houses</b> this board searches (CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank Research, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang) yielded a dated, publicly retrievable call on TGUAN during this run. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": []
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Plastic-Packaging-261026-4Q26-Strategy-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": null,
+   "prevRating": null,
+   "prevTp": null,
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "ticker": "REIT",
+   "name": "REIT Sector Update (4QCY26 Strategy): Bond Yield Expansion Fairly Priced In",
+   "conviction": "\"We keep PAVREIT (OP, TP: RM1.83) and SUNREIT (OP, TP: RM2.27) as our preferred sector picks for this quarter.\"",
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The Kenanga Signal rests on Kenanga's own words.</b> The note names PAVREIT and SUNREIT 'our preferred sector picks for this quarter', on pages 1 and 2. That is quoted on the row. PAVREIT was also called 'our REIT sector top pick for 4Q26' in this board's 23 October Results Note. (2) <b>The recalibration is presented as new, but this board's earlier rows already reflect it.</b> The note says Kenanga is 'recalibrating our MGS yield assumption ... from the previous 3.50% to 3.90%', and Exhibit 5 shows old targets of RM1.95 for PAVREIT and RM1.58 for AMEREIT. Yet this board's 22 October AMEREIT Results Note kept RM1.48 on an 'unchanged 3.90%' MGS assumption, and its 23 October PAVREIT note kept RM1.83 at a 6.65% target yield. The <b>revised</b> targets therefore agree with this board; only the note's description of them as a fresh change does not. SUNREIT's old RM2.45 matches Kenanga's call as reported by The Star on 14 August. This row does not resolve when the recalibration first took effect. (3) <b>The size of the target cuts.</b> The note says recalibrated targets are '5-7% lower'. Exhibit 5's old-to-new changes range from -4.6% (CLMT, RM0.65 to RM0.62) to -7.3% (SUNREIT, RM2.45 to RM2.27) (computed here). Every target yield rises by 40bps, matching the 3.50% to 3.90% change. (4) <b>Two statements look out of date or inconsistent.</b> The note says no withholding-tax decision is certain until 'the upcoming 2027 national budget'. Budget 2027 was announced on 9 October, as today's Plastic Packaging note and this board's 20 October Automotive row record. The indicative IOIPG REIT yield is 'about 6.0% and above' on page 1 and '6.0%-6.8%' on page 2. (5) <b>Peer-table checks.</b> Upsides reconcile with prices and targets (for example PAVREIT 17.3% at RM1.56, SUNREIT 11.3% at RM2.04). The column is headed 'Last Price as at 25 Sep', but PAVREIT's RM1.56 matches the 23 October close recorded on this board's 23 October row, so the header looks stale (an inference). ALAQAR's downgrade to MARKET PERFORM fits its 2.6% upside and 7.0% yield. (6) Filed as a <b>Sector Update</b>, so the rating, target and share-price columns are empty by design, and the divergence marker is not set.",
+   "catalyst": "Kenanga <b>keeps M-REITs at NEUTRAL</b>. It says the rise in 10-year MGS yields, from 3.6% in July to a 4.18% peak and back to about 3.9%, which cut the KLREI index 6% from its July high, is largely priced in. It lifts its <b>MGS assumption to 3.90% from 3.50%</b>, which lowers sector targets by 5-7%, and <b>downgrades ALAQAR to MARKET PERFORM</b>. A reinstated withholding-tax treatment could re-rate the sector by 4%-5%. <b>PAVREIT (OP; TP RM1.83) and SUNREIT (OP; TP RM2.27) are named its preferred sector picks for the quarter</b>.",
+   "quote": "We reiterate our NEUTRAL stance on the REIT sector as the market has recalibrated its expectations towards a more hawkish U.S. Fed rate decisions in CY26, suggesting limited sector wide valuation catalyst for REIT in the near term.",
+   "summary": [
+    "The call. Kenanga keeps M-REITs at NEUTRAL. The 10-year MGS yield rose from a 3.6% low in July 2026 to a 4.18% peak before easing to about 3.9% in September, and the KLREI index fell 6% from its July high. Kenanga reads that as the rising-yield environment being largely priced in. It now forecasts a 4QCY26 MGS yield of about 3.88% and one 25bps OPR hike in 1H27. It sees limited near-term sector catalysts because the market expects more hawkish US Fed decisions in CY26.",
+    "Targets. Kenanga moves its 10-year MGS assumption to 3.90% from 3.50% for every REIT it covers, raising each target yield by 40bps and cutting targets by what it calls 5-7% (see flag). ALAQAR is downgraded to MARKET PERFORM, at RM1.18 from RM1.25; the other calls are unchanged. Revised targets: AMEREIT RM1.48, AXREIT RM2.01, CLMT RM0.62, IGBREIT RM2.62, KLCC RM8.60, PAVREIT RM1.83 and SUNREIT RM2.27. The peer table gives the sector 13.4% FY26F core EPS growth and a 6.4% gross yield.",
+    "Possible catalysts. The Malaysian REIT Managers Association is pressing the Ministry of Finance to reinstate the withholding-tax treatment removed in March 2026. Kenanga says reinstatement is uncertain but could re-rate sector valuations by 4%-5%. Separately, IOIPG plans to list IOIPG REIT, with nine assets worth RM7.7b anchored by IOI City Mall Putrajaya. With regulatory approvals in hand, the prospectus is due in October 2026 and listing by November 2026. Kenanga expects an indicative yield of 6.0% or more, given as 6.0%-6.8% on page 2.",
+    "Segments. Kenanga expects stable office and industrial performance but cautious near-term sentiment for high-end retail. NAPIC data show 1HCY26 shopping-complex occupancy dipped to 77.9% from 78.9% in 2HCY25, which Kenanga links to caution since the Middle East conflict began in late February. Office occupancy rose to 72.6% from 71.9%. Hotels had a soft 1HCY26 on higher airfares and the conflict. Kenanga sees meaningful hospitality recovery only if tensions ease, helped by Visit Malaysia Year 2026 and its forecast of 30m tourist arrivals (+11%). It names PAVREIT, KLCC and IGBREIT as the hospitality proxies.",
+    "Picks. Kenanga keeps PAVREIT (OP; TP RM1.83) and SUNREIT (OP; TP RM2.27) as its preferred sector picks for the quarter. The note does not set out separate reasons for each in this report. In the peer table, PAVREIT offers the highest upside of the eight REITs covered, at 17.3%, with a 7.2% gross yield. SUNREIT offers 11.3% upside and a 6.1% yield. AXREIT is the only other OUTPERFORM, at 12.9% upside."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>Checked for PAVREIT and SUNREIT, the two stocks this note names as preferred picks.</b> No named non-Kenanga house was found declaring a pick on either in its most recent dated, publicly retrievable statement read during this run, so the Analyst Signal reads <b>None stated</b>. <b>SUNREIT.</b> The Star reported on <b>14 August 2026</b>, 73 days before this note, that TA Research upgraded to 'buy' with a RM2.79 target, CIMB Research upgraded to 'buy' and cut its target to RM2.55 from RM2.68, Hong Leong Investment Bank Research kept 'buy' at RM2.48, and MBSB Research kept 'buy' at RM2.39. None used pick language. The same article gives Kenanga's call then as outperform at RM2.45, the 'old' target in today's Exhibit 5. A March 2022 AmInvestment top-pick call returned by search is superseded under the most-recent-statement rule. <b>PAVREIT.</b> As on this board's 23 October PAVREIT row, RHB's most recent call read in full is The Star's <b>27 July 2026</b> report: 'buy' at RM2.18, with no pick language. That supersedes RHB's 24 June top-pick mention. A BusinessToday headline dated 23 October says RHB lowered its target after the 3Q results. The page again returned HTTP 403, so its figures are <b>not used</b>. A blog repeating a Maybank IBG call is not a permitted source and is not used. <b>On divergence:</b> every verified call on both stocks is Buy, the same direction as Kenanga's OUTPERFORM, and in any case this sector row carries no rating of its own. <b>Four of the nine houses</b> this board searches (CIMB, Hong Leong, TA, RHB) yielded a dated, publicly retrievable rating on one of the two picks. MBSB is outside the nine. Maybank, AmInvestment, Public Investment Bank, MIDF and Affin Hwang yielded nothing read in full. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Star, 14 Aug 2026 &mdash; &lsquo;Sunway-REIT poised for stronger 2H&rsquo; (TA, CIMB, HLIB, MBSB, Kenanga)",
+      "https://www.thestar.com.my/business/business-news/2026/08/14/sunway-reit-poised-for-stronger-2h"
+     ],
+     [
+      "The Star, 27 Jul 2026 &mdash; &lsquo;Steady FY26 earnings growth for Pavilion-REIT&rsquo; (RHB, CIMB, CGSI, UOB Kay Hian)",
+      "https://www.thestar.com.my/business/business-news/2026/07/27/steady-fy26-earnings-growth-for-pavilion-reit"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/REIT-261026-4Q26-Strategy-SU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": null,
+   "prevRating": null,
+   "prevTp": null,
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "ticker": "Telecommunication",
+   "name": "Telecommunication Sector Update: Astro Fibre Changes Hands to MAXIS",
+   "conviction": null,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>No pick language.</b> A search for every conviction term in rules/signals.md &sect;2 finds none in this note, so the Kenanga Signal reads None stated. The note calls the deal 'strategically sensible' for MAXIS, which is not pick language. This board's 23 October Telco strategy row records TIMECOM as Kenanga's sector pick; this note does not mention a pick either way. (2) <b>The MAXIS accretion is stated two ways.</b> Page 1 gives a FY27F contribution of about RM2.5m (0.2%), reflecting six months. Page 3 gives 'an estimated 0.3% annualised earnings accretion in FY27F'. Doubling a six-month 0.2% would suggest about 0.4% annualised (computed here). The note does not reconcile the two. (3) <b>The leverage effect is stated two ways.</b> Pages 1 and 3 say MAXIS's net debt/EBITDA edges up to 1.82x from 1.81x, a 0.01x rise. Page 3 later calls it 'a marginal 0.02x uptick'. (4) <b>Deal arithmetic reconciles.</b> RM83.0m over 178,631 subscribers is RM465 each, and over 155,000 RM535. RM83.0m over the RM36.6m book value is 2.27x. The RM31.4m gain is 49.8% of ASTRO's RM63.1m FY26 PATAMI. The RM81.4m net proceeds are 16.8% of ASTRO's RM485m cash and short-term investments (all computed here). The tier table matches The Edge's report that the price falls by RM500 per subscriber below 145,000. (5) <b>Targets and the peer table.</b> MAXIS (MP, RM3.70) and ASTRO (MP, RM0.06) match this board's earlier rows: the 23 October Telco row's peer-table check and the 1 October ASTRO Results Note. The peer table's TIMECOM target of RM7.26 matches this board's 28 August row. The price column is headed '25 Sep', but AXIATA's RM1.62 matches the 23 October close in today's digest, so the header looks stale (an inference). Filed as a <b>Sector Update</b>, so the rating, target and share-price columns are empty by design.",
+   "catalyst": "<b>MAXIS is buying ASTRO's fibre broadband business</b> for up to <b>RM83.0m</b> in cash: 178,631 subscribers plus equipment, software and inventories, with completion targeted for 2QCY27. Kenanga is <b>neutral on the deal for both</b>. For MAXIS it is a capital-light way to grow its consumer fibre base by about 22%, but Kenanga estimates only about <b>RM2.5m</b> of FY27F earnings. For ASTRO it brings a <b>RM31.4m one-off gain</b> and RM81.4m of net cash, but may add pay-TV churn. Forecasts are unchanged and both stay <b>MARKET PERFORM</b> (TP RM3.70 and RM0.06). The sector stays NEUTRAL.",
+   "quote": "We maintain our forecasts pending deal completion. Maintain MARKET PERFORM on MAXIS (TP: RM3.70) and ASTRO (TP: RM0.06), as well as our NEUTRAL call on the sector.",
+   "summary": [
+    "The deal. Under a conditional SPA, ASTRO will sell MAXIS its entire Astro Fibre subscriber base, 178,631 subscribers at February 2026, together with the broadband business's equipment, software and inventories. MAXIS pays nothing for the name, brand or goodwill, and will migrate subscribers to its own fibre service. ASTRO launched the business in 2022, relying on TM and CTS Horizon for infrastructure, and already co-markets with MAXIS. The full RM83.0m applies if at least 155,000 subscribers transfer at completion, allowing for about 13% attrition, with tiered cuts below that. Completion is targeted for 2QCY27.",
+    "Price and conditions. Kenanga calls the price fair. KPMG Corporate Advisory independently valued the business at RM82.0m-RM87.0m on a DCF basis. The price implies RM465 per subscriber, 2.3x the RM36.6m book value, 3.0x ASTRO's initial investment of about RM28m, and about 0.4x annualised revenue on an assumed RM100 monthly ARPU. The deal needs ASTRO shareholder approval and MCMC notification, and is a related-party transaction because Usaha Tegas-linked entities are major shareholders of both (MAXIS 62.17%, ASTRO 23.83%). ASTRO will also charge MAXIS about RM1.35m a month for transitional services, about RM4.5m in total.",
+    "MAXIS. The acquired subscribers would lift MAXIS's 819k consumer fibre base by about 22% and, at RM100 ARPU, add about RM214m of annualised revenue, roughly 2% of FY27F group revenue. Kenanga estimates a modest FY27F net contribution of about RM2.5m (0.2%), assuming 155k subscribers, 2QCY27 completion, a 15% EBITDA margin and five-year amortisation. The RM83m outlay is about 10% of MAXIS's RM804m cash, with net debt/EBITDA rising to 1.82x from 1.81x (see flag). Kenanga sees cross-selling upside but names post-migration churn as the key risk.",
+    "ASTRO. ASTRO estimates a RM34.3m gross gain and a RM31.4m pro forma net gain, about 50% of FY26 PATAMI, after derecognising RM48.7m of net assets. Net proceeds of RM81.4m, about 17% of its RM485m cash and short-term investments, are earmarked for working capital within 36 months. Net gearing eases to 1.70x from 1.74x. Fibre subscribers are only 3.5% of ASTRO's 5.09m TV customers. Losing them cuts about RM214m, or 8% of FY27F revenue, but Kenanga expects a smaller earnings effect because fibre resale margins are thin.",
+    "Kenanga's view. Kenanga is neutral on the deal for both companies. MAXIS gets capital-light scale with immaterial earnings and balance-sheet effects. ASTRO exits a sub-scale, non-core business that needs ongoing spending on wholesale access and subscriber acquisition, and can redeploy capital into content, entertainment and advertising. The risk Kenanga flags for ASTRO is that unbundling fibre from TV packages could raise pay-TV churn. Forecasts are unchanged pending completion, both stocks stay MARKET PERFORM (MAXIS RM3.70, ASTRO RM0.06), and the sector stays NEUTRAL."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "This note names no pick, so no pick stock was checked. Coverage of the deal read during this run (The Edge Malaysia, 23 October) carries no research-house opinion; it names Public Investment Bank only as ASTRO's independent adviser, which is not a call. <b>Zero of the nine houses</b> this board searches (CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank Research, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang) yielded a dated, publicly retrievable call on MAXIS or ASTRO during this run. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": []
+   },
+   "crossCheck": {
+    "note": "<b>The deal terms match the company announcement as reported.</b> The Edge Malaysia (dateline 23 October) gives a consideration of up to RM83m in cash, stepping down to RM82m for 150,000-154,999 subscribers and RM80m for 145,000-149,999, then by RM500 per subscriber below 145,000. It reports 178,631 subscribers at 28 February, an expected RM31.4m net gain, a RM36.6m net book value at 30 September, an original investment cost of RM28m, and completion by 2Q27. It also reports that the deal is a related-party transaction. Kenanga's figures agree, including its RM77.5m and RM72.5m tiers at 140,000 and 130,000 subscribers. The Edge adds that Public Investment Bank is independent adviser to ASTRO's non-interested shareholders, which Kenanga does not mention.",
+    "cites": [
+     [
+      "The Edge Malaysia, 23 Oct 2026 &mdash; &lsquo;Astro to sell broadband business to Maxis for up to RM83 mil&rsquo;",
+      "https://theedgemalaysia.com/node/823061"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Telecommunication-261026-SU-Kenanga.pdf"
+  }
+ ]
+}
