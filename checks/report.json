@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T20:39:27.679Z",
+ "generatedAt": "2026-10-28T20:59:03.142Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -42,10 +42,11 @@
   "2026-10-22",
   "2026-10-23",
   "2026-10-26",
-  "2026-10-27"
+  "2026-10-27",
+  "2026-10-28"
  ],
- "rows": 170,
- "verified": 169,
+ "rows": 171,
+ "verified": 170,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -648,6 +649,12 @@
    "date": "2026-10-27",
    "row": "YTLPOWR",
    "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>'We continue to like YTLPOWR' is not a pick declaration.</b> The investment case reads 'We continue to like YTLPOWR for: (i) its earnings stability... and, (ii) its longer-term growth potential'. This board has treated the same wording as investment-case language, not a Top Pick, sector pick or most-attractive call (GAMUDA, 22 September-15 October; ANCOMNY, 19 October). No other conviction-search term appears, so the Kenanga Signal reads None stated. (2) <b>The share-price claim does not match the close.</b> Kenanga says its full-year scenario, a 4.9% cut to FY27 net profit, 'broadly reflects the share price decline since last Friday's close' 'at time of writing'. Today's digest shows YTLPOWR closing 26 October at RM4.96, down only 0.8%, and the note's own RM4.96 price implies about RM5.00 on Friday (computed here). The intraday low may have been deeper. This run did not establish that, and the claim is reported as written. The note's KLCI figure, 1,611.28, matches the 23 October close, not 26 October's 1,604.4. (3) <b>The 18-day sensitivity rounds up.</b> Scaling the full-year 4.9% to 18 days gives about 0.24% (computed here); the note prints 0.3%. Both are immaterial, as Kenanga says. (4) <b>Market cap and share count differ across pages.</b> The cover gives RM44,903.5m on 8,787.4m shares, which implies about RM5.11 a share, not RM4.96 (computed here). The peer table's RM43,585.4m is consistent with RM4.96 on 8,787.4m shares. The sum-of-parts uses 8,724m issued shares: RM55,852m divided by 8,724m gives RM6.40 (reconciles). The SoP components also sum to RM6.40. (5) <b>Table oddities.</b> The ratio table prints 'ROA' twice. The second row (18.8% / 12.3% / 7.7% / 9.4% / 10.2%) does not match the DuPont ROE row (20.7% / 12.7% / 7.8% / 9.9% / 10.6%), so its label is unclear. The capex row is blank. FY27F operating cash flow of RM15,725m, against RM2,117m in FY26, is not explained in this note. In the peer table, PETGAS is MARKET PERFORM at about 13.1% (8.9% upside + 4.2% yield), above the 10% line, and PEKAT and SOLARVEST are OUTPERFORM with negative upside. This is the same approximation as on earlier rows, an inference rather than a Kenanga method statement. SWIFT appears at OP, RM0.47, the same unreconciled discrepancy flagged on today's M&amp;E row. (6) <b>Market data.</b> The 52-week range of RM2.51-6.02 is from stockanalysis.com, not Kenanga, and matches the note's cover. The 1.57% dividend yield is stockanalysis.com's figure at its RM5.10 close on 27 October, a day after the note's price. Kenanga's own FY27F net yield is 1.6% (8.0 sen)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-28",
+   "row": "NESTLE",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>'We like NESTLE for' is not a pick declaration.</b> The investment case reads 'We like NESTLE for: (i) its strong brand portfolio... and (ii) the relatively inelastic demand'. This board treats this wording as investment-case language, not a Top Pick, sector pick or most-attractive call (YTLPOWR, 27 October; GAMUDA; ANCOMNY). The 'favour' search also matches 'a favourable opportunity to accumulate' and 'continuing to trend favourably', and neither is a pick. The Kenanga Signal therefore reads None stated. This board's 8 October Consumer Sector Update named QL, not NESTLE, as the sector top pick. (2) <b>The 92% coverage figure is against the old forecast.</b> 9M core net profit of RM552.4m is 92% of 'our full-year forecast', but only 79% of the revised FY26F RM703m (computed here). Dividing RM703m by the 17% upgrade gives a pre-revision forecast of about RM601m, and 552.4/601 is 92% (computed here). The note does not print the old forecast, so that basis is an inference. The 87% against the street matches the RM637m consensus (computed here). (3) <b>Price timing.</b> RM94.28 is the 27 October close. Today's digest lists NESTLE as a top gainer at RM94.28 (+4.5%), and The Edge says it closed 28 October at RM97.98, up RM3.70 (reconciles). The 2.25% dividend yield is stockanalysis.com's figure at RM97.98, not Kenanga's. Kenanga's FY26F net yield is 3.0%. The 52-week range of RM88.70-122.20 is from stockanalysis.com and matches the note's cover. The Edge says the rise trimmed YTD losses to 13%. Kenanga's -17.3% YTD at RM94.28 would put RM97.98 at about -14% (computed here), so the bases presumably differ (an inference). (4) <b>Headline and core profit move differently.</b> 3QFY26 reported net profit of RM197.5m is below core RM205.4m. In 3QFY25 reported (RM114.0m) was above core (RM102.3m). So the quarter's reported growth is +73% and core growth +101%. For 9M, core excludes a RM5m net forex gain (557.6 less 552.4, reconciles). The note does not itemise the 3Q adjustment of about RM7.9m (computed here). (5) <b>Peer table against Kenanga's bands and this board.</b> Using upside plus net dividend yield as a proxy for expected total return (an inference, not a Kenanga method statement), NESTLE's 10.2% + 3.0% is about 13%, consistent with OUTPERFORM. 99SMART (MP, 22.2% + 1.6%) and PADINI (MP, 16.2% + 7.8%) sit above the 10% MARKET PERFORM ceiling. Targets match this board: F&amp;N RM28.95, MRDIY RM1.60 and QL RM4.40 (8 October), and 99SMART RM3.80 and AEON RM1.18 (28 September). KAREX's 8133.3% EPS growth is carried as printed. Charts are images and are not used."
   }
  ],
  "verdict": "PASS"

@@ -1,0 +1,240 @@
+{
+ "date": "2026-10-28",
+ "schema": 1,
+ "daily": {
+  "klci": 1611.9,
+  "chg": 7.49,
+  "pct": 0.47,
+  "inst": -61.3,
+  "instPct": 38.7,
+  "retail": -55.9,
+  "retailPct": 22.4,
+  "foreign": 117.2,
+  "foreignPct": 38.9,
+  "ideas": "Results Note: NESTLE",
+  "news": [
+   {
+    "h": "Eco-Shop 1Q net profit rises nearly 8.0% as store network expands",
+    "body": "Eco-Shop Marketing Bhd posted a higher net profit for the first quarter, buoyed by store expansion and a rise in customer transactions. Net profit for the three months ended Aug 31, 2026 (1QFY2027) rose 7.5% to RM63.2m from RM58.8m a year earlier. Revenue for the quarter grew 16.0% to RM793.7m from RM684.3m. The dollar-store retailer added 15 stores during the quarter, bringing its total network to 477 outlets as at Aug 31, 2026, up from 391 in the same period a year earlier. (The Edge Malaysia)",
+    "takeaways": [
+     "Eco-Shop's 1QFY27 net profit rose 7.5% to RM63.2m from RM58.8m (reconciles). The headline rounds this to 'nearly 8.0%'.",
+     "Revenue grew 16.0% to RM793.7m from RM684.3m, so revenue grew about twice as fast as profit.",
+     "The digest credits store expansion and more customer transactions.",
+     "Eco-Shop added 15 stores in the quarter, to 477 outlets at 31 August, 86 more than a year earlier (computed here).",
+     "This board holds no Kenanga coverage of Eco-Shop. Digest context only."
+    ]
+   },
+   {
+    "h": "Matrix Concepts to buy 57 Johor land parcels for RM169.3m, targeting RM2.1b GDV",
+    "body": "Matrix Concepts Holdings Bhd has entered into various sale and purchase agreements for 57 parcels of agricultural land for RM169.3m cash. The Seremban-based property developer said the acquisition aims to expand the group's land bank and support its long-term growth strategy. Located in the Kulai-Sedenak growth corridor, the land will be used for mixed development with an estimated gross development value (GDV) of RM2.1b. (The Edge Malaysia)",
+    "takeaways": [
+     "Matrix Concepts has signed several SPAs to buy 57 parcels of agricultural land for RM169.3m cash.",
+     "The land is in the Kulai-Sedenak growth corridor in Johor.",
+     "It is planned for mixed development with an estimated GDV of RM2.1b, about 12x the purchase price (computed here).",
+     "The digest gives no acreage, vendors or launch timetable.",
+     "This board holds no Kenanga coverage of Matrix Concepts. Digest context only."
+    ]
+   },
+   {
+    "h": "Dufu posts highest quarterly profit in four years on stronger sales, fair value gain",
+    "body": "Dufu Technology Corp Bhd reported its highest quarterly net profit in four years driven by stronger hard disk drive (HDD) component sales and a fair value gain of RM2.8m from investments in listed shares. Net profit for the third quarter ended Sept 30, 2026 (3QFY2026) rose 48.0% to RM15.6m from RM10.5m a year earlier, and surpassed the RM13.9m recorded in the preceding quarter. Revenue grew 25.6% to RM89.6m from RM71.4m. (The Edge Malaysia)",
+    "takeaways": [
+     "Dufu's 3QFY26 net profit rose 48% to RM15.6m from RM10.5m, its highest in four years.",
+     "That beat the preceding quarter's RM13.9m.",
+     "Revenue rose 25.6% to RM89.6m from RM71.4m, on stronger HDD component sales.",
+     "Profit includes a RM2.8m fair value gain on listed shares. Without it, profit would be about RM12.8m, below the preceding quarter (computed here, before any tax effect).",
+     "This board holds no Kenanga coverage of Dufu. Digest context only."
+    ]
+   },
+   {
+    "h": "Paragon Globe gets shareholders' nod for RM398.0m Johor land sale to data centre firm DayOne",
+    "body": "Paragon Globe Bhd received shareholders' approval for its proposed sale of 65 acres of land in Iskandar Puteri, Johor, to a unit of Singapore-based DayOne Data Centers Ltd for RM398.1m. The property group said the disposal by its wholly owned subsidiary, PGB Landmark Sdn Bhd, is expected to generate an estimated net pro forma gain of RM187.4m as it continues to selectively monetise its land bank. A total of 24 shareholders holding 522.5m shares voted in favour of the disposal at an extraordinary general meeting, while two shareholders holding 202 shares voted against it. The votes in favour accounted for 99.9% of the shares voted. (The Edge Malaysia)",
+    "takeaways": [
+     "Shareholders approved Paragon Globe's sale of 65 acres in Iskandar Puteri, Johor, to a unit of Singapore-based DayOne Data Centers.",
+     "The headline says RM398.0m and the body RM398.1m. The difference is presumably rounding (an inference).",
+     "The seller, wholly owned PGB Landmark, expects a net pro forma gain of RM187.4m.",
+     "At the EGM, 24 shareholders with 522.5m shares voted for and two with 202 shares voted against.",
+     "This board's 11 September digest recorded a RM45.2m Johor data-centre development contract for Paragon Globe. This board holds no Kenanga coverage of the company. Digest context only."
+    ]
+   },
+   {
+    "h": "Bintai Kinden bags RM20.3m Tenaga contract in Pahang, second since PN17 exit",
+    "body": "Engineering services group Bintai Kinden Corp Bhd has secured a RM20.3m contract from Tenaga Nasional Bhd for power infrastructure works in Pahang, marking its second contract win from the utility giant since exiting Practice Note 17 (PN17) status in February. Kindenko Sdn Bhd will undertake the job involving the extension of two 45MVA, 132/33kV transformers at the PMU Avetani substation in Bentong. The project is expected to be completed within 540 days from the commencement date. (The Edge Malaysia)",
+    "takeaways": [
+     "Bintai Kinden has won a RM20.3m TNB contract for power infrastructure works in Pahang.",
+     "It is the group's second TNB win since it left PN17 status in February.",
+     "The job extends two 45MVA, 132/33kV transformers at the PMU Avetani substation in Bentong.",
+     "Kindenko Sdn Bhd will carry out the work within 540 days of commencement. The digest does not state Kindenko's relationship to Bintai Kinden.",
+     "This board holds no Kenanga coverage of Bintai Kinden. Its 2 September digest recorded a RM24.7m proposal for the group to exit a Melaka university concession. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "EU readying for major Australian resources investment, ambassador says",
+    "region": "Global",
+    "body": "The European Union expects a wave of investment into the Australian critical minerals sector as it pushes to diversify its supply chain away from China, the bloc's ambassador to Australia Lawrence Meredith said on Tuesday. (Reuters)",
+    "takeaways": [
+     "The EU expects a wave of investment into Australia's critical minerals sector.",
+     "The aim is to diversify its supply chain away from China.",
+     "The source is the EU's ambassador to Australia, Lawrence Meredith, speaking on Tuesday, 27 October.",
+     "The digest gives no investment amount. Today's separate Australian item describes a refreshed critical minerals strategy.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "Mida calls for coordinated investment strategy to position Borneo as investment hub",
+    "region": "Malaysia",
+    "body": "The Invest Borneo action plan should focus on shared value chains, improve cross-border ease of doing business and prioritise investment realisation to strengthen Borneo's position as an investment hub, according to the Malaysian Investment Development Authority (Mida). (The Edge Malaysia)",
+    "takeaways": [
+     "Mida says the Invest Borneo action plan should focus on shared value chains.",
+     "It also calls for easier cross-border business and a priority on realising investment.",
+     "The aim is to strengthen Borneo as an investment hub.",
+     "The digest gives no investment targets or figures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysia's median formal sector wage rises to RM3,000, but income gap remains wide",
+    "region": "Malaysia",
+    "body": "Malaysia's median monthly wage for formal sector employees rose 4.8% to RM3,000 in June, but a significant income gap persists between the country's highest- and lowest-paid workers, according to the Employee Wages Statistics (Formal Sector) Report for the Second Quarter of 2026, released by the Department of Statistics Malaysia (DOSM). (The Edge Malaysia)",
+    "takeaways": [
+     "The median monthly formal-sector wage rose 4.8% to RM3,000 in June.",
+     "DOSM says a significant gap persists between the highest- and lowest-paid workers.",
+     "The source is DOSM's formal-sector wage report for 2Q26.",
+     "Today's NESTLE note says most of the group's staff already earn above the RM2,000 minimum wage due in June 2027.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Govt studying phased implementation of automatic fuel adjustment for electricity bills from 2027, says Fadillah",
+    "region": "Malaysia",
+    "body": "The government is studying a proposal to introduce a phased implementation of the automatic fuel adjustment (AFA) mechanism beginning in 2027 to ensure that electricity bill protection is fairer and better targeted according to consumer categories. (The Edge Malaysia)",
+    "takeaways": [
+     "The government is studying a phased rollout of the automatic fuel adjustment (AFA) mechanism for electricity bills from 2027.",
+     "The stated aim is fairer bill protection, better targeted by consumer category.",
+     "The headline attributes it to Fadillah.",
+     "The digest gives no phasing schedule or tariff figures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "China's industrial profit growth picks up amid deepening economic divergence",
+    "region": "Asia Pacific",
+    "body": "China's industrial profits grew at a faster pace in September, though a deepening divergence across the economy weighed on business earnings. (The Edge Malaysia)",
+    "takeaways": [
+     "China's industrial profits grew faster in September.",
+     "A deepening divergence across the economy weighed on business earnings.",
+     "The digest gives no growth figure.",
+     "Its market table shows the Shanghai Composite down 1.33% on 27 October.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Australia revamps critical minerals strategy, targeting refining edge over China",
+    "region": "Asia Pacific",
+    "body": "Australia will refresh its critical minerals strategy to place greater emphasis on refining and processing, a senior minister said on Tuesday, as competition for investment intensifies and supply-chain concerns persist. (The Edge Malaysia)",
+    "takeaways": [
+     "Australia will refresh its critical minerals strategy, with more emphasis on refining and processing.",
+     "A senior minister announced it on Tuesday, 27 October.",
+     "The context is fiercer competition for investment and persistent supply-chain concerns.",
+     "The headline frames it as targeting a refining edge over China. The digest names no projects.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US consumer confidence rises for first time in four months",
+    "region": "Americas",
+    "body": "US consumer confidence unexpectedly rose in October for the first time in four months on brighter views about the job market and business conditions. (The Edge Malaysia)",
+    "takeaways": [
+     "US consumer confidence rose in October for the first time in four months.",
+     "The rise was unexpected.",
+     "It reflects brighter views on the job market and business conditions.",
+     "The digest gives no index reading.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US new home sales fall amid surge in mortgage rates",
+    "region": "Americas",
+    "body": "Sales of new homes in the US edged lower last month as homebuilders' efforts to trim prices and offer sales incentives failed to offset a surge in mortgage rates. (The Edge Malaysia)",
+    "takeaways": [
+     "US new home sales edged lower last month.",
+     "Builders trimmed prices and offered incentives.",
+     "Those efforts did not offset a surge in mortgage rates.",
+     "The digest gives no sales figure or mortgage rate.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Britain and EU finding way through 'Made in Europe' concerns, UK minister says",
+    "region": "Europe",
+    "body": "British business minister Jonathan Reynolds said on Tuesday that Britain and the European Union (EU) were \"finding a way through\" concerns over the bloc's proposed \"Made in Europe\" rules, a source of uncertainty for UK manufacturers and investors. (The Edge Malaysia)",
+    "takeaways": [
+     "UK business minister Jonathan Reynolds says Britain and the EU are 'finding a way through' concerns over 'Made in Europe' rules.",
+     "The rules are proposed by the EU.",
+     "They have been a source of uncertainty for UK manufacturers and investors.",
+     "The digest does not describe the rules' content.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Kenanga-Today-261028-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "result": "beat",
+   "prevRating": "OP",
+   "prevTp": 103.9,
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 103.9,
+   "price": 94.28,
+   "divYield": 2.25,
+   "high52": 122.2,
+   "low52": 88.7,
+   "mktSrc": "https://stockanalysis.com/quote/klse/NESTLE/",
+   "ticker": "NESTLE",
+   "name": "Nestl&eacute; (Malaysia) Berhad",
+   "conviction": null,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>'We like NESTLE for' is not a pick declaration.</b> The investment case reads 'We like NESTLE for: (i) its strong brand portfolio... and (ii) the relatively inelastic demand'. This board treats this wording as investment-case language, not a Top Pick, sector pick or most-attractive call (YTLPOWR, 27 October; GAMUDA; ANCOMNY). The 'favour' search also matches 'a favourable opportunity to accumulate' and 'continuing to trend favourably', and neither is a pick. The Kenanga Signal therefore reads None stated. This board's 8 October Consumer Sector Update named QL, not NESTLE, as the sector top pick. (2) <b>The 92% coverage figure is against the old forecast.</b> 9M core net profit of RM552.4m is 92% of 'our full-year forecast', but only 79% of the revised FY26F RM703m (computed here). Dividing RM703m by the 17% upgrade gives a pre-revision forecast of about RM601m, and 552.4/601 is 92% (computed here). The note does not print the old forecast, so that basis is an inference. The 87% against the street matches the RM637m consensus (computed here). (3) <b>Price timing.</b> RM94.28 is the 27 October close. Today's digest lists NESTLE as a top gainer at RM94.28 (+4.5%), and The Edge says it closed 28 October at RM97.98, up RM3.70 (reconciles). The 2.25% dividend yield is stockanalysis.com's figure at RM97.98, not Kenanga's. Kenanga's FY26F net yield is 3.0%. The 52-week range of RM88.70-122.20 is from stockanalysis.com and matches the note's cover. The Edge says the rise trimmed YTD losses to 13%. Kenanga's -17.3% YTD at RM94.28 would put RM97.98 at about -14% (computed here), so the bases presumably differ (an inference). (4) <b>Headline and core profit move differently.</b> 3QFY26 reported net profit of RM197.5m is below core RM205.4m. In 3QFY25 reported (RM114.0m) was above core (RM102.3m). So the quarter's reported growth is +73% and core growth +101%. For 9M, core excludes a RM5m net forex gain (557.6 less 552.4, reconciles). The note does not itemise the 3Q adjustment of about RM7.9m (computed here). (5) <b>Peer table against Kenanga's bands and this board.</b> Using upside plus net dividend yield as a proxy for expected total return (an inference, not a Kenanga method statement), NESTLE's 10.2% + 3.0% is about 13%, consistent with OUTPERFORM. 99SMART (MP, 22.2% + 1.6%) and PADINI (MP, 16.2% + 7.8%) sit above the 10% MARKET PERFORM ceiling. Targets match this board: F&amp;N RM28.95, MRDIY RM1.60 and QL RM4.40 (8 October), and 99SMART RM3.80 and AEON RM1.18 (28 September). KAREX's 8133.3% EPS growth is carried as printed. Charts are images and are not used.",
+   "catalyst": "Nestl&eacute; Malaysia's <b>9MFY26 core net profit of RM552m (+43% YoY) beat Kenanga's expectations</b>. Lower cocoa and coffee bean costs and better efficiency lifted EBITDA margin to <b>17.2%</b>, approaching pre-boycott levels, and the quarterly <b>dividend rose to 80 sen</b> from 60 sen. Kenanga <b>raises FY26-27 forecasts by 17% and 9%</b> but keeps the <b>DCF target at RM103.90</b> and <b>reiterates OUTPERFORM</b>. It sees FY27 price hikes as possible but expects no repeat of the 2023-24 commodity shock.",
+   "quote": "Reiterate OUTPERFORM with an unchanged DCF-derived TP of RM103.90.",
+   "summary": [
+    "The call. Kenanga reiterates OUTPERFORM with its DCF target unchanged at RM103.90 (WACC 5.3%, terminal growth 2%), 10.2% above the RM94.28 price (peer table; also computed here). That matches the RM103.90 this board recorded when the 8 October Consumer Sector Update cut it from RM106.00. FY26F and FY27F net profit rise 17% and 9% to RM703m and RM718m, about 10% and 6% above consensus of RM637m and RM675m (computed here). The target implies 34x FY27F PER, about 1SD below the 5-year mean of 41x.",
+    "The result. 9MFY26 core net profit was RM552m, excluding a RM5m net forex gain, up 43% YoY. Kenanga calls it above expectations at 92% of its forecast (see flag) and 87% of the street's. 9M usually makes up about 75-80% of the year. Revenue rose 7%, with domestic sales up 8% and exports 4%, partly helped by the RM100 one-off SARA cash aid paid in mid-February. Gross profit rose 17%, and GP margin widened 2.8ppt to 32.9% on cheaper cocoa and coffee beans and favourable forex. Lower finance costs and a lower effective tax rate added to the gain.",
+    "The quarter and the dividend. 3QFY26 revenue rose 2% QoQ to RM1,855.9m on steady domestic demand for Milo, Maggi and Nescafe. Core net profit rose 29% QoQ to RM205.4m and 101% YoY. Reported net profit rose 73% YoY to RM197.5m (see flag). GP margin was 34.1% and EBITDA margin 17.8%. The 9M EBITDA margin of 17.2% is approaching 1HFY23's roughly 18%. The 80 sen quarterly DPS (3QFY25: 60 sen) was above Kenanga's expectation, taking 9M DPS to 160 sen from 130 sen.",
+    "Briefing takeaways. Management says some FY27 price increases may come if raw material costs keep rebounding, but smaller than in 2023-24. Cocoa and coffee bean prices are still about 8% and 16% lower YTD, and El Nino is a further risk. 4QFY26 revenue growth should moderate on a high base and lower export prices, which track commodities. Domestic demand, market share and household penetration remain favourable, and management expects Budget 2027 measures to support spending. It sees limited impact from the RM2,000 minimum wage due in June 2027, because most employees already earn more.",
+    "The investment case and risks. Kenanga cites NESTLE's strong brand portfolio and the inelastic demand for staple food and beverages. After a roughly 17% fall YTD, partly from index-related selling after its exclusion from the MSCI Malaysia Index, it says the stock trades about 1.5SD below its 5-year mean valuation, an opportunity to accumulate. It expects healthier inventories to prevent a repeat of the 2023-24 cocoa shock, even if a super El Nino lifts prices. Risks: a sharp rise in commodity prices, a weaker MYR raising imported raw-material costs, and consumers trading down. The ESG rating is three stars, so the target is not adjusted. FY26F NDPS is 280 sen, a 3.0% yield."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "Maybank Investment Bank",
+    "date": "28 Oct 2026",
+    "opp": false,
+    "note": "Checked because the result beat expectations. The most recent dated call from a named non-Kenanga house read in full during this run is <b>Maybank Investment Bank</b>, as reported by The Edge Malaysia under the dateline <b>28 October</b>, the same day as this note. Maybank 'retained its buy call' and <b>raised its target to RM122.80</b>, about 18% above Kenanga's RM103.90 (computed here), arguing that lower cocoa and coffee prices will keep lifting margins. The article gives no pick language and no previous Maybank target. The Analyst Signal therefore reads <b>None stated</b>. The same article names <b>Hong Leong Investment Bank</b> as expecting earnings to 'hold firm in 2027 despite the turn in input costs', but gives no HLIB rating or target, so it is not counted as a call. The article also cites an unattributed Bloomberg tally of ratings and an average target. That is an anonymous consensus and is not used (rules/signals.md &sect;1). The Star's 28 October results article names no research house. <b>On divergence:</b> Maybank's BUY is the same direction as Kenanga's OUTPERFORM, so the marker is not set. <b>One of the nine houses</b> this board searches (Maybank Investment Bank) yielded a dated, publicly retrievable rating on NESTLE. CIMB, RHB, AmInvestment, Public Investment Bank, TA, MIDF and Affin Hwang yielded nothing read in full, and Hong Leong gave a view without a rating. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Edge Malaysia, 28 Oct 2026 &mdash; &lsquo;Nestl&eacute; Malaysia extends gain towards two-month high after 3Q beat, analysts raise target prices&rsquo; (Maybank IB, HLIB)",
+      "https://theedgemalaysia.com/node/823558"
+     ]
+    ]
+   },
+   "crossCheck": {
+    "note": "<b>The company's figures match Kenanga's table.</b> The Edge Malaysia (dateline 27 October) reports 3QFY26 net profit of RM197.51m against RM114.04m, and revenue of RM1.86b, up 5.3%. Kenanga shows RM197.5m, RM114.0m, and RM1,855.9m against RM1,762.3m (+5%). For 9M The Edge gives net profit of RM557.64m, up 44% from RM387.5m, and revenue of RM5.55b, up 6.7%, against Kenanga's RM557.6m, RM387.5m and RM5,549.4m (+7%). It reports a second interim dividend of 80 sen against 60 sen, payable 9 December to holders on record at 11 November. <b>Basis note:</b> Kenanga's 'above expectations' refers to core net profit (RM552.4m for 9M, +43%), which excludes forex. The reported figures above are the headline basis, and the two agree once that is allowed for. <b>Share reaction:</b> The Edge says the shares traded at RM90.50 at the 27 October midday break, before the results. They closed 28 October at RM97.98, up RM3.70 or nearly 4%, after touching RM98.88. The headline calls it a gain 'towards two-month high'.",
+    "cites": [
+     [
+      "The Edge Malaysia, 27 Oct 2026 &mdash; &lsquo;Nestl&eacute; Malaysia reports 73% jump in 3Q earnings, raises dividend to 80 sen per share&rsquo;",
+      "https://theedgemalaysia.com/node/823416"
+     ],
+     [
+      "The Edge Malaysia, 28 Oct 2026 &mdash; &lsquo;Nestl&eacute; Malaysia extends gain towards two-month high after 3Q beat, analysts raise target prices&rsquo;",
+      "https://theedgemalaysia.com/node/823558"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/NESTLE-261028-3Q26-RN-Kenanga.pdf"
+  }
+ ]
+}
