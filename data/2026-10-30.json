@@ -1,0 +1,392 @@
+{
+ "date": "2026-10-30",
+ "schema": 1,
+ "daily": {
+  "klci": 1611.2,
+  "chg": -2.71,
+  "pct": -0.17,
+  "inst": -138.8,
+  "instPct": 42.8,
+  "retail": 101.5,
+  "retailPct": 28.4,
+  "foreign": 37.3,
+  "foreignPct": 28.8,
+  "ideas": "Initiate Coverage: UTDPLT; ESG Thematic: Property; Thematic: Property; Results Note: CTOS; Rating Summary; Economic Viewpoint: Bond Market Weekly Outlook, Ringgit Weekly Outlook",
+  "news": [
+   {
+    "h": "Mi Technovation 3Q profit surges 84.8% on strong semiconductor demand",
+    "body": "Mi Technovation Bhd posted record earnings in the third quarter ended Sept 30, 2026 (3QFY2026), driven by higher sales volume, improved average selling prices and optimised product mix. The semiconductor equipment and materials group's net profit for 3QFY2026 surged 84.8% to RM66.8m from RM36.2m a year earlier. Revenue for the quarter rose 29.9% to RM256.0m from RM197.1m, driven by strong growth in its semiconductor material business, which more than double its revenue to RM154.0m from RM73.6m, on robust customer demand and higher sales across all segments. (The Edge Malaysia)",
+    "takeaways": [
+     "Mi Technovation posted record 3QFY26 net profit of RM66.8m, up from RM36.2m, on higher volumes, better selling prices and product mix.",
+     "The rounded figures give a rise of about 84.5% (computed here), against the 84.8% stated. The gap is presumably rounding (an inference).",
+     "Revenue rose 29.9% to RM256.0m from RM197.1m (reconciles), so profit grew much faster than revenue.",
+     "The semiconductor materials business more than doubled its revenue to RM154.0m from RM73.6m, about 60% of group revenue (computed here).",
+     "This board holds no Kenanga coverage of Mi Technovation. Digest context only."
+    ]
+   },
+   {
+    "h": "JF Technology proposes up to 388.0m free warrants to reward shareholders",
+    "body": "JF Technology Bhd has proposed issuing up to 388.0m free warrants to existing shareholders, giving them the option to buy more shares in the semiconductor test equipment maker over the next five years. The proposed bonus issue will be on the basis of two free warrants for every five shares held. This means a shareholder holding 1,000 JF Technology shares would receive 400 warrants at no cost. Each warrant gives its holder the right to buy one new share at a predetermined price within five years. (The Edge Malaysia)",
+    "takeaways": [
+     "JF Technology, a semiconductor test equipment maker, proposes a bonus issue of up to 388.0m free warrants.",
+     "The ratio is two warrants for every five shares held, so 1,000 shares receive 400 warrants.",
+     "At that ratio, 388.0m warrants implies a share base of about 970m (computed here; the digest does not state it).",
+     "Each warrant can be exercised into one new share at a predetermined price within five years. The digest gives no exercise price.",
+     "This board holds no Kenanga coverage of JF Technology. Digest context only."
+    ]
+   },
+   {
+    "h": "SLGC bags RM50.2m construction contract, first win after listing",
+    "body": "Newly-listed SLGC Bhd secured a RM50.2m contract to undertake the construction of detached industrial factories and related infrastructure works in Telok Panglima Garang, Selangor. The award comes just three weeks after the company's debut on Bursa Malaysia's ACE Market. SLGC said the engineering, procurement and construction contract was awarded to its wholly-owned subsidiary, SLG Construction Sdn Bhd, by ALH Construction Sdn Bhd. It will run for a 30-month period, with the commencement date yet to be fixed. (The Edge Malaysia)",
+    "takeaways": [
+     "SLGC, listed on the ACE Market about three weeks ago, has won its first contract since listing, worth RM50.2m.",
+     "The work is building detached industrial factories and related infrastructure in Telok Panglima Garang, Selangor.",
+     "The EPC contract went to wholly owned SLG Construction Sdn Bhd and was awarded by ALH Construction Sdn Bhd.",
+     "It runs for 30 months, but the start date has not been fixed.",
+     "This board holds no Kenanga coverage of SLGC. Digest context only."
+    ]
+   },
+   {
+    "h": "Taghill bags RM166.0m construction job in Penang",
+    "body": "Taghill Holdings Bhd has secured a RM166.0m contract to undertake the main building works for a commercial development in Penang. The construction group said the contract was awarded by Exsim Waterfront Sdn Bhd and comprises two towers in George Town with a total of 493 serviced apartment units. The 24-month contract is scheduled to commence on Jan 18, 2027. (The Edge Malaysia)",
+    "takeaways": [
+     "Taghill Holdings has won a RM166.0m main building works contract for a commercial development in Penang.",
+     "The client is Exsim Waterfront Sdn Bhd.",
+     "The job covers two towers in George Town with 493 serviced apartment units, about RM337,000 of contract value per unit (computed here).",
+     "The contract runs 24 months from 18 January 2027, so it adds nothing to revenue this year.",
+     "This board holds no Kenanga coverage of Taghill. Digest context only."
+    ]
+   },
+   {
+    "h": "Rohas Tecnic to acquire 51.0% stake in Centrix Engineering for RM14.3m",
+    "body": "Rohas Tecnic Bhd has entered into a conditional share sale agreement to acquire a 51.0% stake in Centrix Engineering (M) Sdn Bhd from Chin Kok You for up to RM14.3m in cash. Rohas said Centrix is principally involved in mechanical and electrical (M&amp;E) engineering and engineering, procurement, construction and commissioning solutions provider focused on mission-critical infrastructure, particularly power and cooling systems for telecommunications, data centres, advanced manufacturing, and renewable energy solutions. (The Star)",
+    "takeaways": [
+     "Rohas Tecnic has signed a conditional agreement to buy 51.0% of Centrix Engineering (M) Sdn Bhd from Chin Kok You.",
+     "The price is up to RM14.3m in cash, which values all of Centrix at up to about RM28.0m (computed here).",
+     "\"Up to\" suggests part of the price is contingent, but the digest does not give the terms.",
+     "Centrix does M&amp;E and EPCC work on power and cooling for telecoms, data centres, advanced manufacturing and renewable energy.",
+     "This board holds no Kenanga coverage of Rohas Tecnic. Digest context only; sourced to The Star."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Germany, South Korea deepen security partnership amid Russia-North Korea concerns",
+    "region": "Global",
+    "body": "Germany and South Korea set out an enhanced security partnership on Thursday, arguing that growing cooperation between Moscow and Pyongyang showed that European and Asian security were increasingly intertwined. (Reuters)",
+    "takeaways": [
+     "Germany and South Korea set out an enhanced security partnership on Thursday, 29 October.",
+     "Both cite growing cooperation between Russia and North Korea.",
+     "They argue European and Asian security are increasingly intertwined.",
+     "The digest gives no detail on what the partnership covers.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "Govt confident 2026 GDP growth will exceed 5%, strong economy to benefit the people — Amir Hamzah",
+    "region": "Malaysia",
+    "body": "The government is confident that economic growth will exceed 5.0% this year, marking the third consecutive year of growth above 5.0% under the Madani government, said Finance Minister II Datuk Seri Amir Hamzah Azizan. (The Edge Malaysia)",
+    "takeaways": [
+     "Finance Minister II Amir Hamzah Azizan says 2026 GDP growth will exceed 5.0%.",
+     "That would be a third straight year above 5.0% under the Madani government.",
+     "Kenanga's Bond Market Weekly Outlook today cites the same expectation as support for MGS.",
+     "The 23 October Bond Market Weekly row on this board recorded a 5.3% 3Q26 advance GDP print.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysia's trade with Brics nations exceeds RM846.5b in 2025",
+    "region": "Malaysia",
+    "body": "Malaysia's total trade with Brics member countries reached RM846.5b in 2025, up 3.4 per cent from RM818.04b in 2024 and accounted for 27.7 per cent of the country's total global trade. (The Edge Malaysia)",
+    "takeaways": [
+     "Malaysia's trade with Brics members reached RM846.5b in 2025, from RM818.04b in 2024.",
+     "Those two figures give growth of about 3.5% (computed here), against the 3.4% stated. Reported as printed.",
+     "Brics took 27.7% of Malaysia's total trade.",
+     "That implies total trade of about RM3.06 trillion in 2025 (computed here).",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Customs Dept's revenue collection up 23% to RM70.15b in first nine months of year",
+    "region": "Malaysia",
+    "body": "The Royal Malaysian Customs Department (JKDM) recorded a revenue collection of RM70.15b as of Sept 30, an increase of 23.06% or RM13.145b compared to the same period last year. (The Edge Malaysia)",
+    "takeaways": [
+     "Royal Malaysian Customs collected RM70.15b in the nine months to 30 September.",
+     "That is up RM13.145b, or 23.06%, on the same period last year.",
+     "The implied prior-year figure is about RM57.0b, and the 23.06% reconciles (computed here).",
+     "The digest does not break the collection down by tax type.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "SST retained as GST not an option amid high cost of living, says Amir Hamzah",
+    "region": "Malaysia",
+    "body": "The federal government will continue to implement the sales and service tax (SST), as the goods and services tax (GST) will not be considered due to the ongoing burden of the cost of living. (The Edge Malaysia)",
+    "takeaways": [
+     "The government will keep the sales and service tax (SST).",
+     "The goods and services tax (GST) will not be considered.",
+     "The reason given is the ongoing cost-of-living burden.",
+     "The digest gives no revenue figures for either tax.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Govt's targeted approach to assist SMEs affected by economic pressures, says Amir Hamzah",
+    "region": "Malaysia",
+    "body": "The government is taking a targeted approach to assist small and medium enterprises (SMEs) affected by economic pressures, including through loan rescheduling and restructuring, as well as payment deferments. (The Edge Malaysia)",
+    "takeaways": [
+     "The government says it is taking a targeted approach to help SMEs under economic pressure.",
+     "The tools named are loan rescheduling and restructuring, and payment deferments.",
+     "The digest gives no size, eligibility criteria or timing.",
+     "No Kenanga report in today's bundle discusses the measures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Japan plans to start reducing gasoline subsidies from December",
+    "region": "Asia Pacific",
+    "body": "Japanese Prime Minister Sanae Takaichi said on Thursday the government plans to raise its target gasoline price at the pump by 5 yen per litre each month from December towards next spring to keep in check growing expenses for fuel oil subsidies. (Reuters)",
+    "takeaways": [
+     "Prime Minister Sanae Takaichi said Japan will start unwinding gasoline subsidies.",
+     "The target pump price will rise 5 yen per litre each month from December towards next spring.",
+     "The aim is to contain the growing cost of fuel subsidies.",
+     "Kenanga's BoJ note today says high energy costs are squeezing Japanese profits and real incomes.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "US economy grows most in a year at a faster-than-expected 3.4% in 3Q",
+    "region": "Americas",
+    "body": "The US economy expanded in the third quarter (3Q) at the fastest pace in a year, supercharged by feverish business investment and a resilient American consumer. (The Edge Malaysia)",
+    "takeaways": [
+     "US 3Q GDP grew 3.4%, the fastest pace in a year and above expectations.",
+     "Business investment and consumer spending drove it.",
+     "The 23 October Ringgit Weekly row recorded a consensus of 3.0% QoQ against 2.2% previously.",
+     "Kenanga's Bond Market Weekly Outlook today cites the same 3.4% print.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US inflation heats up in September; consumer spending rises",
+    "region": "Americas",
+    "body": "US inflation accelerated in September as consumers paid more for gasoline and other goods, supporting economists' expectations of an interest rate increase from the Federal Reserve in December. (Reuters)",
+    "takeaways": [
+     "US inflation accelerated in September as gasoline and other goods cost more.",
+     "Consumer spending also rose.",
+     "Economists read it as support for a Fed hike in December.",
+     "The digest gives no figure. Kenanga's Bond and Ringgit notes today cite a 3.1% core PCE reading.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "ECB holds as Lagarde exit compounds alarm over oil, France",
+    "region": "Europe",
+    "body": "The European Central Bank (ECB) kept interest rates unchanged as news that president Christine Lagarde will step down early added to concern over energy costs and France. (The Edge Malaysia)",
+    "takeaways": [
+     "The ECB kept rates unchanged.",
+     "News that President Christine Lagarde will step down early added to market concern.",
+     "Energy costs and France were the other concerns named.",
+     "The digest gives no rate level. Kenanga's BoJ note today lists the euro area deposit rate at 2.50%, last raised in September 2026.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Kenanga-Today-261030-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "result": "inline",
+   "prevRating": "MP",
+   "prevTp": 0.48,
+   "type": "Results Note",
+   "rating": "MP",
+   "tp": 0.4,
+   "price": 0.405,
+   "divYield": 6.92,
+   "high52": 0.95,
+   "low52": 0.335,
+   "mktSrc": "https://stockanalysis.com/quote/klse/CTOS/",
+   "ticker": "CTOS",
+   "name": "CTOS Digital Berhad",
+   "conviction": null,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared.</b> The only conviction-search hit is 'We prefer to stay on the sidelines until services resume', which is the opposite of a pick. The Kenanga Signal reads None stated, as on 14 and 15 October. (2) <b>The consensus coverage figure does not reconcile.</b> 9MFY26 core net profit of RM68.3m is said to be 83% of the street's estimate. Against the RM81.0m consensus in the summary table it is 84% (computed here). The 90% against Kenanga's RM75.6m forecast reconciles. (3) <b>The segment text and table disagree.</b> The text says FI &amp; corporate revenue grew 11% YoY in 9MFY26. The segment table shows RM90.6m against RM87.5m, or 3.5%. Consumer (+12%) and commercial (+2%) match the table. The segment table also looks partly carried over: its 2Q and 3QFY25 totals (RM72.8m, RM72.1m) do not equal their own rows (RM86.9m, RM83.0m, computed here), and several YoY signs are reversed. (4) <b>Dividend forecasts conflict.</b> The summary table gives FY26F/27F DPS of 2.1/1.0 sen, a 5.2% FY26F yield. The 9M DPS is already 2.0 sen, so 2.1 sen would leave 0.1 sen for 4Q (computed here). The peer table gives a 3.6 sen net dividend and 8.9% yield, and this board's 15 October row carried 3.6/2.5 sen. The peer table's 2-year forward EPS of 3.9 sen also differs from the summary table's FY27F 3.7 sen. Which set is current cannot be settled from the note. On either yield, the -1.2% upside keeps total return inside the MARKET PERFORM band (computed here). (5) <b>Downtime cost figures.</b> About one week of downtime in 3Q cut revenue by RM3m and PATAMI by RM5m, a larger profit hit than revenue hit. Each further week is put at RM2.5m revenue and RM1.3m PATAMI. The note does not explain the 3Q PATAMI figure. Compensation costs are a possible reason (an inference). (6) <b>ESG and market data.</b> The text says no ESG adjustment 'given a 3-star rating' and points to 'Page 6', but the note has five pages. Today's page 5 table shows an overall three stars, which matches the text. This board's 15 October row read four stars from the same table. The cover gives a 52-week range of RM0.36-0.94. stockanalysis.com, not Kenanga, gives RM0.335-0.95 and a 6.92% trailing yield on RM0.03 of dividends.",
+   "catalyst": "CTOS's <b>9MFY26 core net profit of RM68.3m (+11% YoY) was broadly in line</b>, but most of the cyber incident's hit lands in <b>4QFY26</b>. CCRIS-related services and CTOS Score have been suspended since 23 September, and restoration depends on the regulator's review. Pioneer tax status expires on 8 November. Kenanga <b>cuts FY27F earnings by 5%</b> and <b>its target to RM0.40 from RM0.48</b>, and <b>keeps MARKET PERFORM</b> until services resume.",
+   "quote": "We lower our FY27F earnings by 5% and cut our TP by 17% to RM0.40 (from RM0.48), but maintain our MARKET PERFORM call.",
+   "summary": [
+    "The call. Kenanga keeps MARKET PERFORM and cuts its DCF-based target 17% to RM0.40 from RM0.48, matching the RM0.48 this board recorded on 15 October. The cut reflects rolling the valuation to FY27F, a higher tax rate after pioneer status expires, and lower FY27F earnings. The target is 1.2% below the RM0.405 price. There is no ESG adjustment for its three-star rating. FY26F core PATAMI is RM75.6m and FY27F RM83.9m (-4.8%), against consensus of RM81.0m and RM85.2m. The shares are down 48.9% YTD against the KLCI's -4.1%.",
+    "The result. 9MFY26 core net profit was RM68.3m, up 10.7% YoY, 90% of Kenanga's forecast and, by its count, 83% of consensus (see flag). 3Q26 core net profit was RM25.7m, up 13.7% QoQ and 2.9% YoY, on revenue of RM87.6m (+5.5% YoY). About one week of downtime cut 3Q revenue by RM3m and PATAMI by RM5m. Lower finance costs, lower depreciation and a 17% rise in associate earnings, which Kenanga links to RAM's shift to accrual accounting, offset higher cloud-migration and incident costs. A 0.7 sen dividend was declared.",
+    "Where revenue came from. 9MFY26 revenue rose 7.5% to RM256.0m. Kenanga's text credits FI &amp; corporate (+11%) and consumer (+12%), with commercial up only 2% despite higher ARPUs, possibly from customer-retention problems. The segment table shows FI &amp; corporate up 3.5% and international up 31.5% (see flag). Excluded from core profit were a RM2.1m gain on selling 10% of JurisTech, share-based payment reversals, RM1.5m of consolidation expenses, FX moves and fixed-asset impairments.",
+    "The incident. The outage has run past the third week of October, longer than CTOS expected. Each extra week costs about RM2.5m in revenue and RM1.3m in PATAMI. CTOS aims to make its final remediation submission to the regulator this week, and has had no indication of fines. No clients have terminated contracts, but new onboarding and launches are on hold. The guided RM12m FY26 PATAMI hit already includes contractual compensation, but further customer requests could raise it, and fee waivers of up to 12 months could reach into FY27. Price increases on some products will be deferred.",
+    "Outlook and risks. Pre-incident FY26 normalised PATAMI guidance of RM95m-100m is under review. CTOS plans to spend RM10m-15m in FY27 on cybersecurity and RMiT compliance, of which about RM3m-5m of opex may recur. From 8 November its tax rate rises to the 24% statutory rate. Cyber insurance exceeds the RM12m impact, but proceeds are not expected before FY27. Kenanga's forecasts assume services stay down until end-December. Longer term, the Consumer Credit Act 2025 could widen the market among BNPL lenders. Risks: customer losses to rival bureaus, another breach, compensation costs, weaker lending and regulation."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "RHB Investment Bank",
+    "date": "29 Oct 2026",
+    "opp": true,
+    "note": "Checked because Kenanga cut its target after a notable result. The most recent dated calls from named non-Kenanga houses found during this run are in The Edge Malaysia's post-results article, dateline <b>29 October</b>, the day before this note and after the 28 October results. <b>RHB Investment Bank</b> kept a <b>buy</b> call and expects 'a swift recovery in business once services resume'. <b>CIMB Securities</b> kept a <b>hold</b> call and warned that the tax incentive's expiry in November will lift the effective tax rate from about 8% to 24%, as Kenanga also notes. Neither target price is given in the article, and neither house uses pick language, so the Analyst Signal reads <b>None stated</b>. <b>On divergence:</b> RHB's BUY is the opposite direction to Kenanga's MARKET PERFORM, so the &#8644; marker is set. CIMB's HOLD is the same direction. This board's 15 October row recorded an HLIB downgrade to hold with a RM0.50 target, from a secondary source. The same article cites a Bloomberg tally of analysts and an average target. That is an anonymous consensus and is not used (rules/signals.md &sect;1). <b>Two of the nine houses</b> this board searches (RHB, CIMB) yielded dated, publicly retrievable calls after the results. Maybank, AmInvestment, HLIB, Public Investment Bank, TA, MIDF and Affin Hwang yielded none after the results. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Edge Malaysia, 29 Oct 2026 &mdash; &lsquo;CTOS rises after results, analysts warn of weaker quarter ahead&rsquo; (RHB buy, CIMB hold)",
+      "https://theedgemalaysia.com/node/823735"
+     ]
+    ]
+   },
+   "crossCheck": {
+    "note": "<b>The company's figures match Kenanga's table.</b> The Edge Malaysia (dateline 28 October) reports 3QFY26 net profit of RM27.54m against RM24.69m, up 11.5% (the headline says 12%), on revenue of RM87.57m against RM83.01m. 9M net profit was RM68.71m against RM60.29m, on revenue of RM256.02m against RM238.08m. A third interim dividend of 0.7 sen is payable on 27 January 2027. Kenanga's table shows reported net profit of RM27.5m and RM24.7m, revenue of RM87.6m and RM83.0m, 9M net profit of RM68.7m and RM60.3m, 9M revenue of RM256.0m and RM238.1m, and a 0.7 sen DPS. The Edge's 29 October article adds that the shares rose as much as 14% intraday to 44.5 sen before closing at 40.5 sen, the price Kenanga uses. It says Bank Negara Malaysia suspended the CCRIS database, which disrupted services including CTOS Score.",
+    "cites": [
+     [
+      "The Edge Malaysia, 28 Oct 2026 &mdash; &lsquo;CTOS 3Q net profit rises 12% despite cybersecurity disruption&rsquo;",
+      "https://theedgemalaysia.com/node/823677"
+     ],
+     [
+      "The Edge Malaysia, 29 Oct 2026 &mdash; &lsquo;CTOS rises after results, analysts warn of weaker quarter ahead&rsquo;",
+      "https://theedgemalaysia.com/node/823735"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/CTOS-261030-3Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": null,
+   "prevRating": null,
+   "prevTp": null,
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 37,
+   "price": 29,
+   "divYield": 4.28,
+   "high52": 35.88,
+   "low52": 24.02,
+   "mktSrc": "https://stockanalysis.com/quote/klse/UTDPLT/",
+   "ticker": "UTDPLT",
+   "name": "United Plantations Berhad",
+   "conviction": null,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>This is an Initiate Coverage report.</b> It is filed as a Company Update because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6), as with AMBEST on 11 September. There is no previous rating or target. (2) <b>No pick is declared.</b> The only conviction-search hit is 'preferred', in 'Preferred Valuation Method' and 'our preferred valuation method', which describe a valuation approach and do not name the stock as a pick. Calling UP 'the sector outlier', 'a rare plantation asset' and 'among the best managed' is praise, not a pick declaration. The Kenanga Signal reads None stated. (3) <b>Figures conflict within the note.</b> UP's FY26 average CPO price is RM4,150/MT on page 1 and RM4,100 on page 9. FY26 core EPS falls 6.4% in the page 9 text but 9.2% in the forecast table. FY27 CPO output falls 5% in one sentence on page 9 and 11%, to 0.255m MT from 0.287m MT, in the next. 0.255/0.287 is -11.1% (computed here). Sector ROE is 'range bound between 8-10%' with UP's gap 'over 3x' on page 1, but page 7 gives a 12% sector ROE for FY25 and a chart titled '2.5X Above The Sector'. 29%/12% is 2.4x (computed here). CPO yield is 6.5MT/ha on pages 1 and 5 and 6.58MT on page 12. (4) <b>Valuation arithmetic.</b> 2.00x times 3.25 times 1.05 times 1.20 gives the 8.19x stated. Times FY27F BVPS of RM4.48 that is about RM36.69 (computed here), presumably rounded to RM37.00 (an inference). The 3.25 factor is 26%/8% ROE. The ESG legend gives +3% for four stars and +5% for five, and Kenanga applies +5% for 4.5 stars. The 20% scarcity premium is the simple average of six deal premiums. Without Mentiga's 72.4%, the other five average about 9.2%, and the median of all six is about 7.8% (computed here). (5) <b>Kenanga states it has sole coverage.</b> As with TGUAN and BPPLAS, no named house call was found (see the Analyst Signal). (6) <b>Market data and extraction.</b> The cover gives a 52-week range of RM24.08-35.02. stockanalysis.com, not Kenanga, gives RM24.02-35.88 and a 4.28% trailing yield on RM1.25 of dividends. Kenanga's FY26F net yield is 4.1% on 120 sen. Charts, and page 14, are images and were not read. Typos: 'Maximum Vista Sdn Bh', 'Grut Santuary'.",
+   "catalyst": "Kenanga <b>initiates United Plantations at OUTPERFORM with a RM37.00 target</b>, 27.6% above RM29.00, and says it has <b>sole coverage</b>. Its case is quality: <b>CPO yield of 6.5MT/ha</b> against a 4.4MT sector average, <b>PATMI of RM17,852 per hectare</b>, 2.9x Kenanga's coverage average, and <b>ROE of 29%</b>. The target is an ROE-adjusted <b>8.2x FY27 PBV</b>, including a <b>20% scarcity premium</b>. Kenanga expects <b>FY26 core EPS to fall</b> on forward-sold CPO prices, then <b>rise 19% in FY27</b>.",
+   "quote": "We have sole coverage on the stock and initiate UP at a RM37.00 TP with an OUTPERFORM call.",
+   "summary": [
+    "The call. Kenanga initiates at OUTPERFORM with a RM37.00 target, 27.6% above the RM29.00 price, and FY26F net yield is 4.1% on 120 sen. The target is an ROE-adjusted PBV of 8.19x on FY27F book value. It starts from 2.0x, the top of the sector's 0.9-2.0x historic range. It scales that up 3.25x for UP's 26% three-year ROE against the sector's 8%, then adds 5% for a 4.5-star ESG rating and a 20% scarcity premium (see flag). Kenanga says it has sole coverage. Shares are down 2.6% YTD.",
+    "Why UP stands apart. UP produced 6.5MT of CPO per hectare in FY25, against a 4.4MT sector average, after 3% a year growth over ten years. Its Malaysian estates reached 6.85MT and Indonesia 5.30MT. FY25 PATMI was RM17,852 per planted hectare, about 3x the sector's RM6,073. That figure grew 11% a year over 2016-25, against 8% for the sector. PATMI margin averaged 33% over the decade, against 10% for integrated planters and 15% for non-integrated ones. ROE doubled to 29% in ten years. Each worker harvested 194MT of FFB in CY25, 43% above the sector's 136MT.",
+    "Prices and forward sales. UP sells CPO forward, so its prices lag peers when markets rise but swing less. Its 2016-25 average of RM3,167/MT was 1.5% below the sector's RM3,214. Kenanga expects sector CPO prices to average RM4,500/MT in 2026 and RM4,700 in 2027. Its reasons are slowing edible oil supply growth, now about 2% a year, plus biodiesel demand and a very strong El Ni&ntilde;o that it expects to cut 2027 palm oil output by 4%. UP is forecast at about RM4,100-4,150 in FY26 and RM4,500 in FY27 (see flag).",
+    "Forecasts. FY26F core net profit falls to RM738.2m from RM813.0m (core EPS 118.6 sen, -9.2%) on weaker realised prices. It then rises to RM879.8m in FY27F (141.4 sen, +19.2%). That is despite Kenanga forecasting FY27 CPO output down to 0.255m MT from 0.287m MT, as the El Ni&ntilde;o hits yields. UP is net cash and paid out 91% of earnings over the past five years. NDPS is 120 sen for FY26F and 123 sen for FY27F. There is no consensus to compare against. Risks: weather, commodity price swings and cost inflation.",
+    "Sustainability. Kenanga calls UP's sustainability record underappreciated. UP was the industry's first RSPO-certified planter in 2008, and 84% of its area is now RSPO-certified. Full certification of its remaining Indonesian area has slipped to 2028. It sets aside 8,022ha, or 13% of its land bank, for biodiversity and reuses up to 99.7% of its biomass. It says its workers earn 50% above the minimum wage. Risks Kenanga names: guest workers make up 80-85% of the workforce, 4,415ha of peat plantings, 93.34% traceability for conventional crude PKO against a missed 98% target, and an Indonesian lost-time injury rate about ten times Malaysia's."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found holding a dated, publicly retrievable call on United Plantations</b>, so the Analyst Signal reads <b>None stated</b>. Kenanga's note states 'We have sole coverage on the stock'. Searches of The Edge Malaysia and other permitted outlets for 2026 calls from the nine houses this board searches returned none. The only named house that surfaced, Apex Securities, is not among the nine and its call dates from 2023-24, so it is stale and not used. Aggregator 'average targets' that surfaced are prohibited and not used (rules/signals.md &sect;1). This is the TGUAN/BPPLAS lesson: where Kenanga has sole coverage, any street average would have no analysts behind it. <b>None of the nine houses</b> yielded a call. The divergence marker is not set. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": []
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/UTDPLT-261030-IC-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Property",
+   "name": "ESG Thematic: Property &mdash; ESG: Malaysia Industrial Park Developers",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>Filed as a Sector Update</b>, although the document is headed 'ESG Report', because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). The 13, 19, 21, 27 and 29 October ESG rows were filed the same way. (2) <b>One report, listed twice in the digest.</b> The Ideas line lists both 'ESG Thematic: Property' and 'Thematic: Property'. The bundle has one Property PDF, and Kenanga's own page summary lists 'Thematic (Property)' once. Five likely filenames for a separate thematic report returned 404. This board treats them as one report, a judgment call based on the bundle contents. (3) <b>No pick is declared.</b> None of the conviction-search terms appears. ECOWLD and SIMEPROP are named at OUTPERFORM, but Kenanga says those calls 'should continue to rest on the analysts' full investment cases'. The Kenanga Signal reads None stated, and the sector stays OVERWEIGHT. (4) <b>Targets against this board.</b> ECOWLD's RM2.35 matches this board's 25 September row. SIMEPROP is shown at RM2.01, against RM2.00 in this board's 26 August row and RM2.10 in the 3 September Market Strategy. This board flagged the same three-way gap on 8 October and cannot resolve it from retrieved sources. (5) <b>Wording and measure slips.</b> NCT's park is described 'in the original draft' as Malaysia's first GreenRE-certified ESG industrial park, which looks like an editing remnant. SIMEPROP's 'average worker quarters hygiene score above 90%' (text) and 'minimum 85% hygiene standards' (Table 2) are different measures. NCT's Batu Kawan block is '5,400 workers' in the text and '5,400-bed' in the table. ECOWLD's 71% rise to 3,351kWp implies about 1,960kWp before, and adding 1,396kWp gives about 3,356kWp, consistent within rounding (computed here). There is no rating, target or share price for this row, so those columns are empty by design.",
+   "catalyst": "Kenanga's ESG team reviews <b>five industrial park developers</b> on renewable energy, flood resilience, green certification and worker housing. It finds <b>encouraging initiatives but uneven disclosure</b>. Most figures are <b>group-wide, not park-specific</b>. <b>ECOWLD</b> stands out on installed solar (3,351kWp) and certification coverage. <b>SIMEPROP</b> stands out on park-specific evidence at Bandar Bukit Raja. Kenanga sees sustainability as a <b>potential differentiator</b> but says ESG credentials alone <b>do not establish a rental premium</b>. The sector stays <b>OVERWEIGHT</b>.",
+   "quote": "We therefore view sustainability readiness as a potentially important component of industrial park competitiveness rather than evidence, on its own, of superior earnings or valuation.",
+   "summary": [
+    "The question. Kenanga asks whether industrial parks now compete on sustainability as well as location. It points to policy: NIMP 2030 prioritises industrial decarbonisation and eco-industrial parks, NETR targets a 70% renewable share of installed capacity by 2050, and a carbon tax is proposed. It reviews SIMEPROP and ECOWLD, both OUTPERFORM, and AME Elite, Matrix Concepts and NCT Alliance, which are not rated. The four themes are renewable energy access, flood mitigation, green building certification and worker accommodation.",
+    "SIMEPROP and ECOWLD. SIMEPROP has 603kWp of rooftop solar across nine assets, generating 495MWh. Bandar Bukit Raja Business Park is GreenRE Platinum certified, with engineered platforms and critical roads raised above flood levels, and SIMEPROP reports an average worker-quarters hygiene score above 90%. ECOWLD's installed solar rose 71% to 3,351kWp, including 1,396kWp added in FY2025. 89% of its launched projects hold green ratings (39 certifications), and it audits worker quarters against Act 446. Neither breaks out how much is industrial-park specific.",
+    "The three unrated developers. AME Elite generated 640,553kWh of renewable power in FY2026, 28.0% of its electricity, and has over 9,000 worker beds, including 2,688 added in December 2025. Kenanga says its reported flood losses below 0.01% need clarifying before they can be compared. Matrix Concepts generated 1,511,630kWh of solar, 13.5% of its energy mix, but all of it outside its industrial parks. NCT Alliance's park has solar-ready buildings. Its proposed 150MW solar farm is only at MoU stage, and its 5,400-capacity worker block in Batu Kawan is due by 2028.",
+    "What the comparison shows. Kenanga's tables are an inventory, not a ranking. Solar capacity, generation and renewable share are disclosed on different bases, mostly group-wide, and several cells read 'not disclosed'. It warns that solar-ready design is not renewable consumption, an MoU is not commissioned capacity, and national targets do not guarantee renewable power at any particular park. Missing disclosure should not be read as no initiatives.",
+    "Kenanga's view. Sustainability may help developers attract tenants and manage energy, climate and labour risks, but any financial benefit depends on uptake, capex, operating savings and returns. It sees sustainability readiness as one part of park competitiveness, not evidence on its own of better earnings or valuation. The OUTPERFORM calls on ECOWLD and SIMEPROP rest on their full investment cases. Things to watch: park-level renewable supply, delivery of planned solar and housing, flood disclosure, certification coverage, worker welfare, and the final design of the carbon tax. No stock is named a pick."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Property-261030-ESG-Thematic-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Four points of caution on this row. (1) <b>In the bundle but not in the Ideas line.</b> The digest's Ideas of the Day omits this note. It is included because the bundle contents, not the Ideas line, define the day (rules/signals.md &sect;1). (2) <b>Forecast changes against this board's 21 September BoJ row.</b> The next hike moves to December from 1Q27, and Table 3 now shows '25 bps hike' for 17-18 December where September's table showed 'No change'. The end-2026 USDJPY forecast of 154.0 is unchanged. Today's digest prints USD/YEN at 158.02, 2.6% above that forecast (computed here). The note's assumption of a Fed hike to 4.25% (upper bound) matches this board's 29 October FOMC row. (3) <b>Table 1 against the 21 September row.</b> Australia is now 4.60% (+0.25%, Sep-26) against 4.35%, and the Philippines 5.50% (+0.50%, Oct-26) against 5.00%. Both are listed as moves made since, so they are not treated as conflicts. Thailand at 1.00% matches the 29 October FOMC row. As flagged in September, Table 3 shows the KIBB outlook for June as 'No change' against an actual hike. (4) Graphs 1 and 2 are images and were not read. This is an Economic Viewpoint with no stock call, so the rating, target and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "BoJ MPM (Oct-26)",
+   "name": "BoJ Monetary Policy Decision (29-30 October): At Target, December Hike in Play",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "The Bank of Japan <b>held at 1.25% in an 8-1 vote</b>, with one dissent for a hike. For the first time it judged <b>underlying inflation broadly at its 2.0% target</b>. Kenanga <b>pulls its next 25bp hike forward to December</b> from 1Q27, then sees <b>one hike in each half of 2027</b>, taking the rate to <b>2.00% by end-2027</b>. It keeps its <b>end-2026 USDJPY forecast at 154.0</b>. A surprise step-up in ETF sales caught equity markets off guard.",
+   "quote": "We now expect the next 25 bps hike in December (previously 1Q27), taking the OCR to 1.50%.",
+   "summary": [
+    "The decision. The BoJ kept its overnight call rate at 1.25% in an 8-1 vote, as broadly expected. Hajime Takata dissented in favour of a 25bp hike to 1.50%, arguing the BoJ should move faster towards neutral now that underlying inflation is at target. For the first time the BoJ judged underlying CPI inflation broadly in line with 2.0%, so its focus shifts from lifting inflation to preventing an overshoot.",
+    "ETF sales. In a unanimous decision, the BoJ will step up ETF sales from January 2027 to about JPY860.0b a year at book value, from about JPY330.0b, roughly 0.1% of market turnover. That shortens the disposal period to about 43 years from about 112. Kenanga says the move caught equity markets off guard, but its direct impact should stay small.",
+    "Forecasts. The BoJ expects growth to stay moderate but slow in fiscal 2026, as Middle East energy costs squeeze profits and real incomes, partly offset by government measures, easy financial conditions and AI-related demand. The median real GDP forecast rises to 0.7% for fiscal 2026 (from 0.6%) and slips to 0.7% for fiscal 2027 (from 0.8%). Core CPI medians are 2.5% for fiscal 2026 (unchanged) and 2.6% for fiscal 2027 (from 2.4%), with risks to the upside. A proposed food consumption tax cut, not in the forecasts, would lower fiscal 2027 core CPI by about 1.3ppt.",
+    "Kenanga's rate call. With its main condition met, Kenanga now expects a 25bp hike to 1.50% in December, then one hike each in 1H27 and 2H27, reaching 2.00% by end-2027. Governor Ueda stopped short of signalling December but said the BoJ 'will not sit and wait'. Next spring's wage talks will set the pace: Rengo targets about 6.0% with a 5.0% floor. The main downside risk is fiscal. The food tax cut would push measured core CPI well below 2.0% in fiscal 2027, which would make steady hikes harder to explain. Kenanga expects JGB yields to stay under upward pressure.",
+    "The yen. The decision gave the yen only slight support. Kenanga keeps its end-2026 USDJPY forecast at 154.0. It argues that a December BoJ hike alongside a Fed hike to 4.25% should stop the rate gap widening. It adds that normalisation and the threat of intervention should cap USDJPY around 160.0. If the BoJ waits until 1Q27, 154.0 faces upside risk. In Kenanga's table of policy rates, Japan's 1.25% is above only Thailand's 1.00%. No stock is named, so the Kenanga Signal reads None stated."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/EV_Bank-of-Japan_MPM7_261030-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>The new 10-year auction did get a private placement.</b> This board's 23 October row recorded Kenanga's warning that the new 10-year MGS 'lacks a private placement cushion'. Today's results show RM0.5b privately placed on top of the RM5.0b auction, for RM5.5b in total, at a 2.58x bid-to-cover. (2) <b>Forecast change.</b> Table 1's end-2026 10-year UST forecast is 5.00%, up from 4.80% in the 23 October row, matching the raise in this board's 29 October FOMC row. The MGS path (3.88%, 3.87%, 3.78%, 3.65%), USDMYR path and OPR path are unchanged and match today's Ringgit note. (3) <b>Pricing of a December Fed hike.</b> This note and today's Ringgit note put it at 'roughly 75%'. Yesterday's FOMC note said about 80%. Market pricing moves daily, so this is not treated as a conflict. Table 4's 10-year MGS 'last week' yield of 3.886% matches the 23 October row. The 7-year MGS shows a 107.3bp YoY rise, from 2.827% a year ago, roughly double its neighbours. That looks like a data issue but cannot be confirmed (an inference). (4) Pages 2-3 carry a garbled 'ENANGA' header and a Level 12 address, as on 23 October, and Graphs 1-7 are images that were not read. This is an Economic Viewpoint with no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "MY Bond Market Weekly",
+   "name": "Bond Market Weekly Outlook: Post-midterm Iran risk tilts MGS yields higher",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "MGS yields mostly rose, with the <b>10-year MGS up 4.2bps to 3.928%</b>, after September PPI hit a <b>51-month high of 12.0%</b>. Foreign investors <b>net sold RM3.7b</b> of government bonds. USTs were mixed, with the 10-year down 1.6bps to 4.937% after the Fed hold. Kenanga keeps its <b>3.88% end-2026 10-year MGS target</b>, expecting a BNM hold on 5 November to support a modest rally. It names <b>post-midterm Iran escalation</b> as the main risk.",
+   "quote": "Nevertheless, we maintain our 3.88% end-2026 10Y MGS yield target, as a BNM hold could reinforce expectations that policy normalisation will remain gradual, supporting a modest rally from current yield levels despite elevated geopolitical risks.",
+   "summary": [
+    "MGS sold off on inflation. MGS and GII yields moved -2.0 to +8.3bps, mostly higher. The 10-year MGS rose 4.2bps to 3.928% and the 10-year GII 3.9bps to 3.955%. Kenanga attributes it to September PPI accelerating to 12.0% from 10.7%, which raised fears of pass-through to broader inflation, and to elevated oil. The rise was contained by the government's expectation of GDP growth above 5.0% for a third year and a proposed USD50.0b investment in AI, technology and data centres.",
+    "Flows and auctions. Foreign investors net sold RM3.7b of government bonds in the week to 23 October. The new 10-year MGS 10/36 drew a 2.58x bid-to-cover on RM5.0b at an average 3.920%, with a further RM0.5b privately placed (see flag). Next is a reopening of the 15-year MGII, with RM3.5b on tender and RM1.5b to be privately placed.",
+    "USTs. UST yields moved -4.2 to +1.9bps. The 10-year fell 1.6bps to 4.937% and the 2-year 4.2bps to 4.598%. The front end led after the Fed held at 3.75-4.00% and Chair Warsh gave no December guidance. A five-month low in consumer confidence and the removal of tariffs on some Canadian goods also helped. These outweighed 3.4% 3Q GDP growth, a 3.1% core PCE reading and higher energy prices.",
+    "Outlook. Kenanga expects the 10-year UST to stay near 5.00%, with post-midterm Iran risk tilting it higher, in line with its end-2026 forecast raised to 5.00% from 4.80%. It sees December as the Fed's last hike while markets price about three more, so front-end yields should ease. For Malaysia, it expects BNM to hold at 2.75% on 5 November before a 25bp hike in 1Q27, so the statement's tone matters more than the decision. October PMI and US labour data are next.",
+    "Forecast path. Table 1 puts the 10-year MGS at 3.99% for Q3-26, then 3.88%, 3.87%, 3.78% and 3.65% through Q3-27. The 10-year UST goes from 5.28% to 5.00%, 4.75%, 4.69% and 4.58%, USDMYR from 4.08 to 4.00, 4.05, 4.02 and 3.95, and the OPR from 2.75% to 3.00% from Q1-27. Over the past month, the 10-year MGS is down 6.9bps and the 10-year UST down 34.8bps. Year to date they are up 43.6bps and 77.0bps."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/EV_Bond_Market_Weekly_Outlook_261030-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>The week is measured from two different days.</b> The text says the ringgit strengthened to 4.060 'from 4.086 last Friday'. Table 2's 'Last Week' column shows 4.083 dated 22/10/26, a Thursday, so its -0.58% weekly move is Thursday to Thursday. The 4.086 Friday close does not appear in the table. This board flagged the same pattern on 9 and 23 October. (2) <b>Wording.</b> 'The Fed held at 4.00%' refers to the upper bound of the 3.75-4.00% range. The 7-day RSI of 17.069 is below the note's own oversold threshold of 20, matching its 'looks oversold' comment. A Democratic sweep is the note's base case, which it treats as a split government under the current president. (3) <b>Cross-checks.</b> Table 1's USDMYR path (4.08, 4.00, 4.05, 4.02, 3.95, 3.90) is unchanged from the 23 October row and matches today's Bond Market Weekly. The 4.060 close, USDJPY 158.02 and EURUSD 1.115 match the digest's forex table (4.0597, 158.02, 1.1149). The 4.083 'last week' figure matches the 23 October row. This is an Economic Viewpoint with no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Ringgit Weekly",
+   "name": "Ringgit Weekly Outlook: October rally faces post-midterm Iran test",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "The ringgit <b>strengthened to 4.060/USD</b> from 4.086, as SK Hynix's results eased AI-bust fears and the 10-year UST fell below 5.00%. Investors trimmed USD longs even though the DXY stayed above 102. Kenanga expects a <b>Democratic sweep in the 3 November midterms</b> and a <b>BNM hold on 5 November</b>, but flags <b>post-election strikes on Iran</b> as the risk. It sees the ringgit at <b>4.04-4.08</b> next week, with its <b>4.00 year-end target still within reach</b>.",
+   "quote": "We see MYR volatile within 4.04–4.08 next week, with our 4.00 year-end target still within reach.",
+   "summary": [
+    "The week. The ringgit strengthened to 4.060 against the US dollar from 4.086 last Friday (see flag). SK Hynix's strong 3Q results eased fears of an AI bust, and the Fed held without December guidance. The 10-year UST broke below 5.00% on long-end buying while the DXY stayed above 102. Firm 3Q GDP and 3.1% core PCE kept a December hike live, but lower long-end yields narrowed the dollar's rate advantage, and investors cut USD longs built since early September.",
+    "Event risk. Prediction markets give a Democratic sweep in the 3 November midterms about a 66% chance. That is Kenanga's base case, and it expects a split government to limit tariff shifts. Iran is the bigger risk, because the White House has less reason to cap oil prices once the votes are cast. IRGC-reported mine hits on tankers in the Strait of Hormuz raise the risk of US-Israeli strikes after the election. Israel's official election results next week add to event risk.",
+    "What escalation would do. Strikes would lift oil and the UST term premium, reverse the 10-year's slide below 5.00% and revive dollar demand. Kenanga expects investors to stay defensive through the vote, which leaves the ringgit's gains exposed. It still sees the ringgit at 4.04-4.08 next week, with its 4.00 year-end target within reach.",
+    "Data ahead. Malaysia's October manufacturing PMI (previous 49.9) is due on 2 November. BNM decides on 5 November, where Kenanga expects a hold at 2.75%, so the statement's tone matters. The BoE decides the same day, with consensus a 25bp hike to 4.00%. US October payrolls on 6 November (consensus 55.0k, previous 29.0k) will test the roughly 75% priced chance of a December Fed hike.",
+    "Forecasts and technicals. Table 1 puts USDMYR at 4.08 for Q3-26, then 4.00, 4.05, 4.02, 3.95 and 3.90 through Q4-27. The ringgit is 0.15% weaker against the dollar year to date (from 4.054), but 3.05% stronger than a year ago (4.188). Regional peers fared worse: IDR, THB and PHP are 7-8% weaker year to date. USDMYR looks oversold (7-day RSI 17.1) and trades below its 5-day EMA of 4.069, with support at 4.039 and 4.020 and resistance at 4.083 and 4.107."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/10/EV_Ringgit-Weekly-Outlook_261030-Kenanga.pdf"
+  }
+ ]
+}

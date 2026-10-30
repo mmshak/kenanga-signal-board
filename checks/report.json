@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T06:48:20.611Z",
+ "generatedAt": "2026-10-30T20:45:12.459Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -44,10 +44,11 @@
   "2026-10-26",
   "2026-10-27",
   "2026-10-28",
-  "2026-10-29"
+  "2026-10-29",
+  "2026-10-30"
  ],
- "rows": 176,
- "verified": 175,
+ "rows": 182,
+ "verified": 181,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -686,6 +687,42 @@
    "date": "2026-10-29",
    "row": "US FOMC (Oct-26)",
    "msg": "Three points of caution on this row. (1) <b>Forecast changes against earlier rows.</b> The end-2026 10-year UST forecast is raised to 5.00% from 4.80%, the figure recorded in this board's 17 September FOMC row and 23 October Bond Market Weekly row. The USDMYR forecasts of 4.00 for end-2026 and 3.90 for end-2027 match the 23 October Ringgit Weekly row's path; the 17 September FOMC row had carried a 3.95 year-end forecast, so 4.00 is a change since then. The 10-year MGS target of 3.88% and the OPR path (hold on 5 November, 25bp hike to 3.00% in 1Q27) are unchanged. The December hike call matches the 20 October CPI and 23 October Ringgit rows. (2) <b>Table 2 shows the Fed's September hike against a Kenanga outlook of 'No change'.</b> That is Kenanga's forecast at the time, consistent with the 17 September row's 'We think the hike was a policy error'. Today's note gives the next meeting as 9 December; Table 2 lists it as 8-9 December. (3) Graphs 1 and 2 are images and were not read. This is an Economic Viewpoint with no stock call, so the rating, target and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-30",
+   "row": "CTOS",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared.</b> The only conviction-search hit is 'We prefer to stay on the sidelines until services resume', which is the opposite of a pick. The Kenanga Signal reads None stated, as on 14 and 15 October. (2) <b>The consensus coverage figure does not reconcile.</b> 9MFY26 core net profit of RM68.3m is said to be 83% of the street's estimate. Against the RM81.0m consensus in the summary table it is 84% (computed here). The 90% against Kenanga's RM75.6m forecast reconciles. (3) <b>The segment text and table disagree.</b> The text says FI &amp; corporate revenue grew 11% YoY in 9MFY26. The segment table shows RM90.6m against RM87.5m, or 3.5%. Consumer (+12%) and commercial (+2%) match the table. The segment table also looks partly carried over: its 2Q and 3QFY25 totals (RM72.8m, RM72.1m) do not equal their own rows (RM86.9m, RM83.0m, computed here), and several YoY signs are reversed. (4) <b>Dividend forecasts conflict.</b> The summary table gives FY26F/27F DPS of 2.1/1.0 sen, a 5.2% FY26F yield. The 9M DPS is already 2.0 sen, so 2.1 sen would leave 0.1 sen for 4Q (computed here). The peer table gives a 3.6 sen net dividend and 8.9% yield, and this board's 15 October row carried 3.6/2.5 sen. The peer table's 2-year forward EPS of 3.9 sen also differs from the summary table's FY27F 3.7 sen. Which set is current cannot be settled from the note. On either yield, the -1.2% upside keeps total return inside the MARKET PERFORM band (computed here). (5) <b>Downtime cost figures.</b> About one week of downtime in 3Q cut revenue by RM3m and PATAMI by RM5m, a larger profit hit than revenue hit. Each further week is put at RM2.5m revenue and RM1.3m PATAMI. The note does not explain the 3Q PATAMI figure. Compensation costs are a possible reason (an inference). (6) <b>ESG and market data.</b> The text says no ESG adjustment 'given a 3-star rating' and points to 'Page 6', but the note has five pages. Today's page 5 table shows an overall three stars, which matches the text. This board's 15 October row read four stars from the same table. The cover gives a 52-week range of RM0.36-0.94. stockanalysis.com, not Kenanga, gives RM0.335-0.95 and a 6.92% trailing yield on RM0.03 of dividends."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-30",
+   "row": "UTDPLT",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>This is an Initiate Coverage report.</b> It is filed as a Company Update because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6), as with AMBEST on 11 September. There is no previous rating or target. (2) <b>No pick is declared.</b> The only conviction-search hit is 'preferred', in 'Preferred Valuation Method' and 'our preferred valuation method', which describe a valuation approach and do not name the stock as a pick. Calling UP 'the sector outlier', 'a rare plantation asset' and 'among the best managed' is praise, not a pick declaration. The Kenanga Signal reads None stated. (3) <b>Figures conflict within the note.</b> UP's FY26 average CPO price is RM4,150/MT on page 1 and RM4,100 on page 9. FY26 core EPS falls 6.4% in the page 9 text but 9.2% in the forecast table. FY27 CPO output falls 5% in one sentence on page 9 and 11%, to 0.255m MT from 0.287m MT, in the next. 0.255/0.287 is -11.1% (computed here). Sector ROE is 'range bound between 8-10%' with UP's gap 'over 3x' on page 1, but page 7 gives a 12% sector ROE for FY25 and a chart titled '2.5X Above The Sector'. 29%/12% is 2.4x (computed here). CPO yield is 6.5MT/ha on pages 1 and 5 and 6.58MT on page 12. (4) <b>Valuation arithmetic.</b> 2.00x times 3.25 times 1.05 times 1.20 gives the 8.19x stated. Times FY27F BVPS of RM4.48 that is about RM36.69 (computed here), presumably rounded to RM37.00 (an inference). The 3.25 factor is 26%/8% ROE. The ESG legend gives +3% for four stars and +5% for five, and Kenanga applies +5% for 4.5 stars. The 20% scarcity premium is the simple average of six deal premiums. Without Mentiga's 72.4%, the other five average about 9.2%, and the median of all six is about 7.8% (computed here). (5) <b>Kenanga states it has sole coverage.</b> As with TGUAN and BPPLAS, no named house call was found (see the Analyst Signal). (6) <b>Market data and extraction.</b> The cover gives a 52-week range of RM24.08-35.02. stockanalysis.com, not Kenanga, gives RM24.02-35.88 and a 4.28% trailing yield on RM1.25 of dividends. Kenanga's FY26F net yield is 4.1% on 120 sen. Charts, and page 14, are images and were not read. Typos: 'Maximum Vista Sdn Bh', 'Grut Santuary'."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-30",
+   "row": "Property",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>Filed as a Sector Update</b>, although the document is headed 'ESG Report', because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). The 13, 19, 21, 27 and 29 October ESG rows were filed the same way. (2) <b>One report, listed twice in the digest.</b> The Ideas line lists both 'ESG Thematic: Property' and 'Thematic: Property'. The bundle has one Property PDF, and Kenanga's own page summary lists 'Thematic (Property)' once. Five likely filenames for a separate thematic report returned 404. This board treats them as one report, a judgment call based on the bundle contents. (3) <b>No pick is declared.</b> None of the conviction-search terms appears. ECOWLD and SIMEPROP are named at OUTPERFORM, but Kenanga says those calls 'should continue to rest on the analysts' full investment cases'. The Kenanga Signal reads None stated, and the sector stays OVERWEIGHT. (4) <b>Targets against this board.</b> ECOWLD's RM2.35 matches this board's 25 September row. SIMEPROP is shown at RM2.01, against RM2.00 in this board's 26 August row and RM2.10 in the 3 September Market Strategy. This board flagged the same three-way gap on 8 October and cannot resolve it from retrieved sources. (5) <b>Wording and measure slips.</b> NCT's park is described 'in the original draft' as Malaysia's first GreenRE-certified ESG industrial park, which looks like an editing remnant. SIMEPROP's 'average worker quarters hygiene score above 90%' (text) and 'minimum 85% hygiene standards' (Table 2) are different measures. NCT's Batu Kawan block is '5,400 workers' in the text and '5,400-bed' in the table. ECOWLD's 71% rise to 3,351kWp implies about 1,960kWp before, and adding 1,396kWp gives about 3,356kWp, consistent within rounding (computed here). There is no rating, target or share price for this row, so those columns are empty by design."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-30",
+   "row": "BoJ MPM (Oct-26)",
+   "msg": "Four points of caution on this row. (1) <b>In the bundle but not in the Ideas line.</b> The digest's Ideas of the Day omits this note. It is included because the bundle contents, not the Ideas line, define the day (rules/signals.md &sect;1). (2) <b>Forecast changes against this board's 21 September BoJ row.</b> The next hike moves to December from 1Q27, and Table 3 now shows '25 bps hike' for 17-18 December where September's table showed 'No change'. The end-2026 USDJPY forecast of 154.0 is unchanged. Today's digest prints USD/YEN at 158.02, 2.6% above that forecast (computed here). The note's assumption of a Fed hike to 4.25% (upper bound) matches this board's 29 October FOMC row. (3) <b>Table 1 against the 21 September row.</b> Australia is now 4.60% (+0.25%, Sep-26) against 4.35%, and the Philippines 5.50% (+0.50%, Oct-26) against 5.00%. Both are listed as moves made since, so they are not treated as conflicts. Thailand at 1.00% matches the 29 October FOMC row. As flagged in September, Table 3 shows the KIBB outlook for June as 'No change' against an actual hike. (4) Graphs 1 and 2 are images and were not read. This is an Economic Viewpoint with no stock call, so the rating, target and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-30",
+   "row": "MY Bond Market Weekly",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>The new 10-year auction did get a private placement.</b> This board's 23 October row recorded Kenanga's warning that the new 10-year MGS 'lacks a private placement cushion'. Today's results show RM0.5b privately placed on top of the RM5.0b auction, for RM5.5b in total, at a 2.58x bid-to-cover. (2) <b>Forecast change.</b> Table 1's end-2026 10-year UST forecast is 5.00%, up from 4.80% in the 23 October row, matching the raise in this board's 29 October FOMC row. The MGS path (3.88%, 3.87%, 3.78%, 3.65%), USDMYR path and OPR path are unchanged and match today's Ringgit note. (3) <b>Pricing of a December Fed hike.</b> This note and today's Ringgit note put it at 'roughly 75%'. Yesterday's FOMC note said about 80%. Market pricing moves daily, so this is not treated as a conflict. Table 4's 10-year MGS 'last week' yield of 3.886% matches the 23 October row. The 7-year MGS shows a 107.3bp YoY rise, from 2.827% a year ago, roughly double its neighbours. That looks like a data issue but cannot be confirmed (an inference). (4) Pages 2-3 carry a garbled 'ENANGA' header and a Level 12 address, as on 23 October, and Graphs 1-7 are images that were not read. This is an Economic Viewpoint with no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-10-30",
+   "row": "Ringgit Weekly",
+   "msg": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>The week is measured from two different days.</b> The text says the ringgit strengthened to 4.060 'from 4.086 last Friday'. Table 2's 'Last Week' column shows 4.083 dated 22/10/26, a Thursday, so its -0.58% weekly move is Thursday to Thursday. The 4.086 Friday close does not appear in the table. This board flagged the same pattern on 9 and 23 October. (2) <b>Wording.</b> 'The Fed held at 4.00%' refers to the upper bound of the 3.75-4.00% range. The 7-day RSI of 17.069 is below the note's own oversold threshold of 20, matching its 'looks oversold' comment. A Democratic sweep is the note's base case, which it treats as a split government under the current president. (3) <b>Cross-checks.</b> Table 1's USDMYR path (4.08, 4.00, 4.05, 4.02, 3.95, 3.90) is unchanged from the 23 October row and matches today's Bond Market Weekly. The 4.060 close, USDJPY 158.02 and EURUSD 1.115 match the digest's forex table (4.0597, 158.02, 1.1149). The 4.083 'last week' figure matches the 23 October row. This is an Economic Viewpoint with no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
   }
  ],
  "verdict": "PASS"
