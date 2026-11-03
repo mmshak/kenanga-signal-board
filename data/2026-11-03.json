@@ -1,0 +1,344 @@
+{
+ "date": "2026-11-03",
+ "schema": 1,
+ "daily": {
+  "klci": 1619.5,
+  "chg": 3.91,
+  "pct": 0.24,
+  "inst": -129.6,
+  "instPct": 38.7,
+  "retail": 27.0,
+  "retailPct": 27.9,
+  "foreign": 102.5,
+  "foreignPct": 33.4,
+  "ideas": "Company Update: CTOS, DIALOG, INFOM; On Our Radar: VLB; Economic Viewpoint: Malaysia Manufacturing PMI (Oct-26)",
+  "news": [
+   {
+    "h": "ISF Group grows order book to RM225.5m with data centre contracts worth RM83.2m",
+    "body": "ISF Group Bhd has secured four contracts worth a combined RM83.2m for a hyperscale data centre in Port Dickson, Negeri Sembilan, the largest amount it has announced to date. The three subcontracts are worth RM73.3m and involve cold water systems, rainwater harvesting, water distribution and sanitary services, while the RM9.9m letter of award covers external sewerage works. Following the latest wins, the group's unbilled order book has increased to RM225.5m, providing earnings visibility through the financial year ending Dec 31, 2029 (FY2029). (The Edge Malaysia)",
+    "takeaways": [
+     "ISF Group won four contracts worth RM83.2m for a hyperscale data centre in Port Dickson, its largest announced award to date.",
+     "Three subcontracts worth RM73.3m cover cold water, rainwater harvesting, water distribution and sanitary work. A RM9.9m letter of award covers external sewerage. The two parts add up to RM83.2m (computed here).",
+     "The unbilled order book is now RM225.5m, so these wins are about 37% of it (computed here).",
+     "The company says the order book gives earnings visibility through FY2029. The digest gives no billing schedule.",
+     "This board holds no Kenanga coverage of ISF Group. Digest context only."
+    ]
+   },
+   {
+    "h": "Signature Alliance bags RM51.6m contract to redevelop Langkawi aquarium",
+    "body": "Signature Alliance Group Bhd said it has secured a RM51.6m contract to undertake the redevelopment of the Underwater World Langkawi aquarium on the island. The group said the contract was awarded to its wholly owned subsidiary, Zig Zag Builders (M) Sdn Bhd, on Monday (Nov 2) by the aquarium's owner and operator, Underwater World Langkawi Sdn Bhd. Underwater World Langkawi, located in Pantai Cenang, has been operating since August 1995. It is part of Main Market-listed Eden Inc Bhd. (The Edge Malaysia)",
+    "takeaways": [
+     "Signature Alliance Group has won a RM51.6m contract to redevelop the Underwater World Langkawi aquarium.",
+     "Wholly owned Zig Zag Builders (M) Sdn Bhd received the award on Monday, 2 November.",
+     "The client is the aquarium's owner and operator, Underwater World Langkawi Sdn Bhd, part of Main Market-listed Eden Inc Bhd.",
+     "The aquarium in Pantai Cenang has operated since August 1995. The digest gives no contract duration.",
+     "This board holds no Kenanga coverage of Signature Alliance. Digest context only."
+    ]
+   },
+   {
+    "h": "Northern Solar secures solar-plus-battery projects totalling 189MW for data centres",
+    "body": "Northern Solar Holdings Bhd has secured two letters of award to supply renewable energy from solar projects with a combined capacity of 189 megawatts (MW), coupled with battery storage systems, to two data centre projects. The first project involves a 100MW solar facility with a battery energy storage system (BESS) to serve a data centre requiring 262.8m kilowatt-hours (kWh) of electricity annually. The second involves an 89MW solar facility, also equipped with BESS, for another data centre with an annual electricity requirement of 233.9m kWh. (The Edge Malaysia)",
+    "takeaways": [
+     "Northern Solar Holdings has two letters of award to supply solar power with battery storage to two data centres.",
+     "The projects are 100MW and 89MW, which add up to the stated 189MW (computed here).",
+     "The two data centres need 262.8m kWh and 233.9m kWh a year, about 496.7m kWh in total (computed here).",
+     "Those needs work out to about 30MW and 27MW of round-the-clock load (computed here). That helps explain why each site is paired with battery storage. The digest gives no contract value.",
+     "This board holds no Kenanga coverage of Northern Solar. Digest context only."
+    ]
+   },
+   {
+    "h": "Econpile bags RM73.0m contract for new Tung Shin Hospital building",
+    "body": "Econpile Holdings Bhd's subsidiary has secured a RM73.0m contract to carry out piling and foundation works for a new hospital building at Hospital Tung Shin in Kuala Lumpur. The contract, awarded by SA Architects Sdn Bhd on behalf of Hospital Tung Shin, covers earth-retaining structures, piling, pile caps and the lowest basement slab. The project involves demolishing existing structures and constructing a new hospital building with multiple levels of hospital facilities, car parks, offices and basement levels. The project is expected to be completed within 21 months. (The Edge Malaysia)",
+    "takeaways": [
+     "An Econpile Holdings subsidiary has won a RM73.0m piling and foundation contract for a new building at Hospital Tung Shin, Kuala Lumpur.",
+     "SA Architects Sdn Bhd awarded the contract on the hospital's behalf.",
+     "The scope covers earth-retaining structures, piling, pile caps and the lowest basement slab.",
+     "Completion is expected within 21 months. The digest does not say whether that is Econpile's package or the whole project.",
+     "This board holds no Kenanga coverage of Econpile. Digest context only."
+    ]
+   },
+   {
+    "h": "Federal International bags RM47.0m related-party contract for PJ Selatan Sentral project",
+    "body": "Federal International Holdings Bhd has secured a RM47.0m contract to carry out structural works for a development project at PJ Selatan Sentral in Petaling Jaya, Selangor. FIHB said its subsidiary, Federal Builders Industries Sdn Bhd, had accepted a letter of award from related party Perumahan Masteron Sdn Bhd. The works cover the basement, podium, facilities and transfer floor of the proposed development. The 13-month contract is expected to commence on Nov 16 and be completed by Dec 15, 2027. (The Edge Malaysia)",
+    "takeaways": [
+     "Federal International Holdings has won a RM47.0m structural works contract at PJ Selatan Sentral, Petaling Jaya.",
+     "The client, Perumahan Masteron Sdn Bhd, is a related party. Subsidiary Federal Builders Industries Sdn Bhd accepted the award.",
+     "The work covers the basement, podium, facilities and transfer floor.",
+     "It runs 13 months, from 16 November to 15 December 2027. Those dates span about 13 months (computed here).",
+     "This board holds no Kenanga coverage of Federal International. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Oman proposes preferential trade, investment deal with China",
+    "region": "Global",
+    "body": "China and Oman lauded a new starting point in bilateral relations on Monday, with the Sultan of Oman proposing to Chinese President Xi Jinping a preferential bilateral trade and investment agreement. (The Edge Malaysia)",
+    "takeaways": [
+     "On Monday, 2 November, the Sultan of Oman proposed a preferential bilateral trade and investment agreement to President Xi Jinping.",
+     "Both sides called it a new starting point in relations.",
+     "The digest gives no terms, sectors or timetable.",
+     "It is a proposal, not a signed agreement.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysian manufacturing sector regains growth in October \u2014 PMI data",
+    "region": "Malaysia",
+    "body": "October saw renewed growth in output and new orders, signalling a fresh improvement in Malaysia's manufacturing health, according to the latest S&amp;P Global purchasing managers index (PMI) data. (The Edge Malaysia)",
+    "takeaways": [
+     "S&amp;P Global's October PMI shows output and new orders growing again in Malaysian manufacturing.",
+     "Kenanga's Economic Viewpoint today puts the index at 51.0, up from 49.9 in September.",
+     "Kenanga says new orders grew at the fastest pace in 54 months.",
+     "Kenanga warns that part of the rise may be exporters front-loading shipments ahead of the festive season. It also notes business confidence fell to a six-month low.",
+     "Digest context only; sourced to The Edge Malaysia. See today's PMI row."
+    ]
+   },
+   {
+    "h": "Approved investments for Johor-Singapore SEZ hit RM88.8b \u2014 economy minister",
+    "region": "Malaysia",
+    "body": "The Johor-Singapore Special Economic Zone (JS-SEZ) recorded RM88.83 billion in approved investments between January 2025 and June 2026, with the potential to create 28,755 jobs, said Economy Minister Akmal Nasrullah Mohd Nasir. (The Edge Malaysia)",
+    "takeaways": [
+     "The Johor-Singapore SEZ recorded RM88.83b of approved investments from January 2025 to June 2026.",
+     "Economy Minister Akmal Nasrullah Mohd Nasir says they could create 28,755 jobs.",
+     "That is about RM3.1m of approved investment per potential job (computed here), which points to capital-intensive projects.",
+     "These are approvals, not realised investment. The digest gives no breakdown by sector or source country.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Zahid touts USD15.0b potential investments by Chinese business delegation in Malaysia",
+    "region": "Malaysia",
+    "body": "A Chinese business delegation has indicated intentions to invest USD15 billion (RM61 billion) in Malaysia, across six high-potential sectors including electrical and electronics (E&amp;E), semiconductors, and the halal industry, said Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi. (The Edge Malaysia)",
+    "takeaways": [
+     "Deputy Prime Minister Ahmad Zahid Hamidi says a Chinese business delegation intends to invest USD15b (RM61b) in Malaysia.",
+     "The ringgit figure implies about RM4.07 per USD (computed here), in line with the digest's USD/MYR close of 4.0715.",
+     "It covers six sectors. The digest names E&amp;E, semiconductors and halal.",
+     "These are stated intentions, not approvals or commitments.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Zahid: Malaysia has six-month food supply, no emergency measures needed",
+    "region": "Malaysia",
+    "body": "Malaysia has sufficient food supply capacity for at least six months and sees no need for emergency stockpiling measures despite concerns over potential disruptions to essential supplies, said Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi. (The Edge Malaysia)",
+    "takeaways": [
+     "Deputy Prime Minister Ahmad Zahid Hamidi says Malaysia has food supply capacity for at least six months.",
+     "He sees no need for emergency stockpiling.",
+     "The comment responds to concerns about possible disruption to essential supplies.",
+     "The digest names no commodities and gives no figures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "BOJ flags progress in anchoring inflation around target",
+    "region": "Asia Pacific",
+    "body": "Japan has made gradual progress towards anchoring inflation around the central bank's 2% target, the Bank of Japan (BOJ) said in a report on Monday, bolstering the case for raising interest rates. (The Edge Malaysia)",
+    "takeaways": [
+     "The Bank of Japan said on Monday, 2 November, that Japan has made gradual progress towards anchoring inflation around its 2% target.",
+     "The report strengthens the case for raising rates.",
+     "The digest gives no policy-rate level or timing.",
+     "Kenanga's PMI note today has Japan's manufacturing PMI at 53.3 in October, down from 54.1.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US voters in a sour economic mood heading into midterm elections",
+    "region": "Americas",
+    "body": "On the eve of elections that will decide whether President Donald Trump's Republican Party keeps control of Congress, voters' minds are on the economy, with high and rising prices a key issue and many blaming his policies, specifically tariffs and the Iran war, for the nagging inflation. (Reuters)",
+    "takeaways": [
+     "US midterm elections will decide whether President Trump's Republican Party keeps control of Congress.",
+     "Voters' main concern is the economy, especially high and rising prices.",
+     "Many blame his policies for inflation, specifically tariffs and the Iran war.",
+     "The digest gives no polling figures.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "Euro zone factory growth eases in October but remains solid, PMI shows",
+    "region": "Europe",
+    "body": "Euro zone manufacturing activity growth held up well in October, albeit easing as new order growth slowed and rising costs from energy and supply-chain disruptions squeezed margins, a survey showed on Monday. (Reuters)",
+    "takeaways": [
+     "Euro zone manufacturing kept growing in October, though more slowly.",
+     "New order growth slowed.",
+     "Rising energy and supply-chain costs squeezed margins.",
+     "The digest gives no index level.",
+     "Digest context only; sourced to Reuters."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/Kenanga-Today-261103-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "result": null,
+   "prevRating": "MP",
+   "prevTp": 0.4,
+   "type": "Company Updates",
+   "rating": "MP",
+   "tp": 0.4,
+   "price": 0.395,
+   "divYield": 6.84,
+   "high52": 0.95,
+   "low52": 0.335,
+   "mktSrc": "https://stockanalysis.com/quote/klse/CTOS/",
+   "ticker": "CTOS",
+   "name": "CTOS Digital Berhad",
+   "conviction": null,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared.</b> The only conviction-search hit is 'we prefer to remain on the sidelines pending greater clarity on the earnings uncertainties', which is the opposite of a pick. The Kenanga Signal reads None stated, as on 14, 15 and 30 October. (2) <b>The ESG star count is still unclear.</b> The text says no ESG adjustment 'given a 3-star rating'. The machine-extracted text of the page 5 table shows four stars on the OVERALL line. This board's 30 October row read three stars from the same table, and its 15 October row read four. Stars are graphics and text extraction can misread them, so this board does not resolve which is right. On Kenanga's own scale a four-star rating would add a 5% premium to the target. No premium has been applied, which fits the three stars in the text. (3) <b>The impact estimate reconciles.</b> Kenanga's RM14m FY26 PATAMI hit equals CTOS's RM12m guidance plus about 1.6 extra weeks at RM1.3m a week, or about RM14.1m (computed here). Its earlier forecast assumption was RM22m. (4) <b>Table differences.</b> The peer table gives a 13.4% ROE; the Financial Data table gives 12.9% for FY26F. The FY26F DPS of 2.1 sen (5.2% yield) is unchanged from the 30 October note, whose dividend inconsistencies that row flagged. (5) <b>Market data.</b> The note gives a 52-week range of RM0.36-0.91. stockanalysis.com, not Kenanga, gives RM0.335-0.95 and a 6.84% trailing yield on RM0.03 of dividends. The board uses stockanalysis.com, as the rules require.",
+   "catalyst": "CTOS <b>fully restored all affected credit reporting services on 2 November</b>. That was about 11 days later than its own guidance, but well ahead of Kenanga's assumption of an outage until end-December. Kenanga now puts the FY26 PATAMI hit at <b>about RM14m</b>, against CTOS's RM12m guidance and its own RM22m assumption. It <b>raises FY26F core PATAMI 10.6%</b> but <b>trims FY27F 2.9%</b> for higher cybersecurity opex. It <b>keeps the RM0.40 target and MARKET PERFORM</b>, citing compensation, churn and recovery risks.",
+   "quote": "We maintain our TP of RM0.40, and our MARKET PERFORM call.",
+   "summary": [
+    "The call. Kenanga keeps MARKET PERFORM and its DCF-based target of RM0.40 (WACC 8.6%), matching the RM0.40 this board recorded on 30 October. At RM0.395 that is 1.3% upside (peer table; also computed here). The FY26F upgrade does not lift the target because the DCF uses FY27F as its base year, and the FY27F cut is offset by a smaller share base after buybacks. FY26F core PATAMI is now RM83.6m and FY27F RM81.5m, against consensus of RM81.8m and RM87.3m. FY27F is about 6.6% below consensus (computed here). The shares are down 50.2% YTD against the KLCI's -3.6%.",
+    "What happened. CTOS resumed all credit reporting services after completing remediation, adding security controls and passing independent validation, and says all its environments are secure. The incident began with an unauthorised party accessing an environment supporting its CCRIS consumer self-check business, announced on 23 September. Bank Negara Malaysia then suspended CTOS's CCRIS access pending validation of the fixes.",
+    "The earnings arithmetic. The outage hit about 35% of weekly group revenue. About one week of downtime in 3QFY26 cost RM5m of PATAMI: lost earnings on about RM3m of revenue plus one-off incident costs. CTOS had guided a RM12m FY26 hit assuming services returned in the third week of October, followed by a 30-day recovery. Services came back about 11 days (1.6 weeks) later than that. At about RM1.3m per extra week, Kenanga puts the FY26 hit at about RM14m, below its own RM22m assumption.",
+    "What could still go wrong. Kenanga warns of further margin pressure from customer compensation and retention (discounts, rebates, fee waivers, credit notes and contract extensions under SLA negotiations), recurring cybersecurity opex, customer attrition and slow volume recovery. CTOS expects volumes to take 30-60 days to normalise, but its guidance assumed 30. No customer has terminated or declined to renew. Some non-bank lenders, commercial customers and consumers switched to rival bureaus, while banks could use BNM's CCRIS directly. Each extra 1% of domestic revenue attrition cuts FY27F core PATAMI by about 1.6%. Deferred price increases are not yet in forecasts.",
+    "Longer term. CTOS plans to invest RM10m-15m in FY27 on RMiT compliance and security controls, partly recurring. The clearer picture should come with its FY27 budget. Kenanga's long-term case rests on the Consumer Credit Act 2025 (effective March 2026) opening BNPL clients, new digital banks scaling up lending, and possible monetisation of associate stakes. A rerating needs restored investor and customer confidence and evidence of a sustained rebound in activity. Listed risks: slow recovery and attrition, another attack, compensation costs, weaker lending and adverse regulation."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "RHB Investment Bank",
+    "date": "29 Oct 2026",
+    "opp": true,
+    "note": "<b>No named non-Kenanga house was found commenting on the service restoration in a permitted outlet during this run.</b> The Star's 3 November report of the restoration was read, and names no research house. The most recent dated named-house calls remain those in The Edge Malaysia's 29 October article, re-opened in this run. <b>RHB Investment Bank</b> rates CTOS <b>buy</b> and <b>CIMB Securities</b> <b>hold</b>. The article gives neither house's target price, and neither uses pick language, so the Analyst Signal reads <b>None stated</b>. <b>On divergence:</b> RHB's buy is the opposite direction to Kenanga's MARKET PERFORM, so the &#8644; marker stays set, as on 30 October. CIMB's hold is the same direction. The same article cites a Bloomberg tally and average target; that is an anonymous consensus and is not used (rules/signals.md &sect;1). <b>Two of the nine houses</b> this board searches (RHB, CIMB) yielded dated, publicly retrievable calls; none of the nine (CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang) yielded a call after the restoration. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Edge Malaysia, 29 Oct 2026 &mdash; &lsquo;CTOS rises after results, analysts warn of weaker quarter ahead&rsquo; (RHB buy, CIMB hold)",
+      "https://theedgemalaysia.com/node/823735"
+     ]
+    ]
+   },
+   "crossCheck": {
+    "note": "<b>The restoration is confirmed in CTOS's own filing.</b> The Star (3 November) reports that CTOS told Bursa Malaysia it has restored its affected credit reporting services, including CTOS Score and CCRIS-related reports. The filing says remediation and enhanced controls were independently validated and all affected services are operating as intended. The Star does not give a restoration date. Kenanga gives 2 November, and Business Today's report of the filing is dated 2 November (headline seen in search; article not opened).",
+    "cites": [
+     [
+      "The Star, 3 Nov 2026 &mdash; &lsquo;CTOS restores credit reporting services&rsquo;",
+      "https://www.thestar.com.my/business/business-news/2026/11/03/ctos-restores-credit-reporting-services"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/CTOS-261103-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": null,
+   "prevRating": "OP",
+   "prevTp": 2.63,
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 2.65,
+   "price": 2.14,
+   "divYield": 2.2,
+   "high52": 2.36,
+   "low52": 1.54,
+   "mktSrc": "https://stockanalysis.com/quote/klse/DIALOG/",
+   "ticker": "DIALOG",
+   "name": "Dialog Group Berhad",
+   "conviction": null,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>'We continue to like DIALOG' is not a pick declaration.</b> The investment case reads 'We continue to like DIALOG for: (i) potential for long term growth in its tank terminal business...'. This board treats that wording as investment-case language (as with GAMUDA, KERJAYA and YTLPOWR), so the Kenanga Signal reads None stated. No other conviction-search term appears. (2) <b>The PAT contribution base is mislabelled.</b> Kenanga says the expansion's RM10m a year of PAT is '1.7% of FY26F'. FY26 (June year-end) is already an actual year in its tables. RM10m is 1.7% of FY26A core net profit of RM594.4m, but 1.5% of FY27F's RM663.0m (both computed here). (3) <b>Net profit forecasts differ between tables.</b> The Summary Earnings Table gives FY27F/FY28F net profit of RM645.0m/RM717.8m. The Income Statement gives RM663.0m/RM732.6m, the same as core net profit in both tables. (4) <b>The peer table was not updated.</b> It still shows DIALOG's target at RM2.63 (22.9% upside) and core EPS of 10.4/11.8 sen, against RM2.65 and 11.7/13.0 sen elsewhere in the note. (5) <b>The SoP rounds down, not up.</b> Total SoP of RM14,900.6m over 5,638.0m shares is RM2.643 a share (computed here), which would round to RM2.64, not RM2.65. The SoP share count also differs from the 5,643.2m shares outstanding on the cover. The note does not explain either point. (6) <b>Capex assumption against the company's figure.</b> Kenanga assumes RM1,800 per cbm (RM180m). The New Straits Times reports capex of up to RM200m, or up to RM2,000 per cbm, with contributions from FY30. Kenanga does not state when the RM10m PAT starts; mid-2029 completion would put it in FY30 (an inference). Market data: the note gives a 52-week range of RM1.58-2.33; stockanalysis.com, not Kenanga, gives RM1.54-2.36 and a 2.20% trailing yield.",
+   "catalyst": "DIALOG will add <b>100,000cbm of petroleum-product storage at DTL3 (Tanjung Langsat)</b>, due by mid-2029. That takes Langsat capacity above 1.1m cbm. Kenanga assumes RM180m of capex and SGD7/cbm/month rental, giving an <b>11% IRR</b>, about <b>RM10m a year of PAT</b> and <b>RM0.02 a share of NPV</b>. It keeps forecasts, <b>nudges the SoP target to RM2.65 from RM2.63</b> and keeps <b>OUTPERFORM</b>.",
+   "quote": "We maintain our forecasts, lift SOP TP slightly to RM2.65 and maintain our OUTPERFORM call.",
+   "summary": [
+    "The call. Kenanga keeps OUTPERFORM and raises its sum-of-parts target to RM2.65 from RM2.63 by adding a DCF for the new capacity. At RM2.14 that is 23.8% upside (computed here). Forecasts are unchanged: FY27F/FY28F core net profit of RM663.0m/RM732.6m, against consensus net profit of RM641.0m/RM669.5m. There is no ESG adjustment for its three-star rating. The shares are up 27.4% YTD against the KLCI's -3.6%.",
+    "The expansion. DIALOG announced an extra 100,000cbm of storage for petroleum products at DTL3, which had just completed 150,000cbm of renewable-products storage in September 2026. Completion is due by mid-2029, taking total Tanjung Langsat capacity above 1.1m cbm.",
+    "Kenanga's numbers. Kenanga assumes capex of RM1,800 per cbm, based on past projects and shared infrastructure. That gives RM180m in total (computed here). With a SGD7/cbm/month rental and a 7.9% WACC, the project adds RM0.02 a share to the SoP and has an 11% IRR. PAT contribution is put at about RM10m a year. Kenanga calls this moderate but positive because it widens the Langsat recurring earnings base (see flag on the base year).",
+    "Where growth comes from. Kenanga expects tank terminals to keep growing into FY27 on tight storage in Asia, but sees upstream as the main growth pillar. Projects include the Baram Junior Cluster gas field (from CY27, 10 years of production), the producing Cendramas PSC (25% stake, from 3QCY26), and the Raja and Mutiara small-field assets, which could produce from CY29 if two years of pre-development succeed. In the SoP, Pengerang Phase 2 (RM2,659.6m) and downstream EPCC and O&amp;M at 9x PER (RM3,063.3m) are the largest parts.",
+    "Investment case and risks. Kenanga cites long-term tank terminal growth, especially at Pengerang; upstream-led earnings growth, with storage as a recession hedge; and early low-carbon storage exposure on take-or-pay rentals. Listed risks are a return of cost pressures, delays to capacity expansion and lower utilisation of independent tank terminals. Outside the note, the New Straits Times reports Public Investment Bank at Neutral and RHB at Buy (see Analyst Signal)."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "Public Investment Bank",
+    "date": "3 Nov 2026",
+    "opp": true,
+    "note": "Checked because the stock moved on a corporate announcement. The New Straits Times article dated <b>3 November</b>, the same day as this note, was read in this run. It reports <b>Public Investment Bank</b> keeping a <b>Neutral</b> call with an unchanged <b>RM2.10</b> target. It notes the Tanjung Langsat site is nearly fully developed, limiting further additions, and expects utilisation above 90% after commissioning. <b>RHB</b> is reported at <b>Buy</b> with a <b>RM2.44</b> SoP target that includes a 6% ESG discount. Neither house uses pick language, so the Analyst Signal reads <b>None stated</b>. <b>On divergence:</b> Public Investment Bank's Neutral is the opposite direction to Kenanga's OUTPERFORM, so the &#8644; marker is set. RHB's Buy is the same direction. A Business Today headline seen in search reports MBSB Research downgrading DIALOG to Neutral. The article returned HTTP 403 and was not read, so it is not used. <b>Two of the nine houses</b> this board searches (Public Investment Bank, RHB) yielded dated, publicly retrievable calls in this run. CIMB Securities, Maybank, AmInvestment, HLIB, TA, MIDF and Affin Hwang yielded none. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "New Straits Times, 3 Nov 2026 &mdash; &lsquo;Dialog's RM200mil tank expansion to bolster recurring income&rsquo; (Public Investment Bank Neutral RM2.10; RHB Buy RM2.44)",
+      "https://www.nst.com.my/amp/business/corporate/2026/11/1569612/dialogs-rm200mil-tank-expansion-bolster-recurring-income"
+     ]
+    ]
+   },
+   "crossCheck": {
+    "note": "<b>The company's capex figure is higher than Kenanga's assumption.</b> The New Straits Times (3 November) reports total capex of up to RM200m, or up to RM2,000 per cbm, with completion targeted for mid-2029 and contributions expected from FY30, the year to June 2030. Kenanga assumes RM1,800 per cbm, or RM180m. On Kenanga's other assumptions, the higher figure would lower the IRR and NPV somewhat. The size of that effect is not computed here.",
+    "cites": [
+     [
+      "New Straits Times, 3 Nov 2026 &mdash; &lsquo;Dialog's RM200mil tank expansion to bolster recurring income&rsquo;",
+      "https://www.nst.com.my/amp/business/corporate/2026/11/1569612/dialogs-rm200mil-tank-expansion-bolster-recurring-income"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/DIALOG-261103-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": null,
+   "prevRating": "OP",
+   "prevTp": 2.4,
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 2.4,
+   "price": 1.81,
+   "divYield": 1.12,
+   "high52": 1.92,
+   "low52": 1.0,
+   "mktSrc": "https://stockanalysis.com/quote/klse/INFOM/",
+   "ticker": "INFOM",
+   "name": "Infomina Berhad",
+   "conviction": null,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>'We like Infomina' is not a pick declaration.</b> The investment case opens 'We like Infomina for: (i)...', the same wording as on 15 and 16 October. Under rules/signals.md &sect;2 the Kenanga Signal reads None stated. The only other search hit is 'unfavourable outcome' in the risks list. (2) <b>Dividend and ROE figures still differ between tables.</b> The Summary Earnings and Financial Data tables give FY27F NDPS of 2.5 sen (1.4% yield). The peer table gives 3.0 sen (1.7%), as flagged on 15 and 16 October. Its 26.1% ROE also differs from the 24.1% FY27F ROE in the Financial Data table. (3) <b>FY28 consensus jumped.</b> Today's table gives FY27/FY28 consensus net profit of RM45m/RM57m. The 16 October note, recorded on this board, gave RM45m/RM48m. The note does not explain the change. (4) <b>Two Broadcom mandates, not one.</b> The 16 October row's 12-market mandate is the September expansion of mainframe (MSD) rights. Today's 13-market appointment is a separate Agile Operations Division (AOD) mandate. The Edge Malaysia confirms both. (5) <b>Market data and layout.</b> The note gives a 52-week range of RM1.02-1.89; stockanalysis.com, not Kenanga, gives RM1.00-1.92 and a 1.12% trailing yield. Page 1 still reads 'Page 1 of 4' alongside 'Page 1 of 5'.",
+   "catalyst": "Infomina has won a <b>five-year Broadcom appointment to distribute and support its Agile Operations Division (AOD) software across 13 APAC markets</b>, from 1 November 2026 to 2 November 2031. That takes it beyond mainframe into enterprise automation, NetOps and ValueOps. Kenanga sees a wider addressable market and a possible new recurring revenue stream, but <b>keeps forecasts unchanged</b> until the contribution is quantified. It keeps <b>OUTPERFORM and its RM2.40 target</b> (25x FY28F PER).",
+   "quote": "Reaffirm OUTPERFORM with an unchanged TP of RM2.40, based on 25x FY28F PER.",
+   "summary": [
+    "The call. Kenanga keeps OUTPERFORM and its RM2.40 target, matching the RM2.40 this board recorded on 16 October. The target is 25x FY28F PER, anchored to the three-year average PER of Kronologi Asia, Cloudpoint Technology and LGMS, and about +1SD above Infomina's own three-year mean. At RM1.81 that is 32.6% upside (peer table; also computed here). 25x FY28F EPS of 9.6 sen gives RM2.40 (computed here). Forecasts are unchanged at FY27F/FY28F PATAMI of RM46m/RM58m, against consensus of RM45m/RM57m. There is no ESG adjustment for its three-star rating.",
+    "The appointment. Broadcom has appointed Infomina as an aggregator to distribute and support its AOD portfolio from 1 November 2026 to 2 November 2031. The 13 markets are Malaysia, Thailand, the Philippines, Singapore, Taiwan, Hong Kong, China, Indonesia, Australia, New Zealand, South Korea, Sri Lanka and India. Infomina already operates in nine APAC markets. The Edge Malaysia adds that the appointment comes through Broadcom subsidiary VMware International Unlimited Company and that any extension needs mutual agreement.",
+    "Beyond mainframe. The existing Mainframe Software Division (MSD) products manage and modernise mainframe systems. AOD adds enterprise automation, network operations (NetOps) and value stream management (ValueOps) across distributed and cloud environments. Kenanga expects Infomina to use its existing expertise and client relationships to cross-sell, reach new customer segments and, over time, depend less on mainframe work.",
+    "Why forecasts are unchanged. Kenanga says the five-year term could improve recurring revenue visibility through renewals and support. But the contribution is unquantified until management assesses Broadcom's existing AOD revenue across the 13 markets, distribution margins and customer adoption. Kenanga therefore treats the appointment as a medium-term catalyst rather than a forecast change.",
+    "Investment case and risks. Kenanga cites the hybrid mainframe-cloud modernisation upcycle and Infomina's 'plan-build-operate' model, Japan growth with an estimated RM80m-RM100m annual addressable wallet, and AI adoption across ASEAN and North Asia. Listed risks are an unfavourable outcome in the Philippine BPI dispute, losing the Broadcom arrangement and Premier Tier 1 VAD status, and turnkey cost overruns. The Edge Malaysia reports the shares unchanged at RM1.81 on 2 November."
+   ],
+   "analyst": {
+    "v": null,
+    "house": null,
+    "date": null,
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found commenting on the AOD appointment in a permitted outlet during this run.</b> The Edge Malaysia's report of the appointment was read, and names no research house. Coverage of the same filing in The Star, New Straits Times and The Sun appeared in search but was not opened. The Analyst Signal reads <b>None stated</b>. This board's 16 October row found no readable dated call from the nine houses, and none was found here (CIMB Securities, Maybank Investment Bank, RHB Investment Bank, AmInvestment Bank, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang). <b>On divergence:</b> no verified call rates INFOM opposite to Kenanga's OUTPERFORM, so the marker is not set. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": []
+   },
+   "crossCheck": {
+    "note": "<b>The appointment terms match.</b> The Edge Malaysia (Bursa filing of 2 November) reports the same five-year term (1 November 2026 to 2 November 2031) and the same 13 markets. It notes that Broadcom expanded Infomina's mainframe rights across 12 APAC markets in September, and that Infomina has distributed Broadcom mainframe software since 2019. It also restates 1QFY27 net profit of RM10.30m (+26.76%) on revenue of RM76.19m (+39.6%), and an order book of RM614.2m at end-August, consistent with the RM614m on this board's 16 October row.",
+    "cites": [
+     [
+      "The Edge Malaysia, 2 Nov 2026 &mdash; &lsquo;Infomina secures five-year Broadcom appointment to expand software business across 13 Asia Pacific markets&rsquo;",
+      "https://theedgemalaysia.com/node/824251"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/INFOM-261103-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Two points of caution on this row, reported as printed rather than resolved. (1) <b>August sub-indicators differ from Kenanga's August note.</b> Today's Table 2 marks August new orders and output as 'Down'. Kenanga's 1 September note, recorded on this board, said new orders rose for a third straight month in August and production growth eased. Today's text, that output 'rose for the first time in three months', matches the new table rather than the earlier note. Table 2 says the up/down markers follow S&amp;P Global's own reports, so later revisions may explain the gap. This board does not resolve it. (2) <b>Coverage is narrow.</b> The note gives regional readings only for Taiwan (54.9) and Japan (53.3). The S&amp;P Global PMI for October is shown as N/A. October's 51.0 is the highest since April's 51.6 in Table 2 (computed here). This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Malaysia PMI (Oct-26)",
+   "name": "Malaysia Manufacturing PMI (Oct-26): Orders hit 54-month high, but confidence says don't celebrate yet",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "Malaysia's manufacturing PMI <b>rose to 51.0 in October</b> (Sep: 49.9), back in expansion. <b>New orders grew at the fastest pace in 54 months</b>, and output rose for the first time in three months. Kenanga says the print defies its earlier call for a slowdown and supports its <b>5.3% full-year 2026 GDP forecast</b> (2025: 5.2%). It warns that front-loading, energy costs and <b>business confidence at a six-month low</b> may cap the momentum.",
+   "quote": "The Manufacturing Purchasing Managers' Index (PMI) rose sharply to 51.0 in October (Sep: 49.9)",
+   "summary": [
+    "Back above 50. The PMI rose 1.1 points to 51.0 in October from 49.9 (computed here), signalling renewed improvement after a broadly neutral September. Table 2 shows the 2026 path: 51.6 in April, 49.9 in May, 50.7 in June and July, 50.2 in August, 49.9 in September and 51.0 in October. The 2025 average was 50.1.",
+    "Demand drove it. New orders grew at the fastest pace in 54 months, on stronger demand and more orders from existing customers, and export demand also improved. Output rose for the first time in three months. Firms raised purchases for the first time in three months, and stocks of purchases rose for a second month, though only modestly.",
+    "Costs are still rising. Manufacturers reported higher transport and material costs linked to the prolonged Middle East war. Output prices rose at the same pace as input costs, so firms passed costs through in full. Employment rose for a third straight month as firms added capacity. Business confidence fell to a six-month low on costs, geopolitics and the wider outlook.",
+    "Regional picture. Taiwan eased to 54.9 from 56.7 but stayed firmly in expansion on new orders, exports and output. Japan edged down to 53.3 from 54.1 on continued semiconductor demand, though its output and new orders grew at their slowest in seven months. Malaysia still trails both. The Baltic Dry Index fell to 2,714 in October from 3,113 (Table 2).",
+    "Kenanga's read. October points to improving conditions entering 4Q26 and should support industrial production, which defies Kenanga's earlier call for a slowdown. But Kenanga thinks part of the gain is exporters front-loading shipments ahead of the year-end festive season, plus energy-driven cost increases, and that this is unlikely to last. Rising costs, supply-chain disruption and weak confidence could slow expansion. Readings above 50 have historically matched growth in manufacturing output and GDP, which supports its 5.3% 2026 GDP forecast (2025: 5.2%), unchanged from the 1 September note on this board."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/EV_PMI_Oct26_261103-Kenanga.pdf"
+  }
+ ]
+}

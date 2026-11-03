@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T23:27:17.150Z",
+ "generatedAt": "2026-11-03T07:38:51.249Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -45,10 +45,11 @@
   "2026-10-27",
   "2026-10-28",
   "2026-10-29",
-  "2026-10-30"
+  "2026-10-30",
+  "2026-11-03"
  ],
- "rows": 182,
- "verified": 181,
+ "rows": 186,
+ "verified": 185,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -723,6 +724,30 @@
    "date": "2026-10-30",
    "row": "Ringgit Weekly",
    "msg": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>The week is measured from two different days.</b> The text says the ringgit strengthened to 4.060 'from 4.086 last Friday'. Table 2's 'Last Week' column shows 4.083 dated 22/10/26, a Thursday, so its -0.58% weekly move is Thursday to Thursday. The 4.086 Friday close does not appear in the table. This board flagged the same pattern on 9 and 23 October. (2) <b>Wording.</b> 'The Fed held at 4.00%' refers to the upper bound of the 3.75-4.00% range. The 7-day RSI of 17.069 is below the note's own oversold threshold of 20, matching its 'looks oversold' comment. A Democratic sweep is the note's base case, which it treats as a split government under the current president. (3) <b>Cross-checks.</b> Table 1's USDMYR path (4.08, 4.00, 4.05, 4.02, 3.95, 3.90) is unchanged from the 23 October row and matches today's Bond Market Weekly. The 4.060 close, USDJPY 158.02 and EURUSD 1.115 match the digest's forex table (4.0597, 158.02, 1.1149). The 4.083 'last week' figure matches the 23 October row. This is an Economic Viewpoint with no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-03",
+   "row": "CTOS",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared.</b> The only conviction-search hit is 'we prefer to remain on the sidelines pending greater clarity on the earnings uncertainties', which is the opposite of a pick. The Kenanga Signal reads None stated, as on 14, 15 and 30 October. (2) <b>The ESG star count is still unclear.</b> The text says no ESG adjustment 'given a 3-star rating'. The machine-extracted text of the page 5 table shows four stars on the OVERALL line. This board's 30 October row read three stars from the same table, and its 15 October row read four. Stars are graphics and text extraction can misread them, so this board does not resolve which is right. On Kenanga's own scale a four-star rating would add a 5% premium to the target. No premium has been applied, which fits the three stars in the text. (3) <b>The impact estimate reconciles.</b> Kenanga's RM14m FY26 PATAMI hit equals CTOS's RM12m guidance plus about 1.6 extra weeks at RM1.3m a week, or about RM14.1m (computed here). Its earlier forecast assumption was RM22m. (4) <b>Table differences.</b> The peer table gives a 13.4% ROE; the Financial Data table gives 12.9% for FY26F. The FY26F DPS of 2.1 sen (5.2% yield) is unchanged from the 30 October note, whose dividend inconsistencies that row flagged. (5) <b>Market data.</b> The note gives a 52-week range of RM0.36-0.91. stockanalysis.com, not Kenanga, gives RM0.335-0.95 and a 6.84% trailing yield on RM0.03 of dividends. The board uses stockanalysis.com, as the rules require."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-03",
+   "row": "DIALOG",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>'We continue to like DIALOG' is not a pick declaration.</b> The investment case reads 'We continue to like DIALOG for: (i) potential for long term growth in its tank terminal business...'. This board treats that wording as investment-case language (as with GAMUDA, KERJAYA and YTLPOWR), so the Kenanga Signal reads None stated. No other conviction-search term appears. (2) <b>The PAT contribution base is mislabelled.</b> Kenanga says the expansion's RM10m a year of PAT is '1.7% of FY26F'. FY26 (June year-end) is already an actual year in its tables. RM10m is 1.7% of FY26A core net profit of RM594.4m, but 1.5% of FY27F's RM663.0m (both computed here). (3) <b>Net profit forecasts differ between tables.</b> The Summary Earnings Table gives FY27F/FY28F net profit of RM645.0m/RM717.8m. The Income Statement gives RM663.0m/RM732.6m, the same as core net profit in both tables. (4) <b>The peer table was not updated.</b> It still shows DIALOG's target at RM2.63 (22.9% upside) and core EPS of 10.4/11.8 sen, against RM2.65 and 11.7/13.0 sen elsewhere in the note. (5) <b>The SoP rounds down, not up.</b> Total SoP of RM14,900.6m over 5,638.0m shares is RM2.643 a share (computed here), which would round to RM2.64, not RM2.65. The SoP share count also differs from the 5,643.2m shares outstanding on the cover. The note does not explain either point. (6) <b>Capex assumption against the company's figure.</b> Kenanga assumes RM1,800 per cbm (RM180m). The New Straits Times reports capex of up to RM200m, or up to RM2,000 per cbm, with contributions from FY30. Kenanga does not state when the RM10m PAT starts; mid-2029 completion would put it in FY30 (an inference). Market data: the note gives a 52-week range of RM1.58-2.33; stockanalysis.com, not Kenanga, gives RM1.54-2.36 and a 2.20% trailing yield."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-03",
+   "row": "INFOM",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>'We like Infomina' is not a pick declaration.</b> The investment case opens 'We like Infomina for: (i)...', the same wording as on 15 and 16 October. Under rules/signals.md &sect;2 the Kenanga Signal reads None stated. The only other search hit is 'unfavourable outcome' in the risks list. (2) <b>Dividend and ROE figures still differ between tables.</b> The Summary Earnings and Financial Data tables give FY27F NDPS of 2.5 sen (1.4% yield). The peer table gives 3.0 sen (1.7%), as flagged on 15 and 16 October. Its 26.1% ROE also differs from the 24.1% FY27F ROE in the Financial Data table. (3) <b>FY28 consensus jumped.</b> Today's table gives FY27/FY28 consensus net profit of RM45m/RM57m. The 16 October note, recorded on this board, gave RM45m/RM48m. The note does not explain the change. (4) <b>Two Broadcom mandates, not one.</b> The 16 October row's 12-market mandate is the September expansion of mainframe (MSD) rights. Today's 13-market appointment is a separate Agile Operations Division (AOD) mandate. The Edge Malaysia confirms both. (5) <b>Market data and layout.</b> The note gives a 52-week range of RM1.02-1.89; stockanalysis.com, not Kenanga, gives RM1.00-1.92 and a 1.12% trailing yield. Page 1 still reads 'Page 1 of 4' alongside 'Page 1 of 5'."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-03",
+   "row": "Malaysia PMI (Oct-26)",
+   "msg": "Two points of caution on this row, reported as printed rather than resolved. (1) <b>August sub-indicators differ from Kenanga's August note.</b> Today's Table 2 marks August new orders and output as 'Down'. Kenanga's 1 September note, recorded on this board, said new orders rose for a third straight month in August and production growth eased. Today's text, that output 'rose for the first time in three months', matches the new table rather than the earlier note. Table 2 says the up/down markers follow S&amp;P Global's own reports, so later revisions may explain the gap. This board does not resolve it. (2) <b>Coverage is narrow.</b> The note gives regional readings only for Taiwan (54.9) and Japan (53.3). The S&amp;P Global PMI for October is shown as N/A. October's 51.0 is the highest since April's 51.6 in Table 2 (computed here). This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
   }
  ],
  "verdict": "PASS"
