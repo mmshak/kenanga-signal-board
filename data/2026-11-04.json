@@ -1,0 +1,215 @@
+{
+ "date": "2026-11-04",
+ "schema": 1,
+ "daily": {
+  "klci": 1621.9,
+  "chg": 2.34,
+  "pct": 0.14,
+  "inst": -190.4,
+  "instPct": 40.0,
+  "retail": 38.0,
+  "retailPct": 24.2,
+  "foreign": 152.4,
+  "foreignPct": 35.8,
+  "ideas": "Thematic: Sarawak Report",
+  "news": [
+   {
+    "h": "Orkim to add five more vessels to fleet by 2029",
+    "body": "Orkim Bhd plans to add five more tankers to its fleet between 2027 and 2029, as the marine transportation group continues to expand it carrying capacity amid favourable market conditions. Their chief executive officer said the expansion will begin with the expected delivery of Orkim Ruby in 2027, followed by two additional clean petroleum product tankers, each with a capacity of 9,000 deadweight tonnes (DWT), in 2028. The group has signed shipbuilding contracts for the two tankers, which form part of its longer-term fleet expansion programme. (The Edge Malaysia)",
+    "takeaways": [
+     "Orkim plans to add five tankers to its fleet between 2027 and 2029.",
+     "The first is Orkim Ruby, expected in 2027.",
+     "Two 9,000 DWT clean petroleum product tankers follow in 2028. Shipbuilding contracts for those two are signed.",
+     "That accounts for three of the five vessels. The digest does not describe the other two or give any cost.",
+     "This board holds no Kenanga coverage of Orkim. Digest context only."
+    ]
+   },
+   {
+    "h": "GDB bags RM877.0m construction job to build logistics hub in Shah Alam",
+    "body": "GDB Holdings Bhd said it has secured a construction contract worth RM877.0m to demolish an existing factory and build a two-block, five-storey logistics hub in Seksyen 15, Shah Alam. The development comprises two five-storey logistics hub buildings featuring integrated mezzanine offices and a dedicated three-storey cafeteria designed for high-capacity supply chain operations, GDB noted. No further details on the land were provided. (The Edge Malaysia)",
+    "takeaways": [
+     "GDB Holdings has won an RM877.0m construction contract in Seksyen 15, Shah Alam.",
+     "The scope covers demolishing an existing factory and building a two-block, five-storey logistics hub.",
+     "The buildings include integrated mezzanine offices and a dedicated three-storey cafeteria.",
+     "The digest names no client and gives no contract duration. GDB gave no further details on the land.",
+     "This board holds no Kenanga coverage of GDB. Digest context only."
+    ]
+   },
+   {
+    "h": "ES Sunlogy wins two electrical works subcontracts from Kerjaya Prospek",
+    "body": "ES Sunlogy Bhd has been awarded two subcontracts worth a combined RM25.1m by Kerjaya Prospek Group Bhd for electrical and infrastructure works in Pulau Andaman, Penang. The larger subcontract, valued at RM19.9m, involves the supply and installation of electrical and extra-low voltage systems for a serviced apartment development in Bandar Tanjung Pinang. The second subcontract, worth RM5.2m, involves infrastructure works for five bridges in Pulau Andaman, comprising four bridges for vehicles and one pedestrian bridge connecting different phases of the development. (The Edge Malaysia)",
+    "takeaways": [
+     "ES Sunlogy has won two subcontracts from Kerjaya Prospek worth a combined RM25.1m, in Pulau Andaman, Penang.",
+     "The RM19.9m subcontract covers electrical and extra-low voltage systems for a serviced apartment development in Bandar Tanjung Pinang.",
+     "The RM5.2m subcontract covers works on five bridges: four for vehicles and one for pedestrians.",
+     "The two amounts add up to the stated RM25.1m (computed here). The digest gives no duration.",
+     "This board holds Kenanga coverage of Kerjaya Prospek (KERJAYA), but the digest does not link this award to any Kenanga view. No coverage of ES Sunlogy. Digest context only."
+    ]
+   },
+   {
+    "h": "MM Computer Systems bags RM51.6m job to supply AI-ready servers",
+    "body": "MM Computer Systems Bhd said it has secured a purchase order worth RM51.6m to supply graphics processing unit (GPU)-accelerated servers. “This contract underscores MMCS’s capabilities in delivering advanced IT infrastructure solutions amid growing demand for AI and high-performance computing technologies,” MMCS said in a statement. The IT solutions provider did not disclose the name of the party that awarded the contract to its wholly owned subsidiary, Micro Technology Solution Sdn Bhd, saying only that it is a Malaysian telecommunications infrastructure and data centre services provider. (The Edge Malaysia)",
+    "takeaways": [
+     "MM Computer Systems has an RM51.6m purchase order to supply GPU-accelerated servers.",
+     "Wholly owned Micro Technology Solution Sdn Bhd received the order.",
+     "The customer is not named, only described as a Malaysian telecoms infrastructure and data centre services provider.",
+     "The digest gives no delivery schedule and no server count.",
+     "This board holds no Kenanga coverage of MM Computer Systems. Digest context only."
+    ]
+   },
+   {
+    "h": "Theta Edge bags RM33.0m contract to supply laptops and desktops",
+    "body": "Theta Edge Bhd said it has secured a RM33.0m contract to be the exclusive supplier of up to 5,742 laptops and desktop computers to an IT solutions company. Theta Edge said its wholly owned subsidiary, Theta Technologies Sdn Bhd, will supply the computers to Aceteam Networks Sdn Bhd under a \"device as a service\" project, which involves providing and managing computer equipment throughout its lifecycle. Under the agreement, Theta Technologies will be the exclusive supplier of new laptops and desktop computers to Aceteam, with deliveries to be made according to agreed purchase orders. (The Edge Malaysia)",
+    "takeaways": [
+     "Theta Edge has an RM33.0m contract to be the exclusive supplier of up to 5,742 laptops and desktops.",
+     "Wholly owned Theta Technologies Sdn Bhd will supply Aceteam Networks Sdn Bhd under a 'device as a service' project.",
+     "If all 5,742 units are delivered, the contract works out to about RM5,750 per device (computed here). The digest does not say how much of the value is lifecycle management rather than hardware.",
+     "Deliveries follow agreed purchase orders, so 'up to' means the full value is not guaranteed.",
+     "This board holds no Kenanga coverage of Theta Edge. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "US moves to revoke South Africa, Rwanda duty-free trade access",
+    "region": "Global",
+    "body": "The US announced plans to revoke South Africa and Rwanda’s access to a duty-free trade pact, intensifying pressure on two African nations whose relations with Washington have become increasingly fraught. (The Edge Malaysia)",
+    "takeaways": [
+     "The US plans to revoke South Africa's and Rwanda's access to a duty-free trade pact.",
+     "The digest says relations between both countries and Washington have become increasingly fraught.",
+     "The digest does not name the pact or give a timetable.",
+     "It is an announced plan, not yet a completed revocation.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Gross direct tax collection up 5.8% to RM174.48b in first 10 months of year — PM",
+    "region": "Malaysia",
+    "body": "Gross direct tax collection for the first 10 months of 2026 rose 5.8% to RM174.48 billion, up from RM164.92 billion in the same period last year, said Prime Minister Datuk Seri Anwar Ibrahim. (The Edge Malaysia)",
+    "takeaways": [
+     "Gross direct tax collection for January to October 2026 was RM174.48b, says Prime Minister Anwar Ibrahim.",
+     "That compares with RM164.92b a year earlier.",
+     "The rise is about RM9.56b, or 5.8%, matching the stated growth (computed here).",
+     "The digest gives no breakdown by tax type.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Zahid: Govt eyeing 50 additional latex depots in 2027 to reduce reliance on imports",
+    "region": "Malaysia",
+    "body": "The government plans to develop about 50 latex depots next year to strengthen local rubber production, thereby reducing reliance on latex imports. (The Edge Malaysia)",
+    "takeaways": [
+     "The government plans about 50 more latex depots in 2027.",
+     "The aim is to strengthen local rubber production and reduce reliance on latex imports.",
+     "The digest gives no cost or location for the depots.",
+     "The same digest puts latex at RM7.84/kg on 3 November, down from RM7.87.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysian retailers warn of 'existential threat' posed by foreign e-commerce in appeal to MOF",
+    "region": "Malaysia",
+    "body": "Malaysian retailers have warned of an \"existential threat\" posed by foreign e-commerce in an appeal to the Ministry of Finance (MOF). (The Edge Malaysia)",
+    "takeaways": [
+     "Malaysian retailers have appealed to the Ministry of Finance about foreign e-commerce.",
+     "They describe it as an 'existential threat'.",
+     "The digest does not say what measures they are asking for.",
+     "It names no retailers or platforms.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "IRB: RM7.7b in additional assessments discovered after auditing 408,726 cases",
+    "region": "Malaysia",
+    "body": "The Inland Revenue Board (IRB) has audited and investigated a total of 408,726 cases throughout this year, resulting in additional tax assessments amounting to about RM7.7 billion. (The Edge Malaysia)",
+    "takeaways": [
+     "The Inland Revenue Board has audited and investigated 408,726 cases this year.",
+     "These produced about RM7.7b of additional tax assessments.",
+     "That averages about RM18,800 per case (computed here).",
+     "Assessments are not collections. The digest does not say how much has been recovered.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "ECRL passenger revenue to grow about 3% annually in 2027-2029, cargo income to surge — Loke",
+    "region": "Malaysia",
+    "body": "The Ministry of Transport said that the East Coast Rail Link (ECRL) is projected to generate some 3% annual growth for its passenger services over the next three years, while its cargo services are expected to see a sharp increase in freight income by 2029. (The Edge Malaysia)",
+    "takeaways": [
+     "The Transport Ministry projects about 3% a year growth in ECRL passenger revenue from 2027 to 2029.",
+     "It expects a sharp increase in cargo income by 2029.",
+     "The digest gives no revenue figures for either segment.",
+     "The projections come from the ministry, not from Kenanga.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Australia's central bank lifts rates to 18-year high, split vote points to pause ahead",
+    "region": "Asia Pacific",
+    "body": "Australia's central bank raised its cash rate to an 18-year high on Tuesday in its fifth hike of the year, though a surprisingly narrow 6-3 vote signalled policymakers may be nearing the end of their tightening campaign. (The Edge Malaysia)",
+    "takeaways": [
+     "The Reserve Bank of Australia raised its cash rate on Tuesday, 3 November, to an 18-year high.",
+     "It was the fifth hike of the year.",
+     "The vote was a narrow 6-3.",
+     "The digest reads the split as a sign that tightening may be nearly over. It does not give the new rate.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Mexico analysts slightly lift inflation, growth forecasts",
+    "region": "Americas",
+    "body": "Private sector analysts polled by Mexico's central bank edged up their expectations for headline inflation this year and 2027, while also nudging up their economic growth estimates for both years, the bank said on Tuesday. (Reuters)",
+    "takeaways": [
+     "Private-sector analysts polled by Mexico's central bank raised their headline inflation forecasts for 2026 and 2027 slightly.",
+     "They also nudged up their growth estimates for both years.",
+     "The bank published the survey on Tuesday, 3 November.",
+     "The digest gives no forecast figures.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "Swiss inflation accelerates to highest in almost three years",
+    "region": "Europe",
+    "body": "Switzerland’s inflation rate rose to the highest level in almost three years, driven by the surge in oil costs and a weaker franc. Consumer prices increased 1.5% from a year earlier in October, the statistics office said on Tuesday (Nov 3). (The Edge Malaysia)",
+    "takeaways": [
+     "Swiss consumer prices rose 1.5% year on year in October.",
+     "That is the highest inflation rate in almost three years.",
+     "The drivers cited are the surge in oil costs and a weaker franc.",
+     "The same digest has Nymex crude at US$96.1/bbl on 3 November.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/Kenanga-Today-261104-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Sarawak",
+   "name": "Sarawak Thematic Report &mdash; Still the Cheapest Electron in the Room",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "flag": "Eight points of caution on this row, reported as printed rather than resolved. (1) <b>Filed as a Sector Update</b>, although the document is headed 'Sarawak Thematic Report' and 'Thematic Sector Update', because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). Earlier Thematic reports were filed the same way. Sarawak is a state, not a sector. The report states <b>no sector rating</b>, and it carries no rating, target or share price of its own, so those columns are empty by design. (2) <b>No pick is declared.</b> Searching for all the board's conviction terms (top pick, sector pick, our pick, preferred, most attractive, we like, favour, favourite) finds only these hits. CPS is 'being favoured by the state'. IPP terms are 'favourable'. And 'local players with balance sheet and strong JV partners would be preferred in the race to bid for the upcoming IPPs'. That last phrase is about who wins bids, not a Kenanga stock pick. 'SLVEST remains as a good proxy', 'KGB offers exposure' and IBRACO 'could potentially be in strong positions' are exposure language, not pick declarations. Kenanga also says it has 'no confirmation' that IBRACO is actively bidding. So the Kenanga Signal reads None stated. (3) <b>The gas-plant breakeven is stated two ways.</b> Page 3 gives 30.31 sen/kWh for a 1.5GW plant at RM4.5m/MW capex and RM30/mmbtu piped gas. Page 4 says the same 1.5GW plant at RM30/mmbtu 'would need 28sen/kwh to breakeven assuming 60% capacity factor'. Page 3 states no capacity factor, and the note does not reconcile the two. (4) <b>The grid-replacement capex does not follow from its inputs.</b> The note gives 'RM80-260m per annum at 1.5-3.0% per year' of PPE of about RM35b. On those inputs, 1.5-3.0% of RM35b is about RM525m-1,050m a year (computed here). This board cannot tell which input is wrong. (5) <b>The solar EPCC value is printed two ways.</b> Page 5 gives RM7.3-12.2b 'by 2035', then RM7.3-12.1b 'up to 2030' for the same 2.2-3.7GW. At RM3.3m/MW, 2.2-3.7GW gives about RM7.26-12.21b (computed here), which supports RM12.2b. (6) <b>CPS figures.</b> Capex is printed as 'RM8.6/mw'. This board reads it as RM8.6m per MW, but that is an inference. The upper end of Exhibit 7's five basins sums to 1,970MW (lower end 1,550MW, computed here). At RM8.6m/MW, 1,970MW gives about RM16.9b (computed here), against the RM16.7b printed. FID timing appears as 'realistically in 2027' (page 7) and as 'FID and construction starting in 1Q28' (page 8). Page 5 credits '4.8GW from Baleh', but Baleh is 1,285MW everywhere else in the note. The 4.8GW probably means total large hydro, but that is an inference; the note does not say. (7) <b>Peer tables against this board.</b> The first peer table has no heading and lists oil and gas stocks, not Sarawak names. It shows DIALOG at a RM2.63 target, against RM2.65 in this board's 3 November DIALOG row. SAMAIDEN appears at RM3.20 (this board's 27 August row: RM2.50) and SWIFT at OUTPERFORM, RM0.47 (this board's 28 August row: MARKET PERFORM, RM0.40). Any notes in between are not on this board, so those gaps are not resolved here. KEEMING (RM2.84), TENAGA (RM16.30), YTLPOWR (RM6.40), KJTS (RM1.60) and CHEEDING (RM0.78) match this board's latest rows. Prices for MISC, PETDAG, PCHEM, TENAGA and YTLPOWR match the digest's 3 November closes. <b>Ratings against Kenanga's own bands:</b> this uses the approximation expected return = upside + net yield, which is an inference, not a Kenanga method. On that basis SLVEST (OUTPERFORM, -8.3% upside), PEKAT (OUTPERFORM, -26.8%), KEEMING (OUTPERFORM, 1.4%), SAMAIDEN (OUTPERFORM, about 8.4%) and PCHEM (MARKET PERFORM, about -5.8%) sit outside them. (8) <b>Source limits.</b> Exhibits 1, 2 and 8 are images and were not read. Exhibit 3's bar values were extracted as text, but which value belongs to which bar cannot be confirmed, so none is used. The visit took place in August 2026. Slips carried as printed: '3-uear', '1.5 sGW', 'EPPC', 'Kotra Petra' (and 'Kota Petra'), 'BHG'. No Analyst Signal is sought, because this row is neither Kenanga-Positive nor a results note (rules/daily-run.md step 8).",
+   "catalyst": "After an August visit to Miri and Kuching, Kenanga argues Sarawak keeps a <b>structural power-cost advantage</b> over the Peninsula: a 28 sen/kWh blended tariff against a 45.4 sen Peninsular base tariff. Capacity is set to rise from <b>5.9GW to 10GW by 2030</b>. Near-term growth comes from gas at <b>Miri (500MW) and Samalaju (up to 1.5GW)</b>, before <b>Baleh (1,285MW)</b> arrives around 2030. About <b>550MW of the 1.5GW solar target</b> remains to be awarded. Kenanga sees <b>asset ownership</b> (IBRACO, PANSAR, SLVEST) and <b>EPCC</b> (HKB, KEEMING) as the plays, but warns the <b>timing of job flow is uncertain</b>. No sector rating or pick is stated.",
+   "quote": "The key valuation question is not whether Sarawak power is “green”, but whether its low-carbon advantage can translate into durable demand growth and higher-quality cash flows without proportionate physical, nature or execution risks.",
+   "summary": [
+    "The frame and the call. Kenanga's analysts and sustainability team made a three-day, two-night visit to Miri and Kuching in August 2026. They came back with a positive long-term view of Sarawak, particularly its power sector. The report covers four themes: Sarawak's power market against the Peninsula's, private capital in state projects, semiconductors and data centres, and sustainability. It states no sector rating and names no pick (see flag). Kenanga sees two routes to exposure. One is asset ownership, through IBRACO and PANSAR (both not rated) and SLVEST, which could bid jointly for solar IPPs, CPS hydro projects and water-treatment plants. The other is EPCC, through HKB (not rated) and KEEMING.",
+    "Power: still the cheaper electron. Sarawak Energy has 5.9GW of capacity against peak demand of about 4.6GW, a 28% reserve margin. It targets 10GW by 2030 and 15GW by 2035. Sembcorp has conditional approval to import 1GW to Singapore, and West Kalimantan buys 100-150MW. Before the 1,285MW Baleh dam starts in about 2030, growth comes from gas. The 500MW Miri CCGT was 45% complete in mid-2026 and is due in December 2027. Samalaju adds up to 1.5GW in stages from 2027, reaching full capacity by 2029. Sarawak's blended tariff is 28 sen/kWh, against a Peninsular base tariff averaging 45.4 sen. Its top domestic tier is 31.5 sen against 57.1 sen. Its PPAs run 15-20 years, against the Peninsula's three-year regulatory periods. Kenanga expects tariffs could rise as gas capacity grows, with the bulk borne by incoming industrial users.",
+    "Solar and grid: the nearer-term contracts. Sarawak targets 1.5GW of solar by 2030. 950MW has been awarded across seven projects (Exhibit 6), leaving 550MW, which Kenanga expects to be awarded within one or two years. PPAs run 30 years, against an average of 21 in the Peninsula, and are negotiated directly. If solar reaches 2.2-3.7GW by 2035, Kenanga puts the EPCC value at about RM7.3-12.2b, at RM3.3m/MW based on a recent ZECON award (see flag). It estimates 22-28 new substations by 2030, worth RM3.3-4.2b at RM150m each, and cites RAM's view that Sarawak Energy's capex could double to RM4.5b a year. HKB, in which SLVEST holds a strategic stake, would be the main solar bidder. KEEMING could be its M&E partner on substations.",
+    "Private capital, chips and data centres. Sarawak is drafting a PPP Masterplan for 2026-2035 and wants more private money in water-treatment plants and hydro. Its Cascading Power Sources RFP covers five river basins (Exhibit 7) and closed on 31 August 2026. Kenanga estimates construction cost of up to RM16.7b, with full operations only in 2034-35, so it calls this 'still early days'. In semiconductors, Sarawak is aiming for chip design rather than competing with Penang. X-Fab is adding RM3b of cleanroom space and Western Digital a RM1.8b expansion. State-owned SMD targets integrating Sarawak-designed chips in 2027, with IPO ambitions from 2030. KGB is named as a proxy for this buildout. Data-centre tariffs start at 40 sen/kWh, and the state is selective. A SoftBank-Grab-PETROS framework signed in October has no timeline.",
+    "Sustainability and timing. Kenanga says Sarawak's hydro-led mix gives it a relative decarbonisation advantage, but it still needs transition capex. CPS is lower-impact than large reservoirs but 'should not be treated as impact-free'. The risks it lists are hydrological variability, biodiversity, Indigenous Peoples and resettlement, and indirect CBAM exposure through aluminium and iron/steel exports. Its conclusion: the opportunity is large, but timing matters. The award cycle could be prolonged because about two-thirds of the solar target is already awarded (950MW of 1,500MW, about 63%, computed here). The key valuation question, it says, is whether low-carbon power 'can translate into durable demand growth and higher-quality cash flows'."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/Sarawak-Report-261104-Thematic-Kenanga.pdf"
+  }
+ ]
+}

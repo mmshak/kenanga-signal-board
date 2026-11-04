@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T21:38:23.062Z",
+ "generatedAt": "2026-11-04T07:17:03.385Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -46,10 +46,11 @@
   "2026-10-28",
   "2026-10-29",
   "2026-10-30",
-  "2026-11-03"
+  "2026-11-03",
+  "2026-11-04"
  ],
- "rows": 186,
- "verified": 185,
+ "rows": 187,
+ "verified": 186,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -748,6 +749,12 @@
    "date": "2026-11-03",
    "row": "Malaysia PMI (Oct-26)",
    "msg": "Two points of caution on this row, reported as printed rather than resolved. (1) <b>August sub-indicators differ from Kenanga's August note.</b> Today's Table 2 marks August new orders and output as 'Down'. Kenanga's 1 September note, recorded on this board, said new orders rose for a third straight month in August and production growth eased. Today's text, that output 'rose for the first time in three months', matches the new table rather than the earlier note. Table 2 says the up/down markers follow S&amp;P Global's own reports, so later revisions may explain the gap. This board does not resolve it. (2) <b>Coverage is narrow.</b> The note gives regional readings only for Taiwan (54.9) and Japan (53.3). The S&amp;P Global PMI for October is shown as N/A. October's 51.0 is the highest since April's 51.6 in Table 2 (computed here). This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-04",
+   "row": "Sarawak",
+   "msg": "Eight points of caution on this row, reported as printed rather than resolved. (1) <b>Filed as a Sector Update</b>, although the document is headed 'Sarawak Thematic Report' and 'Thematic Sector Update', because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). Earlier Thematic reports were filed the same way. Sarawak is a state, not a sector. The report states <b>no sector rating</b>, and it carries no rating, target or share price of its own, so those columns are empty by design. (2) <b>No pick is declared.</b> Searching for all the board's conviction terms (top pick, sector pick, our pick, preferred, most attractive, we like, favour, favourite) finds only these hits. CPS is 'being favoured by the state'. IPP terms are 'favourable'. And 'local players with balance sheet and strong JV partners would be preferred in the race to bid for the upcoming IPPs'. That last phrase is about who wins bids, not a Kenanga stock pick. 'SLVEST remains as a good proxy', 'KGB offers exposure' and IBRACO 'could potentially be in strong positions' are exposure language, not pick declarations. Kenanga also says it has 'no confirmation' that IBRACO is actively bidding. So the Kenanga Signal reads None stated. (3) <b>The gas-plant breakeven is stated two ways.</b> Page 3 gives 30.31 sen/kWh for a 1.5GW plant at RM4.5m/MW capex and RM30/mmbtu piped gas. Page 4 says the same 1.5GW plant at RM30/mmbtu 'would need 28sen/kwh to breakeven assuming 60% capacity factor'. Page 3 states no capacity factor, and the note does not reconcile the two. (4) <b>The grid-replacement capex does not follow from its inputs.</b> The note gives 'RM80-260m per annum at 1.5-3.0% per year' of PPE of about RM35b. On those inputs, 1.5-3.0% of RM35b is about RM525m-1,050m a year (computed here). This board cannot tell which input is wrong. (5) <b>The solar EPCC value is printed two ways.</b> Page 5 gives RM7.3-12.2b 'by 2035', then RM7.3-12.1b 'up to 2030' for the same 2.2-3.7GW. At RM3.3m/MW, 2.2-3.7GW gives about RM7.26-12.21b (computed here), which supports RM12.2b. (6) <b>CPS figures.</b> Capex is printed as 'RM8.6/mw'. This board reads it as RM8.6m per MW, but that is an inference. The upper end of Exhibit 7's five basins sums to 1,970MW (lower end 1,550MW, computed here). At RM8.6m/MW, 1,970MW gives about RM16.9b (computed here), against the RM16.7b printed. FID timing appears as 'realistically in 2027' (page 7) and as 'FID and construction starting in 1Q28' (page 8). Page 5 credits '4.8GW from Baleh', but Baleh is 1,285MW everywhere else in the note. The 4.8GW probably means total large hydro, but that is an inference; the note does not say. (7) <b>Peer tables against this board.</b> The first peer table has no heading and lists oil and gas stocks, not Sarawak names. It shows DIALOG at a RM2.63 target, against RM2.65 in this board's 3 November DIALOG row. SAMAIDEN appears at RM3.20 (this board's 27 August row: RM2.50) and SWIFT at OUTPERFORM, RM0.47 (this board's 28 August row: MARKET PERFORM, RM0.40). Any notes in between are not on this board, so those gaps are not resolved here. KEEMING (RM2.84), TENAGA (RM16.30), YTLPOWR (RM6.40), KJTS (RM1.60) and CHEEDING (RM0.78) match this board's latest rows. Prices for MISC, PETDAG, PCHEM, TENAGA and YTLPOWR match the digest's 3 November closes. <b>Ratings against Kenanga's own bands:</b> this uses the approximation expected return = upside + net yield, which is an inference, not a Kenanga method. On that basis SLVEST (OUTPERFORM, -8.3% upside), PEKAT (OUTPERFORM, -26.8%), KEEMING (OUTPERFORM, 1.4%), SAMAIDEN (OUTPERFORM, about 8.4%) and PCHEM (MARKET PERFORM, about -5.8%) sit outside them. (8) <b>Source limits.</b> Exhibits 1, 2 and 8 are images and were not read. Exhibit 3's bar values were extracted as text, but which value belongs to which bar cannot be confirmed, so none is used. The visit took place in August 2026. Slips carried as printed: '3-uear', '1.5 sGW', 'EPPC', 'Kotra Petra' (and 'Kota Petra'), 'BHG'. No Analyst Signal is sought, because this row is neither Kenanga-Positive nor a results note (rules/daily-run.md step 8)."
   }
  ],
  "verdict": "PASS"
