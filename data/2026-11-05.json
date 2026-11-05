@@ -1,0 +1,310 @@
+{
+ "date": "2026-11-05",
+ "schema": 1,
+ "daily": {
+  "klci": 1616.6,
+  "chg": -5.29,
+  "pct": -0.33,
+  "inst": -72.5,
+  "instPct": 39,
+  "retail": 41.7,
+  "retailPct": 25,
+  "foreign": 30.8,
+  "foreignPct": 36,
+  "ideas": "Company Update: KEEMING, SUNCON, VELESTO",
+  "news": [
+   {
+    "h": "Paramount partners Mitsui Fudosan to develop RM1.3b residential project, targets 60% take-up in first year",
+    "body": "Paramount Corporation Bhd said it will jointly develop luxury serviced apartments in Kuala Lumpur with Japanese firm Mitsui Fudosan. The project, dubbed The Ashbourne, involves two residential towers housing 458 units and has a gross development value of RM1.3b. Paramount had acquired the 3.7-acre freehold site off Jalan Ampang from IOI Properties Group Bhd for RM257.9m. (The Edge Malaysia)",
+    "takeaways": [
+     "Paramount will jointly develop The Ashbourne, a luxury serviced-apartment project in Kuala Lumpur, with Japan's Mitsui Fudosan.",
+     "The project has two towers, 458 units and a gross development value of RM1.3b.",
+     "Paramount bought the 3.7-acre freehold site off Jalan Ampang from IOI Properties for RM257.9m.",
+     "The headline cites a 60% first-year take-up target. The digest body does not give the JV split, launch date or Paramount's share of the GDV.",
+     "This board holds Kenanga coverage of Paramount (PARAMON) and IOI Properties (IOIPG), but the digest does not link this item to any Kenanga view. Digest context only."
+    ]
+   },
+   {
+    "h": "Ni Hsin partners China’s Horwin to make electric motorcycles for Malaysia, Türkiye",
+    "body": "Ni Hsin Group Bhd has teamed up with Chinese firm Horwin International Inc to manufacture electric motorcycles for exclusive distribution in Malaysia and Türkiye. Ni Hsin said its wholly-owned subsidiary Ni Hsin EV Tech Sdn Bhd (NHEVT) signed the deal with Horwin at the EIMCA Global electric vehicle trade show in Milan, Italy. Under the agreement, Horwin will supply the chassis for two electric motorcycle models, the SK3 and SK3 PLUS, on a completely knocked-down (CKD) basis, while NHEVT will assemble the motorcycles at its manufacturing facility in Seri Kembangan, Selangor. (The Edge Malaysia)",
+    "takeaways": [
+     "Ni Hsin has partnered China's Horwin to make electric motorcycles for exclusive distribution in Malaysia and Türkiye.",
+     "Wholly owned Ni Hsin EV Tech signed the deal at the EIMCA trade show in Milan.",
+     "Horwin supplies chassis for the SK3 and SK3 PLUS models on a completely knocked-down basis.",
+     "Assembly will be at Ni Hsin EV Tech's facility in Seri Kembangan, Selangor. The digest gives no volumes, value or start date.",
+     "This board holds no Kenanga coverage of Ni Hsin. Digest context only."
+    ]
+   },
+   {
+    "h": "Sapura Industrial to assemble Chery vehicle axles for RM307.0m",
+    "body": "Sapura Industrial Bhd said it has signed an agreement to assemble front and rear axle systems for Chery vehicles. The contract is valued at about RM307.0m over four and a half years, marking Sapura Industrial’s first direct engagement with the Chinese carmaker, the company said in a statement. The project will be undertaken at Sapura Industrial’s new facility in Bukit Beruntung, Selangor. (The Edge Malaysia)",
+    "takeaways": [
+     "Sapura Industrial will assemble front and rear axle systems for Chery vehicles.",
+     "The contract is worth about RM307.0m over four and a half years.",
+     "That averages roughly RM68m a year (computed here); the digest gives no annual phasing.",
+     "It is Sapura Industrial's first direct engagement with Chery. Work will be at its new facility in Bukit Beruntung, Selangor.",
+     "This board holds no Kenanga coverage of Sapura Industrial. Digest context only."
+    ]
+   },
+   {
+    "h": "Waja Konsortium bags RM190.0m construction contract in Johor Bahru",
+    "body": "Waja Konsortium Bhd has secured a RM190.0m contract to undertake the construction of a serviced apartment and affordable townhouse development in Johor Bahru. The construction company said its 51.0%-owned subsidiary, Waja Build Tech Sdn Bhd, was awarded the contract by property developer Affluent Crafts Sdn Bhd. The construction involves a 26-storey serviced apartment comprising 824 units, and a three-storey block of 24 affordable townhouses. (The Edge Malaysia)",
+    "takeaways": [
+     "Waja Konsortium has a RM190.0m construction contract in Johor Bahru.",
+     "The award went to 51.0%-owned Waja Build Tech Sdn Bhd, from developer Affluent Crafts Sdn Bhd.",
+     "Scope: a 26-storey, 824-unit serviced apartment block and a three-storey block of 24 affordable townhouses.",
+     "Because the subsidiary is 51% owned, Waja's attributable share of any profit would be lower than the full contract implies. The digest gives no duration or margin.",
+     "This board holds no Kenanga coverage of Waja Konsortium. Digest context only."
+    ]
+   },
+   {
+    "h": "Ho Hup gets another six months to submit regularisation plan, deadline now April 2027",
+    "body": "Ho Hup Construction Company Bhd has secured another six-month extension from Bursa Malaysia to submit its regularisation plan, pushing the deadline to April 16, 2027. The financially distressed builder said trading in its shares would be suspended and it faces delisting if it fails to meet the deadline, obtain regulatory approvals or implement the regularisation plan on time. However, the company can still appeal against any Bursa action. (The Edge Malaysia)",
+    "takeaways": [
+     "Bursa has given Ho Hup another six-month extension to submit its regularisation plan.",
+     "The new deadline is 16 April 2027.",
+     "If Ho Hup misses the deadline, fails to get approvals or fails to implement the plan on time, its shares would be suspended and it faces delisting.",
+     "The company can still appeal any Bursa action. The digest does not describe the plan itself.",
+     "This board holds no Kenanga coverage of Ho Hup. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Trump's midterm drubbing could give trade partners room to resist",
+    "region": "Global",
+    "body": "The drubbing for Donald Trump's Republicans in US midterm elections could embolden some trade partners to push back against his combative policies, although they may need to tread lightly to avoid provoking him in his final two years in power. (The Edge Malaysia)",
+    "takeaways": [
+     "The Republicans' midterm losses could embolden some trade partners to push back against Trump's trade policies.",
+     "The digest says they may still need to tread lightly in his final two years.",
+     "It names no countries and no specific measures.",
+     "Kenanga's own Economic Viewpoint today says tariffs rest on executive authority and expects a more predictable, not lower-tariff, regime.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "STR payments from Nov 4: Households to get up to RM500, single seniors RM150",
+    "region": "Malaysia",
+    "body": "The government will disburse RM1.1 billion in Phase 4 of the Sumbangan Tunai Rahmah (STR) cash aid programme to 5.4 million recipients, with payments to existing beneficiaries starting on Wednesday (Nov 4). (The Edge Malaysia)",
+    "takeaways": [
+     "Phase 4 of Sumbangan Tunai Rahmah pays RM1.1b to 5.4 million recipients.",
+     "Payments to existing beneficiaries began on 4 November.",
+     "The headline gives up to RM500 for households and RM150 for single seniors.",
+     "RM1.1b over 5.4 million recipients averages about RM204 each (computed here).",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Govt to ensure existing industries not affected by power supply to data centres, says Johari Ghani",
+    "region": "Malaysia",
+    "body": "The government will ensure that the development of data centres will not affect electricity supply to existing industries which form the backbone of Malaysia’s national economy, said Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani. (The Edge Malaysia)",
+    "takeaways": [
+     "Investment, Trade and Industry Minister Johari Abdul Ghani says data-centre growth will not be allowed to affect power supply to existing industries.",
+     "He describes those industries as the backbone of the national economy.",
+     "The digest gives no specific policy measure, capacity figure or timetable.",
+     "Two of today's Company Updates (KEEMING, SUNCON) rest on data-centre contract wins.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Kedah Rubber City attracts RM3.3b in committed investments, says economy minister",
+    "region": "Malaysia",
+    "body": "The Kedah Rubber City (KRC) project has attracted RM3.344 billion in committed investments from five key investors as of September 2026, according to Economy Minister Akmal Nasrullah Mohd Nasir. (The Edge Malaysia)",
+    "takeaways": [
+     "Kedah Rubber City has RM3.344b of committed investments, says Economy Minister Akmal Nasrullah Mohd Nasir.",
+     "The commitments come from five key investors, as of September 2026.",
+     "That averages about RM669m per investor (computed here); the digest names none of them.",
+     "Committed investment is not the same as realised investment; the digest gives no realisation timeline.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Sarawak-Singapore power link awaits Indonesia’s nod despite signed agreements",
+    "region": "Malaysia",
+    "body": "Sarawak’s planned electricity exports to Singapore remain dependent on approval from the Indonesian government, despite technical and power purchase agreements for the undersea transmission project having been signed. (The Malaysian Reserve)",
+    "takeaways": [
+     "Sarawak's planned power exports to Singapore still need Indonesian government approval.",
+     "Technical and power purchase agreements for the undersea link have already been signed.",
+     "The digest does not say why Indonesia's approval is needed or when it might come.",
+     "This board's 4 November Sarawak Thematic row recorded Sembcorp's conditional approval to import 1GW to Singapore; this item suggests that path is not yet clear.",
+     "Digest context only; sourced to The Malaysian Reserve."
+    ]
+   },
+   {
+    "h": "China services gauge unexpectedly dips for first time since July",
+    "region": "Asia Pacific",
+    "body": "China’s services activity unexpectedly grew at a slower rate for the first time since July, a private survey showed, as business confidence eased and firms lowered their selling prices despite intensifying inflation in input costs. (Bloomberg)",
+    "takeaways": [
+     "China's services activity grew more slowly, the first slowdown since July, per a private survey.",
+     "The headline says it \"dips\", but the body says it still grew, at a slower rate.",
+     "Business confidence eased.",
+     "Firms cut selling prices even as input-cost inflation intensified, which points to margin pressure.",
+     "The digest gives no index reading. Digest context only; sourced to Bloomberg."
+    ]
+   },
+   {
+    "h": "US private payrolls rise in October, ADP says",
+    "region": "Americas",
+    "body": "US private payrolls growth increased further in October, the ADP National Employment Report showed on Wednesday. Private employment rose by 86,000 jobs last month after a downwardly revised 86,000 gain in September. (The Edge Malaysia)",
+    "takeaways": [
+     "ADP says US private employment rose by 86,000 jobs in October.",
+     "September's gain was revised down to 86,000.",
+     "The two months are therefore equal as printed, although the digest says growth \"increased further\". This board does not resolve that.",
+     "The digest gives no consensus figure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Democrats seize Congress in sweeping midterm repudiation of Trump",
+    "region": "Americas",
+    "body": "Democrats seized control of both the Senate and House of Representatives on Tuesday, scoring sweeping victories in Republican strongholds for the first time in generations as tens of millions of voters delivered a scathing rebuke to President Donald Trump. (Reuters)",
+    "takeaways": [
+     "Democrats won control of both the Senate and the House in Tuesday's midterms.",
+     "They won in Republican strongholds for the first time in generations.",
+     "Kenanga's Economic Viewpoint today calls gridlock the base case and keeps all its forecasts unchanged.",
+     "The new Congress sits from 3 January 2027, per that note.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "Euro zone economic growth slows to four-month low in October, PMI shows",
+    "region": "Europe",
+    "body": "The euro zone's economic expansion slowed sharply but did remain resilient in October as demand — a key gauge of underlying momentum — came close to stalling while rising costs squeezed businesses and confidence hit its weakest level in five months, a survey showed on Wednesday. (Reuters)",
+    "takeaways": [
+     "Euro zone growth slowed to a four-month low in October, per the PMI survey.",
+     "Demand came close to stalling.",
+     "Rising costs squeezed businesses.",
+     "Confidence hit its weakest level in five months. The digest gives no index reading.",
+     "Digest context only; sourced to Reuters."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/Kenanga-Today-261105-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "result": null,
+   "prevRating": "OP",
+   "prevTp": 2.84,
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 3.23,
+   "price": 2.79,
+   "divYield": null,
+   "high52": 2.92,
+   "low52": 0.6,
+   "mktSrc": "https://stockanalysis.com/quote/klse/KEEMING/",
+   "ticker": "KEEMING",
+   "name": "Kee Ming Group Berhad",
+   "conviction": "“KEEMING remains our top pick for the M&E sector.”",
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The stated valuation multiple does not produce the target.</b> The note says RM3.23 is based on '18x FY28F EPS'. FY28F core EPS is 14.7 sen, and 18 &times; 14.7 sen is about RM2.65. 22 &times; 14.7 sen is about RM3.23 (both computed here). This board's 4 September row recorded Kenanga re-rating KEEMING to 22x from 18x. So the target looks consistent with 22x and the '18x' looks like a carry-over, but that is an inference; the note does not say so. (2) <b>Financial years are labelled inconsistently.</b> The text says Kenanga raises 'FY26F and FY27F CNP forecasts by 2% and 14% to RM33m and RM48m'. The Summary Earnings Table, headed 'FYE Dec', shows those figures (RM33.0m, +2.0%; RM47.7m, +13.9%) under 2027F and 2028F, after a 2026A column. The peer table gives KEEMING's year-end as 03/2027, and this board's 4 September row discussed 1QFY27 results reported in late August, which fits a March year-end. The takeaways use the table's FY27F/FY28F labels. (3) <b>The peer table was not updated.</b> It still shows KEEMING at a RM2.84 target (1.8% upside) and core EPS of 9.8/12.9 sen, against RM3.23 and 10.1/14.7 sen elsewhere in the note. (4) <b>ESG.</b> The page 4 OVERALL line shows four stars, which on Kenanga's scale means a +5% premium to the target. The note does not mention an ESG adjustment, and the RM3.23 target matches 22x EPS without one (computed here). Stars are graphics and may be misread in extraction, so this board does not resolve it. (5) <b>Smaller points.</b> The June award was RM21.36m (Bernama, June 2026, headline seen in search; not opened), so RM21m plus RM44m is about RM65m against Kenanga's 'c.RM66m' (computed here); the gap is likely rounding. The order-book split (36% + 24% + 20% + 19%) sums to 99% (computed here). The note gives a 52-week range of RM0.38-2.90; stockanalysis.com, not Kenanga, gives RM0.60-2.92 and no dividend. The search for today's award in permitted outlets found no coverage yet.",
+   "catalyst": "KEEMING has won a <b>RM44m electrical subcontract</b> at a hyperscale data centre in Puncak Alam, its <b>second award from the same development in five months</b> after RM21m in June, taking cumulative wins there to <b>c.RM66m</b>. Kenanga reads the larger repeat award as growing main-contractor confidence. It lifts order-book replenishment assumptions by <b>RM40m a year</b>, <b>raises the target to RM3.23 from RM2.84</b>, keeps <b>OUTPERFORM</b> and says KEEMING <b>remains its top pick for the M&amp;E sector</b>.",
+   "quote": "Maintain OUTPERFORM with a higher TP of RM3.23 (from RM2.84), based on 18x FY28F EPS, following our earnings upgrades on stronger DC contract replenishment.",
+   "summary": [
+    "The call. Kenanga keeps OUTPERFORM, raises its target to RM3.23 from RM2.84 and calls KEEMING its top pick for the M&E sector. The previous target matches this board's 4 September row. At RM2.79 the new target is about 15.8% upside (computed here). Forecast core net profit is RM33.0m for FY27F and RM47.7m for FY28F, in line with consensus net profit of RM33.0m and RM48.0m. The stated basis is 18x FY28F EPS, but the arithmetic fits 22x (see flag). The shares are up 320.0% YTD against the KLCI's -3.8%.",
+    "The contract. KEEMING accepted a Letter of Award from a third-party M&E contractor for electrical works at a hyperscale data centre in Puncak Alam, Selangor. It covers general electrical works (WBS1) and main building electrical works (WBS2), with completion targeted by 30 July 2027. WBS1 starts immediately; WBS2 still needs a notice to proceed.",
+    "Why Kenanga likes it. The RM44m award is more than double the RM21m won from the same development in June 2026. Kenanga sees this as more than another contract win: it suggests KEEMING is gaining the main contractor's confidence for a bigger scope. Assuming a 20% margin, the nine-month job could generate about RM9m of gross profit, equal to 14% of Kenanga's FY27F gross profit forecast. The outstanding order book is now about RM290.2m: high-voltage 36%, data centres 24%, industrial 20% and commercial 19%.",
+    "The pipeline. Kenanga expects data-centre awards to stay strong, citing Google's US$15b investment commitment for 2027-2028, which includes new campuses in Selangor and Negeri Sembilan. Data centres are usually built in phases, which offers repeat orders. It also expects hyperscalers' renewable-energy demand under CRESS to open solar interconnection work, where KEEMING can use its relationship with SLVEST. It raises replenishment assumptions to RM353m for FY27F (from RM313m) and RM438m for FY28F (from RM398m).",
+    "Investment case and risks. Kenanga cites structural earnings growth on faster order-book replenishment, a solar-interconnection advantage through its associate relationship with SLVEST, its position in data-centre works (four DC projects completed), and potential multi-year work from TNB and in Sarawak. Listed risks are execution, dependence on subcontractors and working capital. The stock pays no dividend in Kenanga's forecasts. Outside the note, the most recent named-house call found is Maybank Investment Bank's hold from 18 August (see Analyst Signal)."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "Maybank Investment Bank",
+    "date": "18 Aug 2026",
+    "opp": true,
+    "note": "Checked because this row is Kenanga-Positive. <b>No named non-Kenanga house was found commenting on today's RM44m award in a permitted outlet during this run</b>; searches of The Edge Malaysia, The Star, NST, Business Today, The Sun and KLSE Screener found no coverage yet. The most recent dated, publicly retrievable named-house call remains <b>Maybank Investment Bank on 18 August 2026</b>, re-opened in this run: it <b>downgraded KEEMING to hold from buy on valuation</b>. The article gives no target price. <b>Read the date.</b> That call is about 11 weeks older than this note. It predates the 1QFY27 results, the 4 September Kenanga note and today's award. Maybank used no pick language, so the Analyst Signal reads <b>None stated</b>. <b>On divergence:</b> hold is the opposite direction to Kenanga's OUTPERFORM, so the &#8644; marker stays set, as on 4 September. A Business Today article of 6 September ('Kee Ming Starts Slow But Poised For Strong Lift-Off') returned HTTP 403 and was not read, so it is not used. <b>One of the nine houses</b> this board searches (Maybank Investment Bank) yielded a dated, publicly retrievable call. CIMB Securities, RHB Investment Bank, AmInvestment Bank, Hong Leong Investment Bank, Public Investment Bank, TA Securities, MIDF and Affin Hwang yielded none. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Edge Malaysia via KLSE Screener, 18 Aug 2026 &mdash; &lsquo;Kee Ming may see slow start to FY2027, says analyst&rsquo; (Maybank IB hold)",
+      "https://www.klsescreener.com/v2/news/view/1775847/kee-ming-may-see-slow-start-to-fy2027-says-analyst"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/KEEMING-261105-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": null,
+   "prevRating": "OP",
+   "prevTp": 9.7,
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 9.7,
+   "price": 7.68,
+   "divYield": 5.9,
+   "high52": 8.4,
+   "low52": 5.49,
+   "mktSrc": "https://stockanalysis.com/quote/klse/SUNCON/",
+   "ticker": "SUNCON",
+   "name": "Sunway Construction Group Berhad",
+   "conviction": null,
+   "flag": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared.</b> The only conviction-search hit is the investment case, 'We like SUNCON for: (i) strong job prospects...'. This board treats that wording as investment-case language (as with DIALOG, GAMUDA and KERJAYA), so the Kenanga Signal reads None stated. (2) <b>The target reconciles.</b> 22x FY27F core EPS of 42.0 sen is about RM9.24; adding the stated 5% premium for a four-star ESG rating gives about RM9.70 (computed here). (3) <b>Table differences.</b> FY25A core net profit is RM425.1m in the Summary Earnings Table but RM421m in the Income Statement. In the Financial Data table, the ROA row (18.6% to 87.4%) is higher than the ROE row (7.4% to 12.7%), and the DuPont ROE (20.8% to 80.7%) matches neither. These look like mislabelled rows; this board does not use them. (4) <b>Market data and analyst search.</b> The note gives a 52-week range of RM5.53-8.29. stockanalysis.com, not Kenanga, gives RM5.49-8.40 and a 5.90% yield on RM0.45 of dividends. A search of permitted outlets found no named-house comment on today's variation order yet. This row is neither Kenanga-Positive nor a results note, so no Analyst Signal is recorded (rules/daily-run.md step 8).",
+   "catalyst": "SUNCON has won a <b>RM920.8m MEP variation order</b> for the JHB01 data centre in Johor from a US multinational, lifting the project's total value to <b>RM2.51b</b>. YTD wins reach <b>RM8.06b</b>, within management's RM7b-9b target and near Kenanga's RM9b. The order book stands at <b>RM11.7b</b>. Kenanga keeps forecasts, the <b>RM9.70 target and OUTPERFORM</b>.",
+   "quote": "Maintain OUTPERFORM at TP of RM9.70.",
+   "summary": [
+    "The call. Kenanga keeps OUTPERFORM and its RM9.70 target, matching this board's 26 August row. The target is 22x FY27F EPS, in line with big-cap construction peers GAMUDA and IJM, plus a 5% premium for a four-star ESG rating. At RM7.68 that is 26.3% upside (peer table; also computed here). Forecasts are unchanged: core net profit of RM422.8m for FY26F and RM555.7m for FY27F, against consensus of RM435.8m and RM527.5m. The shares are up 38.7% YTD against the KLCI's -3.8%.",
+    "The award. SUNCON received a Letter of Award for a RM920.8m variation order from a US-based multinational technology corporation for extra mechanical, electrical and plumbing fit-out at JHB01 in Johor. Work starts immediately, with completion targeted for 1QCY28. Kenanga says the award is no surprise: SUNCON won the RM570m core-and-shell package in December 2025 and the RM1.02b initial MEP scope in August 2026, taking JHB01 to RM2.51b. It expects a PBT margin around the guided 10%.",
+    "Order book. YTD wins are RM8.06b, including six data-centre contracts worth RM6.75b. For comparison, Kenanga says GAMUDA has won four contracts worth RM7.00b and IJM one worth RM658.0m. The outstanding order book of RM11.7b gives earnings visibility for the next two to three years. Kenanga's forecasts assume job wins of RM9b in FY26 and RM7b in FY27.",
+    "Pipeline. SUNCON is tendering for seven data-centre projects across five clients, four existing and one new. Its active tender book is about RM14b across data centres, industrial buildings and precast. Tenders for JHB01's second phase, which could match it in size, are expected next year. Internal jobs from Sunway Group, including an upcoming hospital in Seremban, add support. Kenanga calls SUNCON a prime beneficiary of the data-centre second wave.",
+    "Investment case and risks. Kenanga cites strong sector job prospects as public infrastructure rolls out, earnings visibility from the RM11.7b order book and recurring jobs from parent and sister companies, and broad capabilities across building, infrastructure, solar and MEP. Its forecast FY26F dividend is 47.2 sen, a 6.1% yield. Listed risks are weak job flow, cost overruns and liquidated damages, and rising building-material costs."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/SUNCON-261105-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": null,
+   "prevRating": "OP",
+   "prevTp": 0.3,
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 0.3,
+   "price": 0.18,
+   "divYield": 16.67,
+   "high52": 0.365,
+   "low52": 0.175,
+   "mktSrc": "https://stockanalysis.com/quote/klse/VELESTO/",
+   "ticker": "VELESTO",
+   "name": "Velesto Energy Berhad",
+   "conviction": null,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared.</b> The only conviction-search hit is the investment case, 'We like VELESTO due to...'. This is investment-case language, so the Kenanga Signal reads None stated. (2) <b>The day rate is Kenanga's estimate, not a disclosed figure.</b> No day rate was announced. Kenanga infers USD90,000-100,000 a day from most of VELESTO's wins this year. (3) <b>The peer table was not updated.</b> It shows VELESTO at a RM0.32 target (77.8% upside), core EPS of 1.7/2.1 sen and a 3.0 sen dividend. The note states RM0.30, 1.0/1.5 sen and 2.0 sen. This board's 24 August row recorded the cut to RM0.30 from RM0.32. (4) <b>The target reconciles.</b> 1.1x FY27F BVPS of RM0.27 is about RM0.297, which rounds to RM0.30 (computed here). (5) <b>Market data.</b> The share price of RM0.18 equals the low of Kenanga's 52-week range (RM0.18-0.36). stockanalysis.com, not Kenanga, gives RM0.175-0.365 and a 16.67% trailing yield on RM0.03 of dividends, against Kenanga's forecast 11.3% for FY26F. Slips carried as printed: 'OUTPEFORM', 'unchartered'. A search of permitted outlets found no named-house comment on the Naga 3 award. This row is neither Kenanga-Positive nor a results note, so no Analyst Signal is recorded.",
+   "catalyst": "VELESTO has won a <b>short-term Petronas Carigali job for the jack-up rig Naga 3</b>: one firm well plus one optional well, from November 2026, running up to 1Q27 if the option is exercised. Naga 3 had been idle all year after its sale to PT Indonesia Drilling Energy was terminated in June. Kenanga had assumed 0% utilisation for it, but calls the win <b>within expectations</b> because its fleet-wide day-rate assumption is higher than actual rates. It keeps forecasts, the <b>RM0.30 target and OUTPERFORM</b>, and calls the recent sell-down an <b>overreaction</b>.",
+   "quote": "We maintain our TP at RM0.30 pegged to 1.1x FY27F PBV.",
+   "summary": [
+    "The call. Kenanga keeps OUTPERFORM and its RM0.30 target, pegged to 1.1x FY27F book value, which it says is the stock's one-year average. The target matches this board's 24 August row. At RM0.18 that is about 66.7% upside (computed here). There is no ESG adjustment for its three-star rating. Forecasts are unchanged: core net profit of RM79.5m for FY26F and RM122.8m for FY27F, below consensus of RM99.8m and RM147.0m. The shares are down 34.5% YTD against the KLCI's -3.8%.",
+    "The job. Petronas Carigali has awarded Naga 3 one firm well and one optional well, starting in November 2026; with the option, the work runs up to 1Q27. Naga 3 was meant to be sold to PT Indonesia Drilling Energy, but that deal was terminated in June 2026, which lowered VELESTO's dividend outlook.",
+    "Why forecasts do not change. Kenanga had assumed Naga 3 would be idle in FY26F, so the job is a positive. But it assumes a USD105,000-a-day rate across the whole fleet, while some rigs have secured around USD90,000 or more. Extra utilisation therefore balances out a lower actual rate. No rate was announced for Naga 3; Kenanga estimates USD90,000-100,000 a day (see flag).",
+    "The valuation argument. Kenanga calls the recent sharp sell-down an overreaction. It thinks the rig market may be close to a bottom in utilisation and day rates in FY26, possibly extending into early FY27, and sees upside bias in FY27 demand as Petronas and other regional producers may raise drilling plans to bolster energy resilience. Its dividend forecasts of 2.0 sen for FY26F and 2.1 sen for FY27F are well below consensus of 3.4 and 2.8 sen, yet still give an 11% yield. It puts the free-cash-flow yield at 12% for both years.",
+    "Investment case and risks. Kenanga cites a stronger free-cash-flow path as capex falls, better rig utilisation in 2H26 after a 1H26 bottom, and the ability to pay dividends above PAT without hurting its cash position in FY26-27F. Net cash is forecast at RM149m for FY26F. Listed risks are a global recession lowering oil prices, more breakdowns in its ageing rig fleet and weaker global jack-up demand."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/VELESTO-261105-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "US Midterms (Nov-26)",
+   "name": "US Midterms (Nov 2026): Gridlock is priced, the debt limit is not",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "flag": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>The charts were not read.</b> Graphs 1-4 (Congress results, the Kalshi impeachment probability, overnight DXY and 10Y UST, and Section 301 tiers) are images, so the takeaways rely only on the text and Table 1. Results are stated as of 9:44am MYT on 5 November, per the note. (2) <b>Third-party figures.</b> The more-than-75% impeachment probability is a Kalshi prediction-market price that Kenanga says may have changed by publication. The CBO deficit, debt-limit timing and debt figures are Kenanga's citations, not checked here. (3) <b>Timing.</b> The note expects BNM to hold the OPR at 2.75% 'today (5 Nov)'; the decision itself is not in the note. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "catalyst": "Democrats won <b>both the House and the Senate</b>, making gridlock Kenanga's base case for Trump's last two years. The 10Y UST fell about <b>7bps to 4.89%</b> and the DXY eased about <b>0.4% to 101.5</b>, but Kenanga <b>keeps all forecasts unchanged</b>. It sees tariffs as a continuity story: Malaysia's <b>10% Section 301 rate</b> rests on executive authority. The risk it flags is the <b>US debt limit, likely to bind around May 2027</b>.",
+   "quote": "The outcome was largely expected, but markets still moved.",
+   "summary": [
+    "The outcome. Democrats took both chambers in a broad rout, with affordability the deciding issue. Kenanga says gridlock is now the base case, in line with its view. The new Congress sits only from 3 January 2027, so a Republican lame-duck Congress stays in charge for two months, when the administration faces the least constraint. After January, vetoes become the default tool, and Democrats lack the two-thirds majority to override them. The real constraint shifts to the power of the purse, including funding for any further military action against Iran.",
+    "Impeachment and fiscal policy. Kalshi prices a more than 75% chance that Trump is impeached during his term, up from below 70% before the results. Removal needs two-thirds of the Senate, which Democrats are well short of, so Kenanga sees impeachment as noise. Gridlock rules out a second round of tax cuts or large new spending: new laws stop adding to the deficit, but the deficit does not shrink. The CBO's February baseline put the FY2026 deficit at about 5.8% of GDP, which Kenanga says likely overstates tariff revenue.",
+    "Debt limit and the Fed. Kenanga expects the debt limit to bind around May 2027, with the X-date around February 2028: the first real fiscal standoff of the divided government. Debt held by the public reached USD32.2t, or 100.0% of GDP, at the end of FY2026, the first year-end above 100% since 1946. The election does not change its Fed call: one final 25bps hike in December to 4.00-4.25%, then a hold through 2027. It sees the Treasury rally as an initial bounce and keeps its end-2026 10Y UST forecast at 5.00%.",
+    "Trade. The 10% Section 301 forced-labour tariff on Malaysia has applied since 24 July 2026, and a 25% Section 232 tariff has covered a narrow set of advanced semiconductors since 15 January 2026. Congress can scrutinise both but not unwind them, since any bill curbing tariff powers faces a veto. Kenanga expects a more predictable trade regime, not a lower-tariff one. The open risks sit outside Congress: a separate Section 301 overcapacity probe that covers Malaysia, and any widening of the semiconductor tariff.",
+    "Malaysia. Malaysia sits in the lower 10% Section 301 tier with 18 other economies; the other 41 face 12.5%, a modest competitive edge. A softer USD and lower UST yields could support foreign buying of MGS and GII. For Bursa, known tariffs are largely priced in, and AI-capex repricing matters more. Forecasts are unchanged: 10Y MGS 3.88% at end-2026; USDMYR 4.00 at end-2026, 4.05 in 1Q27 on GE16 risk, and 3.90 by end-2027; OPR held at 2.75% today, with one 25bps hike to 3.00% in 1Q27."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/EV_US_Midterms_Gridlock_Returns_261105-Kenanga.pdf"
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T21:46:35.584Z",
+ "generatedAt": "2026-11-05T07:45:18.191Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -47,10 +47,11 @@
   "2026-10-29",
   "2026-10-30",
   "2026-11-03",
-  "2026-11-04"
+  "2026-11-04",
+  "2026-11-05"
  ],
- "rows": 187,
- "verified": 186,
+ "rows": 191,
+ "verified": 190,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -755,6 +756,30 @@
    "date": "2026-11-04",
    "row": "Sarawak",
    "msg": "Eight points of caution on this row, reported as printed rather than resolved. (1) <b>Filed as a Sector Update</b>, although the document is headed 'Sarawak Thematic Report' and 'Thematic Sector Update', because this board's report-type dropdown is fixed to five types (rules/signals.md &sect;6). Earlier Thematic reports were filed the same way. Sarawak is a state, not a sector. The report states <b>no sector rating</b>, and it carries no rating, target or share price of its own, so those columns are empty by design. (2) <b>No pick is declared.</b> Searching for all the board's conviction terms (top pick, sector pick, our pick, preferred, most attractive, we like, favour, favourite) finds only these hits. CPS is 'being favoured by the state'. IPP terms are 'favourable'. And 'local players with balance sheet and strong JV partners would be preferred in the race to bid for the upcoming IPPs'. That last phrase is about who wins bids, not a Kenanga stock pick. 'SLVEST remains as a good proxy', 'KGB offers exposure' and IBRACO 'could potentially be in strong positions' are exposure language, not pick declarations. Kenanga also says it has 'no confirmation' that IBRACO is actively bidding. So the Kenanga Signal reads None stated. (3) <b>The gas-plant breakeven is stated two ways.</b> Page 3 gives 30.31 sen/kWh for a 1.5GW plant at RM4.5m/MW capex and RM30/mmbtu piped gas. Page 4 says the same 1.5GW plant at RM30/mmbtu 'would need 28sen/kwh to breakeven assuming 60% capacity factor'. Page 3 states no capacity factor, and the note does not reconcile the two. (4) <b>The grid-replacement capex does not follow from its inputs.</b> The note gives 'RM80-260m per annum at 1.5-3.0% per year' of PPE of about RM35b. On those inputs, 1.5-3.0% of RM35b is about RM525m-1,050m a year (computed here). This board cannot tell which input is wrong. (5) <b>The solar EPCC value is printed two ways.</b> Page 5 gives RM7.3-12.2b 'by 2035', then RM7.3-12.1b 'up to 2030' for the same 2.2-3.7GW. At RM3.3m/MW, 2.2-3.7GW gives about RM7.26-12.21b (computed here), which supports RM12.2b. (6) <b>CPS figures.</b> Capex is printed as 'RM8.6/mw'. This board reads it as RM8.6m per MW, but that is an inference. The upper end of Exhibit 7's five basins sums to 1,970MW (lower end 1,550MW, computed here). At RM8.6m/MW, 1,970MW gives about RM16.9b (computed here), against the RM16.7b printed. FID timing appears as 'realistically in 2027' (page 7) and as 'FID and construction starting in 1Q28' (page 8). Page 5 credits '4.8GW from Baleh', but Baleh is 1,285MW everywhere else in the note. The 4.8GW probably means total large hydro, but that is an inference; the note does not say. (7) <b>Peer tables against this board.</b> The first peer table has no heading and lists oil and gas stocks, not Sarawak names. It shows DIALOG at a RM2.63 target, against RM2.65 in this board's 3 November DIALOG row. SAMAIDEN appears at RM3.20 (this board's 27 August row: RM2.50) and SWIFT at OUTPERFORM, RM0.47 (this board's 28 August row: MARKET PERFORM, RM0.40). Any notes in between are not on this board, so those gaps are not resolved here. KEEMING (RM2.84), TENAGA (RM16.30), YTLPOWR (RM6.40), KJTS (RM1.60) and CHEEDING (RM0.78) match this board's latest rows. Prices for MISC, PETDAG, PCHEM, TENAGA and YTLPOWR match the digest's 3 November closes. <b>Ratings against Kenanga's own bands:</b> this uses the approximation expected return = upside + net yield, which is an inference, not a Kenanga method. On that basis SLVEST (OUTPERFORM, -8.3% upside), PEKAT (OUTPERFORM, -26.8%), KEEMING (OUTPERFORM, 1.4%), SAMAIDEN (OUTPERFORM, about 8.4%) and PCHEM (MARKET PERFORM, about -5.8%) sit outside them. (8) <b>Source limits.</b> Exhibits 1, 2 and 8 are images and were not read. Exhibit 3's bar values were extracted as text, but which value belongs to which bar cannot be confirmed, so none is used. The visit took place in August 2026. Slips carried as printed: '3-uear', '1.5 sGW', 'EPPC', 'Kotra Petra' (and 'Kota Petra'), 'BHG'. No Analyst Signal is sought, because this row is neither Kenanga-Positive nor a results note (rules/daily-run.md step 8)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-05",
+   "row": "KEEMING",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The stated valuation multiple does not produce the target.</b> The note says RM3.23 is based on '18x FY28F EPS'. FY28F core EPS is 14.7 sen, and 18 &times; 14.7 sen is about RM2.65. 22 &times; 14.7 sen is about RM3.23 (both computed here). This board's 4 September row recorded Kenanga re-rating KEEMING to 22x from 18x. So the target looks consistent with 22x and the '18x' looks like a carry-over, but that is an inference; the note does not say so. (2) <b>Financial years are labelled inconsistently.</b> The text says Kenanga raises 'FY26F and FY27F CNP forecasts by 2% and 14% to RM33m and RM48m'. The Summary Earnings Table, headed 'FYE Dec', shows those figures (RM33.0m, +2.0%; RM47.7m, +13.9%) under 2027F and 2028F, after a 2026A column. The peer table gives KEEMING's year-end as 03/2027, and this board's 4 September row discussed 1QFY27 results reported in late August, which fits a March year-end. The takeaways use the table's FY27F/FY28F labels. (3) <b>The peer table was not updated.</b> It still shows KEEMING at a RM2.84 target (1.8% upside) and core EPS of 9.8/12.9 sen, against RM3.23 and 10.1/14.7 sen elsewhere in the note. (4) <b>ESG.</b> The page 4 OVERALL line shows four stars, which on Kenanga's scale means a +5% premium to the target. The note does not mention an ESG adjustment, and the RM3.23 target matches 22x EPS without one (computed here). Stars are graphics and may be misread in extraction, so this board does not resolve it. (5) <b>Smaller points.</b> The June award was RM21.36m (Bernama, June 2026, headline seen in search; not opened), so RM21m plus RM44m is about RM65m against Kenanga's 'c.RM66m' (computed here); the gap is likely rounding. The order-book split (36% + 24% + 20% + 19%) sums to 99% (computed here). The note gives a 52-week range of RM0.38-2.90; stockanalysis.com, not Kenanga, gives RM0.60-2.92 and no dividend. The search for today's award in permitted outlets found no coverage yet."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-05",
+   "row": "SUNCON",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared.</b> The only conviction-search hit is the investment case, 'We like SUNCON for: (i) strong job prospects...'. This board treats that wording as investment-case language (as with DIALOG, GAMUDA and KERJAYA), so the Kenanga Signal reads None stated. (2) <b>The target reconciles.</b> 22x FY27F core EPS of 42.0 sen is about RM9.24; adding the stated 5% premium for a four-star ESG rating gives about RM9.70 (computed here). (3) <b>Table differences.</b> FY25A core net profit is RM425.1m in the Summary Earnings Table but RM421m in the Income Statement. In the Financial Data table, the ROA row (18.6% to 87.4%) is higher than the ROE row (7.4% to 12.7%), and the DuPont ROE (20.8% to 80.7%) matches neither. These look like mislabelled rows; this board does not use them. (4) <b>Market data and analyst search.</b> The note gives a 52-week range of RM5.53-8.29. stockanalysis.com, not Kenanga, gives RM5.49-8.40 and a 5.90% yield on RM0.45 of dividends. A search of permitted outlets found no named-house comment on today's variation order yet. This row is neither Kenanga-Positive nor a results note, so no Analyst Signal is recorded (rules/daily-run.md step 8)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-05",
+   "row": "VELESTO",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared.</b> The only conviction-search hit is the investment case, 'We like VELESTO due to...'. This is investment-case language, so the Kenanga Signal reads None stated. (2) <b>The day rate is Kenanga's estimate, not a disclosed figure.</b> No day rate was announced. Kenanga infers USD90,000-100,000 a day from most of VELESTO's wins this year. (3) <b>The peer table was not updated.</b> It shows VELESTO at a RM0.32 target (77.8% upside), core EPS of 1.7/2.1 sen and a 3.0 sen dividend. The note states RM0.30, 1.0/1.5 sen and 2.0 sen. This board's 24 August row recorded the cut to RM0.30 from RM0.32. (4) <b>The target reconciles.</b> 1.1x FY27F BVPS of RM0.27 is about RM0.297, which rounds to RM0.30 (computed here). (5) <b>Market data.</b> The share price of RM0.18 equals the low of Kenanga's 52-week range (RM0.18-0.36). stockanalysis.com, not Kenanga, gives RM0.175-0.365 and a 16.67% trailing yield on RM0.03 of dividends, against Kenanga's forecast 11.3% for FY26F. Slips carried as printed: 'OUTPEFORM', 'unchartered'. A search of permitted outlets found no named-house comment on the Naga 3 award. This row is neither Kenanga-Positive nor a results note, so no Analyst Signal is recorded."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-05",
+   "row": "US Midterms (Nov-26)",
+   "msg": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>The charts were not read.</b> Graphs 1-4 (Congress results, the Kalshi impeachment probability, overnight DXY and 10Y UST, and Section 301 tiers) are images, so the takeaways rely only on the text and Table 1. Results are stated as of 9:44am MYT on 5 November, per the note. (2) <b>Third-party figures.</b> The more-than-75% impeachment probability is a Kalshi prediction-market price that Kenanga says may have changed by publication. The CBO deficit, debt-limit timing and debt figures are Kenanga's citations, not checked here. (3) <b>Timing.</b> The note expects BNM to hold the OPR at 2.75% 'today (5 Nov)'; the decision itself is not in the note. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
   }
  ],
  "verdict": "PASS"
