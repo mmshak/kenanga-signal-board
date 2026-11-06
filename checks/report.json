@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T21:50:52.896Z",
+ "generatedAt": "2026-11-06T07:48:09.572Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -48,10 +48,11 @@
   "2026-10-30",
   "2026-11-03",
   "2026-11-04",
-  "2026-11-05"
+  "2026-11-05",
+  "2026-11-06"
  ],
- "rows": 191,
- "verified": 190,
+ "rows": 198,
+ "verified": 197,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -780,6 +781,48 @@
    "date": "2026-11-05",
    "row": "US Midterms (Nov-26)",
    "msg": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>The charts were not read.</b> Graphs 1-4 (Congress results, the Kalshi impeachment probability, overnight DXY and 10Y UST, and Section 301 tiers) are images, so the takeaways rely only on the text and Table 1. Results are stated as of 9:44am MYT on 5 November, per the note. (2) <b>Third-party figures.</b> The more-than-75% impeachment probability is a Kalshi prediction-market price that Kenanga says may have changed by publication. The CBO deficit, debt-limit timing and debt figures are Kenanga's citations, not checked here. (3) <b>Timing.</b> The note expects BNM to hold the OPR at 2.75% 'today (5 Nov)'; the decision itself is not in the note. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-06",
+   "row": "F&N",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared.</b> The only conviction-search hit is the investment case, 'We like F&amp;N for...'. This board treats that as investment-case language, so the Kenanga Signal reads None stated. (2) <b>The previous target is Kenanga's, not this board's.</b> This board holds no earlier F&amp;N row, so RM28.95 cannot be cross-checked here. A 3 August Edge article quoted Kenanga at RM34.45, so at least one further Kenanga cut came between August and today; that note was not opened. (3) <b>The rating is held 'pending' today's briefing.</b> Kenanga says it retains OUTPERFORM 'pending further clarity on the outlook', so the call may be revisited. (4) <b>Table and arithmetic notes.</b> The target reconciles: core F&amp;B RM8,481m plus dairy RM511m over 367m shares is about RM24.50 (computed here). Core net profit of RM340m at 83% of forecast implies a Kenanga FY26 forecast of about RM410m (computed here). 4Q 'Others' operating profit of RM79.8m includes the RM91m Vacaron gain that core profit excludes. The peer table shows a 06/2027 year-end against 'FYE Sep' elsewhere. Kenanga's 52-week range (RM19.46-36.82) matches stockanalysis.com, which also gives, not from Kenanga, a 3.06% yield on RM0.65 of dividends."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-06",
+   "row": "PENTA",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared.</b> The only conviction-search hit is the investment case, 'We like PENTA for...', on a MARKET PERFORM call, so the Kenanga Signal reads None stated. (2) <b>Mixed result basis.</b> 9MFY26 PATAMI was below Kenanga's forecast but within consensus; this board records the result against Kenanga's own forecast, so it reads as a miss. The stated ratios do not quite match the summary table: RM57.4m is about 67.5% of the RM85m FY26F PATAMI and 76.5% of the RM75m consensus, against the note's 69% and 78% (computed here). (3) <b>Segment sums.</b> The note gives 9M FAS revenue of RM309m and ATE of RM249m, but the application table's FAS rows sum to about RM315.6m and ATE rows to about RM269.7m (computed here). The mapping may differ; this board does not use the table sums. The Results Highlights table prints tax rates as negative. (4) <b>Market data.</b> Kenanga's 52-week range is RM2.84-6.08; stockanalysis.com, not Kenanga, gives RM2.80-6.16, no dividend yield, and a previous close of RM5.58 against Kenanga's RM5.15 price. That gap is not explained by either source and is not resolved here. The target reconciles: 35.7x FY27F EPS of 15.7 sen is about RM5.60 (computed here)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-06",
+   "row": "SDG",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared.</b> The closest wording is 'valuation is now more attractive following share price correction'. That compares SDG with its own past price, not with peers, so it is not a 'most attractive' declaration and the Kenanga Signal reads None stated. (2) <b>The stated basis does not produce the target.</b> The note says RM7.20 is 20x FY27F PER plus a 5% premium for a four-star ESG rating. 20 &times; 33.1 sen is about RM6.62, and with 5% about RM6.95 (computed here). RM7.20 would need about 20.7x with the premium. The note does not explain the gap. (3) <b>The consensus comparison is Kenanga's own adjustment.</b> Kenanga takes consensus PATMI of RM2,543m, assumes it includes RM795m of disposal gains, and so derives a consensus core figure of RM1,748m; the 88% depends on that assumption. (4) <b>Internal inconsistencies.</b> 9M disposal gains are RM795m on page 1, RM772m on page 2 and RM779m in the results table. The results table's 9MFY26 EBIT (RM1,065m, -55%) repeats the 3Q figure. Page 1 says 'Upstream EBIT rose 49%', while the table labels that line segmental PBT. The peer table was not updated: it shows core EPS of 33.6/34.1 sen and a 16.0 sen dividend against 31.7/33.1 sen and 22.0 sen in the note. 'Beta 58%' is a misprint. (5) <b>The target was already uncertain on this board.</b> The note says OUTPERFORM was upgraded from MARKET PERFORM around Budget 2027. This board holds no single-stock SDG row, and the upgrade note (12 October) returned 404. This board's 13 October Plantation row recorded two SDG targets that day: <b>OUTPERFORM RM6.95 in the text</b> and <b>MARKET PERFORM RM7.20 in the peer table</b>, and did not resolve them. Today's note states RM7.20 in its headline, text, valuation section and peer table, so this row uses RM7.20 as printed. But RM6.95 is exactly what the stated 20x-plus-5% basis produces (point 2), so it is possible that RM7.20 is a carried-over figure. This board cannot establish that from published Kenanga sources, and treats it as an open question, not a correction. Kenanga's 52-week range matches stockanalysis.com (RM5.18-7.00), which also gives, not from Kenanga, a 3.02% yield on RM0.18 of dividends."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-06",
+   "row": "SUNCON",
+   "msg": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared.</b> The only conviction-search hit is the investment case, 'We like SUNCON for...', which this board treats as investment-case language (as in the 5 November row), so the Kenanga Signal reads None stated. (2) <b>Reconciles with yesterday's row.</b> This is a separate note from the 5 November one. Adding RM1.74b to yesterday's figures gives YTD wins of RM9.80b (from RM8.06b), data-centre wins of about RM8.49b (from RM6.75b; note says RM8.5b, now seven contracts) and an order book of about RM13.44b (from RM11.7b) (all computed here). The tender pipeline is now six data-centre projects and c.RM12b, against seven and about RM14b yesterday; the note does not say what dropped out. Consensus moved to RM439.2m/RM542.8m from RM435.8m/RM527.5m. (3) <b>Target and market data.</b> 22x FY27F EPS of 42.0 sen plus a 5% ESG premium is about RM9.70 (computed here). Kenanga gives a 52-week range of RM5.17-8.40; stockanalysis.com, not Kenanga, gives RM5.49-8.40 and a 5.85% yield on RM0.45 of dividends. This row is neither Kenanga-Positive nor a results note, so no Analyst Signal search was run (rules/daily-run.md step 8)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-06",
+   "row": "BNM MPC (Nov-26)",
+   "msg": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>Graphs not read.</b> Graphs 1-2 (Fed funds, OPR and SRR; Malaysia's real interest rate) are images, so the takeaways rely on the text and Table 1. (2) <b>Figures cited without a source.</b> The note gives 3Q26 GDP growth of 5.3% and September inflation of 1.8% without saying where they come from; this board has not checked them. (3) <b>Slips.</b> The page 2 header is dated '06 September 2026'. Table 1 still shows the UK base rate at 3.75% (last changed December 2025), so it predates the Bank of England hike reported in today's digest. The decision itself matches the expectation recorded in this board's 5 November US Midterms row. This is an Economic Viewpoint with no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-06",
+   "row": "MY Bond Market Weekly",
+   "msg": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>Reconciles with last week's row.</b> The 30 October row's 10-year MGS of 3.928% less 8.7bps gives 3.841%, and its 10-year UST of 4.937% less 10.2bps gives 4.835% (computed here). Table 1's forecast paths are unchanged from that row and match today's Ringgit note. (2) <b>Different flow periods.</b> Last week's row recorded foreign net selling of RM3.7b of government bonds in the week to 23 October; today's RM2.9b of net buying is for the whole of October. These are different periods, not a contradiction. The roughly 70% priced chance of a December Fed hike compares with about 75% last week; market pricing moves daily. (3) Pages 2-3 carry a garbled 'ENANGA' header, a '6 S' date fragment and a Level 12 address, and Graphs 1-7 are images that were not read. This is an Economic Viewpoint with no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-06",
+   "row": "Ringgit Weekly",
+   "msg": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>Small starting-point difference.</b> The text says the ringgit firmed to 4.047 'from 4.058'. Table 2's 'last week' (29 October) level is 4.060, which matches this board's 30 October row. The note does not explain the 4.058. (2) <b>A truncated sentence.</b> The performance line ends 'as oil and UST yields sl.', apparently cut off; it is not used beyond what the rest of the note supports. (3) <b>Last week's call held.</b> The 30 October row's 4.04-4.08 range contains this week's 4.047 close, consistent with the note's 'in line with our call' (computed here). Graphs 1-3 are images and were not read. This is an Economic Viewpoint with no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
   }
  ],
  "verdict": "PASS"
