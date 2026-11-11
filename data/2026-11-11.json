@@ -1,0 +1,285 @@
+{
+ "date": "2026-11-11",
+ "schema": 1,
+ "daily": {
+  "klci": 1604.1,
+  "chg": -12.51,
+  "pct": -0.77,
+  "inst": 55.6,
+  "instPct": 33.4,
+  "retail": 128.5,
+  "retailPct": 24.5,
+  "foreign": -184.1,
+  "foreignPct": 42.1,
+  "ideas": "Sector Update: Plantation (MPOB); Results Note: SUNREIT; Economic Viewpoint: MY IPI",
+  "news": [
+   {
+    "h": "Critical Holdings bags RM65.0m cleanroom contracts from multinational",
+    "body": "Critical Holdings Bhd has secured engineering, procurement and construction contracts worth RM65.0m from a multinational corporation for cleanroom works in northern Peninsular Malaysia. The customer was not identified. (The Edge Malaysia)",
+    "takeaways": [
+     "Critical Holdings has won EPC contracts worth RM65.0m for cleanroom works in northern Peninsular Malaysia.",
+     "The customer is a multinational corporation that Critical Holdings did not name.",
+     "The award went to wholly owned subsidiary Critical Sales &amp; Services Sdn Bhd.",
+     "The scope covers design, construction, testing and commissioning of a new cleanroom production floor, including mechanical, electrical and process utilities and cleanroom architectural systems.",
+     "This board holds no Kenanga coverage of Critical Holdings. Digest context only."
+    ]
+   },
+   {
+    "h": "Jati Tinggi wins RM33.1m contract for power supply to Gerbil data centre",
+    "body": "Electrical engineering firm Jati Tinggi Group Bhd has secured a RM33.1m subcontract for electrical infrastructure works for interim power supply to a data centre in Gerbil, Negeri Sembilan. (The Edge Malaysia)",
+    "takeaways": [
+     "Jati Tinggi has a RM33.1m subcontract for interim power supply works to a data centre in Gerbil, Negeri Sembilan.",
+     "The award went to wholly owned subsidiary Jati Tinggi Holding Sdn Bhd.",
+     "The main contractor that awarded the job was not named.",
+     "The work covers supply, design, installation, testing and commissioning of two circuits of 275kV power cables from a transition yard to the data centre's substation.",
+     "This board holds no Kenanga coverage of Jati Tinggi. Digest context only."
+    ]
+   },
+   {
+    "h": "Favelle Favco bags RM83.7m in Australian tower crane orders",
+    "body": "Favelle Favco Bhd said its Australian unit has secured two tower crane supply orders worth a combined RM83.7m. (The Edge Malaysia)",
+    "takeaways": [
+     "Favelle Favco's Australian unit has two tower crane supply orders worth a combined RM83.7m.",
+     "The unit is wholly owned subsidiary Favelle Favco Cranes Pty Ltd.",
+     "The customers are Marr Contracting Pty Ltd and G A Caelli Holdings Trust; the orders came between 5 November and the date of the announcement.",
+     "Marr Contracting's cranes are due by 1Q27; G A Caelli's by the end of 2027.",
+     "This board holds no Kenanga coverage of Favelle Favco. Digest context only."
+    ]
+   },
+   {
+    "h": "Kumpulan Kitacon bags RM54.9m construction job in Selangor",
+    "body": "Kumpulan Kitacon Bhd has secured a RM54.9m construction works contract for a project at Taman Perdagangan Elmina in Rawang, Selangor, from a Sime Darby Property subsidiary. (The Edge Malaysia)",
+    "takeaways": [
+     "Kitacon has a RM54.9m construction contract at Taman Perdagangan Elmina, Rawang, Selangor.",
+     "Its wholly owned unit accepted the job on 7 November 2026.",
+     "The client is Sime Darby Property (Elmina North) Sdn Bhd, a Sime Darby Property subsidiary.",
+     "Phase i25 comprises 14 two-storey detached factories with EV charging bays, refuse chambers, a main switch station and two distribution substations.",
+     "This board holds no Kenanga coverage of Kitacon. Digest context only."
+    ]
+   },
+   {
+    "h": "Advancecon bags third earthworks job in Johor's Southern Ibrahim Technopolis",
+    "body": "Advancecon Holdings Bhd has secured a RM41.5m contract for earthworks and main infrastructure works at Southern Ibrahim Technopolis (IBTEC) in Kulai, Johor, from JLG Technopark Sdn Bhd, a unit of Johor Corporation. (The Edge Malaysia)",
+    "takeaways": [
+     "Advancecon has a RM41.5m earthworks and main infrastructure contract at IBTEC in Kulai, Johor.",
+     "The client is JLG Technopark Sdn Bhd, a unit of Johor Corporation.",
+     "It is Advancecon's third JLG contract at IBTEC, after RM148.4m in March and RM66.9m in September.",
+     "The three IBTEC awards total about RM256.8m (computed here).",
+     "This board holds no Kenanga coverage of Advancecon. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Canada looking at relief from US tariff after Trump's midterm election loss",
+    "region": "Global",
+    "body": "Canada will seek to ease trade frictions with the US after tariff-weary voters rebuked US President Donald Trump in midterm elections, Foreign Affairs Minister Anita Anand said. (The Edge Malaysia)",
+    "takeaways": [
+     "Canada will seek to ease trade frictions with the US.",
+     "The trigger is the US midterm result, which the digest describes as voters rebuking President Trump.",
+     "The statement came from Foreign Affairs Minister Anita Anand.",
+     "The digest gives no specific tariff measures or timetable.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US extends Vietnam trade probe on intellectual property to end of February",
+    "region": "Global",
+    "body": "The United States has extended a trade probe into Vietnam's intellectual property protections by three months until the end of February, the Office of the US Trade Representative said on Tuesday. (The Edge Malaysia)",
+    "takeaways": [
+     "The US has extended its trade probe into Vietnam's intellectual property protections by three months.",
+     "The probe now runs to the end of February.",
+     "The Office of the US Trade Representative announced it on Tuesday, 10 November.",
+     "It cited the complexity of the matter.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysia's industrial output rises more than expected at 6.3% in September",
+    "region": "Malaysia",
+    "body": "Malaysia's industrial output grew faster than expected in September, as stronger manufacturing led by electronics and higher electricity generation offset a deeper contraction in mining. (The Edge Malaysia; see Economic Viewpoint: MY IPI)",
+    "takeaways": [
+     "Industrial output grew 6.3% in September, faster than expected.",
+     "Manufacturing, led by electronics, and electricity generation drove the gain.",
+     "Mining contracted more deeply.",
+     "Kenanga's own Economic Viewpoint on the print is a full row on today's board.",
+     "The 6.3% figure matches that note's Table 1."
+    ]
+   },
+   {
+    "h": "Malaysian health inflation up 3% last year, Department of Statistics flags",
+    "region": "Malaysia",
+    "body": "Health inflation increased 3.0% in 2025 compared with 1.3% in 2024, according to the Department of Statistics Malaysia (DOSM). (The Edge Malaysia)",
+    "takeaways": [
+     "Health inflation was 3.0% in 2025.",
+     "That compares with 1.3% in 2024.",
+     "The figures come from the Department of Statistics Malaysia.",
+     "This is a 2025 annual figure, not a current monthly print.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysia targets one million affordable homes by 2035 with modular construction technology",
+    "region": "Malaysia",
+    "body": "Malaysia aims to deliver 500,000 affordable homes in four years, halfway towards its overall target of one million homes, by leveraging modular construction technology. (The Edge Malaysia)",
+    "takeaways": [
+     "Malaysia aims to deliver 500,000 affordable homes in four years.",
+     "That is half of an overall target of one million homes.",
+     "Modular construction technology is meant to speed delivery.",
+     "The headline gives the target year as 2035; the digest's body text says '2025', which reads as a typo and is not used here.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Japan September household spending slumps amid bad weather",
+    "region": "Asia Pacific",
+    "body": "Japanese household spending fell more than expected in September from a year earlier, marking a 10th straight month of decline. (The Edge Malaysia)",
+    "takeaways": [
+     "Japanese household spending fell more than expected in September, year on year.",
+     "It was the 10th straight month of decline.",
+     "The headline blames bad weather.",
+     "Government data were released on Tuesday.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US core CPI rises by more than forecast, supporting Fed hike",
+    "region": "Americas",
+    "body": "A key gauge of US consumer prices posted another firm advance in October, likely keeping the Federal Reserve on track to raise interest rates next month. (The Edge Malaysia)",
+    "takeaways": [
+     "US core CPI rose by more than forecast in October.",
+     "It was another firm advance.",
+     "The digest says this likely keeps the Fed on track to raise rates in December.",
+     "The digest gives no CPI figure.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Fed's Waller backs rate hike in December, says open to larger move",
+    "region": "Americas",
+    "body": "Federal Reserve governor Christopher Waller said he supports an interest-rate hike in December, and would support a half-percentage-point increase if inflation continues to accelerate. (The Edge Malaysia)",
+    "takeaways": [
+     "Fed governor Christopher Waller supports a rate hike in December.",
+     "He would back a half-point increase if inflation keeps accelerating.",
+     "He framed that as protecting the central bank's credibility.",
+     "He spoke on Tuesday, 10 November.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "UK retail spending shows modest growth ahead of Black Friday, survey shows",
+    "region": "Europe",
+    "body": "British retail spending grew modestly in October despite higher petrol prices, as households cut back on some categories ahead of Black Friday deals, according to a survey. (Reuters)",
+    "takeaways": [
+     "UK retail spending grew modestly in October.",
+     "Petrol prices were higher.",
+     "Households cut back on some categories in anticipation of Black Friday deals.",
+     "The source is a survey, not official statistics; the digest gives no figure.",
+     "Digest context only; sourced to Reuters."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/Kenanga-Today-261111-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "result": "inline",
+   "prevRating": "OP",
+   "prevTp": 2.27,
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 2.48,
+   "price": 2.03,
+   "divYield": 7.13,
+   "high52": 2.67,
+   "low52": 2.0,
+   "mktSrc": "https://stockanalysis.com/quote/klse/SUNREIT/",
+   "ticker": "SUNREIT",
+   "name": "Sunway Real Estate Investment Trust",
+   "conviction": "\"SUNREIT is one of our sector picks after PAVREIT.\"",
+   "flag": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>'Net profit' in the text is core net profit.</b> The text says 9MFY26 'net profit of RM331.8m' made up 76% of Kenanga's forecast and 73% of consensus, and that 'net profit rose by a stronger 4%'. The Results Highlights table shows RM331.8m as <b>core</b> net profit (+4.4% YoY). Reported 9MFY26 net profit is RM349.1m, <b>down 4.6% YoY</b>. RM331.8m is about 76% of the RM433.9m FY26F core profit; against the RM453.4m consensus (a net-profit figure) it is about 73% (computed here). This row uses the table's labels. (2) <b>The hotel 'rebound' is quarter-on-quarter only.</b> Hotel revenue rose 67.1% QoQ but fell 13.7% YoY in 3Q and 9.7% over 9M; hotel NPI fell 10.2% over 9M. (3) <b>3Q itself was lower year on year.</b> 3Q revenue fell 1.7% YoY, NPI 3.9% and core net profit 5.2%, while 9M revenue rose 1.3%; the text describes the 9M picture. (4) <b>Market data.</b> Kenanga's price is RM2.03; stockanalysis.com, not Kenanga, gives a 10 November close of RM2.05, a 52-week range of RM2.00-2.67 (matching Kenanga's) and a 7.13% yield on RM0.14 of distributions. The target reconciles: FY27F GDPU of 13.6 sen at a 5.50% target yield is about RM2.47, against RM2.48 (computed here). The previous target of RM2.27 matches this board's 26 October REIT sector row, which named SUNREIT and PAVREIT Kenanga's preferred sector picks.",
+   "catalyst": "SUNREIT's <b>9MFY26 core net profit of RM331.8m was within expectations</b> at 76% of Kenanga's forecast. Retail rental reversion stayed at mid-single digits with 2% tenant sales growth, and the <b>hotel segment recovered QoQ</b> from a low base. All three Sunway Putra assets grew NPI by double digits YTD. Kenanga rolls its valuation to FY27, <b>lifting its target to RM2.48 from RM2.27</b>, keeps <b>OUTPERFORM</b>, and names SUNREIT <b>one of its sector picks after PAVREIT</b>.",
+   "quote": "We roll-over our valuation base year, lifting our TP to RM2.48 from RM2.27 while keeping an OUTPERFORM call.",
+   "summary": [
+    "The call. Kenanga keeps OUTPERFORM and raises its target to RM2.48 from RM2.27, purely by rolling its valuation base year to FY27; forecasts are unchanged. The target uses FY27F GDPU of 13.6 sen and a 5.50% target yield: a 1.60% spread over Kenanga's 3.90% 10-year MGS assumption. Kenanga says the spread is lower than for peers because of SUNREIT's diversified urban portfolio, its sponsor's visible asset-injection pipeline and the Sunway brand. There is no ESG adjustment (three stars). The peer table shows 22.2% upside from RM2.03 and a 6.2% FY26F net yield. Kenanga calls SUNREIT 'one of our sector picks after PAVREIT'.",
+    "The result. Kenanga puts 9MFY26 core net profit of RM331.8m at 76% of its full-year forecast and 73% of consensus, calling it within expectations; reported net profit fell 4.6% to RM349.1m (see flag). 9M revenue grew 1.3% to RM675.7m. The loss of income from selling the Sunway University and college campus in September 2025 was offset by the reopened old wing of Sunway Carnival Mall, mid-single-digit retail reversion and AEON Mall Seri Manjung, acquired in July 2025. Lower finance costs (-8.5% for 9M) helped, which Kenanga links to a 25bps OPR cut in 2025. The next distribution is expected after the financial year end.",
+    "The quarter. 3Q revenue rose 5.4% QoQ to RM232.3m and core net profit 9.0% to RM116.2m, mainly on the hotel segment, where revenue jumped 67.1% QoQ. Kenanga gives hotel occupancy as rising to 65% (9MFY26) from 60% (6MFY26). It says the Middle East war that began in late February 2026 raised fuel costs and air fares and dampened travel. Year on year, 3Q revenue fell 1.7% and core net profit 5.2%, and hotel revenue was still 13.7% lower (see flag). Retail, the largest segment, grew 9M NPI by 12.0% to RM395.0m.",
+    "Assets and pipeline. Kenanga says all three Sunway Putra assets have shown double-digit NPI growth YTD, from tenant-mix optimisation and marketing. SUNREIT is still scouting for a replacement for the university campus. Sunway Hotel Seberang Perai was sold for RM60m at a 5.3% cap rate, which Kenanga calls above market; the proceeds go towards a new hotel atop Sunway Carnival Mall. Sunway 163 mall faces three phases of asset enhancement, the first due by end-2026. Kenanga expects the sponsor's Sunway Velocity Mall to be injected from 2HCY27 onwards.",
+    "Forecasts and risks. FY26F core net profit is RM433.9m and FY27F RM456.7m, with GDPU of 12.5 sen and 13.6 sen. Net asset gearing is 0.36x. Risks are bond yields and occupancy moving against Kenanga's assumptions. Sunway Bhd holds 40.9% and EPF 13.1%. Outside the note, the latest readable call from the nine houses this board searches is Hong Leong's 'buy' at RM2.31 (6 November). RHB is reported as upgrading to buy, but its target was not readable. Neither uses pick language (see Analyst Signal)."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "Hong Leong Investment Bank",
+    "date": "6 Nov 2026",
+    "opp": false,
+    "note": "Checked because Kenanga names SUNREIT a sector pick. <b>No named house in the nine this board searches was found declaring a pick on SUNREIT</b>, so the Analyst Signal reads <b>None stated</b>. The latest fully readable call is in The Star of <b>6 November 2026</b>: <b>HLIB Research 'maintained a buy recommendation and raised its target price to RM2.31 from RM2.24'</b>. That is 5 days before this Kenanga note and predates the 3Q results; it uses no pick language. A New Straits Times article filed under November 2026, headlined 'RHB upgrades Sunway Reit to Buy on attractive valuation, growth prospects', returned only its headline: no body, no target and no exact day could be read. So it is noted but not used as a dated call. A Business Today article of 11 November headlined 'MBSB Backs Sunway REIT For 2027' returned HTTP 403, and MBSB is outside the nine houses in any case. <b>On divergence:</b> buy is the same direction as Kenanga's OUTPERFORM, so the &#8644; marker is not set. <b>Two of the nine houses</b> (Hong Leong, RHB) yielded publicly retrievable calls in this run, and only Hong Leong's could be read and dated. CIMB, Maybank, AmInvestment, Public Investment Bank, TA, MIDF and Affin Hwang yielded none dated after the 3Q results. <b>None stated means no conviction language was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "The Star, 6 Nov 2026 &mdash; &lsquo;Sunway-REIT on track to reach new AUM target&rsquo; (HLIB buy, RM2.31 from RM2.24)",
+      "https://www.thestar.com.my/business/business-news/2026/11/06/sunway-reit-on-track-to-reach-new-aum-target"
+     ],
+     [
+      "New Straits Times, Nov 2026 &mdash; &lsquo;RHB upgrades Sunway Reit to Buy on attractive valuation, growth prospects&rsquo; (headline only; body not retrievable)",
+      "https://www.nst.com.my/business/corporate/2026/11/1575238/rhb-upgrades-sunway-reit-buy-attractive-valuation-growth"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/SUNREIT-261111-3Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The text and the peer table still give different targets for two picks.</b> Page 2's text gives HSPLANT RM2.95 and TSH RM1.80; page 1 gives HSPLANT RM3.00, and the page 4 peer table gives HSPLANT RM3.00 and TSH RM1.85. This board's 13 October plantation row flagged the same two gaps. HSPLANT's RM3.00 matches this board's 27 August row. IOICORP (RM5.40), UP (RM37.00), SDG (RM7.20), KLK (RM25.80), PPB (RM13.40) and UMCCA (RM7.00) agree everywhere. SDG's RM7.20 OUTPERFORM matches this board's 6 November row. (2) <b>A unit typo.</b> Page 1 gives YTD output as '16,905m MT'; page 1's next section and the arithmetic give 16.905m MT. (3) <b>'QoQ' is used for month-on-month changes.</b> Page 1 gives production '+2% QoQ' and inventory '+3% QoQ'; the table shows these as MoM changes (October vs September). (4) <b>The miss against Kenanga's own estimate reconciles.</b> The note says inventory was '12% below our estimate'. This board's 13 October row recorded Kenanga's October inventory estimate of 4.100m MT; 3.621m MT is about 11.7% below it (computed here). The big miss was exports: 1.709m MT against the 1.210m MT Kenanga expected. (5) <b>The production revision is given two ways.</b> Page 1 says CY26 output is 'likely to inch towards 20.2m-20.3m MT'; the CY27 section calls it a revision 'from 20.0m MT to 20.2m MT'. (6) <b>Charts and a peer-table oddity.</b> Charts on pages 1-3 were read for titles only, and no figure here comes from them. KLK's peer-table ROE is printed as -1.6%, which the note does not explain. This is a sector note with no ticker-level rating, target or share price of its own, so those columns are empty by design.",
+   "result": null,
+   "conviction": "\"Meanwhile, our picks are IOICORP (OP; TP: RM5.40) for timely forward sales and rising yields while UP (OP; TP:RM37.00) leads the sector in productivity and ROE.\"",
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Plantation",
+   "name": "Plantation Sector Update: Exports Surged But Output Soared Even More",
+   "type": "Sector Updates",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "catalyst": "NEUTRAL maintained after MPOB's October data. <b>Production rose to 2.154m MT (+2% MoM, +5% YoY)</b>, and exports surged to 1.709m MT (+53% MoM), helped by a weaker October CPO price of RM4,406 (-5% MoM). Even so, <b>inventory reached a 10-year high of 3.621m MT</b> (+3% MoM, +47% YoY): within 4% of consensus but 12% below Kenanga's estimate. Kenanga expects <b>soft CPO prices for another month or two</b>, as CY26 output may match or beat 2025's record. It still sees firmer prices in CY27 on Indonesian drought, and keeps <b>RM4,500/MT for CY26 and RM4,700 for CY27</b>. Picks: IOICORP and UP; it also likes SDG and HSPLANT.",
+   "quote": "Meanwhile, our picks are IOICORP (OP; TP: RM5.40) for timely forward sales and rising yields while UP (OP; TP:RM37.00) leads the sector in productivity and ROE.",
+   "summary": [
+    "October supply and demand. MPOB production was 2.154m MT (+2% MoM, +5% YoY), above the 10-year October high of 2.044m MT. 10MCY26 output of 16.905m MT is 2% above 10MCY25's 16.514m MT and 7% above the 10-year average of 15.772m MT. Exports jumped to 1.709m MT from 1.120m MT in September (+53% MoM, +1% YoY), which Kenanga ties to the weaker October CPO price of RM4,406 (-5% MoM, -0.2% YoY). Domestic usage was 0.361m MT and imports 0.026m MT.",
+    "Inventory at a decade high again. Closing stocks rose to 3.621m MT (+3% MoM, +47% YoY), against a 10-year October high of 2.722m MT. That is within 4% of consensus but 12% below Kenanga's estimate, mainly because exports beat its forecast (see flag). For November, Kenanga expects production of 1.960m MT (-9% MoM), exports of 1.845m MT and inventory easing to 3.386m MT (-7% MoM).",
+    "Near-term softness. Malaysia produced a record 20.28m MT in CY25. With strong October output, Kenanga now calls its old 20.0m MT CY26 estimate conservative and sees output inching towards 20.2m-20.3m MT. It therefore expects soft CPO prices to persist a little longer, for a month or two. It says investor interest is unlikely to return until CPO recovers towards RM4,500 or higher, though valuations of 1.2x PBV and 14-15x PER are not demanding.",
+    "Why prices should firm in CY27. Kenanga calls the Malaysian revision small (under 0.1% of 275-280m MT of global edible oil supply). It says Indonesia has had 3-4 months of dry weather from a severe El Nino, which tends to shrink fruit bunches about six months later and cut fruit numbers 18-24 months ahead. Two very strong El Ninos cut global palm oil supply by 3% in CY98 and 5% in CY16, each in the following year. Kenanga expects CY27 output to fall about 1% in Malaysia and 2-3% globally, and keeps RM4,500/MT (CY26) and RM4,700 (CY27). Costs are rising: diesel, fertiliser, and an 18% minimum-wage rise from mid-CY27. Downstream faces regional overcapacity, and non-plantation profits (SDG, KLK, GENP property; IOICORP's new projects) are seen from CY28.",
+    "The picks. Page 1 names IOICORP (RM5.40) and UP (RM37.00) as 'our picks' and adds 'We also like SDG (OP; TP: RM7.20) and HSPLANT' for value. UP was not among the seven names in this board's 13 October plantation row. Page 2 calls UP 'highly recommended' as the sector leader in productivity and ROE. It also sets out cases for SDG (liquid, industrial property and renewables), KLK (CPO-sensitive), PPB (decade-low valuation despite uncertainty over WIL's Indonesian operation), HSPLANT (RM710m net cash), UMCCA (maturing Indonesian estates) and TSH (long-term upstream expansion). Under rules/signals.md &sect;2, this row's conviction is the page 1 'our picks' sentence. The 'also like' and 'worth considering' language is recorded here, not as a pick declaration. Targets for HSPLANT and TSH differ within the note (see flag)."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/Plantation-261111-SU-MPOB-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>The quarterly figures are three-month averages.</b> The note's 3Q26 IPI growth of 5.3% (2Q26: 7.7%) and manufacturing growth of 7.8% match Table 1's three-month moving averages for September and June. Mining's -6.7% and electricity's 8.3% for 3Q26 are not in Table 1; simple averages of the monthly rates give about -6.7% and 8.4% (computed here). (2) <b>The sector weights do not reproduce the headline.</b> Weighting September's sector growth rates by Table 1's 2015-base weights (68.3/25.1/6.6) gives about 4.8%, not 6.3% (computed here). Base-year weights are not current shares of output, so this is not evidence of an error; this board's 12 October IPI row noted the same gap. (3) <b>The note reverses last month's caution.</b> The 12 October note on this board said Kenanga would 'stay cautious on 4Q26'. Today's says there is 'little sign of the 2H26 slowdown we had expected'. (4) <b>Charts and averages.</b> Graphs 1-3 were read for titles only, and no figure here comes from them. The 10-year averages are the note's own and are not in Table 1. The October PMI of 51.0 (Sep: 49.9) cited in the note matches this board's 3 November PMI row. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "MY IPI (Sep-26)",
+   "name": "Malaysia Industrial Production (Sep-26): E&E powers a beat, but mining's slide caps the upside",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "Industrial production grew <b>6.3% YoY in September</b> (Aug: 5.0%), beating the 5.8% consensus. Manufacturing rose 9.4%, <b>the strongest in four years</b>, led by <b>E&E at 17.3%, a 49-month high</b>. Mining fell 9.4%, its steepest drop in 16 months, so 3Q26 IPI growth slowed to 5.3% from 7.7%. Kenanga <b>raises its 2026 manufacturing IPI forecast to 7.0% from 6.1%</b>, keeps its 2026 GDP forecast at 5.3% and expects 3Q26 GDP growth of 5.1%, below DOSM's 5.3% advance estimate.",
+   "quote": "We raise our 2026 Manufacturing IPI growth forecast to 7.0% (2025: 4.5%), from 6.1%, on sustained strength in E&E and export-oriented sectors",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/EV_Industrial_Production_Index_Sep26_261111-Kenanga.pdf",
+   "summary": [
+    "A beat on the month, a slower quarter. IPI grew 6.3% YoY in September from 5.0% in August, against a 5.8% consensus. Month on month it rose 1.3% (Aug: 2.6%), above the 10-year September average of 0.6%. For 3Q26 as a whole, IPI growth slowed to 5.3% from 7.7% in 2Q26 as mining swung into contraction (see flag on how quarterly figures are derived). Today's digest reports the same 6.3% print.",
+    "Manufacturing at a four-year high. Manufacturing grew 9.4% (Aug: 7.4%), the strongest in four years, and 2.9% month on month, against a 10-year average of 1.5%. E&E grew 17.3% (Aug: 16.9%), a 49-month high. Export-oriented output rose 10.7% (Aug: 9.1%), a four-year high, led by computer, electronics and optical products (19.3%) and machinery and equipment (12.9%). In 3Q26 manufacturing grew 7.8%, the fastest since 3Q22 (13.4%).",
+    "The domestic side recovered. Domestic-oriented manufacturing grew 6.6% (Aug: 3.9%), a five-month high. Motor vehicles, trailers and semi-trailers grew 10.6% after falling 5.3% in August, and basic metals grew 10.2% (Aug: 9.9%). Last month, Kenanga cited the domestic slowdown as a reason for caution on 4Q26.",
+    "Mining slumped; electricity surged. Mining fell 9.4% (Aug: -7.4%), the steepest drop in 16 months, on crude petroleum (-11.8%) and natural gas (-7.9%). It contracted month on month for a sixth straight month (-5.0%), worse than the 10-year average of -0.8%, which Kenanga reads as persistent production weakness. In 3Q26 mining contracted 6.7% after growing 9.4% in 2Q26. Electricity grew 10.7% (Aug: 9.0%), the fastest in 31 months, on commercial and household demand and the weather.",
+    "The forecast changes. Manufacturing IPI grew 7.0% in January-September (Jan-Aug: 6.6%), with 'little sign of the 2H26 slowdown we had expected'. Kenanga raises its 2026 manufacturing IPI forecast to 7.0% from 6.1% (2025: 4.5%), the 6.1% matching this board's 12 October IPI row. It cites the October manufacturing PMI's return to expansion at 51.0. Slower 3Q industrial growth and a likely softer services sector amid the recent haze support its 3Q26 GDP estimate of 5.1%, below DOSM's 5.3% advance estimate. It keeps its 2026 GDP forecast at 5.3% (2025: 5.2%)."
+   ]
+  }
+ ]
+}

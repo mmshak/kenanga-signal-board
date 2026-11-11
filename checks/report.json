@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T21:51:42.715Z",
+ "generatedAt": "2026-11-11T07:33:53.389Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -50,10 +50,11 @@
   "2026-11-04",
   "2026-11-05",
   "2026-11-06",
-  "2026-11-10"
+  "2026-11-10",
+  "2026-11-11"
  ],
- "rows": 207,
- "verified": 206,
+ "rows": 210,
+ "verified": 209,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -878,6 +879,24 @@
    "date": "2026-11-10",
    "row": "MY Bond Flows",
    "msg": "Two points of caution on this row, reported as printed rather than resolved. (1) <b>Not in the 'Ideas of the Day' line.</b> This note is in today's published bundle but not in the digest's Ideas of the Day, so it is included on the authority of the bundle contents (rules/signals.md &sect;1). (2) <b>Segment rounding.</b> MGS +RM4.7b, CBS +RM4.3b, GII -RM1.3b and Treasury bills -RM0.6b sum to RM7.1b, against the RM7.2b total; Table 1 holdings changes (MGS +4.73, GII -1.26, CBS +4.32, MTB -0.04, MITB -0.54) sum to about RM7.21b, so the gap is rounding (computed here). Holdings of RM318.3b plus RM7.2b give RM325.5b, and September's ownership shares (MGS 32.9%, GII 6.8%, CBS 3.6%) match this board's 8 October row. Graphs 1-3 are images and were not read. This is an Economic Viewpoint with no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-11",
+   "row": "SUNREIT",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>'Net profit' in the text is core net profit.</b> The text says 9MFY26 'net profit of RM331.8m' made up 76% of Kenanga's forecast and 73% of consensus, and that 'net profit rose by a stronger 4%'. The Results Highlights table shows RM331.8m as <b>core</b> net profit (+4.4% YoY). Reported 9MFY26 net profit is RM349.1m, <b>down 4.6% YoY</b>. RM331.8m is about 76% of the RM433.9m FY26F core profit; against the RM453.4m consensus (a net-profit figure) it is about 73% (computed here). This row uses the table's labels. (2) <b>The hotel 'rebound' is quarter-on-quarter only.</b> Hotel revenue rose 67.1% QoQ but fell 13.7% YoY in 3Q and 9.7% over 9M; hotel NPI fell 10.2% over 9M. (3) <b>3Q itself was lower year on year.</b> 3Q revenue fell 1.7% YoY, NPI 3.9% and core net profit 5.2%, while 9M revenue rose 1.3%; the text describes the 9M picture. (4) <b>Market data.</b> Kenanga's price is RM2.03; stockanalysis.com, not Kenanga, gives a 10 November close of RM2.05, a 52-week range of RM2.00-2.67 (matching Kenanga's) and a 7.13% yield on RM0.14 of distributions. The target reconciles: FY27F GDPU of 13.6 sen at a 5.50% target yield is about RM2.47, against RM2.48 (computed here). The previous target of RM2.27 matches this board's 26 October REIT sector row, which named SUNREIT and PAVREIT Kenanga's preferred sector picks."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-11",
+   "row": "Plantation",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The text and the peer table still give different targets for two picks.</b> Page 2's text gives HSPLANT RM2.95 and TSH RM1.80; page 1 gives HSPLANT RM3.00, and the page 4 peer table gives HSPLANT RM3.00 and TSH RM1.85. This board's 13 October plantation row flagged the same two gaps. HSPLANT's RM3.00 matches this board's 27 August row. IOICORP (RM5.40), UP (RM37.00), SDG (RM7.20), KLK (RM25.80), PPB (RM13.40) and UMCCA (RM7.00) agree everywhere. SDG's RM7.20 OUTPERFORM matches this board's 6 November row. (2) <b>A unit typo.</b> Page 1 gives YTD output as '16,905m MT'; page 1's next section and the arithmetic give 16.905m MT. (3) <b>'QoQ' is used for month-on-month changes.</b> Page 1 gives production '+2% QoQ' and inventory '+3% QoQ'; the table shows these as MoM changes (October vs September). (4) <b>The miss against Kenanga's own estimate reconciles.</b> The note says inventory was '12% below our estimate'. This board's 13 October row recorded Kenanga's October inventory estimate of 4.100m MT; 3.621m MT is about 11.7% below it (computed here). The big miss was exports: 1.709m MT against the 1.210m MT Kenanga expected. (5) <b>The production revision is given two ways.</b> Page 1 says CY26 output is 'likely to inch towards 20.2m-20.3m MT'; the CY27 section calls it a revision 'from 20.0m MT to 20.2m MT'. (6) <b>Charts and a peer-table oddity.</b> Charts on pages 1-3 were read for titles only, and no figure here comes from them. KLK's peer-table ROE is printed as -1.6%, which the note does not explain. This is a sector note with no ticker-level rating, target or share price of its own, so those columns are empty by design."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-11",
+   "row": "MY IPI (Sep-26)",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>The quarterly figures are three-month averages.</b> The note's 3Q26 IPI growth of 5.3% (2Q26: 7.7%) and manufacturing growth of 7.8% match Table 1's three-month moving averages for September and June. Mining's -6.7% and electricity's 8.3% for 3Q26 are not in Table 1; simple averages of the monthly rates give about -6.7% and 8.4% (computed here). (2) <b>The sector weights do not reproduce the headline.</b> Weighting September's sector growth rates by Table 1's 2015-base weights (68.3/25.1/6.6) gives about 4.8%, not 6.3% (computed here). Base-year weights are not current shares of output, so this is not evidence of an error; this board's 12 October IPI row noted the same gap. (3) <b>The note reverses last month's caution.</b> The 12 October note on this board said Kenanga would 'stay cautious on 4Q26'. Today's says there is 'little sign of the 2H26 slowdown we had expected'. (4) <b>Charts and averages.</b> Graphs 1-3 were read for titles only, and no figure here comes from them. The 10-year averages are the note's own and are not in Table 1. The October PMI of 51.0 (Sep: 49.9) cited in the note matches this board's 3 November PMI row. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
   }
  ],
  "verdict": "PASS"
