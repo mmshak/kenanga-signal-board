@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T22:34:11.003Z",
+ "generatedAt": "2026-11-12T08:02:27.155Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -51,10 +51,11 @@
   "2026-11-05",
   "2026-11-06",
   "2026-11-10",
-  "2026-11-11"
+  "2026-11-11",
+  "2026-11-12"
  ],
- "rows": 210,
- "verified": 209,
+ "rows": 216,
+ "verified": 215,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -897,6 +898,42 @@
    "date": "2026-11-11",
    "row": "MY IPI (Sep-26)",
    "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>The quarterly figures are three-month averages.</b> The note's 3Q26 IPI growth of 5.3% (2Q26: 7.7%) and manufacturing growth of 7.8% match Table 1's three-month moving averages for September and June. Mining's -6.7% and electricity's 8.3% for 3Q26 are not in Table 1; simple averages of the monthly rates give about -6.7% and 8.4% (computed here). (2) <b>The sector weights do not reproduce the headline.</b> Weighting September's sector growth rates by Table 1's 2015-base weights (68.3/25.1/6.6) gives about 4.8%, not 6.3% (computed here). Base-year weights are not current shares of output, so this is not evidence of an error; this board's 12 October IPI row noted the same gap. (3) <b>The note reverses last month's caution.</b> The 12 October note on this board said Kenanga would 'stay cautious on 4Q26'. Today's says there is 'little sign of the 2H26 slowdown we had expected'. (4) <b>Charts and averages.</b> Graphs 1-3 were read for titles only, and no figure here comes from them. The 10-year averages are the note's own and are not in Table 1. The October PMI of 51.0 (Sep: 49.9) cited in the note matches this board's 3 November PMI row. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-12",
+   "row": "SPSETIA",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The QoQ revenue fall is given two ways.</b> The text says turnover 'decreased 21%' QoQ; the Results Highlight shows RM672.6m against RM821.4m, a fall of 18.1%. The 21% matches 3Q gross profit (-20.5%), not revenue. (2) <b>Gearing figures differ.</b> The text says gearing fell 'to 0.30x from 0.33x YoY'. The table's effective net gearing is 0.30x for 3QFY26 but 0.38x for 3QFY25, and the Summary Earnings Table gives 0.36x for FY25. (3) <b>'28% of our full-year forecast' uses the pre-cut forecast.</b> 9MFY26 core net profit of RM91.2m is 36.5% of the new FY26F RM249.7m. Reversing the 24% cut gives an old forecast of about RM328.6m, of which RM91.2m is about 27.8% (computed here). Against RM349.3m consensus it is 26.1%, as stated. (4) <b>Headline profit against core.</b> Reported 3Q net profit was RM32.6m (-52.1% YoY). Kenanga's core figure is a RM9.4m loss because it deducts RCPS dividends (RM35.3m plus RM4.5m, about RM39.8m, which the text rounds to RM40m) and forex gains. Kenanga's footnote says consensus may define core profit before RCPS costs. (5) <b>Target reconciles.</b> Total RNAV of RM18,661.8m at a 75% discount is RM4,665.4m; over 5,215.5m shares including RCPS that is RM0.894 (computed here). The 75% discount compares with a 55% sector average, which the note gives. The rating is kept 'on valuation basis'. (6) <b>No earlier row and market data.</b> This board has no earlier SPSETIA row, so the previous OUTPERFORM and RM1.43 come from this note alone. The cover's 52-week range of RM0.60-1.21 matches stockanalysis.com (not Kenanga), which gives an 11 November close of RM0.605 and a 4.22% yield on RM0.03 of dividends. The price sits less than 1% above the 52-week low."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-12",
+   "row": "UTDPLT",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>No pick is declared in this note, though yesterday's sector note named UP one.</b> This results note calls UTDPLT 'One the best run oil palm planter in the world' and 'a rare gem for investment'. That is praise, not a pick declaration, and none of the conviction-search terms appears. Under rules/signals.md &sect;2 the signal is read from this report alone, so it reads None stated. Kenanga's 11 November plantation sector update on this board did name UP among 'our picks' (OP; TP RM37.00). That row carries that signal. (2) <b>'87% of our full-year estimate' uses the pre-revision estimate.</b> 9MFY26 core net profit of RM641.2m is 82.5% of the new FY26F RM776.9m. Reversing the 5% upgrade gives about RM739.9m, of which RM641.2m is about 86.7% (computed here). (3) <b>A template header.</b> Page 4 is headed 'Hap Seng Plantations Berhad', a leftover from another note. Page 4 has only rating definitions and the disclaimer. (4) <b>Cross-date consistency.</b> The FY26 CPO assumption rises to RM4,250/MT from RM4,150, the page 1 figure this board recorded in the 30 October initiation. The RM37.00 target and OUTPERFORM match that row. The valuation (2x FY27 PBV adjusted for 26% vs 8% ROE, plus a 20% scarcity premium and 5% for its 4.5-star ESG rating) is restated, not re-derived; it is not recomputed here. (5) <b>Market data.</b> The cover gives a 52-week range of RM24.89-35.55. stockanalysis.com, not Kenanga, gives RM25.24-35.88, an 11 November close of RM30.24 (matching Kenanga) and a 4.13% yield on RM1.25 of dividends. Kenanga states it has sole coverage, so no Analyst Signal was sought: as with TGUAN and BPPLAS, any street figure would have no analysts behind it."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-12",
+   "row": "DIALOG",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>'We continue to like DIALOG' is not a pick declaration.</b> As on this board's 3 November row, this investment-case wording is not treated as a pick, so the Kenanga Signal reads None stated. No other conviction-search term appears. (2) <b>The outlook paragraph looks carried over.</b> It repeats the 3 November wording that the Baram Junior Cluster gas field 'is expected to commence in CY27 (10-year production)' and that Cendramas starts in 3QCY26. The same note says the Salbiah field, in the Baram Junior Cluster, has already reached commercial production. (3) <b>Fatimah's life is capped by the PSC.</b> Kenanga assumes eight years of production from CY2029 and no extension of the small-field PSC, which ends in 2036; 2029-2036 is eight calendar years (computed here). (4) <b>Tables.</b> The SoP reconciles: RM15,495.5m over 5,638.0m shares is RM2.748 (computed here), and the RM594.9m rise from 3 November's RM14,900.6m is about RM0.106 a share, in line with the stated RM0.10 accretion. The peer table now shows the new RM2.75 target but still gives core EPS of 10.4/11.8 sen against 11.7/13.0 sen elsewhere, as flagged on 3 November. The Summary and Income Statement now agree on FY27F/FY28F net profit (RM663.0m/RM731.9m); 3 November's Income Statement gave RM732.6m for FY28F, although forecasts are said to be maintained. (5) <b>Market data.</b> The cover gives a 52-week range of RM1.58-2.33. stockanalysis.com, not Kenanga, gives RM1.54-2.36, an 11 November close of RM1.91 (matching Kenanga) and a 2.46% yield on RM0.05 of dividends."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-12",
+   "row": "OPPSTAR",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The peer table gives a different rating.</b> The cover and text say MARKET PERFORM (unchanged); the page 3 peer table lists OPPSTAR as UP. Its -4.8% upside sits inside Kenanga's own MARKET PERFORM band (-5% to +10%), so this row uses MARKET PERFORM. (2) <b>'Revenue grew 86% YoY' is the six-month figure.</b> RM28.5m is 6MFY27 revenue (+85.5%), and the text ties the growth to 1QFY27 recognition. 2QFY27 revenue alone was RM12.6m, up 70.6% YoY and down 20.6% QoQ. (3) <b>2Q profit is described two ways.</b> The text gives a 'marginal PBT of RM0.01m'; the table shows a 2Q net loss of RM0.1m. (4) <b>Table errors.</b> QoQ changes for EBIT, PBT and net profit are printed as +99.3%, +99.8% and +101.4%, though all fell. The EPS row (64.0 sen for 1Q, 63.0 sen for 6M) cannot be right: RM4.1m over 647.0m shares is about 0.6 sen (computed here). No figure here uses that row. (5) <b>Bases and the target.</b> 6M net profit of RM4.1m is 30% of the pre-cut forecast; it is 45% of the new FY27F RM9.1m (computed here). The target uses an unchanged 35x FY27F PER. 35x times 1.4 sen is RM0.49, and on unrounded EPS of about 1.41 sen also about RM0.49 (computed here), against the RM0.50 stated; the note does not explain the gap. (6) <b>Cross-date and market data.</b> The previous MARKET PERFORM and RM0.75 match this board's 27 August row. The cover gives a 52-week range of RM0.18-1.06; stockanalysis.com, not Kenanga, gives RM0.175-1.06, an 11 November close of RM0.525 (matching Kenanga) and no dividend."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-12",
+   "row": "SWIFT",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>'We like SWIFT' is not a pick declaration.</b> The investment case reads 'We like SWIFT due to: (i) its leading position in the Malaysia haulage market...', alongside a MARKET PERFORM call. This board treats such wording as investment-case language (as with DIALOG, GAMUDA, KERJAYA and YTLPOWR), so the Kenanga Signal reads None stated. (2) <b>The dividend statement conflicts with the table.</b> Page 1 says 'No dividend was declared as expected'; the Results Highlights show NDPS of 0.8 sen for 3QFY26 and 1.6 sen for 9MFY26. (3) <b>Column labels.</b> The YoY comparison column is headed '2QFY25', presumably 3QFY25 (an inference), and the last column repeats the 3QFY26 figures. (4) <b>Market cap differs.</b> The cover gives RM306.2m and the peer table RM329.2m; RM0.37 times 838.9m shares is about RM310.4m (computed here). (5) <b>Arithmetic and market data.</b> 9MFY26 core net profit of RM22.6m is 72.7% of FY26F RM31.1m and 71.1% of RM31.8m consensus, and is up 9.2% YoY (all computed here), matching the text. The previous MARKET PERFORM and RM0.40 match this board's 28 August row. The cover gives a 52-week range of RM0.32-0.48; stockanalysis.com, not Kenanga, gives RM0.32-0.475, an 11 November close of RM0.365 against Kenanga's RM0.37, and a 4.38% yield on RM0.02 of dividends."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-12",
+   "row": "MY Labour Market (Sep-26)",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>2.9% is close to the rounding line.</b> Table 1's 513.2k unemployed over a 17,402.7k labour force is about 2.95% (computed here). (2) <b>The forward-looking data are from a different source and month.</b> Loss-of-employment cases, vacancies and placements come from PERKESO's MYFutureJobs for October and early November, not from DOSM's September survey. The 'about 10k' November loss-of-employment figure is Kenanga's extrapolation of 3,313 cases to 10 November; 3,313 over ten days times 30 is about 9,939 (computed here). (3) <b>Rounding differences.</b> The text gives the population outside the labour force as down 0.03% MoM; Table 1 shows 0.0%. 7,104.0k against 7,106.0k is -0.03% (computed here). Vacancies fell about 12.4% and placements about 64.9% (computed here), matching the text. (4) <b>Charts and continuity.</b> Graphs 1-3 were read for titles only, and no figure here comes from them. Kenanga's 2026 GDP forecast of 5.3% matches this board's 11 November IPI row. This board's 14 September row recorded July at 3.0%; Table 1 shows 3.0% for July and 2.9% for August and September. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
   }
  ],
  "verdict": "PASS"
