@@ -1,0 +1,265 @@
+{
+ "date": "2026-11-16",
+ "schema": 1,
+ "daily": {
+  "klci": 1582.6,
+  "chg": -3.37,
+  "pct": -0.21,
+  "inst": -161.2,
+  "instPct": 39.2,
+  "retail": 76.3,
+  "retailPct": 26.1,
+  "foreign": 84.9,
+  "foreignPct": 34.8,
+  "ideas": "Results Note: SLP; Economic Viewpoint: Bond Market Weekly Outlook, Ringgit Weekly Outlook; Weekly Technical Review: DJIA, KLCI",
+  "news": [
+   {
+    "h": "Magma abandons planned RM60.9m acquisition of Sabah hotel",
+    "body": "Magma Group Bhd has scrapped its plan to acquire the LUMA Hotel in Kota Kinabalu for RM60.9m in a cash-and-shares deal; its unit and the vendors agreed to mutually terminate the heads of agreement, without disclosing why. (The Edge Malaysia)",
+    "takeaways": [
+     "Magma Group has dropped its planned RM60.9m acquisition of the LUMA Hotel in Kota Kinabalu.",
+     "The deal was to be paid in cash and shares.",
+     "Its unit Magma Avenue Sdn Bhd and the vendors decided not to proceed with the heads of agreement, which covered the hotel business and four contiguous buildings.",
+     "Magma said the parties 'agreed to mutually terminate the HOA' after further discussion, but gave no reason.",
+     "This board holds no Kenanga coverage of Magma. Digest context only."
+    ]
+   },
+   {
+    "h": "SRKK AI grows profit by 12.0% in 3Q, eyes recurring revenue from new platform",
+    "body": "SRKK AI Bhd's net profit rose 12.0% quarter-on-quarter to RM2.2m in 3QFY2026, ended 30 September 2026, on revenue up 13.0% to RM34.2m. (The Edge Malaysia)",
+    "takeaways": [
+     "SRKK AI's 3QFY2026 net profit, for the quarter to 30 September 2026, rose 12.0% from the previous quarter to RM2.2m.",
+     "Revenue rose 13.0% quarter-on-quarter to RM34.2m.",
+     "The company credited revenue from consulting, project implementation and product sales.",
+     "No year-on-year comparison was given because it listed on the ACE Market barely four months ago.",
+     "The headline mentions recurring revenue from a new platform, but the digest gives no detail. This board holds no Kenanga coverage of SRKK AI. Digest context only."
+    ]
+   },
+   {
+    "h": "Alam Maritim unit forms JV with Singapore firm to pursue regional offshore projects",
+    "body": "Alam Maritim Resources Bhd's subsidiary Subsea Worldwide Solutions Sdn Bhd will hold 70.0% of a joint venture with Singapore-based Trident Oceanus Pte Ltd to pursue offshore transportation and installation projects in Southeast Asia and the Indian subcontinent. (The Edge Malaysia)",
+    "takeaways": [
+     "Alam Maritim's unit Subsea Worldwide Solutions Sdn Bhd (SWS) is forming a joint venture with Singapore-based Trident Oceanus Pte Ltd.",
+     "SWS will hold 70.0% and Trident 30.0%.",
+     "The venture will pursue offshore transportation and installation projects in Southeast Asia and the Indian subcontinent.",
+     "Initial paid-up capital is RM10,000, with SWS subscribing RM7,000 and Trident RM3,000, subject to the final incorporation and subscription documents.",
+     "This board holds no Kenanga coverage of Alam Maritim. Digest context only."
+    ]
+   },
+   {
+    "h": "BCB to buy 64.4ha of golf course land from Berjaya-linked unit for RM111.0m",
+    "body": "BCB Bhd has signed agreements to buy four adjoining parcels of freehold golf course land in Batu Pahat, Johor, for RM110.9m from Indah Corp Bhd, a company linked to Berjaya Property Bhd, and puts the potential gross development value at RM1.1b. (The Edge Malaysia)",
+    "takeaways": [
+     "BCB is buying four adjoining parcels of freehold golf course land in Batu Pahat, Johor; the headline gives the area as 64.4ha.",
+     "The body puts the price at RM110.9m; the headline rounds it to RM111.0m.",
+     "The seller is Indah Corp Bhd, operator of Bukit Banang Golf & Country Club and linked to Berjaya Property Bhd.",
+     "BCB units Amber Vista Property Development Sdn Bhd and Banang Central Development Sdn Bhd signed separate sale and purchase agreements on Friday.",
+     "BCB plans to explore development once the purchase completes and puts the gross development value across all four parcels at RM1.1b. This board holds no Kenanga coverage of BCB. Digest context only."
+    ]
+   },
+   {
+    "h": "MyMBN proposes one-for-two bonus warrants",
+    "body": "Bird's nest company MyMBN Bhd has proposed a bonus issue of up to 193.0m warrants, one for every two shares held, at an exercise price of 19 sen, alongside an employees' share option scheme. (The Edge Malaysia)",
+    "takeaways": [
+     "MyMBN, a bird's nest company, has proposed a bonus issue of up to 193.0m warrants, alongside an ESOS.",
+     "Shareholders would get one bonus warrant for every two shares held.",
+     "The 19 sen exercise price is a 19.7% premium to the five-day VWAP of 15.88 sen up to 2 November.",
+     "Full exercise would raise RM36.7m in gross proceeds (193.0m x RM0.19 = RM36.67m, computed here).",
+     "The warrants have a three-year tenure. This board holds no Kenanga coverage of MyMBN. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
+    "region": "Global",
+    "body": "China and the US discussed tariff cuts, agricultural trade and other issues at their first trade council meeting on Friday, China's Commerce Ministry said, days ahead of an expected leaders' meeting in Shenzhen. (The Edge Malaysia)",
+    "takeaways": [
+     "China and the US held their first trade council meeting on Friday, 13 November.",
+     "They discussed tariff cuts, agricultural trade and other issues.",
+     "China's Commerce Ministry disclosed the talks on Saturday.",
+     "The meeting came days ahead of an expected Xi-Trump leaders' meeting in Shenzhen next week.",
+     "No outcomes or figures are given in the digest. Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Anwar, Canadian PM Carney discuss expanding ties in energy, digital economy and technology",
+    "region": "Malaysia",
+    "body": "Prime Minister Datuk Seri Anwar Ibrahim and Canadian Prime Minister Mark Carney discussed expanding trade and investment cooperation, particularly in energy, the digital economy and technology. (The Edge Malaysia)",
+    "takeaways": [
+     "Prime Minister Datuk Seri Anwar Ibrahim met Canadian Prime Minister Mark Carney.",
+     "Expanding trade and investment cooperation was among the key matters discussed.",
+     "The focus sectors were energy, the digital economy and technology.",
+     "The digest gives no agreements or investment figures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Anwar urges Asean to diversify food, medicine supplies",
+    "region": "Malaysia",
+    "body": "Prime Minister Datuk Seri Anwar Ibrahim called on Asean member states to diversify their sources of food and medicines and strengthen regional production capacity to reduce reliance on external suppliers. (The Edge Malaysia)",
+    "takeaways": [
+     "Anwar called on Asean members to diversify their sources of food and medicines.",
+     "He also urged them to strengthen regional production capacity.",
+     "The aim is to reduce reliance on external suppliers.",
+     "He cited growing global uncertainties.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Amir Hamzah sees Malaysian economy growing over 5% for third consecutive year",
+    "region": "Malaysia",
+    "body": "Finance Minister II Datuk Seri Amir Hamzah Azizan expects the Malaysian economy to grow by more than 5% for a third consecutive year, on consistently strong economic performance. (The Edge Malaysia)",
+    "takeaways": [
+     "Finance Minister II Datuk Seri Amir Hamzah Azizan expects Malaysian growth above 5% this year.",
+     "That would be the third consecutive year above 5%.",
+     "He credits consistently strong economic performance.",
+     "Kenanga's 2026 GDP forecast on this board is 5.3% (6 November BNM MPC and 11 November IPI rows).",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Perak MB says state's financial position strong, sees RM95.5m deficit turning into surplus",
+    "region": "Malaysia",
+    "body": "The Perak government expects to turn a projected RM95.5m deficit into a surplus this year, which would be its fifth consecutive year of surplus. (The Edge Malaysia)",
+    "takeaways": [
+     "Perak's Menteri Besar says the state's financial position is strong.",
+     "The state had projected a RM95.5m deficit for this year.",
+     "It now expects to turn that into a surplus.",
+     "That would be five consecutive years of surplus.",
+     "The digest does not give the size of the expected surplus. Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Malaysian consumer spending accelerates in September, official data show",
+    "region": "Malaysia",
+    "body": "Malaysian consumer spending appeared to pick up in September as both wholesale trade and retail sales accelerated, official data released on Friday showed. (The Edge Malaysia)",
+    "takeaways": [
+     "Malaysian consumer spending appears to have picked up pace in September.",
+     "Both wholesale trade and retail sales accelerated.",
+     "The official data came out on Friday, 13 November.",
+     "The digest gives no growth rates.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Asean nations sign Digital Economy Framework Agreement to deepen economic integration",
+    "region": "Asia Pacific",
+    "body": "Asean nations on Saturday signed the Digital Economy Framework Agreement (DEFA), a pact aimed at making it easier for businesses to trade online and reach customers across the region. (The Edge Malaysia)",
+    "takeaways": [
+     "Asean nations signed the Digital Economy Framework Agreement (DEFA) on Saturday, 14 November.",
+     "The digest calls it a landmark pact.",
+     "It aims to make it easier for businesses to trade online.",
+     "It should also help businesses reach customers across the region.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "US producer prices rise further in October",
+    "region": "Americas",
+    "body": "US producer prices rose further in October, the largest annual gain in four years, supporting expectations that the Fed could keep raising rates after next month's widely expected hike. (The Edge Malaysia)",
+    "takeaways": [
+     "US producer prices rose further in October.",
+     "The digest calls it the largest annual gain in four years.",
+     "It supports expectations that the Fed could keep raising rates after a widely expected December hike.",
+     "Kenanga's Ringgit note on this board today gives October PPI at +0.3% MoM (consensus 0.4%) and 6.5% YoY, the highest since November 2022.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "BOE's case to raise rates again may strengthen on UK price data",
+    "region": "Europe",
+    "body": "UK data in the coming days may show a stabilising jobs market and inflation at a one-year high, adding pressure on the Bank of England to raise interest rates again. (The Edge Malaysia)",
+    "takeaways": [
+     "UK data due in the coming days may show a stabilising jobs market.",
+     "Inflation may come in at a one-year high.",
+     "That would add pressure on the Bank of England to raise rates again.",
+     "'Again' implies an earlier hike; this board's 6 November rows referred to a recent BoE hike reported in that day's digest.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/Kenanga-Today-261116-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "result": "inline",
+   "prevRating": "MP",
+   "prevTp": 0.85,
+   "type": "Results Note",
+   "rating": "MP",
+   "tp": 0.85,
+   "price": 0.82,
+   "divYield": 5.79,
+   "high52": 0.955,
+   "low52": 0.7,
+   "mktSrc": "https://stockanalysis.com/quote/klse/SLP/",
+   "ticker": "SLP",
+   "name": "SLP Resources Berhad",
+   "conviction": null,
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>'We like SLP' is not a pick declaration.</b> The investment case reads 'We like SLP for its: (i) product mix... (ii) robust cash flows... and (iii) project pipelines', followed by 'Maintain MARKET PERFORM call'. This board treats this wording as investment-case language (as with SWIFT, F&amp;N and PENTA), so the Kenanga Signal reads None stated. The only other search hits are 'favourable forex movements' and 'unfavourable forex translation', which are not stock picks. (2) <b>'77% of our full-year forecast' uses the pre-cut forecast.</b> 9MFY26 core net profit of RM15.6m is 82.5% of the new FY26F RM18.9m. Reversing the 7.1% cut gives about RM20.3m, of which RM15.6m is about 76.7% (computed here). The text calls RM15.6m 'net profit'; the Results Highlights show it is core net profit, with reported net profit at RM15.2m (+89% YoY). (3) <b>The FY26 revenue forecast does not reconcile.</b> The Summary Earnings Table gives FY26F turnover of RM184.0m. With 9MFY26 revenue at RM101.8m, that implies about RM82.2m in 4Q, against RM34.0-34.2m in each of 2Q and 3Q and a softer 4Q outlook (computed here). The net profit forecast is consistent: RM18.9m less RM15.6m leaves about RM3.3m for 4Q, below 3Q's RM6.8m. The note does not explain the turnover line, and it is not used elsewhere on this row. (4) <b>The PER basis.</b> The text says the target implies a '1-Yr forward PER of 15.5x'. 15.5x is FY27F core PER at the RM0.82 share price (0.82 / 5.3 sen). At the RM0.85 target, FY27F PER is about 16.0x and FY26F about 14.2x (computed here). The peer table labels FY26 as 1-year forward. (5) <b>Reconciles with this board's 26 October Plastic Packaging row.</b> That sector note downgraded SLP to MARKET PERFORM and cut its target to RM0.85 from RM0.90; today's note shows both unchanged (MARKET PERFORM, RM0.85). It also says FY27F was trimmed 6% in that sector report, within the 1%-6% range that row recorded. This is the board's first SLP stock row, so no earlier stock row exists to check. Upside of 3.7% plus a 5.8% yield is about 9.5%, inside the MARKET PERFORM band of -5% to 10% (computed here). (6) <b>Market data and analyst search.</b> The cover gives a 52-week range of RM0.73-0.90. stockanalysis.com, not Kenanga, gives RM0.70-0.955, a 13 November close of RM0.82 (matching Kenanga) and a 5.79% yield on RM0.05 of dividends. The page 3 charts (resin and crude oil prices, USD/MYR) are images and were not read. The result is in line and the Kenanga Signal is None stated, so no non-Kenanga search was run (rules/daily-run.md step 8) and the Analyst Signal is not shown.",
+   "catalyst": "SLP's <b>9MFY26 core net profit of RM15.6m (+93% YoY)</b> was <b>within expectations</b> at 77% of Kenanga's full-year forecast, as higher selling prices after the Middle East-driven resin and crude spike outweighed a 14% revenue fall. 3Q core profit rose 10% QoQ to RM6.8m, and net cash rose to RM99m. Kenanga expects <b>softer 4Q orders</b> as prices normalise and the ringgit strengthens, so it <b>cuts FY26-27F earnings by 7%</b>. It keeps <b>MARKET PERFORM and a RM0.85 target</b> and points to medical device components as the FY27 catalyst.",
+   "quote": "We tweak our FY26 and FY27 earnings forecast lower by 7% to reflect potentially strengthening of the MYR and a softer orders volume expected in 4QFY26, but maintain our DDM-derived TP at RM0.85 and MARKET PERFORM call on an implied 1-Yr forward PER of 15.5x.",
+   "summary": [
+    "The call. Kenanga keeps MARKET PERFORM and its DDM-derived RM0.85 target, both unchanged since its 26 October sector note downgraded SLP. It cuts FY26 and FY27 earnings forecasts by 7% (-7.1%/-7.0% in the table) for a possibly stronger ringgit (its house view is 4.00 in 4QCY26, from 4.07 now) and softer 4Q orders. The peer table shows 3.7% upside from RM0.82 and a 5.8% net yield. A three-star ESG rating means no target adjustment.",
+    "The nine months. 9MFY26 core net profit was RM15.6m, up 93% YoY, which Kenanga puts at 77% of its full-year forecast (see flag on the base). Revenue fell 14% to RM101.8m because SLP cut trading activity and manufacturing volumes fell 3%. Overseas growth was offset by weaker domestic sales, partly because SLP stopped accepting orders from clients with outstanding payments. Profit rose on higher selling prices after resin and crude prices spiked when the Middle East conflict began in late February 2026.",
+    "The quarter. 3Q revenue was RM34.0m (-1% QoQ, -9% YoY) and core net profit RM6.8m (+10% QoQ, +127% YoY). EBIT margin rose to 25.5% from 24.0% in 2Q and 10.3% a year earlier. Kenanga credits the price effect and a mildly favourable average USD-MYR rate of 4.07, against 4.00 in 2Q. Utilisation edged up to 57% from 56%, and net cash rose to RM99m from RM88.3m. A 1.25 sen dividend brings the year-to-date total to 3.5 sen, on track for Kenanga's 4.75 sen forecast.",
+    "The outlook. Kenanga expects 4Q demand to weaken slightly as resin prices and order books normalise, and a stronger ringgit to weigh on exports. It does not expect forex translation losses as bad as FY25's. It sees domestic demand staying hard because of competition, but overseas demand broadly holding up; Japan is about 50% of SLP's plastic packaging sales. Kenanga forecasts Brent at USD91 in 2026 and USD85 in 2027. It expects the Budget 2027 minimum wage rise to hit labour-intensive packaging makers materially, and had already trimmed SLP's FY27F earnings by 6% for this.",
+    "FY27 and risks. Kenanga's FY27 catalyst is SLP's development of medical components and devices, which earn above-average margins, for several international clients. It includes about RM2.5m of extra net profit from this in FY27. FY26F/FY27F core net profit is RM18.9m/RM16.8m (core EPS 6.0/5.3 sen), so FY27 falls 11.3%. Kenanga expects broadly steady dividends, backed by net cash, while SLP reinvests in assets such as a new mono film machine. Risks are weaker consumer demand for plastic packaging and large currency swings."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/SLP-261116-3Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "ticker": "MY Bond Market Weekly",
+   "name": "Bond Market Weekly Outlook: Hot October CPI pushes 10Y UST past 5.1%; MGS holds firm, but the cushion is thinning",
+   "flag": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>Last week's starting points differ slightly from this board's 6 November row.</b> That row recorded the 10-year MGS at 3.841% and the 10-year UST at 4.835%. Table 4's 6 November column shows 3.836% and 4.857%, and today's +2.8bps and +27.8bps moves are measured from those. The two notes appear to use different closing dates (an inference); this is not treated as a contradiction. The text's 'about -99 bps a week earlier' matches the 6 November row's figures (3.841% less 4.835% is about -99bps), not Table 4's (about -102bps). Today's 3.864% less 5.135% is about -127bps, against the text's 'about -128 bps' (all computed here). (2) <b>The private placement was larger than previewed.</b> The 6 November row recorded the 15-year MGII reopening as RM3.5b on tender plus RM1.5b privately placed. The result shows RM2.0b privately placed, for RM5.5b in total. This is the outcome against the plan, not a conflict. (3) <b>Table labelling and wording.</b> Table 4 heads the 13 November column 'Last week' and the 6 November column 'Last Fortnight', although 13 November is the current reading; figures here are read by date. The text says yields 'mostly rose', but every MGS and GII tenor in Table 4 is higher week on week. Table 1's forecast paths are unchanged from the 6 November row and match today's Ringgit note. The September IPI figures (6.3%, against 5.0% and a 5.8% consensus) match this board's 11 November IPI row. (4) Pages 2-3 carry a garbled 'ENANGA' header, a '6 S' date fragment and a Level 12 address, as in earlier weeks. Graphs 1-7 are images and were not read. This is an Economic Viewpoint with no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "catalyst": "A hot October US CPI drove a <b>sharp UST bear flattening</b>, with the <b>10-year UST up 27.8bps to 5.135%</b> and the 2-year up 33.0bps. MGS held firm, with the <b>10-year MGS up only 2.8bps to 3.864%</b>, anchored by a September IPI beat and RM1.1b of foreign inflows. The MGS-UST spread widened to about -128bps. Kenanga expects MGS to stay <b>rangebound near its 3.88% end-2026 forecast</b>, but sees <b>risks above its 5.00% UST forecast</b>.",
+   "quote": "We expect 10Y MGS yields to remain broadly rangebound around current levels, in line with our 3.88% end-2026 forecast",
+   "summary": [
+    "MGS held firm. MGS and GII yields rose 1.5 to 8.9bps across the curve. The 10-year MGS rose 2.8bps to 3.864% and the 10-year GII 3.4bps to 3.892%; the 20-year MGS rose most, 8.9bps to 4.292%. Kenanga says MGS held firm despite the sharp UST sell-off, widening the 10-year MGS-UST spread to about -128bps from -99bps (see flag). It credits domestic fundamentals: September IPI growth rose to 6.3% YoY (Aug: 5.0%), beating a 5.8% consensus, and the labour market held steady.",
+    "Flows and auctions. Foreign investors bought a net RM1.1b of government bonds in the week to 6 November, before the UST sell-off. Kenanga says the next flow reading will test foreign appetite after the global yield repricing. The 15-year MGII 7/40 reopening drew a 2.32x bid-to-cover on RM3.5b at an average 4.158%, with RM2.0b more privately placed, for RM5.5b in total. Next is a reopening of the 3-year MGS 3/29, with RM5.0b on tender and no private placement.",
+    "The UST sell-off. UST yields jumped 20.1 to 33.0bps in a sharp bear flattening. The 10-year rose 27.8bps to 5.135% and the 2-year 33.0bps to 4.842%. October CPI ran hot for a third straight month, so markets priced a December hike more fully. Fed Governor Christopher Waller had tied a 50bps December move to that print, and Cleveland Fed President Beth Hammack called for tighter policy. Solid October payrolls added to the repricing, and Brent rebounded to about USD96/bbl on US-Iran tensions.",
+    "Outlook. Kenanga expects the 10-year MGS to stay broadly rangebound around current levels, in line with its 3.88% end-2026 forecast, and watches 3Q26 GDP, CPI and trade data. It expects the 10-year UST to consolidate near current levels, with risks tilted above its 5.00% end-2026 forecast. October PPI rose 0.3% MoM against a 0.4% consensus, which it calls some reassurance. Retail sales, industrial production and the FOMC minutes are due next week, and hawkish Fed repricing and US-Iran tensions remain the key risks.",
+    "The forecast path. Table 1 is unchanged: the 10-year MGS at 3.99% for Q3-26, then 3.88%, 3.87%, 3.78% and 3.65% through Q3-27; the 10-year UST at 5.28%, then 5.00%, 4.75%, 4.69% and 4.58%; USDMYR at 4.08, then 4.00, 4.05, 4.02 and 3.95; and the OPR at 2.75% through Q4-26, then 3.00%. The 10-year UST now sits about 13.5bps above the end-2026 forecast and the 10-year MGS about 1.6bps below it (computed here). Year to date, the 10-year MGS is up 37.2bps and the 10-year UST 96.8bps."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/EV_Bond_Market_Weekly_Outlook_261116-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "ticker": "Ringgit Weekly",
+   "name": "Ringgit Weekly Outlook: October CPI locks in December hike, MYR on the defensive",
+   "flag": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>Last week's range call missed.</b> This board's 6 November row recorded Kenanga's call for 4.04-4.06 this past week. Friday's 4.087 close is outside that range, on the weak-ringgit side (computed here). Today's note does not comment on the miss. (2) <b>Starting point differs from the 6 November row.</b> That row recorded the ringgit firming to 4.047. Today's text and Table 2 give 4.059 for 6 November. The two notes appear to use different closing dates (an inference); this is not treated as a contradiction. Today's digest prints USD/MYR at 4.0868 for 13 November, matching 4.087. (3) <b>The technical signal and the text may disagree.</b> The text says USDMYR 'leans higher towards overbought', with a 7-day RSI of 66.6 and the pair above its 5-day EMA of 4.075. In the extracted text, Table 1's short-term trend symbol reads as bearish for the USD (&#9660;). The symbol was read from extracted text, not the rendered page, so this is reported, not resolved. (4) <b>Consistency with other rows.</b> Table 1's USDMYR path is unchanged from the 6 November row and matches today's Bond note. Table 3's KIBB forecast of 5.1% for 3Q26 GDP matches this board's 11 November IPI row, and October CPI's previous reading of 1.8% matches the 6 November BNM row. Table 3's previous export growth figure of 54.5% YoY is reported as printed and was not checked. Graphs 1-3 are images and were not read. This is an Economic Viewpoint with no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "catalyst": "The ringgit <b>weakened to 4.087/USD</b> from 4.059 as a <b>hot October US CPI</b> locked in a December Fed hike and pushed the DXY above 103, a level last seen in April 2025. Kenanga's base case is a December hike and a US-Iran stalemate, with rate differentials keeping the USD in control. It sees the ringgit at <b>4.05-4.10 this week</b> and says risks to its <b>4.00 year-end target</b> are now <b>tilted towards a weaker ringgit</b>.",
+   "quote": "We see MYR in a 4.05\u20134.10 range this week, with risks to our 4.00 year-end target tilted towards a weaker MYR.",
+   "summary": [
+    "The week. The ringgit weakened to 4.087 against the US dollar on Friday from 4.059 a week earlier, as a hot US CPI lifted Fed hike bets. October CPI met Fed Governor Waller's condition for a 50bps December hike. Short-dated UST yields jumped and the DXY broke above 103, last seen in April 2025. With a 25bps December hike fully priced, markets expect the Fed to push into restrictive territory, so investors rebuilt USD longs and sold high-beta currencies.",
+    "Data ahead. October PPI rose 0.3% MoM, slightly below the 0.4% consensus, but the annual rate climbed to 6.5%, the highest since November 2022. CME FedWatch fully prices a December hike, with a 90% chance of 25bps and 10% of 50bps. This week, US retail sales and the FOMC minutes will test how many Fed officials share Waller's urgency. At home, 3Q26 GDP is due on Wednesday (Kenanga forecast: 5.1%, against 6.0% for 2Q), then October CPI (forecast: 2.0%, from 1.8%) and trade data.",
+    "Why the dollar stays in control. Kenanga's base case is a December Fed hike and a US-Iran stalemate of sporadic strikes, with a Democratic Congress from January raising the bar for full-scale war. Brent near USD96/bbl supports Malaysia's terms of trade but adds to US inflation, so rate differentials drive USDMYR. It expects investors to stay defensive into the FOMC minutes and to sell ringgit rallies.",
+    "Forecasts. Kenanga sees the ringgit at 4.05-4.10 this week, with risks to its 4.00 year-end target tilted towards a weaker ringgit. Table 1 is unchanged: USDMYR at 4.08 for Q3-26, then 4.00, 4.05, 4.02, 3.95 and 3.90 through Q4-27. Table 2 shows the ringgit 0.81% weaker against the dollar year to date (from 4.054) and 1.0% stronger than a year ago (4.128). Against the euro it is stronger, with EURMYR down 4.89% year to date.",
+    "Technicals and peers. Kenanga says USDMYR leans higher towards overbought, with a 7-day RSI of 66.6 and a 5-day EMA of 4.075 (see flag). Immediate support is 4.066, then 4.046; resistance is 4.097, then 4.107. Regional currencies also weakened against the dollar over the week: USDPHP rose 1.08%, USDTHB 0.95%, USDIDR 0.65% and USDSGD 0.40%, and USDJPY closed at 159.71."
+   ],
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/EV_Ringgit-Weekly-Outlook_261116-Kenanga.pdf"
+  }
+ ]
+}

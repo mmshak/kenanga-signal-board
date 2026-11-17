@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T07:38:18.062Z",
+ "generatedAt": "2026-11-17T00:11:46.376Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -52,10 +52,11 @@
   "2026-11-06",
   "2026-11-10",
   "2026-11-11",
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-16"
  ],
- "rows": 216,
- "verified": 215,
+ "rows": 219,
+ "verified": 218,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -934,6 +935,24 @@
    "date": "2026-11-12",
    "row": "MY Labour Market (Sep-26)",
    "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>2.9% is close to the rounding line.</b> Table 1's 513.2k unemployed over a 17,402.7k labour force is about 2.95% (computed here). (2) <b>The forward-looking data are from a different source and month.</b> Loss-of-employment cases, vacancies and placements come from PERKESO's MYFutureJobs for October and early November, not from DOSM's September survey. The 'about 10k' November loss-of-employment figure is Kenanga's extrapolation of 3,313 cases to 10 November; 3,313 over ten days times 30 is about 9,939 (computed here). (3) <b>Rounding differences.</b> The text gives the population outside the labour force as down 0.03% MoM; Table 1 shows 0.0%. 7,104.0k against 7,106.0k is -0.03% (computed here). Vacancies fell about 12.4% and placements about 64.9% (computed here), matching the text. (4) <b>Charts and continuity.</b> Graphs 1-3 were read for titles only, and no figure here comes from them. Kenanga's 2026 GDP forecast of 5.3% matches this board's 11 November IPI row. This board's 14 September row recorded July at 3.0%; Table 1 shows 3.0% for July and 2.9% for August and September. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-16",
+   "row": "SLP",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>'We like SLP' is not a pick declaration.</b> The investment case reads 'We like SLP for its: (i) product mix... (ii) robust cash flows... and (iii) project pipelines', followed by 'Maintain MARKET PERFORM call'. This board treats this wording as investment-case language (as with SWIFT, F&amp;N and PENTA), so the Kenanga Signal reads None stated. The only other search hits are 'favourable forex movements' and 'unfavourable forex translation', which are not stock picks. (2) <b>'77% of our full-year forecast' uses the pre-cut forecast.</b> 9MFY26 core net profit of RM15.6m is 82.5% of the new FY26F RM18.9m. Reversing the 7.1% cut gives about RM20.3m, of which RM15.6m is about 76.7% (computed here). The text calls RM15.6m 'net profit'; the Results Highlights show it is core net profit, with reported net profit at RM15.2m (+89% YoY). (3) <b>The FY26 revenue forecast does not reconcile.</b> The Summary Earnings Table gives FY26F turnover of RM184.0m. With 9MFY26 revenue at RM101.8m, that implies about RM82.2m in 4Q, against RM34.0-34.2m in each of 2Q and 3Q and a softer 4Q outlook (computed here). The net profit forecast is consistent: RM18.9m less RM15.6m leaves about RM3.3m for 4Q, below 3Q's RM6.8m. The note does not explain the turnover line, and it is not used elsewhere on this row. (4) <b>The PER basis.</b> The text says the target implies a '1-Yr forward PER of 15.5x'. 15.5x is FY27F core PER at the RM0.82 share price (0.82 / 5.3 sen). At the RM0.85 target, FY27F PER is about 16.0x and FY26F about 14.2x (computed here). The peer table labels FY26 as 1-year forward. (5) <b>Reconciles with this board's 26 October Plastic Packaging row.</b> That sector note downgraded SLP to MARKET PERFORM and cut its target to RM0.85 from RM0.90; today's note shows both unchanged (MARKET PERFORM, RM0.85). It also says FY27F was trimmed 6% in that sector report, within the 1%-6% range that row recorded. This is the board's first SLP stock row, so no earlier stock row exists to check. Upside of 3.7% plus a 5.8% yield is about 9.5%, inside the MARKET PERFORM band of -5% to 10% (computed here). (6) <b>Market data and analyst search.</b> The cover gives a 52-week range of RM0.73-0.90. stockanalysis.com, not Kenanga, gives RM0.70-0.955, a 13 November close of RM0.82 (matching Kenanga) and a 5.79% yield on RM0.05 of dividends. The page 3 charts (resin and crude oil prices, USD/MYR) are images and were not read. The result is in line and the Kenanga Signal is None stated, so no non-Kenanga search was run (rules/daily-run.md step 8) and the Analyst Signal is not shown."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-16",
+   "row": "MY Bond Market Weekly",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>Last week's starting points differ slightly from this board's 6 November row.</b> That row recorded the 10-year MGS at 3.841% and the 10-year UST at 4.835%. Table 4's 6 November column shows 3.836% and 4.857%, and today's +2.8bps and +27.8bps moves are measured from those. The two notes appear to use different closing dates (an inference); this is not treated as a contradiction. The text's 'about -99 bps a week earlier' matches the 6 November row's figures (3.841% less 4.835% is about -99bps), not Table 4's (about -102bps). Today's 3.864% less 5.135% is about -127bps, against the text's 'about -128 bps' (all computed here). (2) <b>The private placement was larger than previewed.</b> The 6 November row recorded the 15-year MGII reopening as RM3.5b on tender plus RM1.5b privately placed. The result shows RM2.0b privately placed, for RM5.5b in total. This is the outcome against the plan, not a conflict. (3) <b>Table labelling and wording.</b> Table 4 heads the 13 November column 'Last week' and the 6 November column 'Last Fortnight', although 13 November is the current reading; figures here are read by date. The text says yields 'mostly rose', but every MGS and GII tenor in Table 4 is higher week on week. Table 1's forecast paths are unchanged from the 6 November row and match today's Ringgit note. The September IPI figures (6.3%, against 5.0% and a 5.8% consensus) match this board's 11 November IPI row. (4) Pages 2-3 carry a garbled 'ENANGA' header, a '6 S' date fragment and a Level 12 address, as in earlier weeks. Graphs 1-7 are images and were not read. This is an Economic Viewpoint with no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-16",
+   "row": "Ringgit Weekly",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>Last week's range call missed.</b> This board's 6 November row recorded Kenanga's call for 4.04-4.06 this past week. Friday's 4.087 close is outside that range, on the weak-ringgit side (computed here). Today's note does not comment on the miss. (2) <b>Starting point differs from the 6 November row.</b> That row recorded the ringgit firming to 4.047. Today's text and Table 2 give 4.059 for 6 November. The two notes appear to use different closing dates (an inference); this is not treated as a contradiction. Today's digest prints USD/MYR at 4.0868 for 13 November, matching 4.087. (3) <b>The technical signal and the text may disagree.</b> The text says USDMYR 'leans higher towards overbought', with a 7-day RSI of 66.6 and the pair above its 5-day EMA of 4.075. In the extracted text, Table 1's short-term trend symbol reads as bearish for the USD (&#9660;). The symbol was read from extracted text, not the rendered page, so this is reported, not resolved. (4) <b>Consistency with other rows.</b> Table 1's USDMYR path is unchanged from the 6 November row and matches today's Bond note. Table 3's KIBB forecast of 5.1% for 3Q26 GDP matches this board's 11 November IPI row, and October CPI's previous reading of 1.8% matches the 6 November BNM row. Table 3's previous export growth figure of 54.5% YoY is reported as printed and was not checked. Graphs 1-3 are images and were not read. This is an Economic Viewpoint with no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
   }
  ],
  "verdict": "PASS"
