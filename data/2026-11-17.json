@@ -1,0 +1,331 @@
+{
+ "date": "2026-11-17",
+ "schema": 1,
+ "daily": {
+  "klci": 1588.0,
+  "chg": 5.44,
+  "pct": 0.34,
+  "inst": -70.6,
+  "instPct": 39.3,
+  "retail": -9.5,
+  "retailPct": 25.6,
+  "foreign": 80.2,
+  "foreignPct": 35.1,
+  "ideas": "Market Strategy: Getting Chippy; Results Note: POS; Company Update: BAUTO, CHEEDING, GAMUDA",
+  "news": [
+   {
+    "h": "Malayan Flour Mills' 3Q profit rises 16.7% on stronger sales",
+    "body": "Malayan Flour Mills Bhd's net profit for 3QFY2026, ended 30 September 2026, rose 16.7% to RM41.8m from RM35.8m a year earlier, on stronger sales volume and its integrated poultry joint venture. Revenue rose 13.8% to RM879.4m. (The Edge Malaysia)",
+    "takeaways": [
+     "Malayan Flour Mills' 3QFY2026 net profit rose 16.7% year on year to RM41.8m, from RM35.8m.",
+     "Revenue rose 13.8% to RM879.4m, from RM773.1m.",
+     "The company credited stronger sales volume and the performance of its integrated poultry joint venture.",
+     "The flour and grain trading segment's operating profit rose to RM59.0m from RM57.4m, partly offset by higher operating expenses. No dividend was declared.",
+     "This board holds no Kenanga coverage of Malayan Flour Mills. Digest context only."
+    ]
+   },
+   {
+    "h": "Cuckoo Malaysia's 3Q net profit nearly doubles to RM26.5m despite weaker sales",
+    "body": "Cuckoo International (Mal) Bhd's 3QFY2026 net profit rose 96.4% to RM26.5m from RM13.5m a year earlier, on lower impairment losses and higher margins despite weaker product sales. (The Edge Malaysia)",
+    "takeaways": [
+     "Cuckoo International (Mal) Bhd's net profit for the quarter to 30 September 2026 rose 96.4% year on year to RM26.5m, from RM13.5m.",
+     "Product sales were weaker; the digest gives no revenue figure.",
+     "Gross profit margin rose five percentage points to 37.1%.",
+     "Impairment losses fell 38.0% to RM18.3m, which the company put down to tighter credit assessment. No dividend was declared.",
+     "This board holds no Kenanga coverage of Cuckoo. Digest context only."
+    ]
+   },
+   {
+    "h": "LAC Med bags RM28.1m diagnostic imaging solutions contract",
+    "body": "LAC Med Bhd has secured a RM28.1m contract to provide a full suite of diagnostic imaging solutions to an unnamed private hospital in the northern region of Peninsular Malaysia. (The Edge Malaysia)",
+    "takeaways": [
+     "LAC Med's wholly owned LAC Medical Supplies Sdn Bhd will supply and integrate radiology and women's imaging equipment for an unnamed private hospital in northern Peninsular Malaysia.",
+     "The digest's front-page headline gives the value as RM28.0m; the article headline and body give RM28.1m. This row uses RM28.1m.",
+     "Works are due for completion by 1 August 2027.",
+     "After handover, LAC Med will provide scheduled maintenance and technical support.",
+     "This board holds no Kenanga coverage of LAC Med. Digest context only."
+    ]
+   },
+   {
+    "h": "Cape EMS formalises manufacturing deal with US life-science firm",
+    "body": "Cape EMS Bhd has signed a contract manufacturing agreement and an initial project addendum with Thermo Fisher Scientific, covering components, electromechanical assemblies, finished products and integrated systems. (The Edge Malaysia)",
+    "takeaways": [
+     "Cape EMS signed a contract manufacturing agreement and an initial project addendum with US life-science firm Thermo Fisher Scientific.",
+     "The scope covers technical components, electromechanical assemblies, finished products and integrated systems.",
+     "The initial term is three years, with up to two one-year extensions by mutual agreement.",
+     "Cape EMS said purchase orders have already been received and fulfilled. The digest gives no contract value.",
+     "This board holds no Kenanga coverage of Cape EMS. Digest context only."
+    ]
+   },
+   {
+    "h": "United Asiapac wins PETRONAS contracts for fishing and well recovery services in East Malaysia",
+    "body": "United Asiapac Energy Bhd said it secured contracts from PETRONAS Carigali Sdn Bhd for fishing and well recovery services in Sarawak and Sabah. (The Edge Malaysia)",
+    "takeaways": [
+     "United Asiapac Energy won contracts from PETRONAS Carigali for fishing and well recovery services in Sarawak and Sabah.",
+     "The awards went to its wholly owned Asiapac Oil & Gas Sdn Bhd and its 30.0%-owned associate Asiapac Oil & Gas (Sabah) Sdn Bhd.",
+     "The letters of award are dated 4 September.",
+     "The contracts took effect on 16 October 2026 for three years to 15 October 2029, with an option to extend for three more. The digest gives no contract value.",
+     "This board holds no Kenanga coverage of United Asiapac. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "US, partners agree to safeguard key AI tech, infrastructure",
+    "region": "Global",
+    "body": "The US and nine partner nations including India, Singapore and the UK signed a pledge to safeguard sensitive technologies and critical infrastructure amid strategic competition with China over AI. (The Edge Malaysia)",
+    "takeaways": [
+     "The US and nine partner nations signed a pledge to safeguard sensitive technologies and critical infrastructure.",
+     "The partners named in the digest include India, Singapore and the UK.",
+     "The digest frames it as part of escalating US-China competition over the future of AI.",
+     "Kenanga's Market Strategy note today covers a separate US step, an interim final rule on remote access to advanced chips that names Malaysia among higher-risk destinations.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "China says Xi-Putin-Trump meeting has 'groundbreaking significance'",
+    "region": "Global",
+    "body": "China's Foreign Ministry said this week's trilateral meeting between the Chinese, US and Russian leaders is of \"groundbreaking significance\" and will promote world peace and stability. (The Edge Malaysia)",
+    "takeaways": [
+     "China's Foreign Ministry commented on Monday, 16 November.",
+     "It called this week's meeting of the Chinese, US and Russian leaders of 'groundbreaking significance'.",
+     "It said the meeting would promote world peace and stability.",
+     "The digest gives no agenda or outcomes.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Amir Hamzah: Govt has approved MRL's fifth sukuk programme worth RM19.0b to finance ECRL project",
+    "region": "Malaysia",
+    "body": "The government has approved Malaysia Rail Link's fifth sukuk programme, worth RM19.05b, to support financing of the East Coast Rail Link, said Finance Minister II Datuk Seri Amir Hamzah Azizan. (The Edge Malaysia)",
+    "takeaways": [
+     "The government approved Malaysia Rail Link's (MRL) fifth sukuk programme.",
+     "The body gives the size as RM19.05b; the headline rounds it to RM19.0b.",
+     "The programme supports financing of the East Coast Rail Link (ECRL).",
+     "Finance Minister II Datuk Seri Amir Hamzah Azizan made the announcement.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Nod given for 99 federal projects worth RM12b in Sarawak - works minister",
+    "region": "Malaysia",
+    "body": "Thirty-five of Sarawak's 99 federal development projects, worth RM12b in total, are under construction, Works Minister Datuk Seri Alexander Nanta Linggi said. (The Edge Malaysia)",
+    "takeaways": [
+     "Sarawak has 99 approved federal development projects.",
+     "Their total value is RM12b.",
+     "Thirty-five are under construction.",
+     "Works Minister Datuk Seri Alexander Nanta Linggi gave the figures.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Govt looking at ways to expedite EV charging infrastructure development - deputy minister",
+    "region": "Malaysia",
+    "body": "The government is studying approaches, including a proposed levy on electric vehicles, to speed up charging infrastructure towards 30,000 charging points by 2030, the Ministry of Investment, Trade and Industry said. (The Edge Malaysia)",
+    "takeaways": [
+     "MITI says the government is studying ways to speed up EV charging infrastructure.",
+     "One option is a proposed levy on electric vehicles.",
+     "The target is 30,000 charging points by 2030.",
+     "Kenanga's BAUTO note today cites evolving government EV policy, including localisation requirements, as a reason it views the XPeng exit as prudent.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Japan's economy contracts annualised 0.1% in July-September",
+    "region": "Asia Pacific",
+    "body": "Japan's economy contracted an annualised 0.1% in the July-September quarter, against a median forecast for a 0.3% increase. (Reuters)",
+    "takeaways": [
+     "Japan's GDP fell at an annualised 0.1% in July-September.",
+     "The median market forecast was for 0.3% growth.",
+     "The data came out on Monday, 16 November.",
+     "The digest gives no breakdown.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "China's economy falters as factory output, retail sales undershoot expectations",
+    "region": "Asia Pacific",
+    "body": "China's economy showed fresh signs of sluggishness in October as factory production slowed and consumption remained weak. (Reuters)",
+    "takeaways": [
+     "China's October factory output slowed.",
+     "Retail sales remained weak.",
+     "Both undershot expectations, per the headline.",
+     "The digest questions how long China can rely on exports for growth, and gives no figures.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "Canada's annual inflation rate held steady at 3.1% in October",
+    "region": "Americas",
+    "body": "Canada's annual inflation rate was 3.1% in October, unchanged from September, as higher crude oil prices kept pressure on the headline number. (Reuters)",
+    "takeaways": [
+     "Canada's annual inflation was 3.1% in October.",
+     "That matches September's rate.",
+     "Higher crude oil prices kept pressure on the headline number.",
+     "The data came out on Monday, 16 November.",
+     "Digest context only; sourced to Reuters."
+    ]
+   },
+   {
+    "h": "UK property asking prices fall more than usual in November, Rightmove says",
+    "region": "Europe",
+    "body": "Asking prices for British homes marketed in the four weeks to 7 November fell more than usual for the time of year, as high mortgage costs caused by the Iran war squeezed buyers, Rightmove said. (Reuters)",
+    "takeaways": [
+     "UK asking prices fell more than usual for the season in the four weeks to 7 November.",
+     "Rightmove published the data on Monday, 16 November.",
+     "It blamed high mortgage interest costs.",
+     "The digest attributes those costs to the Iran war. It gives no percentage change.",
+     "Digest context only; sourced to Reuters."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/Kenanga-Today-261117-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "result": null,
+   "conviction": "\"We maintain KEEMING (OP; TP: RM3.23) as our top pick, supported by its diversified order book across HV, DC, industrial and commercial projects, as well as its greater exposure to US hyperscalers.\"",
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "Market Strategy",
+   "name": "Getting Chippy: US Rules on Remote Access of Advanced Chips",
+   "type": "Market Strategy",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "divYield": null,
+   "high52": null,
+   "low52": null,
+   "mktSrc": null,
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The Positive signal is for KEEMING, inside a strategy note.</b> In its M&amp;E section the note says 'We maintain KEEMING (OP; TP: RM3.23) as our top pick'. That is pick language in Kenanga's own words, so the Kenanga Signal reads Positive, as on the 3 September strategy row. KEEMING has no stand-alone report today. 'Top pick' here sits under the M&amp;E heading, so it reads as the M&amp;E sector pick, which matches this board's 5 November KEEMING row ('KEEMING remains our top pick for the M&amp;E sector') and its RM3.23 target. (2) <b>Other names are not picks.</b> The note says the sell-off in core-and-shell EPCC names GAMUDA and SUNCON 'appear[s] excessive' and calls them 'the safest plays'. Neither is pick language under rules/signals.md &sect;2. Neither is 'TENAGA will be largely shielded'. A search for the other terms (sector pick, our pick, preferred, most attractive, we like, favour, favourite) finds nothing. (3) <b>Targets against this board.</b> SUNCON RM9.70 matches the 6 November row and today's GAMUDA note. KEEMING RM3.23 matches 5 November. The 12.3GW data-centre pipeline with secured power matches the figure on this board's 10 November strategy row. (4) <b>Rule details are Kenanga's reading.</b> The descriptions of the US interim final rule (licences for Indonesia, Malaysia, Singapore, Thailand and Brazil; a 12 million TPP ceiling, which Kenanga equates to about 750 NVIDIA H100 SXM chips; licence requirements under 744.23(a)(3) and ECCN 3A090.a) are as Kenanga states them. This board has not checked them against the BIS document, and the two '(news)' links in the PDF were not followed. (5) <b>Slips.</b> The note has several typos ('lcoally', 'omport', 'infastructures', 'Utilties', 'data centre demand is Malaysia') and a stray 'ui', as in the 10 November strategy note. This row carries no rating or target of its own, so those columns are empty by design, and no Analyst Signal is sought.",
+   "catalyst": "A new US interim final rule on <b>remote access to advanced AI chips</b> requires licences to ship advanced semiconductors to <b>Malaysia</b>, Indonesia, Singapore, Thailand and Brazil, and restricts data centres selling compute to D:5 countries such as China. Kenanga calls it a more cautious signal for local data-centre demand but <b>less punitive than the rescinded AI Diffusion Rule</b>. It sees <b>little first-order impact on construction</b>, whose clients are mostly US hyperscalers, and calls the <b>sell-off in GAMUDA and SUNCON excessive</b>. In M&amp;E it keeps <b>KEEMING as its top pick</b>.",
+   "quote": "Overarchingly, as we see demand for data centres is still strong, the areas we deem the sell off appearing excessive is in core and shell EPCC (GAMUDA and SUNCON), being the safest plays as they predominantly serve US MNCs/customers.",
+   "summary": [
+    "The rule. The US has issued an interim final rule on remote access to advanced AI chips and servers. It has two prongs. First, new restrictions apply to supplying overseas data centres that remotely provide significant compute to firms headquartered in Country Group D:5 (US arms-embargo nations, including China) or Macau. Second, a destination-based licence is needed to send advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand or Brazil, which the US sees as higher diversion risks. Kenanga says the licence ceiling is low, 12 million TPP or about 750 NVIDIA H100 SXM chips, too little for meaningful training clusters (see flag).",
+    "How tough it is. Kenanga says the wording also covers digitally linked infrastructure, closing the route of spreading chips across several data centres. It also bars non-D:5 data centres from training advanced AI models for D:5 countries. The US will monitor compliance and could respond with import restrictions, new licence requirements, a downgraded export-control status, or Entity List designations. Malaysia already requires a Strategic Trade Permit for US-origin high-performance AI chips (since July 2025) and is considering disclosure rules for data-centre GPU imports. Kenanga says the rule is still less punitive than the rescinded Biden-era AI Diffusion Rule and its country tiers and quotas.",
+    "Data-centre demand. Kenanga will watch non-US data-centre expansion in Malaysia for any slowdown. It still sees a strong 12.3GW pipeline with secured power, and expects US hyperscalers to look abroad after the midterms made some US states cautious on approvals. Near term it expects valuations to diverge between firms serving mainly US customers and those serving others, with demand tilting towards US and non-China-linked players.",
+    "Sector read-across. Construction: little first-order impact, as clients are mostly US hyperscalers (Google, AWS, Microsoft) and developers such as Yellowwood, Stack and Vantage. The one exception, SUNCON's RM748m job for non-US K2, is near completion. Kenanga calls the sell-off in GAMUDA and SUNCON excessive. TENAGA is shielded by take-or-pay terms in its electricity supply agreements for at least five years. Kenanga has priced no neo-cloud value into YTLPOWER. M&amp;E: licensing could delay projects for non-US operators without confirmed end-users; at c.13x FY28 PER, valuations may stay subdued until awards are clearer.",
+    "The pick and IC design. In M&amp;E, Kenanga keeps KEEMING (OP; RM3.23) as its top pick, citing its diversified order book across high-voltage, data-centre, industrial and commercial work and its greater exposure to US hyperscalers. That sentence is the basis for this row's Positive Kenanga Signal. For IC design, the rule does not ban design services directly but adds a licence requirement for advanced logic chips from non-approved designers when shipped by front-end fabs or OSATs, and keeps the worldwide foreign direct product rule. Kenanga sees limited direct impact on design houses serving non-US customers but says downstream manufacturing and delivery warrant closer monitoring."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/Market-Strategy-261117-BIS-development-on-DC-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "UP",
+   "prevTp": 0.14,
+   "ticker": "POS",
+   "name": "Pos Malaysia Berhad",
+   "type": "Results Note",
+   "rating": "UP",
+   "tp": 0.14,
+   "price": 0.24,
+   "divYield": null,
+   "high52": 0.345,
+   "low52": 0.23,
+   "mktSrc": "https://stockanalysis.com/quote/klse/POS/",
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The headline loss widened while the core loss narrowed.</b> 3QFY26 reported net loss was RM62.3m, 39% wider YoY and 43% wider QoQ, after RM27.1m of exceptional items; the core loss of RM35.2m narrowed 21% YoY. Over nine months the reported net loss was RM122.3m (-7% YoY) against a core loss of RM95.9m (-26%). The note's text discusses only the core figures; both come from its own Results Highlights table. The 3Q exceptional item is not itemised; the text mentions a non-recurring fair-value loss in aviation, but does not say whether that is the same item. (2) <b>The 4Q forecast implied.</b> Kenanga's FY26F core net loss is RM154.6m, so 4Q would need a core loss of about RM58.7m (RM154.6m less RM95.9m, computed here), above any of the last three quarters. Kenanga says 4Q typically carries higher operating expenses. (3) <b>Price given two ways.</b> The cover and peer table print RM0.24; the stock box's RM184.0m market capitalisation equals about RM0.235 x 782.8m shares, and the peer table's RM187.9m equals RM0.24 (computed here). stockanalysis.com, not Kenanga, gives a 16 November close of RM0.235 and a 13 November close of RM0.245. Kenanga's 52-week range is RM0.24-0.34; stockanalysis.com gives RM0.23-0.345, so the cover price sits at Kenanga's own 52-week low. (4) <b>Signals.</b> Kenanga states 'We have sole coverage on the stock', so no named non-Kenanga house call can exist in permitted sources, and the Analyst Signal is not shown. The investment case opens 'We are cautious on POS'; a search for top pick, sector pick, our pick, preferred, most attractive, we like, favour and favourite finds nothing. The Kenanga Signal reads None stated. (5) This is the board's first POS row, so prevRating and prevTp are taken from the cover's unchanged markers (UNDERPERFORM &harr;, RM0.14 &harr;) and the text's 'We maintain our forecasts, TP of RM0.14 and UNDERPERFORM call'. Minor: 'for next the three years'. POS pays no dividend, so no yield is shown.",
+   "catalyst": "Pos Malaysia's <b>9MFY26 core net loss of RM95.9m</b> narrowed 26% YoY and was <b>within expectations</b> at 62% of Kenanga's full-year loss forecast. Revenue rose 8%, led by logistics (+23%) and aviation (+15%). The 'others' segment, helped by Ar-Rahnu and the July launch of the <b>Pos Ar-Rahnu Gold-i</b> digital gold platform, swung the mix, while postal kept dragging. The <b>reported 3Q net loss widened to RM62.3m</b> on RM27.1m of exceptional items. Kenanga keeps <b>UNDERPERFORM and a RM0.14 DCF target</b>, about 41.7% below RM0.24.",
+   "quote": "We maintain our forecasts, TP of RM0.14 and UNDERPERFORM call. Re-rating catalysts would be sustained turnaround of its postal business and continued improvement in its other business.",
+   "summary": [
+    "The call. Kenanga keeps UNDERPERFORM, its forecasts and a DCF-derived RM0.14 target (WACC 6.2%, terminal growth 0%), with no ESG adjustment on a 3-star rating. The peer table shows 41.7% downside from RM0.24. Kenanga says it has sole coverage of the stock. Re-rating catalysts would be a sustained postal turnaround, continued improvement in the other businesses and the phasing out of irrational logistics players. Risks to the call include a privatisation at a premium.",
+    "The result. 9MFY26 revenue rose 8% to RM1,483.9m and the core net loss narrowed 26% to RM95.9m, 62% of Kenanga's RM154.6m FY26F loss, which it deems in line because 4Q usually carries higher operating costs. In 3Q, revenue rose 8% YoY to RM501.2m and the core loss narrowed to RM35.2m from RM44.7m. The reported 3Q net loss widened to RM62.3m after RM27.1m of exceptional items (see flag).",
+    "Postal still drags. Postal revenue rose 2% over nine months but the segment lost RM115.4m. Kenanga cites intense price competition and e-commerce players moving delivery in-house, naming Shopee Express. Domestic mail volume fell 10% and international mail 4% on US and EU regulatory changes, while parcel volume grew 25% on market-share gains. Pos shut all 50 'POS SHOP' outlets in July 2026; Kenanga puts the earlier investment at RM15m-RM20m and expects RM5m-RM10m of savings over the next three years, already in its forecasts.",
+    "The other segments. Logistics revenue rose 23% (automotive, freight forwarding, marine, warehousing) but it still lost RM29.6m on unrealised forex losses and finance costs. Aviation revenue rose 15% on air freight and umrah charters, but 3Q swung to a RM23.8m loss on a non-recurring fair-value loss and higher costs. The 'others' segment (Pos Digicert, Datapos, Pos Ar-Rahnu) lifted nine-month profit to RM45.1m from RM15.8m, helped by the July launch of Pos Ar-Rahnu Gold-i.",
+    "Funding and balance sheet. Pos received an initial RM50m Universal Service Obligation facilitation fund from MCMC in 1QFY26, not yet booked because its use is not finalised. The government has also announced a Postal Service Fund with RM150m allocated in 1QCY2027. Kenanga expects USO support to keep losses below RM200m for at least the next two to three years. It forecasts core losses of RM154.6m in FY26 and RM134.8m in FY27, with book value per share falling to RM0.07 and RM0.05, and net gearing rising to 5.1x and 8.0x."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/POS-261117-3Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 1.3,
+   "ticker": "BAUTO",
+   "name": "Bermaz Auto Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 1.3,
+   "price": 0.83,
+   "divYield": 10.24,
+   "high52": 1.12,
+   "low52": 0.5,
+   "mktSrc": "https://stockanalysis.com/quote/klse/BAUTO/",
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>'We favour BAUTO for' is not a pick declaration.</b> The investment case reads 'We favour BAUTO for: (i) its solid near-term earnings visibility... (ii) its premium mid-market Mazda brand... and (iii) its attractive dividend yield of c.12%'. 'Favour' is on this board's search list, but this is the note's investment-case wording (the 9 October note used 'We like BAUTO for'), not a Top Pick, sector pick or most-attractive statement. Under rules/signals.md &sect;2 the Kenanga Signal reads None stated. No other search term appears. (2) <b>The earnings hit is quantified but not booked.</b> Kenanga estimates XPeng's exit could cut FY27F net profit by 4%-7% (RM5m-RM10m against RM141.7m, which is 3.5%-7.1%, computed here), but keeps its forecasts pending the separation agreement. The RM141.7m FY27F and the 9x CY27F target therefore still include XPeng. (3) <b>Market capitalisation given two ways.</b> The stock box's RM932.2m equals RM0.83 x 1,123.2m shares; the peer table's RM963.6m implies about RM0.86 (computed here). The share count is 1,123.2m, against 1,127.3m in the 9 October note. (4) <b>How the target reconciles.</b> 9x FY27F EPS of 12.2 sen gives about RM1.10. Weighting FY Apr-27 and FY Apr-28 EPS (12.2 and 15.4 sen) by 4 and 8 months gives a CY27 EPS of about 14.3 sen, and 9x that is about RM1.29 (inferred, computed here). The note does not show its CY27 EPS. (5) <b>Market data and analyst search.</b> Kenanga's 52-week range is RM0.51-1.07; stockanalysis.com, not Kenanga, gives RM0.50-1.12, a 16 November close of RM0.83 (matching Kenanga) and a 10.24% trailing yield on RM0.09 of dividends. The note's own yields are 'c.12%' and 11.8% FY27F. This board's 9 October BAUTO row recorded CIMB Securities naming BAUTO a preferred stock (The Star, 24 September). No non-Kenanga search was run today, because this row declares no Kenanga conviction and carries no results (rules/daily-run.md step 8), so the Analyst Signal is not shown here; that is not a finding that the CIMB view has changed.",
+   "catalyst": "BAUTO's 85%-owned Bermaz XPeng <b>ceased XPeng operations on 16 November 2026</b> after XPeng China restructured its Malaysian distribution. Agreements were due to run to March 2027. Kenanga estimates the exit could cut <b>FY27F earnings by 4%-7%</b>, but calls it 'a blessing in disguise': it avoids intensifying EV competition and likely localisation capex. Forecasts are <b>maintained pending the separation agreement</b>, with <b>OUTPERFORM and a RM1.30 target</b> on 9x CY27F PER, about 56.6% above RM0.83, plus a c.12% dividend yield.",
+   "quote": "Nevertheless, we view the early separation as prudent, allowing BAUTO to avoid intensifying EV competition, potential localisation-related capital commitments and regulatory uncertainties amid evolving government EV policies.",
+   "summary": [
+    "What happened. BAUTO's 85%-owned Bermaz XPeng Sdn Bhd ceased XPeng operations on 16 November 2026, after XPeng Incorporated China decided to restructure its Malaysian distribution network. BAUTO is negotiating to end the distributorship, after-sales, spare parts, warranty and other agreements, which were due to expire in March 2027, and will announce the separation agreement when signed. In the meantime it will keep servicing, parts and warranty support running for existing XPeng owners.",
+    "The earnings hit. XPeng sold a relatively modest 1,501 units in FY2026. Assuming an attributable contribution of RM5m-RM10m a year, Kenanga estimates the exit could cut its RM141.7m FY27F net profit by 4%-7%. It has not yet changed its forecasts, pending clarity on the separation agreement (see flag).",
+    "Why Kenanga sees it as prudent. It expects competition from new EV launches in the RM100k-RM200k segment to intensify as the market shifts to more affordable electric cars. With the government pushing local assembly, BAUTO might also have needed more capex to support XPeng's long-term expansion. Exiting early avoids those commitments and the regulatory uncertainty over future localisation rules. Its 11.54% stake in contract assembler EP Manufacturing now depends on EPMB's wider Chinese assembly book (GWM, BAIC, MG and others) rather than on XPeng.",
+    "The call. OUTPERFORM and a RM1.30 target, both unchanged, on 9x CY27F PER: a 2x discount to the sector's 11x average and to BAUTO's five-year average. There is no ESG adjustment on a 3-star rating. The peer table shows 56.6% upside from RM0.83 and an 11.8% FY27F net yield. Kenanga expects stricter entry barriers for new EV brands (a RM200k CIF floor for CBU EVs and the localisation policy) to ease earnings risk for non-national brands. Core net profit is forecast at RM141.7m for FY27 (+35.3%) and RM178.4m for FY28, with consensus at RM143.3m and RM154.7m.",
+    "The Mazda case. The order backlog is 1.7k units, against 1.5k a year ago. Kenanga expects the CBU/CKD mix to reach 80%/20%, from 50%/50% in FY26, which benefits from a weaker yen against the ringgit, helped by imported models including the all-new CX-5, CX-60, CX-80 and Mazda 3. BAUTO is focusing on value-for-money Japanese-market Mazda models near term and negotiating better pricing on upcoming models. Risks are weaker big-ticket consumer spending amid high inflation, supply-chain disruption, rising input costs and a weaker ringgit against the yen."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/BAUTO-261117-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 0.78,
+   "ticker": "CHEEDING",
+   "name": "Cheeding Holdings Bhd",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 0.8,
+   "price": 0.475,
+   "divYield": 1.25,
+   "high52": 0.94,
+   "low52": 0.47,
+   "mktSrc": "https://stockanalysis.com/quote/klse/CHEEDING/",
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The ESG premium does not match the ESG table.</b> The text says the RM0.80 target is 'based on 15x FY28F EPS, inclusive of a 3% ESG premium'. The ESG table rates CHEEDING three stars overall, and its own legend says three stars means 'TP unchanged'; a 3% premium is for four stars. 15x FY28F EPS of 5.3 sen is about RM0.795 before any premium, and about RM0.82 with 3% (computed here). So the RM0.80 target fits 15x with no premium better than the stated basis. Which is right cannot be established from the note. (2) <b>Shariah status given two ways.</b> The stock box says 'Shariah Compliant: No'; the peer table says 'Y'. (3) <b>Price given two ways.</b> The cover prints RM0.475; the peer table RM0.480. stockanalysis.com, not Kenanga, gives a 13 November close of RM0.475 and a 16 November close of RM0.48. Upside is 68.4% at RM0.475 (computed here) and 66.7% at RM0.48 (peer table). (4) <b>'We like CHEEDING for' is not a pick declaration.</b> It is the note's investment-case wording, so the Kenanga Signal reads None stated; 'one of the stronger contenders' refers to the tender, not a stock pick. No other search term appears. (5) <b>Reconciles with this board's 28 August row.</b> That row recorded OUTPERFORM and RM0.78, matching today's previous target, and a RM148m order book at end-June, the same figure Kenanga gives today, consistent with its statement of no new wins this year. That row's c.1,000km APG route estimate matches today's 300km first tender plus about 700km towards Senai. (6) <b>Market data.</b> Kenanga's 52-week range is RM0.48-0.92; stockanalysis.com gives RM0.47-0.94 and a 1.25% trailing yield. The cover price is near both lows. This is not a results note and the row declares no Kenanga conviction, so no non-Kenanga search was run (rules/daily-run.md step 8) and the Analyst Signal is not shown.",
+   "catalyst": "After meeting management, Kenanga sees <b>TNB's 500kV transmission rollout</b> as CHEEDING's next order-book catalyst. TNB's first 300km tender (Paka to Kampung Awah and Bahau) has <b>six packages worth c.RM1.2b</b>, closing 26 November with awards in 1Q27, and another <b>c.700km towards Senai</b> is expected to follow. CHEEDING is targeting at least one package of over RM100m, against a <b>RM148m order book</b>. Kenanga raises FY28F earnings by 1.8% and lifts its <b>target to RM0.80 from RM0.78</b>, keeping <b>OUTPERFORM</b>.",
+   "quote": "We view the recent share price weakness as an opportunity to accumulate, with upcoming 500kV contract awards potentially driving stronger order book replenishment and further earnings upside.",
+   "summary": [
+    "The tender. TNB has called tenders for its first 300km 500kV transmission line, from Paka to Kampung Awah and Bahau, in six packages. Submissions close on 26 November and awards are expected in 1Q27. At about RM4m per km, Kenanga puts the total at c.RM1.2b, each package potentially above RM100m. One RM100m package would lift CHEEDING's RM148m order book by about 68%. With several PMU substation jobs in Johor already awarded, Kenanga expects another c.700km of line work towards Senai to follow.",
+    "Why CHEEDING is placed to win. More than 30 contractors attended the site visit, but Kenanga says only a handful have 500kV experience. CHEEDING has the ongoing RM55m 500kV Gurun East job and the completed RM66m 275kV Yong Peng East-Kampung Awah project. Because the ASEAN Power Grid timeline is tight, all six packages are expected to run at once. CHEEDING plans to hire another 120 skilled workers, taking its workforce to 300.",
+    "Margins over volume. Kenanga attributes the lack of new wins this year to slower TNB spending on overhead transmission, with money going to underground utilities and substations instead. CHEEDING has chosen not to chase lower-margin work. Management expects to keep double-digit net margins, with pricing buffers against cost escalation; recent copper and cable price spikes had minimal impact because materials were secured earlier. Outstanding tenders, excluding the 500kV packages, total c.RM346m, and Kenanga expects replenishment to pick up from CY27.",
+    "Forecast and target changes. Kenanga cuts its FY28F replenishment assumption to RM186m from RM216m, reflecting a shift towards one 500kV package and away from underground work. The better mix raises FY28F earnings by 1.8% to RM42.3m (core EPS 5.3 sen); FY27F is unchanged at RM39.8m. It keeps OUTPERFORM and raises the target to RM0.80 from RM0.78 on 15x FY28F EPS, which it says includes a 3% ESG premium (see flag). It calls the recent share-price weakness, down 41.5% this year, an opportunity to accumulate.",
+    "Investment case and risks. Kenanga cites CHEEDING's rare 500kV licence, needed for grid backbone upgrades and APG corridors; integrated EPCC across overhead, underground and substation work; more than 20 national infrastructure projects delivered; and core net margins above 20%, helped by an asset-light model. About 70% of its workforce is foreign, which Kenanga flags as an ESG risk. Risks to the call are customer concentration, dependence on regulated infrastructure spending, project execution and delays, and fixed-price contracts."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/CHEEDING-261117-CU-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": null,
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 5.9,
+   "ticker": "GAMUDA",
+   "name": "Gamuda Berhad",
+   "type": "Company Updates",
+   "rating": "OP",
+   "tp": 5.9,
+   "price": 4.57,
+   "divYield": 2.19,
+   "high52": 5.5,
+   "low52": 3.7,
+   "mktSrc": "https://stockanalysis.com/quote/klse/GAMUDA/",
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>Last month's contract is misdescribed.</b> Today's note says the earlier award was 'the NTD29.02b (c.RM2.61b) contract'. This board's 15 October row, from Kenanga's own note, recorded NTD29.22b (c.RM3.72b), with Gamuda's share c.RM2.71b. RM2.61b is the size of today's contract, so this looks like a copying slip (inferred). The 15 October figures are used here. (2) <b>Order-win arithmetic.</b> The 15 October note put FY27 YTD wins at RM15.2b. Adding today's RM2.09b gives about RM17.3b, against the RM16.9b stated today (computed here); the c.RM0.4b gap is not explained. The order book does reconcile: RM63.9b plus RM2.09b is about RM66.0b. (3) <b>'We continue to like' is not a pick declaration.</b> It is the note's investment-case wording, so the Kenanga Signal reads None stated, as on the 15 October row. Today's Market Strategy note says the sell-off in GAMUDA and SUNCON appears excessive; that is not pick language either. (4) <b>Carried over from 15 October.</b> The SoP deducts net debt of RM1,656.2m, while the balance sheet implies about RM7,944m for FY27F (borrowings RM9,148m less cash RM1,204m, computed here). The ratio table's ROE (3.9%) and ROA (8.8%) for FY26 still look swapped against the DuPont ROE of 8.3% (inferred). (5) <b>Share counts.</b> The SoP divides by 6,049.0m shares, while Stock Information now shows 6,067.7m (6,049.8m on 15 October). At 6,067.7m the SoP would give about RM5.60 before the premium, not RM5.62; the RM5.90 target would round to RM5.88 (computed here). The SoP itself adds up: RM33,965.3m / 6,049.0m = RM5.62, plus 5% = RM5.90. (6) <b>Market data.</b> Kenanga's 52-week range is RM3.73-5.45; stockanalysis.com, not Kenanga, gives RM3.70-5.50, a 16 November close of RM4.57 (matching Kenanga) and a 2.19% trailing yield. The implied NTD/MYR rate differs slightly between the two Keelung notes (about 0.124 today, 0.127 on 15 October, computed here). No results and no Kenanga conviction, so no non-Kenanga search was run (rules/daily-run.md step 8) and the Analyst Signal is not shown.",
+   "catalyst": "Gamuda's 80:20 JV with Feng Shun Construction won the <b>Keelung underground MRT design-and-build contract</b> in Taiwan, worth NTD21.02b (c.RM2.61b). <b>Gamuda's share is c.RM2.09b</b>, cost-plus with an expected c.8% PBT margin. The outstanding order book reaches a <b>record RM66.0b</b>, and FY27 YTD wins RM16.9b against Kenanga's RM30b assumption. Remaining Xizhi-Donghu additional works are put at RM6.5b. Forecasts, <b>OUTPERFORM and the RM5.90 SoP target</b> are unchanged, about 29.1% above RM4.57.",
+   "quote": "We remain upbeat on this development as it elevates the group\u2019s outstanding order book to a record RM66.0b.",
+   "summary": [
+    "The award. On 16 November Gamuda announced that its 80:20 JV with Feng Shun Construction Co Ltd won the design-and-build contract for the Keelung underground MRT turnkey construction project from New Taipei City's Department of Rapid Transit Systems. The contract is worth NTD21.02b (c.RM2.61b), and Gamuda's 80% share is NTD16.82b (c.RM2.09b). It runs 7.4 years and covers 2.4km of underground works and two underground stations from Nangang District (Taipei City) to Xizhi District (New Taipei City).",
+    "Why it was expected. Kenanga says this job was largely anticipated as part of the designated additional works to the Xizhi-Donghu MRT project won in October 2024. It follows last month's Keelung trackwork and systems contract across the 15.6km line (see flag on how today's note describes it). It is cost-plus, with an expected PBT margin of about 8%. Kenanga estimates remaining Xizhi-Donghu additional works at RM6.5b, with further prospects in the Xizhi-Donghu line maintenance depot and the Minsheng Line MRT.",
+    "The order book. The win lifts FY27 YTD order wins to RM16.9b against Kenanga's RM30.0b full-year assumption, and the outstanding order book to a record RM66.0b, keeping Gamuda comfortably on track to exceed its RM50.0b target by end-2026. Forecasts are unchanged: job wins of RM30b (FY27) and RM25b (FY28), and property sales of RM3.5b and RM4.5b. Core net profit is forecast at RM1,388m for FY27 (+31.9%) and RM1,780m for FY28 (+28.2%), against consensus of RM1,424m and RM1,830m.",
+    "The pipeline. Kenanga calls Gamuda the frontrunner for upcoming tenders at the Springhill data centre campus, having won all four contracts awarded there since April. At home it points to the Northern Perak water project. Abroad, Gamuda is shortlisted for the NSW high-speed rail project, infrastructure projects in Brisbane and New Zealand's Northland Corridor highway. Today's Kenanga Market Strategy note says new US chip rules have little first-order impact on its construction coverage, whose data-centre clients are mostly US hyperscalers.",
+    "The call. OUTPERFORM and a RM5.90 SoP target, both unchanged, with construction valued at 22x CY27 PER, in line with IJM (OP; RM3.35) and SUNCON (OP; RM9.70). The target includes a 5% premium for a 4-star ESG rating. The peer table shows 29.1% upside from RM4.57 and a 2.2% yield. Kenanga continues to like Gamuda for its data-centre positioning, overseas wins, earnings visibility and renewable-energy push. Risks are local project delays, rising input costs and labour shortages, overseas policy and forex risk, and liquidated damages from overruns."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/GAMUDA-261117-CU-Kenanga.pdf"
+  }
+ ]
+}
