@@ -1,0 +1,403 @@
+{
+ "date": "2026-11-19",
+ "schema": 1,
+ "daily": {
+  "klci": 1566.7,
+  "chg": -8.42,
+  "pct": -0.53,
+  "inst": 169.0,
+  "instPct": 41.4,
+  "retail": 79.5,
+  "retailPct": 23.3,
+  "foreign": -248.4,
+  "foreignPct": 35.3,
+  "ideas": "Results Note: HLIND, INARI, KOSSAN, PARAMON, TGUAN, TSH; Economic Viewpoint: MY 3Q26 BoP",
+  "news": [
+   {
+    "h": "LAC Med wins RM21.0m contract to supply medical equipment to three hospitals",
+    "body": "LAC Med Bhd said it has secured a RM21.2m contract to supply medical imaging equipment at three public hospitals, bringing its outstanding order book to a record RM300.0m. (The Edge Malaysia)",
+    "takeaways": [
+     "The digest's headline says RM21.0m; its body text says RM21.2m. Both are shown as printed.",
+     "Wholly owned LAC Medical Supplies Sdn Bhd won the contract from a local healthcare project partner that was not named.",
+     "It covers supplying, installing and testing angiography systems used in cardiology and interventional radiology.",
+     "The hospitals are Universiti Malaya Medical Centre, Hospital Melaka and Hospital Raja Permaisuri Bainun in Ipoh.",
+     "LAC Med's outstanding order book is now a record RM300.0m. This board holds no Kenanga coverage of LAC Med. Digest context only."
+    ]
+   },
+   {
+    "h": "PMCK partners Chin Hin to build RM376.0m private hospital in Kedah, eyes another in Melaka",
+    "body": "Private healthcare services provider PMCK Bhd is partnering Chin Hin Group Bhd to develop a 300-bed private hospital in Alor Setar, Kedah, at an estimated cost of RM376.0m, with plans for another hospital in Melaka. (The Edge Malaysia)",
+    "takeaways": [
+     "The planned hospital in Alor Setar, Kedah, has 300 beds and an estimated cost of RM376.0m.",
+     "The partners also plan to develop another hospital in Melaka.",
+     "PMCK signed a binding term sheet with Chin Hin's wholly owned Chin Hin Construction Engineering Sdn Bhd (CHCE) to set up a joint-venture company for the development.",
+     "Once the Kedah hospital is complete, the partners plan a sale-and-leaseback with a REIT or other investors, which may also cover PMCK's existing Alor Setar hospital.",
+     "This board holds no Kenanga coverage of PMCK or Chin Hin today. Digest context only."
+    ]
+   },
+   {
+    "h": "Willownex bags RM28.8m in security system contracts",
+    "body": "Willownex Bhd, formerly Willowglen MSC Bhd, said it has secured three security and surveillance system contracts in Singapore worth a total of RM28.8m. (The Edge Malaysia)",
+    "takeaways": [
+     "The three contracts are in Singapore and total RM28.8m.",
+     "All three started on 17 November and went to wholly owned Willowglen Services Pte Ltd.",
+     "Two came from SP PowerAssets Ltd: RM10.5m for installing and maintaining door-contact and CCTV video-analytics cameras, and RM6.8m for maintaining an integrated security and operations surveillance system.",
+     "Willownex was formerly known as Willowglen MSC Bhd and describes itself as an integrated monitoring systems firm.",
+     "This board holds no Kenanga coverage of Willownex. Digest context only."
+    ]
+   },
+   {
+    "h": "JS Solar secures RM30.0m EPCC contract for 9MW rooftop solar project in Kulim",
+    "body": "JS Solar Holding Bhd said it has secured a RM30.0m EPCC contract for a rooftop solar system with a battery energy storage system (BESS) in Kulim, Kedah. (The Edge Malaysia)",
+    "takeaways": [
+     "The engineering, procurement, construction and commissioning contract is worth RM30.0m.",
+     "The client is NUR Power Ventures Sdn Bhd.",
+     "The system is a 9.879 MWdc rooftop solar PV installation with battery storage at a site in Kulim Hi-Tech Industrial Park.",
+     "It follows an MOU signed earlier this year with UEM Group-linked NUR Power Sdn Bhd to explore rooftop solar and BESS projects in Kulim Hi-Tech Park.",
+     "This board holds no Kenanga coverage of JS Solar. Digest context only."
+    ]
+   },
+   {
+    "h": "Seremban Engineering secures RM65.5m drainage, water tank job from major shareholder",
+    "body": "Seremban Engineering Bhd said it has secured a RM65.5m subcontract for drainage and water tank works from its major shareholder, MIE Industrial Sdn Bhd, for a data centre project in Negeri Sembilan. (The Edge Malaysia)",
+    "takeaways": [
+     "The subcontract is worth RM65.5m and covers drainage and water tank works.",
+     "It was awarded by Seremban Engineering's major shareholder, MIE Industrial Sdn Bhd, so it is a related-party job.",
+     "The work is for a data centre project in Negeri Sembilan.",
+     "The company says the value is larger than its market capitalisation, and it is a provisional sum that depends on the quantities of work actually done.",
+     "This board holds no Kenanga coverage of Seremban Engineering. Digest context only."
+    ]
+   }
+  ],
+  "macro": [
+   {
+    "h": "Indonesia and China agree four strategic partnerships worth USD71.8b",
+    "region": "Global",
+    "body": "Indonesia and China agreed on Wednesday four strategic partnerships worth US$71.8b (RM296.3b), including the development of 10 smart cities, according to Indonesia's presidential palace. (The Edge Malaysia)",
+    "takeaways": [
+     "The agreement was made on Wednesday, 18 November.",
+     "There are four strategic partnerships.",
+     "Their stated value is US$71.8b, or RM296.3b.",
+     "They include developing 10 smart cities.",
+     "The source is a statement from Indonesia's presidential palace. Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
+    "region": "Global",
+    "body": "China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, while Russia's Vladimir Putin criticised Western sanctions, as the two set the stage for a trilateral meeting with US President Donald Trump. (The Edge Malaysia)",
+    "takeaways": [
+     "President Xi Jinping pledged on Wednesday, 18 November, to stand up against trade protectionism.",
+     "Russian President Vladimir Putin criticised Western sanctions.",
+     "The remarks came as US President Donald Trump arrived in China.",
+     "The digest describes a high-stakes trilateral meeting of the three leaders to follow.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Surplus halves in 3Q26 as record income drain bites; full-year call now hangs on a big 4Q26 rebound",
+    "region": "Malaysia",
+    "body": "The current account surplus nearly halved to RM5.7b in 3Q26, or 1.0% of GDP (2Q26: RM10.8b or 2.0%). Kenanga keeps its 2026 CA forecast at 2.1% of GDP but sees a narrower surplus in 2027. (Kenanga Economic Viewpoint)",
+    "takeaways": [
+     "Malaysia's current account surplus fell to RM5.7b in 3Q26, 1.0% of GDP, from RM10.8b (2.0%) in 2Q26.",
+     "Kenanga blames record income outflows and a wider services deficit, which outweighed a much larger goods surplus.",
+     "It keeps its 2026 current account forecast at 2.1% of GDP (2025: 1.6%).",
+     "It expects a narrower surplus in 2027.",
+     "This is Kenanga's own research. It is today's Economic Viewpoint row on this board."
+    ]
+   },
+   {
+    "h": "AI capex holds growth at 5.5%, but a narrowing base point to a softer 4Q",
+    "region": "Malaysia",
+    "body": "Real GDP growth eased to 5.5% YoY in 3Q26 (2Q26: 6.0%), above DOSM's advance estimate (5.3%) and Kenanga's forecast (5.1%). Kenanga keeps its 2026 GDP growth forecast at 5.3%. (Kenanga Economic View: Malaysia 3Q26 GDP)",
+    "takeaways": [
+     "Real GDP grew 5.5% YoY in 3Q26, down from 6.0% in 2Q26.",
+     "That beat DOSM's 5.3% advance estimate and Kenanga's 5.1% forecast.",
+     "Manufacturing and services led growth, while mining dragged.",
+     "Kenanga keeps its 2026 GDP growth forecast at 5.3% (2025: 5.2%) and calls the risks two-sided.",
+     "The digest points to an 'Economic View: Malaysia 3Q26 GDP' report, but that report is not in today's published bundle, so this board has no row for it. These figures are from the digest only."
+    ]
+   },
+   {
+    "h": "PM bullish on Malaysia recording highest growth rate among emerging economies",
+    "region": "Malaysia",
+    "body": "Prime Minister Datuk Seri Anwar Ibrahim is hopeful that Malaysia's economy will record one of the highest growth rates among emerging economies, following its 5.5% expansion in 3Q2026. (The Edge Malaysia)",
+    "takeaways": [
+     "Prime Minister Datuk Seri Anwar Ibrahim made the comments.",
+     "He hopes Malaysia will record one of the highest growth rates among emerging economies.",
+     "They follow the 5.5% expansion in 3Q2026.",
+     "The digest gives no forecast figure from the Prime Minister.",
+     "Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Anwar meets Chinese tech firms to discuss potential investments in Malaysia",
+    "region": "Malaysia",
+    "body": "Prime Minister Datuk Seri Anwar Ibrahim met representatives of China-linked technology and electronics manufacturers Fastprint and Fastrain on Wednesday to discuss proposed investments in Malaysia. (The Edge Malaysia)",
+    "takeaways": [
+     "The meeting took place on Wednesday, 18 November.",
+     "Anwar met representatives of Fastprint and Fastrain.",
+     "The digest describes them as China-linked technology and electronics manufacturing companies.",
+     "They discussed developments and proposed investments in Malaysia.",
+     "No investment amounts are given. Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Indonesia defends rupiah with surprise hike, hedging perks",
+    "region": "Asia Pacific",
+    "body": "Indonesia's central bank unexpectedly resumed raising interest rates to support the rupiah, and unveiled more incentives for investors to hold Asia's worst-performing currency this year. (The Edge Malaysia)",
+    "takeaways": [
+     "Bank Indonesia unexpectedly resumed raising interest rates.",
+     "The aim is to support the rupiah.",
+     "It also announced more incentives, including hedging perks, for investors to hold the currency.",
+     "The digest calls the rupiah Asia's worst-performing currency this year.",
+     "No size of the hike is given. Digest context only; sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Fed's Waller says Fed should consider half-point rate hike",
+    "region": "Americas",
+    "body": "Federal Reserve governor Christopher Waller said on Wednesday that inflation remains headed in the wrong direction, urging the Fed to consider a half-percentage-point rate hike at its December meeting. (The Edge Malaysia)",
+    "takeaways": [
+     "Fed governor Christopher Waller spoke on Wednesday, 18 November.",
+     "He said inflation is still heading in the wrong direction.",
+     "He urged the Fed to consider a 50bps hike at its December meeting.",
+     "Kenanga's BoP note today says a still-hawkish Fed tilts near-term risks towards a weaker ringgit.",
+     "Digest context sourced to The Edge Malaysia."
+    ]
+   },
+   {
+    "h": "Germany to cut electricity tax rate to European minimum level in 2027, govt says",
+    "region": "Europe",
+    "body": "Germany's governing coalition agreed to lower the electricity tax rate for 2027 to the European minimum level, to help people and small businesses cope with high energy prices. (The Edge Malaysia)",
+    "takeaways": [
+     "Germany's governing coalition agreed the cut.",
+     "The electricity tax rate will fall to the European minimum level.",
+     "It applies to 2027.",
+     "The stated aim is to help households and small businesses with high energy prices.",
+     "No rate is given. Digest context only; sourced to The Edge Malaysia."
+    ]
+   }
+  ],
+  "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/Kenanga-Today-261119-Kenanga.pdf"
+ },
+ "reports": [
+  {
+   "verified": true,
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 21.0,
+   "ticker": "HLIND",
+   "name": "Hong Leong Industries Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 21.0,
+   "price": 16.3,
+   "divYield": 6.14,
+   "high52": 19.48,
+   "low52": 14.0,
+   "mktSrc": "https://stockanalysis.com/quote/klse/HLIND/",
+   "flag": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>'We continue to favour HLIND' is not a pick declaration.</b> The investment case opens 'We continue to favour HLIND for: (i)...'. rules/signals.md &sect;2 names this wording as borderline, not a pick, so the Kenanga Signal reads None stated. The other two search hits are 'favourable shift' and 'favourable product mix', which are not picks. (2) <b>The target does not reconcile exactly.</b> 12x FY27F EPS of 176.2 sen is about RM21.14 (computed here), against the stated RM21.00. The note does not explain the gap. (3) <b>Market capitalisation is printed two ways.</b> The cover gives RM5,207.4m, which matches 319.5m shares at RM16.30 (computed here). The peer table gives RM5,344.8m. (4) <b>Board continuity and market data.</b> This is the board's first verified HLIND row. Its 8 September Company Update was a pending row because no HLIND report was published that day. The OUTPERFORM rating and RM21.00 target match the HLIND entries in the peer tables on this board's 11 September BAUTO row and 20 October Automotive row. stockanalysis.com, not Kenanga, gives an 18 November close of RM16.30 (matching the cover), a 52-week range of RM14.00-19.48 (matching Kenanga) and a 6.14% trailing yield on RM1.00 of dividends. No non-Kenanga search was run, because the row declares no Kenanga conviction and the result is in line (rules/daily-run.md step 8).",
+   "catalyst": "Hong Leong Industries' <b>1QFY27 core net profit of RM163.7m (+6% YoY, +14% QoQ)</b> was <b>within expectations</b> at 28% of Kenanga's and 27% of consensus full-year forecasts. Growth came from a shift towards higher-margin premium Yamaha models, a bigger contribution from Yamaha Motor Vietnam and lower costs helped by a stronger ringgit. Kenanga keeps <b>OUTPERFORM and its RM21.00 target</b>, 28.8% above RM16.30, and cites a 6% dividend yield.",
+   "quote": "Looking ahead, continued new model launches and a richer product mix should underpin earnings stability.",
+   "summary": [
+    "The call. Kenanga keeps its forecasts, its RM21.00 target and OUTPERFORM. The target is 12x FY27F EPS, a one-turn premium to the passenger vehicle sector's 11x forward PER, which Kenanga justifies by HLIND's dominant position in Malaysia's motorcycle market and the growing gig economy. There is no ESG adjustment on a 3-star rating.",
+    "The result. 1QFY27 revenue rose 1% YoY and 9% QoQ to RM997.1m. Core net profit rose 6% YoY and 14% QoQ to RM163.7m, 28% of Kenanga's and 27% of consensus full-year forecasts. Motorcycle production rose 4% to 104k units. The interim dividend is 35 sen, against 30 sen a year earlier, which Kenanga says is in line.",
+    "What drove it. Kenanga cites a shift from slowing mass-market bikes (125cc and below) to higher-margin premium models such as the 135LC, Y16ZR and Y15ZR, better margins on new models, and lower operating costs helped by the ringgit's rise against the USD. Associate Yamaha Motor Vietnam contributed RM12m (+19% YoY, +68% QoQ). Plant utilisation at Yamaha Motor and Guocera stayed at 80-85%.",
+    "Launches. HLIND has launched six new or facelifted models so far in FY27, priced from RM8,998 (Y15ZR) to RM28,499 (XMAX 300 Tech MAX). It plans 3-5 more new models and 10-13 variants with minor upgrades or colour refreshes over the rest of FY27. Kenanga also notes stronger demand for automatic models such as the NVX, TMAX and XMAX.",
+    "Tiles and balance sheet. Guocera's new Kluang, Johor plant started production in July 2026. It adds 6-7m sq m of annual capacity, taking the total to about 13.5m sq m, and can make larger-format tiles of up to 120cm x 240cm. Kenanga still treats Guocera as non-core. It notes net cash of RM2.1b, which leaves room for acquisitions. Risks it names are weaker spending on big-ticket items, supply-chain disruption, rising input costs and a global slowdown hitting exports."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/HLIND-261119-1Q27-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": "miss",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 2.77,
+   "ticker": "INARI",
+   "name": "Inari Amertron Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 2.77,
+   "price": 2.06,
+   "divYield": 2.28,
+   "high52": 2.88,
+   "low52": 1.21,
+   "mktSrc": "https://stockanalysis.com/quote/klse/INARI/",
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The growth rates in the text do not match the results table's YoY column.</b> The text says core earnings rose 26% YoY to RM62m and revenue 28% YoY. The table gives core net profit of RM62.2m against RM54.2m (+14.7% YoY) and RM49.3m (+26.3% QoQ), and revenue of RM368.5m against RM325.8m (+13.1% YoY) and RM288.9m (+27.5% QoQ). So the text's '26%' and '28%' match the QoQ changes, which is an inference. The text's gross profit change (+10%, margin down 0.5ppt to 19.8% from 20.3%) does match the table's YoY column. The table also labels the year-earlier column '4Q25'. This row uses the table's figures where they differ. (2) <b>'We like INARI' is not a pick declaration.</b> The investment case opens 'We like INARI for: (i)...'. This board treats that as investment-case wording, so the Kenanga Signal reads None stated. No other conviction-search term appears. (3) <b>Forecasts may change.</b> Kenanga keeps its forecasts 'pending further insight from today's briefing', so its RM2.77 target could be revised in a later note. The Summary Earnings Table labels FY27 '2027A' although it is a forecast. (4) <b>The target reconciles.</b> 32.6x FY27F EPS of 8.1 sen is about RM2.64. Adding the 5% ESG premium gives about RM2.77 (computed here). 1QFY27 core net profit of RM62.2m is about 20% of the RM307m FY27F and 23% of the RM276m consensus (computed here), matching the text. The target and rating match this board's 1 September row. (5) <b>Market data and analyst search.</b> The cover gives a 52-week range of RM1.21-2.86. stockanalysis.com, not Kenanga, gives RM1.21-2.88, an 18 November close of RM2.06 (matching the cover) and a 2.28% trailing yield on RM0.05 of dividends. A search for non-Kenanga house calls on this result found none in a permitted source. The results were released the day before this note, so post-results house notes may not yet be reported. No Analyst Signal is shown.",
+   "catalyst": "Inari's <b>1QFY27 core net profit of RM62.2m missed Kenanga's expectations</b> at 20% of its full-year forecast, but was largely in line with consensus at 23%. Kenanga blames a <b>weaker-than-expected gross margin</b> (19.8%, from 20.3% a year earlier). Optophotonics revenue rose 30% to RM140m. Pending today's briefing, Kenanga keeps its forecasts, its <b>RM2.77 target and OUTPERFORM</b>, 34.5% above RM2.06.",
+   "quote": "Looking ahead, its expanding photonics and advanced packaging pipeline should support earnings growth, although margin recovery remains key.",
+   "summary": [
+    "The call. Kenanga keeps its FY27/28F forecasts, its RM2.77 target and OUTPERFORM, pending more detail from the results briefing. The target is 32.6x FY27F PER, 1SD above Inari's two-year mean to reflect the current OSAT upcycle, plus a 5% premium for a 4-star ESG rating.",
+    "The result. Core net profit was RM62.2m after excluding RM0.4m of unrealised forex losses and a RM0.8m allowance for slow-moving inventory. That is 20% of Kenanga's and 23% of consensus full-year forecasts. Revenue was RM368.5m. The results table shows core net profit up 14.7% YoY and 26.3% QoQ (see flag on the text's growth rates). A first interim dividend of 1.5 sen was declared.",
+    "Segments and margin. Kenanga says all segments ran at higher production loading. RF revenue grew 6% as Inari's US smartphone customer kept moving from low- and mid-band discrete RF modules to higher-value premium modules. Optophotonics revenue rose 30% to RM140m on customer ramp-ups and better utilisation. Gross profit rose 10% to RM72.9m, but the gross margin narrowed to 19.8% from 20.3%, which is why the quarter missed Kenanga's forecast.",
+    "QoQ. Net profit rose to RM61.0m from RM6.1m in 4QFY26, helped by stronger volumes and the absence of the RM41.9m provision for a fire at the Philippine subsidiary that hit 4QFY26.",
+    "Outlook, case and risks. Inari remains optimistic about FY27 on a growing photonics and advanced packaging pipeline alongside RF. Kenanga likes Inari as the closest proxy to 5G adoption, for new technologies such as double-sided moulding and system-on-module, and for its China expansion. Risks it names are a soft global smartphone market, new products that customers do not take up, supply-chain disruption and escalating trade tensions."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/INARI-261119-1Q27-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": "beat",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 1.5,
+   "ticker": "KOSSAN",
+   "name": "Kossan Rubber Industries Bhd",
+   "type": "Results Note",
+   "rating": "MP",
+   "tp": 1.3,
+   "price": 1.21,
+   "divYield": 3.31,
+   "high52": 1.34,
+   "low52": 0.935,
+   "mktSrc": "https://stockanalysis.com/quote/klse/KOSSAN/",
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>'While we like KOSSAN' is not a pick declaration.</b> The sentence reads 'While we like KOSSAN for it is focusing on specialty gloves which fetch better margins, any retracement or normalisation in ASP is likely to capped earnings growth in FY27', and the note downgrades the stock. The Kenanga Signal reads None stated. No other conviction-search term appears. (2) <b>The consensus share does not reconcile.</b> The text says 9MFY26 net profit of RM191.4m is 107% of both Kenanga's and consensus full-year forecasts. The Summary Earnings Table gives FY26 consensus of RM172m, so the share is about 111% (computed here). 107% of Kenanga's forecast implies a pre-revision FY26F of about RM179m (computed here). Against the new RM236.9m forecast, 9M is about 81%. (3) <b>FY26F core EPS looks misprinted.</b> The Summary Earnings Table gives 7.0 sen with 54.4% growth from 6.0 sen. RM236.9m over 2,520.2m shares is about 9.4 sen (computed here), the peer table gives 9.3 sen, and 6.0 sen to 9.4 sen is about +57%. FY27F EPS of 7.3 sen is consistent with RM186.5m. The text also calls a 30% forecast rise 'slightly'. (4) <b>The rating sits at the edge of its band.</b> 7.4% upside to RM1.30 plus a 3.3% net yield is about 10.7% (computed here), just above the 10% ceiling for MARKET PERFORM. The target itself reconciles: 18x FY27F EPS of 7.3 sen is about RM1.31 (computed here). (5) <b>Dated wording.</b> The outlook says glove players guided that nitrile ASP 'will taper off from USD26 to USD22 per 1,000 pieces' moving into '4QFY27', and links this to a Brent rally with 'Reflecting this'. The quarter label may be a typo; it is reported as printed. (6) <b>Board continuity and market data.</b> This is the board's first KOSSAN stock row. The previous OUTPERFORM and RM1.50 match the KOSSAN figures quoted on this board's 28 September and 8 October Market Strategy rows and the 7 October TOPGLOV peer table. stockanalysis.com, not Kenanga, gives an 18 November close of RM1.21 (matching the cover), a 52-week range of RM0.935-1.34 (cover: RM0.94-1.34) and a 3.31% trailing yield on RM0.04 of dividends.",
+   "catalyst": "Kossan's <b>9MFY26 net profit of RM191.4m (+83% YoY) beat expectations</b> on better margins, and Kenanga raises FY26F by about 30%. But it expects glove prices to <b>normalise after peaking in 3QFY26</b>, and sees higher gas tariffs, possible minimum-wage rises and industry oversupply making the 21% EBITDA margin unsustainable. It keeps FY27F, cuts its multiple to 18x and <b>downgrades to MARKET PERFORM</b> with a <b>lower RM1.30 target (from RM1.50)</b>, 7.4% above RM1.21.",
+   "quote": "Moving into FY27, average selling prices (ASPs) are expected to trend lower after peaking in 3QFY26, as glove prices normalize in line with softer raw material costs.",
+   "summary": [
+    "The call. Kenanga downgrades to MARKET PERFORM from OUTPERFORM and cuts its target to RM1.30 from RM1.50. The new target is 18x FY27F EPS, 1SD below the 21x five-year average forward PER it used before. It raises FY26F net profit by about 30% to RM236.9m on better margins but keeps FY27F at RM186.5m, a 21% fall, because it expects lower selling prices and persistent oversupply to cap growth. There is no ESG adjustment on a 3-star rating.",
+    "The result. 9MFY26 revenue rose 31% to RM1,710.3m and net profit 83% to RM191.4m. In 3QFY26, revenue rose 18% QoQ to RM671.1m, on selling prices Kenanga estimates rose 15-18% and volumes about 2%. The EBITDA margin widened to about 21% from 17%, and net profit rose 36% to RM87.4m. A first interim dividend of 2.5 sen was declared, above Kenanga's expectation.",
+    "Prices and costs. Kenanga's channel checks point to selling prices trending lower after peaking in September, as raw material costs soften. It says Brent rose from an August average of USD90/bbl to USD108-116/bbl in September-October before easing to USD90-100/bbl, and nitrile raw material costs rose from USD950/MT in August to USD1,100/MT in September, now USD1,050-1,100/MT. The group says industry recovery remains gradual amid global oversupply and price competition.",
+    "Specialty and cleanroom gloves. Kenanga estimates specialty gloves sell for 60-80% more than generic medical gloves and cleanroom gloves for about three times as much. Kossan is expanding cleanroom capacity from 300-400m pieces a year to 800m by FY27, serving the semiconductor and pharmaceutical industries equally. In FY25 cleanroom gloves made RM100m of revenue and RM12m of pre-tax profit; Kenanga's extrapolation is that both could double. Specialty gloves are 30% of volume today, and Kenanga has only partly factored this in.",
+    "Peers and risks. Kenanga's glove peer table rates HARTALEGA UNDERPERFORM (RM0.950), SUPERMAX UNDERPERFORM (RM0.240) and TOP GLOVE MARKET PERFORM (RM0.820), so with this downgrade it has no OUTPERFORM-rated glove maker in the table. Risks it names are predatory pricing by Chinese glove makers and weaker-than-expected demand growth if hygiene standards and health awareness improve more slowly."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "Hong Leong Investment Bank; CIMB Securities",
+    "date": "21 Aug 2026",
+    "opp": false,
+    "note": "<b>No named non-Kenanga house was found declaring a pick on KOSSAN in a dated, publicly retrievable source read during this run</b>, so the Analyst Signal reads <b>None stated</b>. <b>The most recent dated calls found are about three months old</b> and come before both this result and Kenanga's downgrade. The New Straits Times reported on <b>21 August 2026</b> that <b>Hong Leong Investment Bank</b> cut its target to RM1.13 from RM1.24 with a <b>'Hold'</b> call, and that <b>CIMB Securities</b> cut its target to RM1.19 from RM1.26, also keeping <b>'Hold'</b>. Neither used pick language. No post-results (18-19 November) house note was found in a permitted source. Results were released the day before this note, so such notes may not yet be reported. The other seven houses this board searches (Maybank, RHB, AmInvestment, Public Investment, TA, MIDF, Affin Hwang) gave no retrievable KOSSAN call in this run, so <b>two of nine houses yielded a dated call</b>. <b>On divergence:</b> both 'Hold' calls point the same way as Kenanga's new MARKET PERFORM, so the marker is not set. <b>None stated means no conviction was found in accessible sources, not that no house holds a view.</b>",
+    "cites": [
+     [
+      "New Straits Times, 21 Aug 2026 &mdash; &lsquo;Kossan earnings forecast trimmed amid higher costs, falling prices&rsquo; (HLIB: Hold, RM1.13 from RM1.24; CIMB Securities: Hold, RM1.19 from RM1.26)",
+      "https://www.nst.com.my/amp/business/corporate/2026/08/1515865/kossan-earnings-forecast-trimmed-amid-higher-costs-falling"
+     ]
+    ]
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/KOSSAN-261119-3Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": "miss",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 1.47,
+   "ticker": "PARAMON",
+   "name": "Paramount Corporation Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 1.47,
+   "price": 0.97,
+   "divYield": 7.73,
+   "high52": 1.11,
+   "low52": 0.96,
+   "mktSrc": "https://stockanalysis.com/quote/klse/PARAMON/",
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>No pick language.</b> The only conviction-search hit is 'less favourable product mix', which is not a pick, so the Kenanga Signal reads None stated. This board's 8 October Market Strategy row recorded AMBEST replacing PARAMON among Kenanga's small-cap picks; today's note does not restore it. (2) <b>'65% of our full-year forecast' uses the pre-cut forecast.</b> 9MFY26 core net profit of RM66.0m is about 72% of the new RM92.2m FY26F. Reversing the 9% cut gives about RM101m, of which RM66.0m is about 65% (computed here). The 70% of the RM94.3m consensus reconciles. (3) <b>Profit is printed three ways.</b> The text gives 9MFY26 net profit of RM66.3m. The results table gives core net profit of RM66.0m (+8% YoY) and reported net profit of RM70.2m (+11%). The text's '8%' growth matches core net profit. The text also prints 'RM626mm'. (4) <b>Project names look carried over.</b> The outlook says The Ashwood and The Atrium were both fully sold, then calls Ashwood 'the new project... (also RM1.1b GDV)' while describing The Ashbourne as about RM1.3b. The Envictus outlet count (107) is dated April 2026. (5) <b>Market data and continuity.</b> Market capitalisation is RM601.0m on the cover and RM604.1m in the peer table. The OUTPERFORM and RM1.47 target match this board's 27 August row. stockanalysis.com, not Kenanga, gives an 18 November close of RM0.97 (matching the cover), a 52-week range of RM0.96-1.11 (matching Kenanga) and a 7.73% trailing yield on RM0.08 of dividends (as displayed). No non-Kenanga search was run: the row declares no Kenanga conviction, and this is a small-cap miss with no rating change.",
+   "catalyst": "Paramount's <b>9MFY26 net profit fell short of Kenanga's expectations by 10%</b>, on <b>launches down 64%</b> and lower sales of RM626m (9MFY25: RM774m). Profit still grew on higher billings, its Glenmarie hotel and its new associate Envictus. Kenanga sees the <b>RM1.2b FY26 sales target as challenging</b>, assumes RM1.0b, and cuts FY26/FY27 earnings by 9%/6%. It keeps <b>OUTPERFORM and RM1.47</b>, 51.5% above RM0.97, on earnings growth and a yield of about 7%.",
+   "quote": "Looking ahead, despite higher launches in 2H26, we see the group’s sales target for FY26 at RM1.2b as challenging given the shortfall amidst softening market sentiment.",
+   "summary": [
+    "The call. Kenanga keeps OUTPERFORM and its RM1.47 target, set at an unchanged 50% discount to RNAV, in line with its sector average. It cuts FY26/FY27 earnings forecasts by 9%/6% after lowering its sales assumption to RM1.0b from RM1.2b. It says the stock offers one of the highest prospective yields, 7-8%, against a sector average of about 4%, although its payout of about 40% is slightly below the coverage average of about 45%.",
+    "The result. 9MFY26 core net profit was RM66.0m, 65% of Kenanga's forecast before the cut and 70% of consensus (see flag). Revenue rose 6% to RM727.4m and core net profit 8%. Kenanga credits higher development billings, the Mercure Kuala Lumpur Glenmarie hotel, and Envictus, an associate bought in August 2025. In 3QFY26, revenue rose 8% QoQ but core net profit fell 22% to RM22.6m, which Kenanga puts down to weaker margins from a less favourable product mix.",
+    "Sales and launches. Launches fell 64% and sales were RM626m against RM774m a year earlier. As of 9MFY26 it had launched RM250m of GDV, and it targets RM1.6b of launches in 2HFY26, above its usual RM1.0-1.5b. Management still targets RM1.2b of FY26 sales, but Kenanga sees this as challenging given moderating demand. It also says Paramount's yearly launch pipeline is more modest than competitors' RM3-4b.",
+    "The Ashbourne. On 4 November 2026 Paramount formed a joint venture with Mitsui Fudosan (Asia) Malaysia to develop The Ashbourne, a premium residential project in Kuala Lumpur's U-Thant enclave. It is due to launch in 4QCY26, with a GDV of about RM1.3b over four years. It is the group's third project in the Jalan Ampang-city centre corridor.",
+    "Other and risks. Envictus is expanding its Texas Chicken network in Malaysia, to 107 outlets as of April 2026 from 104 in January. Kenanga cites ongoing asset monetisation and improving associate contributions as dividend support. Risks it names are weaker property sales, sharp changes in mortgage rates and elevated inflation."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/PARAMON-261119-3Q26-RN-RISE-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": "beat",
+   "conviction": "\"TGUAN is our sector picks for the quarter.\"",
+   "prevRating": "OP",
+   "prevTp": null,
+   "ticker": "TGUAN",
+   "name": "Thong Guan Industries Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 1.7,
+   "price": 1.48,
+   "divYield": 4.39,
+   "high52": 1.7,
+   "low52": 1.12,
+   "mktSrc": "https://stockanalysis.com/quote/klse/TGUAN/",
+   "flag": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The Kenanga Signal rests on Kenanga's own words.</b> Page 1 ends 'TGUAN is our sector picks for the quarter.' (grammar as printed). That is a pick declaration, so the row reads Positive. The investment case's 'We continue to like TGUAN' would not count on its own. This matches this board's 26 October Plastic Packaging row, which named TGUAN Kenanga's Top Pick for the quarter. (2) <b>Previous target left blank on purpose.</b> The cover shows the RM1.70 target as unchanged, and that is correct against the 26 October Plastic Packaging row on this board, where Kenanga cut it from RM1.73 to RM1.70. The board's last TGUAN <i>stock</i> row (27 August) still shows RM1.73. The automated cross-date check compares stock rows only, so recording the note's previous target of RM1.70 would wrongly flag a contradiction, and recording RM1.73 would wrongly show a cut today. The previous-target field is therefore empty. The sequence is RM1.73 (27 Aug), RM1.70 (26 Oct sector note), RM1.70 maintained today, with no open contradiction. (3) <b>The target cannot be rebuilt from the peer table.</b> 8x FY27F EPS of 22.6 sen is about RM1.81 (computed here), against RM1.70. The target also includes the property segment at a 45% RNAV discount, which the note does not break out. The 26 October row flagged the same gap. (4) <b>The PER comparison mixes years.</b> The '6.6x 1-Yr forward PER' is FY27F EPS at RM1.48. The peer table labels FY26 as 1-year forward, at 4.1x. (5) <b>The forecast implies a sharp 4Q drop.</b> 9MFY26 core net profit of RM128.7m against the raised FY26F of RM149.0m leaves about RM20.3m for 4Q, against RM51.9m in 3Q (computed here). That fits Kenanga's expectation of weaker 4Q demand but is not spelled out. The '111% of our full-year forecast' uses the pre-revision forecast of about RM116m (computed here). The segmental table's 9M group turnover (RM1,058.8m) and PBT (RM169.1m) differ slightly from the results table (RM1,060.5m, RM169.3m). (6) <b>Market data.</b> stockanalysis.com, not Kenanga, gives an 18 November close of RM1.48 (matching the cover), a 52-week range of RM1.12-1.70 (matching Kenanga) and a 4.39% trailing yield on RM0.07 of dividends. Kenanga's FY26F net yield is 6.1% on its raised 9 sen DPS.",
+   "catalyst": "Thong Guan's <b>9MFY26 core net profit of RM128.7m (+143% YoY) beat expectations</b> at 111% of Kenanga's full-year forecast, on higher packaging volumes and prices after Middle East supply disruption, while it was still using cheaper resin bought before prices rose. Kenanga <b>raises FY26F by 28%</b> and its FY26 dividend forecast to 9 sen, expects 4Q demand to soften, and keeps <b>OUTPERFORM and RM1.70</b>, 14.9% above RM1.48. <b>It names TGUAN its sector pick for the quarter.</b>",
+   "quote": "We reiterate our OUTPERFORM call on the anticipated higher dividend while the stock is trading at 6.6x 1-Yr forward PER against its peers’ average at 8.2x.",
+   "summary": [
+    "The call. Kenanga keeps OUTPERFORM and its RM1.70 target, which is 8x FY27F PER on packaging and F&B earnings plus a 45% RNAV discount on property. It names TGUAN its sector pick for the quarter. It raises FY26F core earnings by 28% to RM149.0m and its FY26 dividend forecast to 9 sen from 7 sen, but leaves FY27F at RM93.0m, a 38% fall. It expects FY26 net profit to roughly double before normalising in FY27. There is no ESG adjustment on a 3-star rating.",
+    "The result. 9MFY26 revenue rose 16% to RM1,060.5m and core net profit 143% to RM128.7m, excluding RM3.3m of unrealised forex gains. Packaging volumes rose 20% and selling prices about 40% as the Middle East conflict disrupted supply chains. Margins widened because 2Q and 3Q production still used cheaper resin bought before raw material prices rose from March 2026. A 2.0 sen dividend takes the year so far to 7.0 sen.",
+    "3QFY26 against 2QFY26. Revenue fell 7% and core net profit 10% to RM51.9m, as selling prices fell with the partial normalisation of oil and resin prices since June 2026. Packaging utilisation fell to 80% from 90% as demand eased from the 2Q peak. The ringgit averaged RM4.07 to the dollar, against RM4.00 in 2Q. Net cash is RM316m.",
+    "Other segments. F&B pre-tax profit fell 7% in 9MFY26 on lower sales of high-margin tea and higher tea-dust and coffee-bean costs. Property contributed RM2.6m of pre-tax profit, and Kenanga expects it to add RM2-4m of net profit a year over FY26-28. Kenanga had already trimmed FY27F by 2% in an earlier sector report for the minimum-wage rise in Budget 2027, as packaging is labour-intensive.",
+    "Outlook and risks. Kenanga expects Brent to average USD91 in CY26 and USD85 in CY27, and not to fall below pre-war levels even if the Middle East conflict eases. It sees the ringgit strengthening to about RM4.00 in 4QCY26. Its case rests on overseas expansion with eco-friendly products, steady F&B and the ability to pass on costs. Risks it names are a volatile USD/MYR rate, weak packaging demand in a global recession and supply-chain disruption."
+   ],
+   "analyst": {
+    "v": null,
+    "house": "None &mdash; Kenanga states sole coverage",
+    "date": "26 Oct 2026",
+    "note": "<b>No Analyst Signal can be shown, and that is the finding.</b> Kenanga's Plastic Packaging sector note of 26 October 2026, on this board, says it has <b>sole coverage</b> of TGUAN, as its 15 July note did (this board's 27 August row). stockanalysis.com shows no analyst coverage. A web search for non-Kenanga TGUAN calls returned only Kenanga's own reports and prohibited aggregators (rules/signals.md &sect;1), which were not used. Any 'street average' for this stock would have no named analysts behind it. <b>None stated here means no named house coverage was found, not that Kenanga's view is confirmed by others.</b>",
+    "cites": []
+   },
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/TGUAN-261119-3Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "result": "inline",
+   "conviction": null,
+   "prevRating": "OP",
+   "prevTp": 1.85,
+   "ticker": "TSH",
+   "name": "TSH Resources Berhad",
+   "type": "Results Note",
+   "rating": "OP",
+   "tp": 1.85,
+   "price": 1.12,
+   "divYield": 4.46,
+   "high52": 1.56,
+   "low52": 1.07,
+   "mktSrc": "https://stockanalysis.com/quote/klse/TSH/",
+   "flag": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>'We like TSH' is not a pick declaration.</b> The valuation paragraph reads 'We like TSH for its long-term expansion, undemanding ratings and the cancellation of 100m treasury shares'. This board treats this as investment-case wording, so the Kenanga Signal reads None stated. The other hit, 'unfavourable commodity prices', is not a pick. (2) <b>The '61% of consensus' is on reported, not core, profit.</b> 9MFY26 core net profit of RM130.5m is about 73% of Kenanga's RM179.2m (matching the text) but about 88% of the RM149.1m consensus (computed here). Reported net profit of RM91.6m is about 61% of consensus (computed here). Kenanga's wording ('on the assumption that consensus net profit is not adjusted for the fine') points the same way. (3) <b>The target does not rebuild from the table.</b> 1.1x PBV on the table's FY26F BVPS of RM1.64 is about RM1.80, and on FY27F RM1.62 about RM1.78 (computed here), against the stated RM1.85. This board's 13 October and 11 November Plantation rows already flagged RM1.80 in Kenanga's text against RM1.85 in its peer table. Today's note and peer table use RM1.85. (4) <b>Smaller printing points.</b> The fine is 'RM42m' on page 1 and RM42.5m in the text. The note says TSH moved to RM0.8m net debt in 3QFY26, while the Summary Earnings Table shows net cash for FY25-27. The 9M core EPS growth column shows '254.3', which is not a percentage that fits 10.5 sen against 11.5 sen. (5) <b>Board continuity and market data.</b> This is the board's first TSH stock row. OUTPERFORM and RM1.85 match the TSH peer-table entries on this board's plantation sector rows. stockanalysis.com, not Kenanga, gives an 18 November close of RM1.12 (matching the cover), a 52-week range of RM1.07-1.56 (matching Kenanga) and a 4.46% trailing yield on RM0.05 of dividends. No non-Kenanga search was run (no Kenanga conviction; in-line result).",
+   "catalyst": "TSH's <b>3QFY26 core net profit rose to RM59.9m (+17% QoQ, +14% YoY)</b> on strong fruit output, but reported net profit fell to RM17.8m after a <b>RM42.5m Indonesian forestry enforcement fine</b> in September. 9MFY26 core net profit of RM130.5m (-15% YoY) was <b>within expectations</b> at 73% of Kenanga's forecast. Kenanga keeps <b>OUTPERFORM and its RM1.85 target</b>, 65.2% above RM1.12, and expects earnings to grow in FY27.",
+   "quote": "Excluding this and other non-recurring expenses, 3QFY26 core net profit (CNP) grew 17% QoQ and 14% YoY but could not lift 9MFY26 CNP to last year’s level due to a poor harvest in 1QFY26.",
+   "summary": [
+    "The call. Kenanga keeps its FY26-27 core EPS forecasts, its 5 sen dividend forecast for both years, OUTPERFORM and its RM1.85 target. The target is 1.1x PBV, within the 10-year band for non-integrated planters. There is no ESG adjustment on a 3-star rating. Kenanga cites TSH's long-term expansion, undemanding valuation and the March 2026 cancellation of 100m treasury shares (8% of issued shares).",
+    "The fine and reported profit. In September the Indonesian Forest Area Enforcement/Control Task Force fined TSH RM42.5m. Kenanga compares it with the RM256m fine Genting Plantation paid in January. Reported 3QFY26 net profit fell 66% QoQ and 68% YoY to RM17.8m, and 9MFY26 reported net profit fell 40% to RM91.6m. Core figures exclude the fine, RM1.4m of fair-value gains, a RM2m forex gain and a RM0.2m disposal gain.",
+    "The quarter. 3QFY26 core net profit was RM59.9m (+17% QoQ, +14% YoY) on fruit output of 0.217m MT (+6% QoQ, +7% YoY). The average CPO price was RM3,689/MT (+3% QoQ, -2% YoY) and palm kernel RM3,128 (-6% QoQ). TSH moved to RM0.8m net debt from RM4.5m net cash a quarter earlier, and declared no dividend, as Kenanga expected.",
+    "Nine months. 9MFY26 core net profit of RM130.5m was 15% lower YoY and 73% of Kenanga's full-year forecast. Heavy rain cut 1QFY26 harvest 14% YoY. Good 3Q output brought 9M fruit output to 0.592m MT, only 2% below a year earlier, but CPO prices were 7% lower and palm kernel 2% lower.",
+    "Outlook and risks. Kenanga expects CPO at RM4,500/MT in CY26 and RM4,700 in CY27. It cites drought in Kalimantan and Sumatra likely to hurt CY27 yields, food demand growing 3-4% and rising biodiesel demand, and says good prices should contain rising wage, diesel and fertiliser costs. TSH plans to expand planted area from 39k ha to 45k ha by end-FY27 and 60k ha by FY35, with RM600-700m of capex funded internally. Risks it names are weather, commodity price swings and cost inflation."
+   ],
+   "analyst": null,
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/TSH-261119-3Q26-RN-Kenanga.pdf"
+  },
+  {
+   "verified": true,
+   "flag": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>The digest also points to a 3Q26 GDP report that is not in the bundle.</b> Today's digest macro section refers readers to 'Economic View: Malaysia 3Q26 GDP', but neither the bundle page nor its attachments include it, and the bundle heading lists only 'Economic Viewpoint (MY 3Q26 BoP)'. Following the bundle contents (rules/signals.md &sect;1), this board has no GDP row today; the digest's GDP figures appear only in the macro context. (2) <b>The 4Q26 requirement is Kenanga's arithmetic.</b> The note says hitting 2.1% of GDP for 2026 needs a 4Q26 surplus of about RM15.0b. Table 1's 1Q-3Q26 surpluses sum to RM31.7b (computed here). The GDP denominator is not given, so this row does not check the RM15.0b. (3) <b>Financial account sign convention.</b> The text calls the RM19.8b figure a 'net inflow' and 2Q26's -RM27.0b an outflow. Table 1 prints both with those signs. Errors and omissions were -RM20.3b in 3Q26 against +RM33.2b in 2Q26, which is large relative to the current account. (4) <b>Charts.</b> Graphs 1-3 were read for titles only, and no figure here comes from them. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought.",
+   "result": null,
+   "conviction": null,
+   "prevRating": null,
+   "prevTp": null,
+   "ticker": "MY BoP (3Q26)",
+   "name": "Malaysia 3Q26 Balance of Payments: Surplus halves in 3Q26 as record income drain bites; full-year call now hangs on a big 4Q26 rebound",
+   "type": "Economic Viewpoint",
+   "rating": null,
+   "tp": null,
+   "price": null,
+   "macro": true,
+   "catalyst": "Malaysia's <b>current account surplus nearly halved to RM5.7b in 3Q26</b>, 1.0% of GDP (2Q26: RM10.8b, 2.0%), as a <b>record RM41.8b primary income deficit</b> and a wider services deficit swamped the biggest goods surplus since 4Q22. The financial account swung to a <b>RM19.8b net inflow</b>. Kenanga <b>keeps its 2026 forecast at 2.1% of GDP</b> but says it needs about RM15.0b in 4Q26, and sees a narrower surplus in 2027.",
+   "quote": "We keep our 2026 CA forecast at 2.1% of GDP (2025: 1.6%), but see a narrower surplus in 2027",
+   "src": "https://www.kenanga.com.my/wp-content/uploads/2026/11/EV_Balance_of_Payments_3Q26_261119-Kenanga.pdf",
+   "summary": [
+    "The headline. The current account surplus fell to RM5.7b in 3Q26, 1.0% of GDP, from RM10.8b (2.0%) in 2Q26. Record income outflows and a wider services deficit outweighed a much larger goods surplus.",
+    "Income and services. The primary income deficit widened to RM41.8b (2Q26: RM27.2b), the largest on record, as payments to foreign investors, mainly on direct investment, rose to RM68.7b against receipts of RM26.9b. The services deficit widened to RM6.9b (2Q26: RM0.7b), led by other business services (-RM17.0b), partly offset by a RM15.2b travel surplus. Kenanga notes BNM flags measurement issues from new data-centre business models and goods-processing arrangements.",
+    "Goods and transfers. The goods surplus widened to RM56.2b (2Q26: RM40.7b), the highest since 4Q22, as exports rose 14.0% QoQ to RM409.7b on E&E, petroleum products and machinery, against an 11.0% rise in imports to RM353.5b. The secondary income deficit narrowed to RM1.9b, the smallest in six quarters, on inward remittances of RM12.0b.",
+    "Capital flows. The financial account swung to a RM19.8b net inflow from -RM27.0b. Other investment brought in RM11.9b as residents placed far less abroad. Direct investment was RM6.7b, with FDI almost doubling to RM14.3b, led by reinvested earnings in information and communication services. Portfolio investment turned to a RM2.7b inflow as foreigners bought RM14.9b of local bonds.",
+    "Forecasts. Kenanga keeps its 2026 current account forecast at 2.1% of GDP (2025: 1.6%), which needs a 4Q26 surplus of about RM15.0b, more than double 3Q26, and narrower income and services deficits. It sees wider deficits after 2026 as a structural cost of the AI and data-centre investment cycle, and flags new US licensing rules on advanced AI chips as a risk. It keeps USDMYR at 4.00 for end-2026 and 3.90 for end-2027, with a hawkish Fed tilting near-term risk to a weaker ringgit. It expects BNM to hold the OPR at 2.75% for the rest of 2026, then raise it 25bps to 3.00% in 1Q27, which it calls normalisation, not tightening."
+   ]
+  }
+ ]
+}
