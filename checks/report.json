@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T22:38:35.039Z",
+ "generatedAt": "2026-11-23T08:42:38.599Z",
  "dates": [
   "2026-08-24",
   "2026-08-26",
@@ -56,10 +56,11 @@
   "2026-11-16",
   "2026-11-17",
   "2026-11-18",
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-23"
  ],
- "rows": 239,
- "verified": 238,
+ "rows": 247,
+ "verified": 246,
  "checksRun": [
   "C01-parse",
   "C02-schema",
@@ -1076,6 +1077,54 @@
    "date": "2026-11-19",
    "row": "MY BoP (3Q26)",
    "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>The digest also points to a 3Q26 GDP report that is not in the bundle.</b> Today's digest macro section refers readers to 'Economic View: Malaysia 3Q26 GDP', but neither the bundle page nor its attachments include it, and the bundle heading lists only 'Economic Viewpoint (MY 3Q26 BoP)'. Following the bundle contents (rules/signals.md &sect;1), this board has no GDP row today; the digest's GDP figures appear only in the macro context. (2) <b>The 4Q26 requirement is Kenanga's arithmetic.</b> The note says hitting 2.1% of GDP for 2026 needs a 4Q26 surplus of about RM15.0b. Table 1's 1Q-3Q26 surpluses sum to RM31.7b (computed here). The GDP denominator is not given, so this row does not check the RM15.0b. (3) <b>Financial account sign convention.</b> The text calls the RM19.8b figure a 'net inflow' and 2Q26's -RM27.0b an outflow. Table 1 prints both with those signs. Errors and omissions were -RM20.3b in 3Q26 against +RM33.2b in 2Q26, which is large relative to the current account. (4) <b>Charts.</b> Graphs 1-3 were read for titles only, and no figure here comes from them. This is an Economic Viewpoint and carries no stock call, so the rating, target-price and share-price columns are empty by design and no Analyst Signal is sought."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-23",
+   "row": "Technology",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>Why this row reads Positive.</b> Page 1 names FRONTKEN and KGB (Kelington Group) as 'our preferred exposures'. This board has treated 'our preferred ... play/exposure' in a sector note as a pick declaration before (14 September Telecommunication row, 21 September Renewable Energy row), so the same treatment is applied here. The other search hits are 'We favour companies with visible order books...' and 'we favour a more selective investment approach', which repeat the same two names or a style and are recorded, not used. (2) <b>New target PERs, no new targets in the text.</b> The note lowers target PERs for INARI and UNISEM to 30.8x (from 32.6x) and for PENTAMASTER to 30.1x (from 35.7x), and puts MPI's valuation under review. It does not state new target prices in the text. The page 7 peer table shows INARI RM2.47, UNISEM RM3.37 and PENTAMASTER RM4.56, against RM2.77 (19 November), RM3.55 (10 November) and RM5.40 (10 November) on this board. This row does not record those as target changes because the note does not say they are. (3) <b>Exhibits not read.</b> Exhibits 1-6 (valuation methods, standard deviations, implied targets on consensus EPS, technical support levels) are images. No figure here comes from them. (4) <b>FRONTKEN's target.</b> The peer table gives FRONTKEN RM5.72, matching this board's 10 November row. Kelington's RM10.10 matches the 9 October Technology row. This is a sector note with no ticker-level rating, target or share price of its own, so those columns are empty by design."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-23",
+   "row": "AEON",
+   "msg": "Three points of caution on this row, reported as printed rather than resolved. (1) <b>'We like AEON due to' is not a pick declaration.</b> The investment case opens 'We like AEON due to: (i)...'. This board treats that wording as investment-case language, not a pick (as on the KJTS, KEEMING, FFB and KPJ rows), so the Kenanga Signal reads None stated. The other search hits are 'less favourable product mix' and 'favourable rental renewals'. (2) <b>The 3Q profit fall comes from tax.</b> 3QFY26 core net profit fell 35% QoQ and 36% YoY even though EBIT rose. The results table shows an effective tax rate of 65.0% (2Q: 40.1%; 3QFY25: 21.5%). The note does not explain why tax rose. (3) <b>Continuity and market data.</b> The previous target of RM1.18 matches this board's 24 August row. stockanalysis.com, not Kenanga, gives a 52-week range of RM0.875-1.35 (Kenanga: RM0.88-1.35) and a 5.09% yield on RM0.05 of dividends. No non-Kenanga search was run for this row, because it declares no Kenanga conviction and has no notable result (rules/daily-run.md step 8)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-23",
+   "row": "LBS",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The earnings cuts are printed two ways.</b> The text says FY26/FY27 earnings fall 38%/44%; the summary table's earnings revision row shows -38%/-34%. (2) <b>Net gearing is printed two ways.</b> The text gives 0.52x; the results table gives 0.59x for 3Q26, and the summary table gives 0.4x/0.3x/0.2x for FY25-27. (3) <b>A garbled sentence.</b> 'three projects with a combined GDV of RM941m in 3Q26' appears without a verb. This row reads it as three launches worth RM941m, which matches the YTD launch figure that follows. (4) <b>Dividend yield bases differ.</b> Kenanga says the yield exceeds 7% (FY26F: 7.4%). stockanalysis.com, not Kenanga, gives 11.77% on RM0.04 of trailing dividends, which may include a special dividend; it is shown in the yield column as market data. stockanalysis.com's 52-week range is RM0.34-0.52 (Kenanga: RM0.34-0.51). The RM0.34 price is at the 52-week low. (5) <b>First LBS row.</b> This is the board's first LBS row, so the previous target of RM0.51 cannot be checked against an earlier date. A search for non-Kenanga calls after the results found none in a permitted source. The most recent found was an RHB Buy at RM0.54, reported about seven months ago. It was not opened and is not used."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-23",
+   "row": "SCOMNET",
+   "msg": "Four points of caution on this row, reported as printed rather than resolved. (1) <b>The share price is printed two ways.</b> The cover gives RM0.44; the peer table gives RM0.435. This row uses the cover. At RM0.44 the new target implies no upside, and the peer table shows 0.0%. (2) <b>The 9M columns are in reverse order.</b> The results table heads its 9M columns 'FY25, FY26', unlike the other columns. Read that way, 9MFY26 revenue is RM98.6m (-9.9%) and net profit RM20.5m (-3.6%), which matches the text's 'fell 10%' and 'fell 4% ... to RM21m'. (3) <b>Typos.</b> The text says 'Reiterate MAKRET PERFORM', and the 9MFY26 net profit is rounded to RM21m. (4) <b>Continuity and market data.</b> The previous rating (MARKET PERFORM) and target (RM0.57) match this board's 24 August row. stockanalysis.com, not Kenanga, gives a 52-week range of RM0.395-0.79 (Kenanga: RM0.40-0.79) and a 4.83% yield on RM0.02 of dividends. No non-Kenanga search was run for this row, because it declares no Kenanga conviction and has no notable result (rules/daily-run.md step 8)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-23",
+   "row": "VELESTO",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The FY27 dividend yield is printed three ways.</b> Page 1 says FY27F yields 8.5% on an assumed 120% payout. The summary table gives FY27F DPS of 1.8 sen and a 10.2% yield. The peer table gives a 3.0 sen dividend and a 17.1% yield. The note does not reconcile them. (2) <b>EPS is printed two ways.</b> The summary table gives FY26F/FY27F core EPS of 1.0/1.5 sen; the peer table gives 1.7/2.1 sen. (3) <b>The target basis does not reconcile exactly.</b> The note pegs RM0.30 to 1.1x FY27F PBV. The summary table rounds BVPS to RM0.3, and 1.1x that is RM0.33 (computed here). Without an unrounded BVPS, this row does not check the RM0.30. (4) <b>A missing word.</b> 'VELESTO's 9MFY26 dropped 17%' refers to revenue, which the table shows down 16.6% to RM554.6m. (5) <b>Continuity and market data.</b> The OUTPERFORM rating and RM0.30 target match this board's 5 November row. stockanalysis.com, not Kenanga, gives a 52-week range of RM0.16-0.365 (Kenanga: RM0.17-0.36) and a 17.14% trailing yield on RM0.03 of dividends. That trailing figure is market data, not Kenanga's FY27 view. No non-Kenanga search was run for this row, because it declares no Kenanga conviction and has no notable result (rules/daily-run.md step 8)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-23",
+   "row": "ENGTEX",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The earnings cuts are printed two ways.</b> The text says FY26F/FY27F fall 36%/42%; the summary table's revision row shows -36%/-32%. (2) <b>EPS is printed two ways.</b> The summary table gives FY26F core EPS of 4.4 sen; the peer table gives 3.6 sen. RM35m of core profit over 955.5m shares is about 3.7 sen (computed here), closer to the peer table. FY27F is 4.3 sen in both. (3) <b>The ESG basis is unclear.</b> The text applies a 3% ESG premium 'for its 3-star rating'. On the page 3 scale, 3 stars means no change and +3% needs 4 stars, and the OVERALL line appears to show 4 stars. 9x FY27F EPS of 4.3 sen plus 3% is about RM0.40 (computed here), consistent with the target. (4) <b>Material context from outside the note</b> (rules/signals.md &sect;5). Business Today (21 November) reports CGS International putting 9MFY26 core net profit at RM34.9m and 3Q at RM9.3m (+5% YoY, -42% QoQ). Kenanga gives 3Q as RM9m (-40% QoQ, +5% YoY), so the two broadly agree. But RM34.9m for 9M is almost all of Kenanga's new RM35m FY26F core profit, which implies little or no 4Q profit (computed here, from a non-Kenanga figure). Kenanga does not give a 9M figure, so this row cannot confirm the basis is the same. (5) <b>Two RM109m figures.</b> The note gives both the outstanding order book at September 2026 and the Johor data-centre pipe package as RM109m. They are recorded as printed. (6) <b>Market data and continuity.</b> This is the board's first ENGTEX row, so the previous target of RM0.55 cannot be checked against an earlier date. stockanalysis.com, not Kenanga, gives a 52-week range of RM0.38-0.60 (Kenanga: RM0.39-0.59) and a 1.56% yield on RM0.01 of dividends. The RM0.385 price is below Kenanga's own 52-week low of RM0.39."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-23",
+   "row": "HSPLANT",
+   "msg": "Five points of caution on this row, reported as printed rather than resolved. (1) <b>The CPO assumption differs from this board's 18 November row, and the two reconcile.</b> Today's note gives HSPLANT-specific CPO assumptions of RM4,600/MT (FY26) and RM4,800/MT (FY27). The 18 November note gave the sector view of RM4,500 (CY26) and RM4,700 (CY27) and said HSPLANT often earns a RM100-150 premium on top. Sector price plus RM100 equals today's figures. That link is inferred here, not stated in today's note. (2) <b>EPS is printed two ways.</b> The summary table and text give FY26F/FY27F core EPS of 17.9/19.1 sen; the peer table gives 18.9/20.1 sen. The 18 November row flagged the same gap. (3) <b>Two FFB figures.</b> The note says FY26 harvest was cut to 0.63m MT 'following 3Q results' (from 0.65m MT), and also writes 0.630m MT. It calls this 2% above the company's 0.615m MT guidance. 0.630 over 0.615 is about 2.4% (computed here). (4) <b>Labels.</b> The cover says Company Update; pages 2-3 are headed Results Note. The note has a stray '1.' before the dividend paragraph. (5) <b>Continuity and market data.</b> The OUTPERFORM rating and RM3.00 target match the 18 November row, and the 90 sen net cash per share and 9.0/10.5 sen DPS forecasts are unchanged. stockanalysis.com, not Kenanga, gives a 52-week range of RM1.98-2.66 (Kenanga: RM1.98-2.64) and a 3.54% yield on RM0.08 of dividends. No non-Kenanga search was run for this row, because it declares no Kenanga conviction and has no notable result (rules/daily-run.md step 8)."
+  },
+  {
+   "id": "C09-flag",
+   "date": "2026-11-23",
+   "row": "PIE",
+   "msg": "Six points of caution on this row, reported as printed rather than resolved. (1) <b>The rating is printed two ways, as in the last note.</b> The cover and peer table say MARKET PERFORM (unchanged), and the valuation paragraph says 'We maintain our MARKET PERFORM call'. The investment case ends 'Maintain MARKET OUTPERFORM', which is not a Kenanga rating. Kenanga's 13 November PIE results note, opened in this run, has the same cover (MARKET PERFORM, target RM1.48) and the same 'MARKET OUTPERFORM' line. So this row records MARKET PERFORM unchanged and a previous target of RM1.48. A Business Today headline of 17 November reported an 'Outperform call'; it may reflect that typo, but the article was not opened and is not used. The 13 November note is not a row on this board (there is no 13 November file), so C07 cannot check it. (2) <b>FY26 revenue is printed two ways.</b> The text says the ~RM410m order is about 57% of 'our FY26 revenue forecast of RM719m'. The summary table and income statement give FY26F revenue of RM791m, against which RM410m is about 52% (computed here). (3) <b>FY27 EPS growth is printed two ways.</b> The summary table shows 0.0%; the ratios table shows +78.3% adjusted net profit growth, and EPS rises from 5.4 to 9.5 sen. The peer table gives FY27F EPS of 9.6 sen. 17.2x of 9.5 sen is about RM1.63 and of 9.6 sen about RM1.65 (computed here), against the stated RM1.64. (4) <b>Wrong page headers.</b> Pages 4-5 are headed 'NATGATE Holdings Bhd Company Update', and page numbering is duplicated. Their content is the PIE peer table and ESG rating. (5) <b>The contribution estimate is Kenanga's assumption.</b> The c.RM12.3m gross profit is 3% of about RM410m, a margin Kenanga assumes, not one the company gave. (6) <b>Market data.</b> stockanalysis.com, not Kenanga, gives a 52-week range of RM1.10-2.86 (Kenanga: RM1.09-2.84) and a 1.33% yield on RM0.02 of dividends paid in June 2026. Kenanga's tables show zero dividends for FY25A-27F. The two sources are not reconciled here. A search of permitted sources found no named-house call on this contract."
   }
  ],
  "verdict": "PASS"
